@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Privacy — Un puente al giorno</title>
+<meta name="robots" content="noindex">
+<style>
+  /* Self-hosted fonts (Fontsource builds of the OFL originals). No visitor data
+     leaves this host to load type — the Google Fonts CDN transmitted IPs. */
+  @font-face{font-family:'Newsreader';font-style:normal;font-weight:200 800;font-display:swap;
+    src:url('fonts/newsreader-latin-opsz-normal.woff2') format('woff2-variations')}
+  @font-face{font-family:'Newsreader';font-style:italic;font-weight:200 800;font-display:swap;
+    src:url('fonts/newsreader-latin-opsz-italic.woff2') format('woff2-variations')}
+  @font-face{font-family:'IBM Plex Mono';font-style:normal;font-weight:400;font-display:swap;
+    src:url('fonts/ibm-plex-mono-latin-400-normal.woff2') format('woff2')}
+  @font-face{font-family:'IBM Plex Mono';font-style:normal;font-weight:500;font-display:swap;
+    src:url('fonts/ibm-plex-mono-latin-500-normal.woff2') format('woff2')}
+  @font-face{font-family:'IBM Plex Sans';font-style:normal;font-weight:400;font-display:swap;
+    src:url('fonts/ibm-plex-sans-latin-400-normal.woff2') format('woff2')}
+  @font-face{font-family:'IBM Plex Sans';font-style:normal;font-weight:500;font-display:swap;
+    src:url('fonts/ibm-plex-sans-latin-500-normal.woff2') format('woff2')}
+</style>
+<style>
+  :root{
+    color-scheme:light;
+    --ink:#1C1B1A; --ink-2:#4C4A47; --ink-3:#605D59;
+    --paper:#FAF6EE; --card:#FFFFFF; --rule:#E2D9C8;
+    --es:#8C2F39; --it:#3D5A45;
+    --serif:'Newsreader',Georgia,serif;
+    --mono:'IBM Plex Mono',ui-monospace,monospace;
+    --sans:'IBM Plex Sans',system-ui,sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--paper);color:var(--ink);font-family:var(--sans);
+       line-height:1.6;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:640px;margin:0 auto;padding:3.5rem 1.25rem 5rem}
+  .eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.14em;
+           text-transform:uppercase;color:var(--ink-3)}
+  h1{font-family:var(--serif);font-weight:400;font-size:2.2rem;
+     letter-spacing:-.015em;line-height:1.15;margin:.7rem 0 1rem}
+  .lede{color:var(--ink-2);font-size:1.02rem;max-width:34rem}
+  h2{font-family:var(--serif);font-weight:500;font-size:1.25rem;margin:2.4rem 0 .6rem}
+  p{margin:.65rem 0;color:var(--ink-2);font-size:.95rem}
+  p b{color:var(--ink)}
+  .plain{background:var(--card);border:1px solid var(--rule);border-radius:6px;
+         padding:1.25rem 1.4rem;margin:1.6rem 0}
+  .plain p{margin:.4rem 0}
+  a{color:var(--ink);text-underline-offset:2px}
+  .todo{background:#FBF3E4;border:1px dashed #C8A85B;border-radius:6px;
+        padding:.9rem 1.1rem;margin:1.2rem 0;font-size:.85rem;color:#6B4708}
+  .todo b{color:#6B4708}
+  footer{margin-top:3.5rem;font-family:var(--mono);font-size:.7rem;
+         letter-spacing:.06em;color:var(--ink-3)}
+  footer a{color:inherit}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <p class="eyebrow">Un puente al giorno</p>
+  <h1>Privacy</h1>
+  <p class="lede">This page says what we collect, why, and how to make us stop.
+  It is short because we collect almost nothing.</p>
+
+  <div class="todo"><b>Before publishing, fill in:</b> the controller's legal name and
+  contact address (§ Who we are), the email provider actually chosen (§ Where it lives),
+  and the country whose supervisory authority is named (§ Your rights). Then delete
+  this box. This draft was prepared with care but is not legal advice — have it
+  checked, especially if you add analytics or a paid tier.</div>
+
+  <div class="plain">
+    <p><b>The short version.</b> When you sign up we store three things: your email
+    address, the language you said you're starting from, and the date you joined.
+    We use them to send you one email a day and nothing else. No ads, no tracking
+    pixels, no selling or sharing. Every email has an unsubscribe link; using it
+    deletes you from the list.</p>
+  </div>
+
+  <h2>Who we are</h2>
+  <p><b>[LEGAL NAME]</b>, the publisher of <em>Un puente al giorno</em>, is the data
+  controller. Contact: <b>[CONTACT EMAIL]</b>, <b>[POSTAL ADDRESS]</b>.</p>
+
+  <h2>What we collect, and why</h2>
+  <p><b>Your email address</b> — to send you the daily email you asked for.</p>
+  <p><b>Your starting language</b> (English, Español or Italiano — the one question on
+  the signup form) — the warnings in each entry are directional, and this selects
+  which direction you're shown.</p>
+  <p><b>Your signup date and opt-in confirmation</b> — to anchor your archive and to
+  prove you actually subscribed (we use double opt-in: nothing is sent until you
+  confirm from your inbox).</p>
+  <p>That is the whole list. The signup form has no hidden fields, and the emails we
+  send contain no tracking pixels and no per-link click tracking.</p>
+
+  <h2>Lawful basis</h2>
+  <p>Consent (GDPR art. 6(1)(a)). You gave it by signing up and confirming; you
+  withdraw it by unsubscribing, which every email lets you do in one click.
+  Withdrawal stops all sending immediately.</p>
+
+  <h2>Where it lives</h2>
+  <p>The list is held by <b>[EMAIL PROVIDER, e.g. Buttondown]</b>, which processes it
+  on our behalf under their data-processing agreement. We do not export it, share it,
+  or sell it. No analytics service currently receives anything about you from this
+  site; if that changes, this page changes first.</p>
+
+  <h2>How long we keep it</h2>
+  <p>Until you unsubscribe, or until the project shuts down — whichever comes first.
+  Unsubscribing removes you from the active list; you can additionally ask us to
+  erase the record entirely (see below).</p>
+
+  <h2>Your rights</h2>
+  <p>You can ask us for a copy of what we hold about you (it will be the three items
+  above), ask us to correct it, ask us to delete it, or take it elsewhere. Write to
+  <b>[CONTACT EMAIL]</b> and we will act within a month. If you think we've handled
+  your data badly, you can complain to your local supervisory authority — for
+  example the AEPD in Spain or the Garante in Italy — or to
+  <b>[CONTROLLER'S SUPERVISORY AUTHORITY]</b>.</p>
+
+  <h2>Children</h2>
+  <p>The list is not aimed at children and we do not knowingly hold data on anyone
+  under 16. If that has happened, tell us and we will delete it.</p>
+
+  <h2>Changes</h2>
+  <p>If what we collect ever changes, this page is updated before the change takes
+  effect, with the date below moved forward.</p>
+
+  <footer>
+    last updated 2026-07-13 · <a href="/">← back to the signup page</a>
+  </footer>
+</main>
+</body>
+</html>
