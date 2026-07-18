@@ -19,6 +19,8 @@ import { join, resolve } from "node:path";
 
 const ROOT = resolve(process.env.BANK_ROOT ?? ".");
 
+const BRAND = JSON.parse(readFileSync(join(ROOT, "brand.json"), "utf8"));
+const C = BRAND.color, F = BRAND.font;
 const bank = readdirSync(join(ROOT, "bank"))
   .filter((f) => f.endsWith(".json"))
   .map((f) => JSON.parse(readFileSync(join(ROOT, "bank", f), "utf8")))
@@ -56,9 +58,9 @@ const HTML = `<!doctype html>
     src:url('fonts/ibm-plex-sans-latin-500-normal.woff2') format('woff2')}
   :root{
     color-scheme:light;
-    --ink:#1C1B1A; --ink-2:#4C4A47; --ink-3:#605D59;
-    --paper:#FAF6EE; --card:#FFFFFF; --rule:#E2D9C8;
-    --es:#8C2F39; --it:#3D5A45; --ok:#3D5A45; --okbg:#E9F0EA; --badbg:#F6E7E4;
+    --ink:${C.ink}; --ink-2:${C.ink2}; --ink-3:${C.ink3};
+    --paper:${C.paper}; --card:${C.card}; --rule:${C.rule};
+    --es:${C.es}; --it:${C.it}; --ok:#3D5A45; --okbg:#E9F0EA; --badbg:#F6E7E4;
     --serif:'Newsreader',Georgia,serif;
     --mono:'IBM Plex Mono',ui-monospace,monospace;
     --sans:'IBM Plex Sans',system-ui,sans-serif;

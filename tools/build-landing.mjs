@@ -22,12 +22,17 @@ import { buildYear } from "./schedule.mjs";
 const ROOT = resolve(process.env.BANK_ROOT ?? ".");
 const FORM_ACTION = "#wire-me-to-buttondown"; // e.g. https://buttondown.com/api/emails/embed-subscribe/YOURLIST
 
+const BRAND = JSON.parse(readFileSync(join(ROOT, "brand.json"), "utf8"));
+const C = BRAND.color, F = BRAND.font;
 const argv = process.argv.slice(2);
 const arg = (n, d) => { const i = argv.indexOf(n); return i >= 0 ? argv[i + 1] : d; };
 
 const IDS = arg("--entries", "0012,0007,0015").split(",");
 const OUT = arg("--out", "index.html");
 const CARD = arg("--card", "compact");
+// --waitlist: the page cannot promise a daily email until entries are approved
+// and the renderer exists. This mode says so, and adds noindex for soft launch.
+const WAITLIST = argv.includes("--waitlist");
 const SITE_URL = arg("--site", process.env.SITE_URL ?? "https://REPLACE-WITH-YOUR-DOMAIN"); // compact = expression/lit/meaning; full = + example/translation per side
 
 // Headline is derived from the hero entry unless overridden. Copy that names the
@@ -101,6 +106,7 @@ const HTML = `<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light">
+${WAITLIST ? '<meta name="robots" content="noindex">' : ""}
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23FAF6EE'/%3E%3Ctext x='8' y='22' font-family='Georgia' font-size='16' fill='%238C2F39'%3Ep%3C/text%3E%3Ctext x='17' y='22' font-family='Georgia' font-size='16' fill='%233D5A45'%3Eg%3C/text%3E%3C/svg%3E">
 <meta property="og:title" content="Un puente al giorno">
 <meta property="og:description" content="One Spanish–Italian expression pair a day — and the exact mistake speakers of one make in the other.">
@@ -130,8 +136,8 @@ const HTML = `<!doctype html>
 <style>
   :root{
     color-scheme:light;
-    --ink:#1C1B1A; --ink-2:#4C4A47; --ink-3:#605D59;
-    --paper:#FAF6EE; --card:#FFFFFF; --rule:#E2D9C8;
+    --ink:${C.ink}; --ink-2:${C.ink2}; --ink-3:${C.ink3};
+    --paper:${C.paper}; --card:${C.card}; --rule:${C.rule};
     --es:#8C2F39;   /* carmine — Spanish labels only */
     --it:#3D5A45;   /* laurel — Italian labels only */
     --serif:'Newsreader',Georgia,serif;
@@ -187,7 +193,7 @@ const HTML = `<!doctype html>
   .bridge{font-family:var(--serif);font-style:italic;font-size:1.06rem;
         line-height:1.55;color:var(--ink)}
   .bridge-lbl{display:block;font-family:var(--mono);font-style:normal;font-size:.62rem;
-        letter-spacing:.13em;text-transform:uppercase;color:#8A6D2F;margin-bottom:.3rem}
+        letter-spacing:.13em;text-transform:uppercase;color:${C.amber};margin-bottom:.3rem}
   .trap{margin-top:.8rem;font-size:.9rem;color:var(--ink-2)}
   .dir{font-family:var(--mono);font-size:.66rem;letter-spacing:.08em;
        text-transform:uppercase;border:1px solid var(--rule);border-radius:2px;
@@ -249,15 +255,19 @@ const HTML = `<!doctype html>
 <body>
 
 <header class="wrap">
-  <p class="eyebrow">A daily email · Spanish ↔ Italian</p>
+  <p class="eyebrow">${WAITLIST ? "Opening soon · Spanish ↔ Italian" : "A daily email · Spanish ↔ Italian"}</p>
   <h1>Un puente al giorno</h1>
   <p class="lede">One Spanish–Italian expression pair a day — what carries across, what
-  doesn't, and the exact mistake speakers of one make in the other. By email, free.</p>
+  doesn't, and the exact mistake speakers of one make in the other.${WAITLIST
+    ? " Being written now, one entry at a time. Put your name down and you'll get the first one."
+    : " By email, free."}</p>
 </header>
 
 <section class="wrap" aria-label="Today's entry, as the email renders it">
   ${card(hero, { open: true, dayOffset: 0, hook: true })}
-  <p class="hint-open">↑ one of these arrives every day — this is today's</p>
+  <p class="hint-open">${WAITLIST
+    ? "↑ a real entry from the bank — this is what one day looks like"
+    : "↑ one of these arrives every day — this is today's"}</p>
   ${card(second, { dayOffset: -1 })}
   ${card(third, { dayOffset: -2 })}
 </section>
@@ -266,8 +276,10 @@ const HTML = `<!doctype html>
 
 <section class="wrap">
   <form method="post" action="${FORM_ACTION}">
-    <h2>Get tomorrow's pair</h2>
-    <p class="sub">Free, daily, one email. No app, no streaks, no owl.</p>
+    <h2>${WAITLIST ? "Be there for entry one" : "Get tomorrow's pair"}</h2>
+    <p class="sub">${WAITLIST
+      ? "Every entry is checked by a native speaker of each language before it is sent — which is why there is a wait. When the first one goes out, you get it."
+      : "Free, daily, one email. No app, no streaks, no owl."}</p>
 
     <label for="email">Email</label>
     <input type="email" id="email" name="email" required autocomplete="email"
@@ -284,9 +296,10 @@ const HTML = `<!doctype html>
       isn't what trips an Italian in Spanish. This picks your side.</p>
     </fieldset>
 
-    <button type="submit">Send me the daily pair</button>
-    <p class="fine">Unsubscribe any time. We store your address, your start date, and this
-    one answer — nothing else. <a href="privacy.html">Privacy</a>.</p>
+    <button type="submit">${WAITLIST ? "Join the waitlist" : "Send me the daily pair"}</button>
+    <p class="fine">${WAITLIST ? "No email until the first issue is ready. " : ""}Unsubscribe any time.
+    We store your address, your start date, and this one answer — nothing else.
+    <a href="privacy.html">Privacy</a>.</p>
   </form>
 </section>
 

@@ -18,6 +18,8 @@ import { join, resolve } from "node:path";
 import { Resvg } from "@resvg/resvg-js";
 
 const ROOT = resolve(process.env.BANK_ROOT ?? ".");
+const BRAND = JSON.parse(readFileSync(join(ROOT, "brand.json"), "utf8"));
+const C = BRAND.color, F = BRAND.font;
 const argv = process.argv.slice(2);
 const arg = (n, d) => { const i = argv.indexOf(n); return i >= 0 ? argv[i + 1] : d; };
 const FONTS = resolve(arg("--fonts", "/tmp/cardfonts"));
@@ -60,20 +62,20 @@ function svgFor(e) {
 
   const litY = exprY + maxLines * lh + 14;
   const lit = (t, x, anchor) =>
-    `<text x="${x}" y="${litY}" text-anchor="${anchor}" font-family="Newsreader" font-style="italic" font-size="26" fill="#605D59">lit. \u201c${esc(t)}\u201d</text>`;
+    `<text x="${x}" y="${litY}" text-anchor="${anchor}" font-family="Newsreader" font-style="italic" font-size="26" fill="${C.ink3}">lit. \u201c${esc(t)}\u201d</text>`;
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
-  <rect width="${W}" height="${H}" fill="#FAF6EE"/>
-  <rect x="40" y="40" width="${W - 80}" height="${H - 80}" fill="#FFFFFF" stroke="#E2D9C8"/>
-  <line x1="${MID}" y1="130" x2="${MID}" y2="${H - 170}" stroke="#E2D9C8"/>
-  <text x="${MID}" y="105" text-anchor="middle" font-family="IBM Plex Mono" font-size="20" letter-spacing="4" fill="#605D59">UN PUENTE AL GIORNO</text>
-  <text x="${MID - 60}" y="165" text-anchor="end" font-family="IBM Plex Mono" font-size="18" letter-spacing="3" fill="#8C2F39">ESPA\u00d1OL</text>
-  <text x="${MID + 60}" y="165" text-anchor="start" font-family="IBM Plex Mono" font-size="18" letter-spacing="3" fill="#3D5A45">ITALIANO</text>
-  ${block(esLines, MID - 60, "end", "#8C2F39")}
-  ${block(itLines, MID + 60, "start", "#3D5A45")}
+  <rect width="${W}" height="${H}" fill="${C.paper}"/>
+  <rect x="40" y="40" width="${W - 80}" height="${H - 80}" fill="${C.card}" stroke="${C.rule}"/>
+  <line x1="${MID}" y1="130" x2="${MID}" y2="${H - 170}" stroke="${C.rule}"/>
+  <text x="${MID}" y="105" text-anchor="middle" font-family="IBM Plex Mono" font-size="20" letter-spacing="4" fill="${C.ink3}">${BRAND.name.toUpperCase().split("").join(" ")}</text>
+  <text x="${MID - 60}" y="165" text-anchor="end" font-family="IBM Plex Mono" font-size="18" letter-spacing="3" fill="${C.es}">ESPA\u00d1OL</text>
+  <text x="${MID + 60}" y="165" text-anchor="start" font-family="IBM Plex Mono" font-size="18" letter-spacing="3" fill="${C.it}">ITALIANO</text>
+  ${block(esLines, MID - 60, "end", C.es)}
+  ${block(itLines, MID + 60, "start", C.it)}
   ${lit(e.es.literal, MID - 60, "end")}
   ${lit(e.it.literal, MID + 60, "start")}
-  <text x="${MID}" y="${H - 105}" text-anchor="middle" font-family="IBM Plex Sans" font-size="24" fill="#4C4A47">One Spanish\u2013Italian pair a day \u2014 and the trap between them.</text>
+  <text x="${MID}" y="${H - 105}" text-anchor="middle" font-family="IBM Plex Sans" font-size="24" fill="${C.ink2}">One Spanish\u2013Italian pair a day \u2014 and the trap between them.</text>
 </svg>`;
 }
 
