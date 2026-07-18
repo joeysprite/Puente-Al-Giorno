@@ -1,0 +1,81 @@
+{
+  "id": "0043",
+  "type": "idiom",
+  "es": {
+    "text": "Con las manos en la masa",
+    "literal": "with the hands in the dough",
+    "meaning": "Caught red-handed; in the act.",
+    "example": "Lo agarraron con las manos en la masa.",
+    "exampleTranslation": "They caught him red-handed.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/masa",
+        "headword": "masa",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Con le mani nel sacco",
+    "literal": "with the hands in the sack",
+    "meaning": "Caught red-handed; in the act.",
+    "example": "L'hanno colto con le mani nel sacco.",
+    "exampleTranslation": "They caught him red-handed.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/sacco/",
+        "headword": "sacco",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both freeze the thief mid-reach, but into different containers: Spanish catches hands in the dough (the baker's kitchen), Italian in the sack (the granary). English opts for the colour of blood. Three cultures, one incriminating posture.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Con le mani nella pasta' points Italians at dinner, not crime — the fixed form is nel sacco. Note the verb: cogliere/colto.",
+      "it_to_es": "'Con las manos en el saco' is not the Spanish idiom; the dough (la masa) does the incriminating."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "crime",
+    "food"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Discovered via FluentU list (Joe, 2026-07-16); all content authored fresh, ES pairing by Claude — verify. "
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

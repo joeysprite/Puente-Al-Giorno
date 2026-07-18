@@ -1,0 +1,80 @@
+{
+  "id": "0220",
+  "type": "collocation",
+  "es": {
+    "text": "A escondidas",
+    "literal": "at hidden(s)",
+    "meaning": "Secretly; on the sly.",
+    "example": "Fumaba a escondidas.",
+    "exampleTranslation": "He smoked on the sly.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/escondidas",
+        "headword": "escondidas",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "di nascosto",
+    "literal": "of hidden",
+    "meaning": "Secretly; on the sly.",
+    "example": "Fumava di nascosto.",
+    "exampleTranslation": "He smoked in secret.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/nascosto",
+        "headword": "nascosto",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "A clean double flip: different preposition (di vs a) AND different number (singular participle vs plural noun). Both from the same 'hide' root — the disguise is entirely grammatical.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "A pulls 'a nascosto' — Italian hides things with DI: di nascosto.",
+      "it_to_es": "DI pulls 'de escondidas' — Spanish hides with A, and pluralises: a escondidas."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "secrecy"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

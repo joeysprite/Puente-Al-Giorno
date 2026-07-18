@@ -1,0 +1,80 @@
+{
+  "id": "0207",
+  "type": "collocation",
+  "es": {
+    "text": "Hace poco",
+    "literal": "it-makes little",
+    "meaning": "Recently; a short while ago.",
+    "example": "La vi hace poco.",
+    "exampleTranslation": "I saw her recently.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/poco",
+        "headword": "poco",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "di recente",
+    "literal": "of recent",
+    "meaning": "Recently; a short while ago.",
+    "example": "L'ho vista di recente.",
+    "exampleTranslation": "I saw her recently.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/recente",
+        "headword": "recente",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Italian makes recency a prepositional phrase (di recente); Spanish routes it through its time-machine verb hacer (hace poco) — the same hace that tells you how long ago anything happened. Cross-reference entry 0030.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Di reciente' is not Spanish — recency runs through hacer: hace poco, the same hace as hace dos años (entry 0030).",
+      "it_to_es": "'Fa poco' alone is not the Italian marker; di recente or poco fa."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "time"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

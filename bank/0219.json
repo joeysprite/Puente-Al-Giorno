@@ -1,0 +1,81 @@
+{
+  "id": "0219",
+  "type": "collocation",
+  "es": {
+    "text": "De ahora en adelante",
+    "literal": "from now in forward",
+    "meaning": "From now on.",
+    "example": "De ahora en adelante llegaré puntual.",
+    "exampleTranslation": "From now on I'll arrive on time.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/adelante",
+        "headword": "adelante",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "d'ora in poi",
+    "literal": "from-now in then",
+    "meaning": "From now on.",
+    "example": "D'ora in poi arrivo puntuale.",
+    "exampleTranslation": "From now on I'll be on time.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/poi",
+        "headword": "poi",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both draw a line at now and point past it — Italian toward 'then' (poi), Spanish toward 'forward' (adelante). Same doorway, facing different words.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The frame matches (de/d' … en/in …) but the last word doesn't translate: Italian ends in poi (then), Spanish in adelante (forward). 'De ahora en después' is nobody's Spanish.",
+      "it_to_es": "'D'ora in avanti' actually exists in Italian too — but calquing the full Spanish gives 'd'adesso in avanti', which no one says."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "time",
+    "resolve"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

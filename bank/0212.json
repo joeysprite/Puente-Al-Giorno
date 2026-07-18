@@ -1,0 +1,80 @@
+{
+  "id": "0212",
+  "type": "collocation",
+  "es": {
+    "text": "De algún modo",
+    "literal": "of some way",
+    "meaning": "Somehow; in some way.",
+    "example": "De algún modo lo lograremos.",
+    "exampleTranslation": "Somehow we'll manage.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/modo",
+        "headword": "modo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "in qualche modo",
+    "literal": "in some way",
+    "meaning": "Somehow; in some way.",
+    "example": "In qualche modo ce la faremo.",
+    "exampleTranslation": "Somehow we'll manage.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/modo",
+        "headword": "modo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Manner lives inside different prepositions: Italian is IN some way, Spanish is OF some way. The mirror flips cleanly in both directions, and bites in both.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Spanish DE pulls 'di qualche modo' — Italian locates manner IN it: in qualche modo.",
+      "it_to_es": "Italian IN pulls 'en algún modo' — archaic-sounding; modern Spanish says de algún modo / de alguna manera."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "manner"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

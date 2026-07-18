@@ -1,0 +1,80 @@
+{
+  "id": "0217",
+  "type": "collocation",
+  "es": {
+    "text": "Para nada",
+    "literal": "for nothing",
+    "meaning": "Not at all (with negation); at all.",
+    "example": "No me gusta para nada.",
+    "exampleTranslation": "I don't like it at all.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/nada",
+        "headword": "nada",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "per niente",
+    "literal": "for nothing",
+    "meaning": "Not at all (with negation); at all.",
+    "example": "Non mi piace per niente.",
+    "exampleTranslation": "I don't like it at all.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/niente",
+        "headword": "niente",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Italian has one 'for' (per); Spanish split it in two — and this phrase falls on the para side. Meanwhile por nada drifted off to mean 'you're welcome' in much of Latin America. One preposition choice, two different conversations.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The per/por/para minefield in one phrase: it's PARA nada, not 'por nada' — which in LatAm is what you say for 'you're welcome'.",
+      "it_to_es": "Mirror trap: 'per nulla/per niente' is right in Italian, but exporting 'por nada' into a Spanish negation lands on the wrong phrase entirely."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "negation"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

@@ -1,0 +1,77 @@
+{
+  "id": "0009",
+  "type": "idiom",
+  "es": {
+    "text": "Estar hecho polvo",
+    "literal": "to be made into dust",
+    "meaning": "To be exhausted or wrecked.",
+    "example": "Después de la mudanza estoy hecho polvo.",
+    "exampleTranslation": "After the move I'm completely wiped out.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "es"
+    ],
+    "regionNote": "PENINSULAR-LEANING. Understood but not idiomatic in much of Latin America; Mexican speakers more often say 'estoy muerto' or 'estoy hecho pedazos'. Needs a LatAm variant.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/polvo",
+        "headword": "polvo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Essere a pezzi",
+    "literal": "to be in pieces",
+    "meaning": "To be worn out or shattered.",
+    "example": "Dopo l'allenamento ero a pezzi.",
+    "exampleTranslation": "After training I was wrecked.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/pezzo",
+        "headword": "pezzo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish crumbles you to dust; Italian breaks you into pieces.",
+    "tags": [
+      "shared_metaphor",
+      "auxiliary_trap"
+    ],
+    "interference": {
+      "es_to_it": "Italian is a state — essere (ero a pezzi), never avere.",
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "exhaustion"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side has regional-skew flag."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

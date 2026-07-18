@@ -1,0 +1,81 @@
+{
+  "id": "0040",
+  "type": "collocation",
+  "es": {
+    "text": "No ver la hora",
+    "literal": "to not see the hour",
+    "meaning": "To be unable to wait; to be dying for something.",
+    "example": "No veo la hora de que lleguen las vacaciones.",
+    "exampleTranslation": "I can't wait for the holidays to arrive.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Common in LatAm (MX/AR); in Spain 'estar deseando' is more natural. A rare pair where the LATAM side matches Italian and the Peninsular side doesn't — reviewer to confirm distribution.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/hora",
+        "headword": "hora",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Non vedere l'ora",
+    "literal": "to not see the hour",
+    "meaning": "To be unable to wait; to look forward eagerly.",
+    "example": "Non vedo l'ora di vederti.",
+    "exampleTranslation": "I can't wait to see you.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/ora1/",
+        "headword": "ora",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "A twin with a twist in the joinery: both can't see the hour, but Italian follows with di + infinitive (non vedo l'ora DI vederti) while Spanish takes de que + subjunctive when subjects differ. Same idiom, different plumbing underneath — and the Italian is among the most-used phrases in the language.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": "The connector: 'non vedo l'ora che vieni' fails twice — it wants di + infinitive (same subject) or che + SUBJUNCTIVE (different subject): non vedo l'ora che tu venga.",
+      "it_to_es": "Italians say 'no veo la hora de verte' — perfect in LatAm; in Spain it may read as an italianism."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "anticipation",
+    "daily"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Discovered via FluentU list (Joe, 2026-07-16); all content authored fresh, ES pairing by Claude — verify. "
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

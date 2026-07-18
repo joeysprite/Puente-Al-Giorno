@@ -1,0 +1,80 @@
+{
+  "id": "0234",
+  "type": "collocation",
+  "es": {
+    "text": "De memoria",
+    "literal": "of memory",
+    "meaning": "By heart.",
+    "example": "Me sé el camino de memoria.",
+    "exampleTranslation": "I know the way by heart.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/memoria",
+        "headword": "memoria",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "a memoria",
+    "literal": "at memory",
+    "meaning": "By heart.",
+    "example": "Conosco la strada a memoria.",
+    "exampleTranslation": "I know the road by heart.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/memoria",
+        "headword": "memoria",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The cleanest preposition mirror in the whole batch: a memoria / de memoria, same noun, opposite particles, zero semantic drift. If the product had a logo entry for the preposition_differs tag, this is it.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "DE pulls 'di memoria' — Italian memorises AT: a memoria.",
+      "it_to_es": "A pulls 'a memoria' — Spanish memorises OF: de memoria."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "learning"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

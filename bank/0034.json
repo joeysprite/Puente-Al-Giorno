@@ -1,0 +1,83 @@
+{
+  "id": "0034",
+  "type": "collocation",
+  "es": {
+    "text": "Acabo de llegar",
+    "literal": "I finish of arriving",
+    "meaning": "I just arrived — recency via the acabar de + infinitive periphrasis.",
+    "example": "Acabo de llegar a casa.",
+    "exampleTranslation": "I just got home.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/acabar",
+        "headword": "acabar",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Sono appena arrivato",
+    "literal": "I am just-now arrived",
+    "meaning": "I just arrived — recency via appena + passato prossimo.",
+    "example": "Sono appena arrivato a casa.",
+    "exampleTranslation": "I just got home.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/appena/",
+        "headword": "appena",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Structurally unrelated solutions to the same need: Spanish builds a periphrasis (acabar de + infinitive), Italian just drops appena into a normal past tense. Doubles as auxiliary drill — sono arrivato, but ho finito.",
+    "tags": [
+      "interference_risk",
+      "auxiliary_trap",
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "Two layers: there is no acabar-periphrasis to calque ('ho appena finito di arrivare' is nonsense — say sono appena arrivato), and arrivare takes essere, so 'ho appena arrivato' fails twice.",
+      "it_to_es": "appena tempts 'apenas llegué' — but Spanish apenas means barely / as soon as, not 'just now'. Recency needs the periphrasis: acabo de llegar."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "time",
+    "auxiliaries"
+  ],
+  "cefr": "B1",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-14. appena/apenas false friend flagged in it→es; three traps in one card. Masculine 'arrivato' in headword — reviewer to confirm we surface agreement (arrivata) in the rendered card."
+  },
+  "createdOn": "2026-07-14",
+  "retiredReason": null,
+  "cue": "I've just arrived / I just did something"
+}

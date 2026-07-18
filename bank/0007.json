@@ -1,0 +1,86 @@
+{
+  "id": "0007",
+  "type": "idiom",
+  "es": {
+    "text": "No tener pelos en la lengua",
+    "literal": "to have no hairs on the tongue",
+    "meaning": "To speak bluntly; to say exactly what one thinks.",
+    "example": "Mi abuela no tiene pelos en la lengua, te dice lo que piensa.",
+    "exampleTranslation": "My grandmother doesn't mince words.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://www.rae.es/gtg/locuci%C3%B3n-verbal",
+        "headword": "locución verbal",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Non avere peli sulla lingua",
+    "literal": "to have no hairs on the tongue",
+    "meaning": "To be blunt and outspoken.",
+    "example": "Non ha peli sulla lingua: dice sempre la verità.",
+    "exampleTranslation": "She doesn't mince words: she always tells the truth.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/lingua/",
+        "headword": "lingua",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "A near-identical pair — a genuine gift. pelos/peli, lengua/lingua. Only the preposition shifts: en la vs. sulla.",
+    "tags": [
+      "cognate_pair",
+      "shared_metaphor",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": "The preposition shifts: en la lengua becomes sulla lingua.",
+      "it_to_es": "The preposition shifts back: sulla lingua becomes en la lengua."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "speech",
+    "honesty"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Strong candidate for an early 'bridge' showcase entry."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null,
+  "hook": {
+    "headline": "Neither language has hairs on its tongue. Only the preposition moves.",
+    "subhead": "pelos/peli, lengua/lingua — and then en la becomes sulla."
+  }
+}

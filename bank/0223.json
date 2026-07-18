@@ -1,0 +1,80 @@
+{
+  "id": "0223",
+  "type": "marker",
+  "es": {
+    "text": "En efecto",
+    "literal": "in effect",
+    "meaning": "Actually; indeed; come to think of it.",
+    "example": "En efecto, tienes razón.",
+    "exampleTranslation": "Indeed, you're right.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/efecto",
+        "headword": "efecto",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "in effetti",
+    "literal": "in effects",
+    "meaning": "Actually; indeed; come to think of it.",
+    "example": "In effetti, hai ragione.",
+    "exampleTranslation": "Actually, you're right.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/effetti",
+        "headword": "effetti",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Singular vs plural effects, and a register split hiding under the cognates: Italian in effetti thinks out loud, Spanish en efecto confirms on the record. Same Latin, different jobs — the subtlest pair in this batch.",
+    "tags": [
+      "cognate_pair",
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "Near-twins with different temperatures: in effetti concedes mid-thought ('come to think of it…'); en efecto CONFIRMS, formally ('indeed, as stated'). Using en efecto for casual concession sounds like a press release.",
+      "it_to_es": "Mirror: in effetti is too casual for formal confirmation; Italian would escalate to 'infatti' or 'in effetti' depending — reviewer to sharpen."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "discourse"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

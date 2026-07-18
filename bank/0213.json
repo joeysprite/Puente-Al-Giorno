@@ -1,0 +1,81 @@
+{
+  "id": "0213",
+  "type": "marker",
+  "es": {
+    "text": "En cuanto a",
+    "literal": "in how-much to",
+    "meaning": "As far as … is concerned; regarding.",
+    "example": "En cuanto a los costos, decidimos mañana.",
+    "exampleTranslation": "As for costs, we'll decide tomorrow.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/a",
+        "headword": "a",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "per quanto riguarda",
+    "literal": "for how-much it-regards",
+    "meaning": "As far as … is concerned; regarding.",
+    "example": "Per quanto riguarda i costi, decidiamo domani.",
+    "exampleTranslation": "As for costs, we decide tomorrow.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/riguarda",
+        "headword": "riguarda",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both build 'as regards' scaffolding, but Italian keeps a live verb in it (riguarda) while Spanish compressed the whole thing down to en cuanto a. The Spanish is shorter than feels safe — trust it.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Calquing gives 'por cuanto riguarda/respecta' — the everyday Spanish frame is shorter: en cuanto a. (Por lo que respecta a exists, formal.)",
+      "it_to_es": "Calquing gives 'in quanto a' — which exists but shades different; the workhorse is per quanto riguarda."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "discourse",
+    "business"
+  ],
+  "cefr": "B2",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

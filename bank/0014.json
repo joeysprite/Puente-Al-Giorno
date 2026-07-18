@@ -1,0 +1,79 @@
+{
+  "id": "0014",
+  "type": "idiom",
+  "es": {
+    "text": "Llover a cántaros",
+    "literal": "to rain by the pitcher",
+    "meaning": "To rain very heavily.",
+    "example": "No salgas ahora, está lloviendo a cántaros.",
+    "exampleTranslation": "Don't go out now, it's pouring.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/c%C3%A1ntaro",
+        "headword": "cántaro",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Piovere a catinelle",
+    "literal": "to rain by the basins",
+    "meaning": "To rain in buckets.",
+    "example": "Ha piovuto a catinelle tutta la notte.",
+    "exampleTranslation": "It poured all night.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/catinella",
+        "headword": "catinella",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both measure rain by vessels — Spanish pitchers, Italian basins. Identical structure: a + container.",
+    "tags": [
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": "autumn",
+  "events": [],
+  "themes": [
+    "weather"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "First entry to carry a soft season tag — good test case for the scheduler."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

@@ -1,0 +1,79 @@
+{
+  "id": "0005",
+  "type": "proverb",
+  "es": {
+    "text": "Matar dos pájaros de un tiro",
+    "literal": "to kill two birds with one shot",
+    "meaning": "To achieve two aims with a single action.",
+    "example": "Voy al supermercado de camino al trabajo, así mato dos pájaros de un tiro.",
+    "exampleTranslation": "I stop at the store on the way to work — two birds, one stone.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/p%C3%A1jaro",
+        "headword": "pájaro",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Prendere due piccioni con una fava",
+    "literal": "to catch two pigeons with one bean",
+    "meaning": "To achieve two aims with a single action.",
+    "example": "Se invito Marco e Giulia insieme, prendo due piccioni con una fava.",
+    "exampleTranslation": "If I invite Marco and Giulia together, I kill two birds with one stone.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/magazine/lingua_italiana/articoli/parole/Modi_di_dire28.html",
+        "headword": "piccione",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish mirrors English almost exactly. Italian baits one bean to catch two birds — the older form of the metaphor, traceable to the 1612 Crusca. prendere (catch) is gentler than matar (kill).",
+    "tags": [
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "efficiency"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "IT source is unusually strong — a scholarly Treccani article."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

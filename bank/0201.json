@@ -1,0 +1,80 @@
+{
+  "id": "0201",
+  "type": "marker",
+  "es": {
+    "text": "A propósito",
+    "literal": "at purpose",
+    "meaning": "By the way; speaking of which.",
+    "example": "A propósito, ¿viste a Marco?",
+    "exampleTranslation": "By the way, did you see Marco?",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/propósito",
+        "headword": "propósito",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "a proposito",
+    "literal": "at purpose",
+    "meaning": "By the way; speaking of which.",
+    "example": "A proposito, hai visto Marco?",
+    "exampleTranslation": "By the way, have you seen Marco?",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/proposito",
+        "headword": "proposito",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Identical surface, asymmetric workload: both open a digression, but Spanish a propósito moonlights as 'on purpose' — a job Italian gives to apposta. The false friend hides in the second meaning, not the first.",
+    "tags": [
+      "cognate_pair",
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "Same phrase, one extra Spanish job: a propósito ALSO means 'on purpose' (lo hizo a propósito). Italian splits that job off to 'apposta' — using a proposito for deliberateness sounds off.",
+      "it_to_es": "Italians hearing 'lo hizo a propósito' may parse 'by the way'. In Spanish, context decides; deliberateness is the more common reading."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "discourse"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

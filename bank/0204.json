@@ -1,0 +1,80 @@
+{
+  "id": "0204",
+  "type": "collocation",
+  "es": {
+    "text": "A la larga",
+    "literal": "at the long (one)",
+    "meaning": "In the long run.",
+    "example": "A la larga, la paciencia rinde.",
+    "exampleTranslation": "In the long run, patience pays off.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/larga",
+        "headword": "larga",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "a lungo andare",
+    "literal": "at long going",
+    "meaning": "In the long run.",
+    "example": "A lungo andare, la pazienza paga.",
+    "exampleTranslation": "In the long run, patience pays.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/andare",
+        "headword": "andare",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Italian keeps the verb walking (andare, an infinitive inside the phrase); Spanish freezes it into an adjective-noun (la larga). Same distance, different grammar to get there.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'A la lunga' exists in Italian too — but 'a lungo andare' is the richer fixed form; note it keeps an INFINITIVE (andare) where Spanish nominalises.",
+      "it_to_es": "'A largo andar' is not Spanish. Say a la larga."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "time"
+  ],
+  "cefr": "B2",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

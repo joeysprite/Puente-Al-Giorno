@@ -1,0 +1,81 @@
+{
+  "id": "0019",
+  "type": "idiom",
+  "es": {
+    "text": "Poner las cartas sobre la mesa",
+    "literal": "to put the cards on the table",
+    "meaning": "To be fully open about one's intentions.",
+    "example": "Pongamos las cartas sobre la mesa: ¿qué quieres realmente?",
+    "exampleTranslation": "Let's put our cards on the table: what do you actually want?",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/carta",
+        "headword": "carta",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Mettere le carte in tavola",
+    "literal": "to put the cards on the table",
+    "meaning": "To lay everything out openly.",
+    "example": "È ora di mettere le carte in tavola.",
+    "exampleTranslation": "It's time to put our cards on the table.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/carta",
+        "headword": "carta",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "A near-perfect match across all three languages.",
+    "tags": [
+      "cognate_pair",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": "Italian is in tavola, not sulla tavola. That fixed 'in' is the thing to memorize.",
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "honesty",
+    "negotiation"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": null
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

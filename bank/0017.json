@@ -1,0 +1,77 @@
+{
+  "id": "0017",
+  "type": "idiom",
+  "es": {
+    "text": "No pegar ojo",
+    "literal": "to not stick an eye",
+    "meaning": "To not sleep a wink.",
+    "example": "Con el ruido de la fiesta no pegué ojo en toda la noche.",
+    "exampleTranslation": "With the noise from the party I didn't sleep a wink.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "es",
+      "mx"
+    ],
+    "regionNote": "Peninsular-leaning; understood in Mexico. Reviewer to confirm.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/ojo",
+        "headword": "ojo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Non chiudere occhio",
+    "literal": "to not close an eye",
+    "meaning": "To not sleep at all.",
+    "example": "Ero così agitato che non ho chiuso occhio.",
+    "exampleTranslation": "I was so anxious I didn't sleep a wink.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/occhio",
+        "headword": "occhio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both are negative-polarity idioms: they exist only in the negative. You cannot 'pegar ojo' affirmatively.",
+    "tags": [
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "sleep"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Natural pairing with 0020 (sleeping well) — consider a themed week."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

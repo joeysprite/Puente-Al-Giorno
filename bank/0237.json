@@ -1,0 +1,82 @@
+{
+  "id": "0237",
+  "type": "collocation",
+  "es": {
+    "text": "Al final",
+    "literal": "at-the final",
+    "meaning": "In the end; finally.",
+    "example": "Al final aceptó.",
+    "exampleTranslation": "In the end he accepted.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/final",
+        "headword": "final",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "alla fine",
+    "literal": "at-the end",
+    "meaning": "In the end; finally.",
+    "example": "Alla fine ha accettato.",
+    "exampleTranslation": "In the end he accepted.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/fine",
+        "headword": "fine",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "One noun, two genders, three meanings: Italian's feminine la fine (the end) vs masculine il finale (a finale) vs Spanish's masculine el final (both jobs). The article contraction — alla vs al — is carrying a whole gender system on its back.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk",
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "Gender bites: Italian LA fine (feminine) vs Spanish EL final (masculine) — so the contraction differs, alla vs al. And Italian il finale (masc.) means the ending of a film; la fine is the end of things.",
+      "it_to_es": "Italians reach for 'a la fin' — archaic outside 'al fin y al cabo'. The everyday marker is al final."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "time",
+    "narrative"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

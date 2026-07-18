@@ -1,0 +1,81 @@
+{
+  "id": "0202",
+  "type": "marker",
+  "es": {
+    "text": "Por lo visto",
+    "literal": "by the seen",
+    "meaning": "Apparently; so it seems.",
+    "example": "Por lo visto, el tren viene atrasado.",
+    "exampleTranslation": "Apparently the train is running late.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/visto",
+        "headword": "visto",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "a quanto pare",
+    "literal": "at how-much it-appears",
+    "meaning": "Apparently; so it seems.",
+    "example": "A quanto pare, il treno è in ritardo.",
+    "exampleTranslation": "Apparently the train is late.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/pare",
+        "headword": "pare",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both hedge with perception, on different senses: Italian leans on seeming (pare), Spanish on what has been SEEN (lo visto). Neither survives word-for-word crossing.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Calquing gives 'por cuanto parece' — not Spanish. The idiomatic frame is por lo visto (or al parecer).",
+      "it_to_es": "Calquing gives 'a quanto appare/al parere' — the fixed Italian is a quanto pare."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "discourse",
+    "hedging"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "0048",
+  "type": "proverb",
+  "cue": "Someone took your seat the moment you got up",
+  "es": {
+    "text": "Quien fue a Sevilla perdió su silla",
+    "literal": "who went to Seville lost their chair",
+    "meaning": "Leave your spot and you forfeit it — the playground law of vacated seats.",
+    "example": "—¡Ese era mi lugar! —Quien fue a Sevilla perdió su silla.",
+    "exampleTranslation": "“That was my seat!” “You snooze, you lose.”",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Mexico commonly says 'el que se fue a la Villa perdió su silla' — la Villa being read as the Guadalupe basilica in CDMX, a lovely re-localisation of the rhyme. María to confirm which form fronts for the MX-default audience.",
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59456&Lng=0",
+        "headword": "quien fue a Sevilla…",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Chi va a Roma perde la poltrona",
+    "literal": "who goes to Rome loses the armchair",
+    "meaning": "Leave your spot and you forfeit it.",
+    "example": "—Quello era il mio posto! —Chi va a Roma perde la poltrona.",
+    "exampleTranslation": "“That was my seat!” “You snooze, you lose.”",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/poltrona/",
+        "headword": "poltrona",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same playground law, localised by rhyme: each language sends you to its own iconic city and then picks whatever seat rhymes with it — Sevilla forces silla, Roma forces poltrona. The proverb's engine is the rhyme, not the geography. Bonus shade in the Italian: poltrona is also the cushy political seat, so the Italian version winks at office-holders in a way the neutral Spanish silla doesn't.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Calquing the trip — 'chi va a Siviglia perde la sedia' — loses both the rhyme and the proverb. In Italy the journey is to Rome and the forfeit is the poltrona.",
+      "it_to_es": "'Quien va a Roma pierde la poltrona' draws blank stares — the Spanish pilgrimage is to Seville (or, in Mexico, la Villa), and the seat is a plain silla."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "games",
+    "cities",
+    "rhyme"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-17. IT pairing by Claude — 'chi va a Roma perde la poltrona' is my recall of the canonical twin; IT reviewer to confirm form and currency. ES origin story (the 15th-c. archbishop of Seville) left out of the note as unverified trivia — reviewer may restore if it checks out."
+  },
+  "createdOn": "2026-07-17",
+  "retiredReason": null
+}

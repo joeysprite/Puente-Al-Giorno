@@ -1,0 +1,79 @@
+{
+  "id": "0025",
+  "type": "idiom",
+  "es": {
+    "text": "Ser uña y carne",
+    "literal": "to be fingernail and flesh",
+    "meaning": "To be inseparable friends.",
+    "example": "Esos dos son uña y carne desde la infancia.",
+    "exampleTranslation": "Those two have been inseparable since childhood.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/u%C3%B1a",
+        "headword": "uña",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Essere pane e cacio",
+    "literal": "to be bread and cheese",
+    "meaning": "To be extremely close; inseparable.",
+    "example": "Marco e Luca sono pane e cacio.",
+    "exampleTranslation": "Marco and Luca are thick as thieves.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": "cacio is the older/regional word for cheese (vs. formaggio) and survives mainly in fixed expressions.",
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/cacio",
+        "headword": "cacio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish picks two things physically fused (nail and flesh); Italian two things that simply belong together. Both drop the article entirely: ser uña y carne, essere pane e cacio.",
+    "tags": [
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "friendship"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": null
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

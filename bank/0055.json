@@ -1,0 +1,85 @@
+{
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [
+    {
+      "key": "world_cup",
+      "requiresEvent": true
+    }
+  ],
+  "themes": [
+    "sport",
+    "football"
+  ],
+  "retiredReason": null,
+  "createdOn": "2026-07-12",
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending. Restored 2026-07-14 under revised scope: the card teaches the axis, not the phrase."
+  },
+  "id": "0055",
+  "type": "collocation",
+  "cefr": "B1",
+  "difficulty": 3,
+  "es": {
+    "text": "Estar en el banquillo",
+    "literal": "to be on the little bench",
+    "meaning": "To be a substitute; to be benched.",
+    "example": "Se quedó en el banquillo todo el partido.",
+    "exampleTranslation": "He stayed on the bench the whole match.",
+    "register": "standard",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/banquillo",
+        "headword": "banquillo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Essere in panchina",
+    "literal": "to be in bench",
+    "meaning": "To be a substitute; to be benched.",
+    "example": "È rimasto in panchina tutta la partita.",
+    "exampleTranslation": "He stayed on the bench the whole match.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/panchina/",
+        "headword": "panchina",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish keeps the article — en EL banquillo. Italian drops it — in panchina, bare. This article-dropping after 'in' is systematic in Italian fixed phrases (in centro, in ufficio, in panchina) and it is the single most audible tell of a Spanish speaker.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Spanish speakers say 'nella panchina', importing the article from 'en el banquillo'. The fixed form is 'in panchina', no article.",
+      "it_to_es": "Italians drop the article and say 'en banquillo'. Spanish requires it: en el banquillo."
+    }
+  }
+}

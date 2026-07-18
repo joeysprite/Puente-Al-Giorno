@@ -1,0 +1,83 @@
+{
+  "id": "0038",
+  "type": "idiom",
+  "cue": "Just eyeball it (measuring while cooking)",
+  "es": {
+    "text": "A ojo de buen cubero",
+    "literal": "by the eye of a good cooper",
+    "meaning": "By eyeball estimate; roughly, without measuring.",
+    "example": "—¿Cuánta sal le pongo? —A ojo de buen cubero.",
+    "exampleTranslation": "“How much salt do I add?” “Just eyeball it.”",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Submitted from lived Mexican usage — strongly current in MX, especially in cooking. The cubero was the barrel-maker whose trained eye gauged capacity. Bare 'a ojo' also works everywhere.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/cubero",
+        "headword": "cubero",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "A occhio e croce",
+    "literal": "by eye and cross",
+    "meaning": "Roughly; at a guess; approximately.",
+    "example": "A occhio e croce ci vorranno due ore.",
+    "exampleTranslation": "At a rough guess it'll take two hours.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": "In the kitchen specifically, plain 'a occhio' is the natural form (metti il sale a occhio); a occhio e croce leans toward estimates of time, cost, quantity. Reviewer to confirm the split.",
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/occhio/",
+        "headword": "occhio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages measure by eye, and both own the bare form — a ojo, a occhio — but their elaborations part company beautifully: Spanish summons a professional, the cooper whose trained eye sized barrels without a gauge, while Italian adds an enigmatic cross (one story credits Milanese silk weavers repairing broken threads by eye). A craftsman versus a gesture, guarding the same guess.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Calquing the cooper — 'all'occhio del buon bottaio' — is nonsense in Italian. In the kitchen say a occhio; for estimates, a occhio e croce.",
+      "it_to_es": "'A ojo y cruz' is not Spanish. Bare 'a ojo' carries it everywhere; a ojo de buen cubero adds the flavor."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "cooking",
+    "estimation",
+    "crafts"
+  ],
+  "cefr": "B2",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-16 from Mexican usage (cooking context). IT pairing and the occhio/occhio-e-croce kitchen split chosen by Claude — Italian reviewer to confirm. First entry anchored in MX lived usage rather than flagged for Peninsular skew."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

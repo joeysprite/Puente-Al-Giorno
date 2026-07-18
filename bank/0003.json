@@ -1,0 +1,85 @@
+{
+  "id": "0003",
+  "type": "idiom",
+  "es": {
+    "text": "Costar un ojo de la cara",
+    "literal": "to cost an eye from the face",
+    "meaning": "To be extremely expensive.",
+    "example": "Me encantaron esos zapatos, pero costaban un ojo de la cara.",
+    "exampleTranslation": "I loved those shoes, but they cost a fortune.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/ojo",
+        "headword": "ojo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Costare un occhio della testa",
+    "literal": "to cost an eye of the head",
+    "meaning": "To be extremely expensive.",
+    "example": "Quel ristorante era buonissimo, ma ci è costato un occhio della testa.",
+    "exampleTranslation": "That restaurant was excellent, but it cost us a fortune.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/costare",
+        "headword": "costare",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "ojo / occhio are direct cognates from Latin oculus. Spanish takes the eye from the face; Italian from the head.",
+    "tags": [
+      "cognate_pair",
+      "shared_metaphor",
+      "auxiliary_trap"
+    ],
+    "interference": {
+      "es_to_it": "ci è costato — costare takes essere in the passato prossimo, not avere.",
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "money"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": null
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null,
+  "hook": {
+    "headline": "It costs an eye in both languages. The verb is the trap.",
+    "subhead": "Costare takes essere, not avere. Spanish gives you no warning."
+  }
+}

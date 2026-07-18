@@ -1,0 +1,80 @@
+{
+  "id": "0230",
+  "type": "collocation",
+  "es": {
+    "text": "Por suerte",
+    "literal": "for luck",
+    "meaning": "Luckily; fortunately.",
+    "example": "Por suerte no llovía.",
+    "exampleTranslation": "Luckily it wasn't raining.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/suerte",
+        "headword": "suerte",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "per fortuna",
+    "literal": "for fortune",
+    "meaning": "Luckily; fortunately.",
+    "example": "Per fortuna non pioveva.",
+    "exampleTranslation": "Luckily it wasn't raining.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/fortuna",
+        "headword": "fortuna",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both thank the same goddess by different names: Italian says fortuna where everyday Spanish says suerte — and each language HAS the other's noun, at a dressier register. A vocabulary flip wearing a preposition costume.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Per sorte' is not the Italian marker — fortune does the job: per fortuna.",
+      "it_to_es": "'Por fortuna' exists and is fine, slightly bookish; everyday Spanish runs on luck: por suerte."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "luck"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

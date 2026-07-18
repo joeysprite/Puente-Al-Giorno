@@ -1,0 +1,77 @@
+{
+  "id": "0022",
+  "type": "idiom",
+  "es": {
+    "text": "Buscarle tres pies al gato",
+    "literal": "to look for three feet on the cat",
+    "meaning": "To overcomplicate things; to look for problems that aren't there.",
+    "example": "No le busques tres pies al gato, la respuesta es simple.",
+    "exampleTranslation": "Don't overcomplicate it, the answer is simple.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "es",
+      "mx"
+    ],
+    "regionNote": "Peninsular-leaning. Reviewer to confirm LatAm currency.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/gato",
+        "headword": "gato",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Cercare il pelo nell'uovo",
+    "literal": "to look for the hair in the egg",
+    "meaning": "To nitpick; to find fault over trivia.",
+    "example": "Smettila di cercare il pelo nell'uovo.",
+    "exampleTranslation": "Stop nitpicking.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/pelo",
+        "headword": "pelo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "NOT true equivalents. Both hunt for something that shouldn't exist, but Spanish leans toward overcomplicating, Italian toward pedantic fault-finding. Teach the gap, don't paper over it.",
+    "tags": [
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "The idioms are not interchangeable: buscarle tres pies al gato is overcomplicating; cercare il pelo nell'uovo is nitpicking.",
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "overthinking"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Semantic mismatch — reviewer should decide whether to keep paired or split."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

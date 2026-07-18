@@ -1,0 +1,77 @@
+{
+  "id": "0002",
+  "type": "idiom",
+  "es": {
+    "text": "Estar como una cabra",
+    "literal": "to be like a goat",
+    "meaning": "To be a bit crazy; said jokingly or affectionately.",
+    "example": "Mi vecino está como una cabra, pone música a las tres de la mañana.",
+    "exampleTranslation": "My neighbor's nuts, he blasts music at 3am.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "es"
+    ],
+    "regionNote": "STRONGLY PENINSULAR. Rare in Mexico — a Mexican speaker would more likely say 'está zafado' or 'está loco de remate'. Needs a LatAm equivalent before shipping to a LatAm-default audience.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/cabra",
+        "headword": "cabra",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Essere fuori come un balcone",
+    "literal": "to be out like a balcony",
+    "meaning": "To be out of one's mind.",
+    "example": "Ma sei fuori come un balcone? Non puoi guidare così!",
+    "exampleTranslation": "Are you out of your mind? You can't drive like that!",
+    "register": "slang",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": "Colloquial/regional (strong in Emilia and Rome). NOT in Treccani. Fine among friends; wrong for a CILS oral.",
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://slengo.it/define/fuori-come-un-balcone",
+        "headword": "fuori come un balcone",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish reaches for an animal, Italian for architecture. The Italian is a pun: a balcony juts fuori ('out'), and essere fuori alone already means to be out of one's mind.",
+    "tags": [
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "madness",
+    "humor"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "THE CAUTIONARY ENTRY. Shipped unflagged in the personal app. IT side is slang and dictionary-absent (source is a slang dictionary, mapped to authority 'Corpus'); ES side is Peninsular-only. Both problems must be resolved, not just documented. 2026-07-17: Europass list surfaced 'essere una capra' (IT) = to be IGNORANT — a false friend of this entry's ES side (como una cabra = crazy). Same goat, different defect. Consider a cross-language note or companion entry."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

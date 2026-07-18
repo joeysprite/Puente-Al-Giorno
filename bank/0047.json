@@ -1,0 +1,83 @@
+{
+  "id": "0047",
+  "type": "marker",
+  "cue": "Say something went just okay — good but not GREAT",
+  "es": {
+    "text": "Bien, pero no tan bien",
+    "literal": "well, but not so well",
+    "meaning": "Fine, but not great — the deflating follow-up.",
+    "example": "—¿Cómo salió el examen? —Bien... pero no tan bien.",
+    "exampleTranslation": "“How did the exam go?” “Fine... but not THAT fine.”",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "PAIRING UNCERTAIN: Spanish has no fixed twin for the Italian phrase; this is the transparent construction. María to rule whether 'más o menos', 'regular', or MX 'ahí la llevo' serves better.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/bien",
+        "headword": "bien",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Bene ma non benissimo",
+    "literal": "well but not very-well",
+    "meaning": "Fine, but not great — ironic understatement; things are slightly off.",
+    "example": "—Com'è andata? —Bene ma non benissimo.",
+    "exampleTranslation": "“How did it go?” “Good... but not GREAT.”",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/bene1/",
+        "headword": "bene",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Underneath the joke is a grammar asymmetry: Italian bolts -issimo onto almost anything, adverbs included — bene → benissimo, presto → prestissimo — while Spanish blocks it on bien (no *bienísimo in the standard; you escalate with muy bien or, in Mexico, rebién). Italian owns a one-word 'very well'; Spanish has to build it. The phrase runs on machinery the Spanish speaker doesn't expect to exist.",
+    "tags": [
+      "interference_risk",
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "Spanish speakers under-use -issimo because their own language rations -ísimo; in Italian it's everywhere and unmarked — benissimo, pochissimo, even jocular subitissimo.",
+      "it_to_es": "Italians generalize the machinery into Spanish and produce 'bienísimo' — a classic Italian-accent error; standard Spanish wants muy bien (colloquial MX: rebién)."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "evaluation",
+    "morphology",
+    "understatement"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-17. IT phrase is meme-boosted (mid-2010s) but now ordinary speech — IT reviewer to confirm the register aged well. ES pairing flagged."
+  },
+  "createdOn": "2026-07-17",
+  "retiredReason": null
+}

@@ -1,0 +1,80 @@
+{
+  "id": "0221",
+  "type": "collocation",
+  "es": {
+    "text": "En persona",
+    "literal": "in person",
+    "meaning": "In person; face to face.",
+    "example": "Mejor hablarlo en persona.",
+    "exampleTranslation": "Better to talk it over in person.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/persona",
+        "headword": "persona",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "di persona",
+    "literal": "of person",
+    "meaning": "In person; face to face.",
+    "example": "Meglio parlarne di persona.",
+    "exampleTranslation": "Better to discuss it in person.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/persona",
+        "headword": "persona",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish en persona does two jobs; Italian splits them — di persona for showing up yourself, in persona for 'the very man himself'. The Spanish speaker's import lands on the emphatic one by accident.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "EN pulls 'in persona' — which exists in Italian but leans emphatic ('the director himself'); the plain 'face to face' sense is di persona.",
+      "it_to_es": "DI pulls 'de persona' — not Spanish. En persona covers both jobs."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "meetings"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

@@ -1,0 +1,82 @@
+{
+  "id": "0029",
+  "type": "idiom",
+  "es": {
+    "text": "Había una vez",
+    "literal": "there was a time",
+    "meaning": "Once upon a time — the fixed opener of fairy tales and stories.",
+    "example": "Había una vez una princesa que vivía en un castillo.",
+    "exampleTranslation": "Once upon a time there was a princess who lived in a castle.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "The archaic variant 'Érase una vez' (with fossilised enclitic -se) is equally canonical, especially in Spain and in print. Reviewer to confirm which form is LatAm-default for the headword.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/vez",
+        "headword": "vez",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "C'era una volta",
+    "literal": "there was a time/turn",
+    "meaning": "Once upon a time — the fixed opener of fairy tales and stories.",
+    "example": "C'era una volta un re che aveva tre figlie.",
+    "exampleTranslation": "Once upon a time there was a king who had three daughters.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/volta1/",
+        "headword": "volta",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Identical openers hiding the deepest grammar split between the two languages: the existential. Spanish builds 'there was' on haber (había); Italian builds it on esserci (c'era) — and although avere is haber's direct cognate, Italian never uses it existentially. Bonus false friend: volta is the cognate of Spanish vuelta ('turn'), not of vez — Italian literally counts occasions in turns, the same volta that was just flipped in entry 0028's frittata.",
+    "tags": [
+      "interference_risk",
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "The haber→avere cognate pull produces 'aveva una volta' or 'ha molte cose' for existentials. Italian existentials take esserci: c'è, c'era. If you can say c'era una volta, you already own the pattern — lean on it.",
+      "it_to_es": "Italians reach for essere and produce 'era una vez' — half-camouflaged by the archaic 'Érase una vez', so it slips by, but productive Spanish existentials take haber: hay, había."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "storytelling",
+    "existentials"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-14 (as 'Habia una vez / cera una volta'; forms normalised to 'Había' and 'C'era'). CLASSIFICATION: typed idiom, not formula — the schema defines formula as a fixed SOCIAL phrase tied to an occasion (buon anno), which is why formulas require pins. A narrative opener has no occasion; it is a fixed discourse idiom. Reviewer may overrule."
+  },
+  "createdOn": "2026-07-14",
+  "retiredReason": null,
+  "cue": "Once upon a time… (opening a story)"
+}

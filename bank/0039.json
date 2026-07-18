@@ -1,0 +1,83 @@
+{
+  "id": "0039",
+  "type": "collocation",
+  "es": {
+    "text": "¡Mucha suerte!",
+    "literal": "much luck",
+    "meaning": "Good luck — wished directly, no ritual attached.",
+    "example": "—Mañana presento el examen. —¡Mucha suerte!",
+    "exampleTranslation": "“I take the exam tomorrow.” “Good luck!”",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/suerte",
+        "headword": "suerte",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "In bocca al lupo",
+    "literal": "into the wolf's mouth",
+    "meaning": "Good luck — with a ritual reply: never grazie, always 'crepi (il lupo)'.",
+    "example": "—Domani ho l'esame. —In bocca al lupo! —Crepi!",
+    "exampleTranslation": "“My exam's tomorrow.” “Good luck!” “Thanks!” (lit. may it die!)",
+    "register": "standard",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/lupo/",
+        "headword": "lupo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "An asymmetry, and the asymmetry is the lesson: Spanish wishes luck head-on — mucha suerte, answered with gracias, done. Italian superstitiously refuses to name luck at all: buona fortuna is felt to invite the opposite, so you are sent into the wolf's mouth instead — and the ritual has a scripted reply. Never grazie; always Crepi! (may the wolf die). One language has a ceremony where the other has a sentence.",
+    "tags": [
+      "interference_risk",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "Two stumbles: calquing suerte gives 'buona fortuna', which superstitious Italians sidestep — and answering grazie to in bocca al lupo breaks the ritual. The reply is crepi.",
+      "it_to_es": "Nothing to import: there is no wolf, no jinx, no scripted reply. Mucha suerte, and gracias is the correct answer."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "luck",
+    "theatre",
+    "superstition"
+  ],
+  "cefr": "B1",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Discovered via FluentU list (Joe, 2026-07-16). FIRST PAIRING REJECTED by editor same day: '¡Mucha mierda!' (theatre, vulgar) was judged both crude and a mismatch for Italy's universal wish — correct on both counts. Re-paired with the true everyday counterpart; the ritual/no-ritual asymmetry is now the payload. IT reviewer to confirm crepi etiquette framing."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null,
+  "cue": "Wish someone luck before an exam or a performance"
+}

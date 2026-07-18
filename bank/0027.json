@@ -1,0 +1,80 @@
+{
+  "id": "0027",
+  "type": "collocation",
+  "es": {
+    "text": "Quedarse",
+    "literal": "to remain oneself",
+    "meaning": "To stay; to remain somewhere.",
+    "example": "Se quedó en casa todo el día.",
+    "exampleTranslation": "He stayed home all day.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/quedar",
+        "headword": "quedar",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Rimanere",
+    "literal": "to remain",
+    "meaning": "To stay; to be left over.",
+    "example": "È rimasto a casa tutto il giorno.",
+    "exampleTranslation": "He stayed home all day.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/rimanere/",
+        "headword": "rimanere",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish has one perfect auxiliary (haber) and it never varies. Italian chooses between essere and avere, and rimanere takes essere — so the participle has to agree, which Spanish never asks of you.",
+    "tags": [
+      "auxiliary_trap",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Spanish speakers produce 'ha rimasto' by analogy with 'ha quedado'. Rimanere takes essere: è rimasto / è rimasta.",
+      "it_to_es": "Italians over-apply agreement and say 'se ha quedada'. Spanish participles after haber never agree: se ha quedado."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "themes": [
+    "auxiliaries",
+    "everyday"
+  ],
+  "cefr": "B1",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Renumbered from 0007 on import of the study-thread bank (id collision). Authored as a schema demo; sources not human-verified; reviewer sign-off pending. Restored 2026-07-14 under revised scope: the card teaches the axis, not the phrase."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

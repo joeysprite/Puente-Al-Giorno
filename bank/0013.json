@@ -1,0 +1,79 @@
+{
+  "id": "0013",
+  "type": "idiom",
+  "es": {
+    "text": "Ser pan comido",
+    "literal": "to be eaten bread",
+    "meaning": "To be very easy.",
+    "example": "El examen fue pan comido.",
+    "exampleTranslation": "The exam was a piece of cake.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/pan",
+        "headword": "pan",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Essere un gioco da ragazzi",
+    "literal": "to be a kids' game",
+    "meaning": "To be effortlessly easy.",
+    "example": "Per lei, cucinare è un gioco da ragazzi.",
+    "exampleTranslation": "For her, cooking is child's play.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/gioco",
+        "headword": "gioco",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish: bread already eaten — no effort left. Italian: a children's game. Three languages, three different easy-things metaphors (English picks cake).",
+    "tags": [
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "ease"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": null
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

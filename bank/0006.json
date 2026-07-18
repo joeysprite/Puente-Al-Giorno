@@ -1,0 +1,80 @@
+{
+  "id": "0006",
+  "type": "idiom",
+  "es": {
+    "text": "Tomar el pelo",
+    "literal": "to take someone's hair",
+    "meaning": "To tease someone; to pull their leg.",
+    "example": "¿Me estás tomando el pelo? No te creo.",
+    "exampleTranslation": "Are you pulling my leg? I don't believe you.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://www.rae.es/gtg/locuci%C3%B3n-verbal",
+        "headword": "locución verbal",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Prendere in giro",
+    "literal": "to take (someone) around",
+    "meaning": "To tease or make fun of someone.",
+    "example": "Smettila di prendermi in giro!",
+    "exampleTranslation": "Stop teasing me!",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/giro",
+        "headword": "giro",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both use a 'take' verb (tomar / prendere). Spanish grabs the hair; Italian takes you around in a circle. Note the registers differ: the Spanish is more colloquial than the Italian.",
+    "tags": [
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "humor",
+    "deception"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "register_differs claimed but no directional trap written; reviewer to add one or drop the tag before approval."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

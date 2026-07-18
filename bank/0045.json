@@ -1,0 +1,79 @@
+{
+  "id": "0045",
+  "type": "idiom",
+  "es": {
+    "text": "Soltar la sopa",
+    "literal": "to release the soup",
+    "meaning": "To spill the beans; to finally talk.",
+    "example": "Ya, suelta la sopa: ¿qué pasó anoche?",
+    "exampleTranslation": "Come on, spill it — what happened last night?",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "mx"
+    ],
+    "regionNote": "Strongly Mexican; Spain says 'cantar' or 'desembuchar'. Deliberately banked MX-first — the audience default — with the Peninsular alternatives noted rather than the reverse.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/sopa",
+        "headword": "sopa",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Sputare il rospo",
+    "literal": "to spit out the toad",
+    "meaning": "To come out with it; to finally say the difficult thing.",
+    "example": "Dai, sputa il rospo: cosa ti preoccupa?",
+    "exampleTranslation": "Come on, out with it — what's bothering you?",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/rospo",
+        "headword": "rospo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both make confession physical — something held in the mouth finally let out — but the cargo differs by cuisine and by feeling: Mexico releases soup (a secret, gossipy), Italy spits a toad (something unpleasant you've been holding back). The Italian implies the news is hard to say; the Mexican just wants the chisme.",
+    "tags": [
+      "shared_metaphor",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "'Sputare la zuppa' confuses dinner with confession; the Italian mouth holds a toad. Note the nuance: rospo leans toward difficult admissions, not juicy gossip.",
+      "it_to_es": "'Soltar el sapo' is not Mexican Spanish; the soup does it. For Spain, reach for desembuchar."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "secrets",
+    "speech",
+    "food"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Discovered via FluentU list (Joe, 2026-07-16); all content authored fresh, ES pairing by Claude — verify. Second MX-anchored entry after 0038 — the LatAm-first pattern to keep."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

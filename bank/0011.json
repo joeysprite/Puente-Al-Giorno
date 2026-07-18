@@ -1,0 +1,79 @@
+{
+  "id": "0011",
+  "type": "idiom",
+  "es": {
+    "text": "Echar leña al fuego",
+    "literal": "to throw firewood on the fire",
+    "meaning": "To make a tense situation worse.",
+    "example": "No eches más leña al fuego, ya están bastante enfadados.",
+    "exampleTranslation": "Don't add fuel to the fire, they're angry enough already.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/le%C3%B1a",
+        "headword": "leña",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Gettare benzina sul fuoco",
+    "literal": "to throw gasoline on the fire",
+    "meaning": "To inflame an already tense situation.",
+    "example": "Dire questo ora significa gettare benzina sul fuoco.",
+    "exampleTranslation": "Saying that now means pouring fuel on the fire.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/benzina",
+        "headword": "benzina",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same image, escalating fuel: Spanish adds wood, Italian adds gasoline. gettare recurs (see 0004) — a verb worth banking.",
+    "tags": [
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "conflict"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": null
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

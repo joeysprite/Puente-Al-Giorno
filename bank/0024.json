@@ -1,0 +1,81 @@
+{
+  "id": "0024",
+  "type": "idiom",
+  "es": {
+    "text": "Estar como pez en el agua",
+    "literal": "to be like a fish in water",
+    "meaning": "To feel completely at ease in a setting.",
+    "example": "En una cocina profesional está como pez en el agua.",
+    "exampleTranslation": "In a professional kitchen she's in her element.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/pez",
+        "headword": "pez",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Sentirsi come un pesce nell'acqua",
+    "literal": "to feel like a fish in water",
+    "meaning": "To feel perfectly at home somewhere.",
+    "example": "Tra i numeri si sente come un pesce nell'acqua.",
+    "exampleTranslation": "With numbers he's completely in his element.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/pesce",
+        "headword": "pesce",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Near-identical pair: pez/pesce, agua/acqua — but the verbs part company, a state verb against a reflexive.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The verb differs: Spanish uses estar (a state); Italian prefers reflexive sentirsi (to feel oneself). Spanish speakers under-use the reflexive here.",
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "comfort",
+    "competence"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Bridge note expanded on import to meet the 40-char floor; original read 'Near-identical: pez/pesce, agua/acqua.'"
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

@@ -1,0 +1,80 @@
+{
+  "id": "0236",
+  "type": "collocation",
+  "es": {
+    "text": "Poco a poco",
+    "literal": "little at little",
+    "meaning": "Little by little; gradually.",
+    "example": "Poco a poco nos fuimos acostumbrando.",
+    "exampleTranslation": "Little by little we got used to it.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/poco",
+        "headword": "poco",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "a poco a poco",
+    "literal": "at little at little",
+    "meaning": "Little by little; gradually.",
+    "example": "A poco a poco ci siamo abituati.",
+    "exampleTranslation": "Little by little we got used to it.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/poco",
+        "headword": "poco",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same phrase, off by one particle: Italian doubles the a (A poco A poco), Spanish keeps only the middle one. A difference small enough to miss for years — which is precisely the kind this product exists to point at.",
+    "tags": [
+      "preposition_differs",
+      "cognate_pair"
+    ],
+    "interference": {
+      "es_to_it": "Spanish drops the first a — importing it ('a poco a poco') marks you instantly, though everyone understands.",
+      "it_to_es": "Italians drop nothing and gain nothing: adding the first a to Spanish ('a poco a poco') just sounds Italian."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "gradual"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

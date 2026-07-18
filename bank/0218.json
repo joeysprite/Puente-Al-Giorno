@@ -1,0 +1,81 @@
+{
+  "id": "0218",
+  "type": "marker",
+  "es": {
+    "text": "Por otro lado",
+    "literal": "for other side",
+    "meaning": "On the other hand.",
+    "example": "Por otro lado, los costos suben.",
+    "exampleTranslation": "On the other hand, costs are rising.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/lado",
+        "headword": "lado",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "dall'altro lato",
+    "literal": "from-the other side",
+    "meaning": "On the other hand.",
+    "example": "Dall'altro lato, i costi salgono.",
+    "exampleTranslation": "On the other hand, costs rise.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/lato",
+        "headword": "lato",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both argue from sides, approached from different directions: Italian comes FROM the other side (da), Spanish goes BY it (por) — and only Italian keeps the article. Discourse markers are where prepositions go feral.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "DA pulls 'de otro lado' — regional at best; the pan-Hispanic marker is POR otro lado, and it drops the article.",
+      "it_to_es": "POR pulls 'per l'altro lato' — not the marker; Italian arrives FROM the other side: dall'altro lato (or d'altra parte)."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "discourse",
+    "contrast"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

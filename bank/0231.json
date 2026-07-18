@@ -1,0 +1,80 @@
+{
+  "id": "0231",
+  "type": "collocation",
+  "es": {
+    "text": "Solo",
+    "literal": "alone",
+    "meaning": "Alone; by oneself.",
+    "example": "Lo hizo solo.",
+    "exampleTranslation": "He did it by himself.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/Solo",
+        "headword": "Solo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "da solo",
+    "literal": "from alone",
+    "meaning": "Alone; by oneself.",
+    "example": "L'ha fatto da solo.",
+    "exampleTranslation": "He did it by himself.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/solo",
+        "headword": "solo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The rare trap made of nothing: Italian needs a preposition (da solo) exactly where Spanish needs none. And agreement still applies on both sides — da sola, sola. The hardest flips to learn are the ones where one language is silent.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The trap is an ABSENCE: Spanish uses the bare adjective (lo hizo solo), so Spanish speakers drop the da — but Italian requires it: l'ha fatto DA solo. The bare 'solo' in Italian reads as 'only'.",
+      "it_to_es": "Italians import the da: 'lo hizo de solo' — not Spanish. Bare solo/sola carries it (a solas = in private, a different phrase)."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "independence"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

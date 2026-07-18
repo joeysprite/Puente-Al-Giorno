@@ -1,0 +1,79 @@
+{
+  "id": "0020",
+  "type": "idiom",
+  "es": {
+    "text": "Dormir a pierna suelta",
+    "literal": "to sleep with a loose leg",
+    "meaning": "To sleep deeply and soundly.",
+    "example": "Después de la caminata dormí a pierna suelta.",
+    "exampleTranslation": "After the hike I slept like a log.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/pierna",
+        "headword": "pierna",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Dormire come un ghiro",
+    "literal": "to sleep like a dormouse",
+    "meaning": "To sleep very deeply.",
+    "example": "Ha dormito come un ghiro fino a mezzogiorno.",
+    "exampleTranslation": "He slept like a log until noon.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/ghiro",
+        "headword": "ghiro",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish pictures a relaxed limb; Italian reaches for the hibernating ghiro (dormouse) — the same logic as English 'log'. Natural opposite of 0017.",
+    "tags": [
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "sleep"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": null
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

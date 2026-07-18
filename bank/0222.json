@@ -1,0 +1,80 @@
+{
+  "id": "0222",
+  "type": "collocation",
+  "es": {
+    "text": "De seguro",
+    "literal": "of sure",
+    "meaning": "Surely; for sure.",
+    "example": "De seguro va a llover.",
+    "exampleTranslation": "It's surely going to rain.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "LatAm-natural; Peninsular prefers 'seguro' alone or 'seguramente'. Reviewer to confirm framing.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/seguro",
+        "headword": "seguro",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "di sicuro",
+    "literal": "of sure",
+    "meaning": "Surely; for sure.",
+    "example": "Di sicuro pioverà.",
+    "exampleTranslation": "It'll rain for sure.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/sicuro",
+        "headword": "sicuro",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "A near-freebie with a regional catch: di sicuro maps cleanly onto LatAm de seguro, while Peninsular Spanish shrugs and says seguro bare. One of the pairs where the bridge holds only on one side of the Atlantic.",
+    "tags": [
+      "cognate_pair",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": "Fine in LatAm; in Spain 'de seguro' sounds off — seguro alone or seguramente. Regional, not wrong."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "certainty"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

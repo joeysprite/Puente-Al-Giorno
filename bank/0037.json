@@ -1,0 +1,81 @@
+{
+  "id": "0037",
+  "type": "proverb",
+  "es": {
+    "text": "Mal de muchos, consuelo de tontos",
+    "literal": "misfortune of many, consolation of fools",
+    "meaning": "Shared misfortune is a fool's comfort — dismissing the solace of company in misery.",
+    "example": "Todos suspendieron, pero mal de muchos, consuelo de tontos.",
+    "exampleTranslation": "Everyone failed, but shared misery is a fool's comfort.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58798&Lng=0",
+        "headword": "ficha 58798",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Mal comune, mezzo gaudio",
+    "literal": "common misfortune, half joy",
+    "meaning": "A trouble shared is a trouble halved — company in misery genuinely comforts.",
+    "example": "Abbiamo perso tutti — mal comune, mezzo gaudio.",
+    "exampleTranslation": "We all lost — a trouble shared is a trouble halved.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/gaudio/",
+        "headword": "gaudio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same observation, judged oppositely: both proverbs notice that shared misfortune consoles — and then Italian blesses it (half a joy!) while Spanish sneers at it (a fool's comfort). Two cultures reading one human reflex in opposite moral directions. Translate the words and you reverse the message.",
+    "tags": [
+      "false_friend",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "Deploying 'mal comune, mezzo gaudio' where Spanish expects the sneer sounds naively cheerful — the Spanish proverb exists to REJECT that comfort.",
+      "it_to_es": "An Italian reaching for the Spanish proverb to offer comfort delivers an insult: it calls the comforted party a fool."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "misfortune",
+    "culture"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-16 (Italian side). Best bridge of the batch: proverb-level false friends with opposite moral valence. Hook candidate."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

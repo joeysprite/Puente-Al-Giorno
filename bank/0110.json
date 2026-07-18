@@ -1,0 +1,96 @@
+{
+  "id": "0110",
+  "type": "formula",
+  "cefr": "A2",
+  "difficulty": 2,
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "themes": [
+    "greetings",
+    "family"
+  ],
+  "createdOn": "2026-07-13",
+  "retiredReason": "Formula. Out of scope for v1 — RECOVER for a calendar.",
+  "events": [
+    {
+      "key": "madre_mx",
+      "requiresEvent": true,
+      "note": "The same greeting serves both languages, but the two countries pick the date on different principles — Mexico fixes it to the 10th, Spain and Italy use Sundays."
+    },
+    {
+      "key": "madre_es",
+      "requiresEvent": true,
+      "note": "The same greeting serves both languages, but the two countries pick the date on different principles — Mexico fixes it to the 10th, Spain and Italy use Sundays."
+    },
+    {
+      "key": "madre_it",
+      "requiresEvent": true,
+      "note": "The same greeting serves both languages, but the two countries pick the date on different principles — Mexico fixes it to the 10th, Spain and Italy use Sundays."
+    }
+  ],
+  "es": {
+    "text": "¡Feliz Día de la Madre!",
+    "literal": "happy day of the mother",
+    "meaning": "Mother's Day greeting.",
+    "example": "¡Feliz Día de la Madre, mamá!",
+    "exampleTranslation": "Happy Mother's Day, Mum!",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/feliz",
+        "headword": "feliz",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Auguri, mamma!",
+    "literal": "wishes, mum",
+    "meaning": "Mother's Day greeting.",
+    "example": "Auguri, mamma, buona festa!",
+    "exampleTranslation": "Happy Mother's Day, Mum!",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/augurio/",
+        "headword": "augurio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish wishes you a HAPPY day. Italian hands you 'auguri' — a plural noun meaning roughly 'good wishes', which Spanish has no single word for. Auguri covers birthdays, name days, Christmas, promotions and Mother's Day alike; it is the most useful word Spanish speakers never reach for.",
+    "tags": [
+      "interference_risk",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "Spanish speakers construct 'felice festa della mamma' by translation. It is understood and nobody says it. Italians say: auguri.",
+      "it_to_es": "'Augurios' is not Spanish. Use feliz día — Spanish has no one-word equivalent and must name the occasion."
+    }
+  },
+  "review": {
+    "status": "retired",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending."
+  }
+}

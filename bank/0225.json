@@ -1,0 +1,81 @@
+{
+  "id": "0225",
+  "type": "marker",
+  "es": {
+    "text": "A cambio",
+    "literal": "at exchange",
+    "meaning": "To make up for it; on the other hand.",
+    "example": "Paga poco; a cambio, queda cerca de casa.",
+    "exampleTranslation": "It pays little; in exchange, it's close to home.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Pairing uncertainty flagged: a cambio (chosen), en compensación (stiff), eso sí (most conversational). María to pick the default.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/cambio",
+        "headword": "cambio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "in compenso",
+    "literal": "in compensation",
+    "meaning": "To make up for it; on the other hand.",
+    "example": "Paga poco; in compenso è vicino a casa.",
+    "exampleTranslation": "It pays little; on the other hand it's near home.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/compenso",
+        "headword": "compenso",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both balance a ledger mid-sentence — Italian with compensation, Spanish with exchange. The best conversational Spanish equivalent may actually be 'eso sí', which isn't prepositional at all; reviewer's call.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'In cambio' exists in Italian but wants an explicit trade; the balancing-the-books discourse move is in compenso.",
+      "it_to_es": "'En compensación' is stiff legalese as a marker; conversational Spanish balances with a cambio — or the lovely 'eso sí' (paga poco; eso sí, queda cerca)."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "discourse",
+    "contrast"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

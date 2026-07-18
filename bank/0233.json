@@ -1,0 +1,80 @@
+{
+  "id": "0233",
+  "type": "collocation",
+  "es": {
+    "text": "A veces",
+    "literal": "at times",
+    "meaning": "Sometimes.",
+    "example": "A veces prefiero quedarme en casa.",
+    "exampleTranslation": "Sometimes I prefer to stay home.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/veces",
+        "headword": "veces",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "a volte",
+    "literal": "at turns",
+    "meaning": "Sometimes.",
+    "example": "A volte preferisco stare a casa.",
+    "exampleTranslation": "Sometimes I prefer staying home.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/volte",
+        "headword": "volte",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Italian counts occasions in turns (volte — cognate with Spanish vuelta, not vez), Spanish in veces. The same deep split as c'era una volta / había una vez, now in its everyday clothes. Cross-reference 0029.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The volta/vez split again (see 0029): occasions are TURNS in Italian. 'A vece' is not Italian — in vece drifted off to become invece.",
+      "it_to_es": "'A vueltas' means something else entirely (struggling with something, Spain). Times are veces."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "frequency"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

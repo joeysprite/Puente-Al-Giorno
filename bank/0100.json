@@ -1,0 +1,82 @@
+{
+  "pin": {
+    "month": 1,
+    "day": 1
+  },
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "greetings"
+  ],
+  "retiredReason": "Formula. Out of scope for v1 — RECOVER for a calendar: a 1 January page that doesn't say buon anno is a wasted page.",
+  "createdOn": "2026-07-12",
+  "review": {
+    "status": "retired",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending."
+  },
+  "id": "0100",
+  "type": "formula",
+  "cefr": "A2",
+  "difficulty": 1,
+  "es": {
+    "text": "¡Feliz año nuevo!",
+    "literal": "happy new year",
+    "meaning": "New Year's greeting.",
+    "example": "¡Feliz año nuevo a todos!",
+    "exampleTranslation": "Happy New Year, everyone!",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/ano",
+        "headword": "año",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Buon anno!",
+    "literal": "good year",
+    "meaning": "New Year's greeting.",
+    "example": "Buon anno a tutti!",
+    "exampleTranslation": "Happy New Year, everyone!",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/buono/",
+        "headword": "buono",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish wishes you a HAPPY year; Italian wishes you a GOOD one. Italian has 'felice', but the fixed greeting does not use it — buon anno, never felice anno. This buono/feliz split runs through the whole greeting system.",
+    "tags": [
+      "false_friend",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "Spanish speakers produce 'felice anno' by direct translation. The fixed form is buon anno.",
+      "it_to_es": "Italians produce 'buen año'. Spanish says feliz año."
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "0216",
+  "type": "collocation",
+  "es": {
+    "text": "A la fuerza",
+    "literal": "at the force",
+    "meaning": "Necessarily; inevitably — or under duress.",
+    "example": "Tuve que ir a la fuerza.",
+    "exampleTranslation": "I had to go whether I liked it or not.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Mexico also says 'a fuerzas' (colloquial). Reviewer to confirm register.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/fuerza",
+        "headword": "fuerza",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "per forza",
+    "literal": "for force",
+    "meaning": "Necessarily; inevitably — or under duress.",
+    "example": "Devo andarci per forza.",
+    "exampleTranslation": "I have to go, no way around it.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/forza",
+        "headword": "forza",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Force wears different prepositions: per forza vs a la fuerza. And the Italian moonlights as an interjection — Per forza! = 'well, obviously!' — a use the Spanish phrase never developed.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Spanish A LA pulls 'alla forza' — Italian compresses: per forza, bare. Also Italian 'Per forza!' alone means 'obviously!' — a discourse job the Spanish doesn't do.",
+      "it_to_es": "Italian bare form pulls 'por fuerza' — dated in most of the Spanish-speaking world; say a la fuerza (or, MX colloquial, a fuerzas)."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "obligation"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

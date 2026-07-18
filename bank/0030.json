@@ -1,0 +1,81 @@
+{
+  "id": "0030",
+  "type": "collocation",
+  "es": {
+    "text": "Hace dos años",
+    "literal": "it makes two years",
+    "meaning": "Two years ago.",
+    "example": "Hace dos años vivía en Madrid.",
+    "exampleTranslation": "Two years ago I was living in Madrid.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/hacer",
+        "headword": "hacer",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Due anni fa",
+    "literal": "two years it-makes",
+    "meaning": "Two years ago.",
+    "example": "Due anni fa vivevo a Milano.",
+    "exampleTranslation": "Two years ago I was living in Milan.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/fa2/",
+        "headword": "fa",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages tell time with 'to make' — hacer and fare, the same verb — but in mirror positions: Spanish puts hace BEFORE the span, Italian puts fa AFTER it. Same bone, opposite skeleton. Spanish once had the postposed form too: the archaic 'años ha' sits exactly where fa does.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The mirror bites reliably: Spanish speakers produce 'fa due anni'. The span comes first: due anni fa.",
+      "it_to_es": "Italians produce 'dos años hace'. Spanish wants hace first: hace dos años — the postposed order survives only in the archaic 'años ha'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "time"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-14. Word-order mirror is the payload."
+  },
+  "createdOn": "2026-07-14",
+  "retiredReason": null,
+  "cue": "Two years ago"
+}

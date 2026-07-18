@@ -1,0 +1,82 @@
+{
+  "id": "0036",
+  "type": "idiom",
+  "es": {
+    "text": "Pagar con la misma moneda",
+    "literal": "to pay with the same coin",
+    "meaning": "To pay someone back in kind; to retaliate the same way.",
+    "example": "Me ignoró, así que le pagué con la misma moneda.",
+    "exampleTranslation": "He ignored me, so I paid him back in kind.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/moneda",
+        "headword": "moneda",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Rendere pan per focaccia",
+    "literal": "to give back bread for focaccia",
+    "meaning": "To pay someone back in kind — usually with interest.",
+    "example": "Mi ha fatto uno sgarbo e io gli ho reso pan per focaccia.",
+    "exampleTranslation": "He slighted me and I gave as good as I got.",
+    "register": "standard",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": "Submitted as 'vendere pan per focaccia' glossed 'pass something off as better than it is'. Web-verified 2026-07-16 against De Mauro/Treccani/Wikipedia: the canonical verb is RENDERE and the meaning is repaying a wrong with equal or GREATER harshness (Boccaccio, Decameron VIII.8). The submitted gloss matches the ETYMOLOGY (the two breads' unequal worth; originally even a positive neighborly-exchange sense) but not modern usage. A human should still open the De Mauro page before approval — web verification is not the sign-off.",
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/rendere-pan-per-focaccia",
+        "headword": "rendere pan per focaccia",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both settle scores in kind, but the ledgers differ: Spanish pays you back con la misma moneda — exact change — while Italian hands back bread where you gave focaccia: repayment with INTEREST, the coarser loaf for the finer. Italian even has the flat calque 'pagare con la stessa moneta'; the idiomatic form is the older, harsher one.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Calquing gives 'pagare con la stessa moneta' — real Italian, but flat; the idiomatic form is rendere pan per focaccia, and it threatens MORE than you got, not the same. Note the clipped 'pan' inside the fixed phrase.",
+      "it_to_es": "Calquing 'devolver pan por focaccia' is not Spanish. Pay them back con la misma moneda."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "revenge",
+    "fairness",
+    "food"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-16 from his Italian teacher contact as 'vendere...'. Verb and meaning corrected and web-verified same day (see it.regionNote). Teacher's gloss traced to real etymology — an interesting error, not a careless one. IT reviewer: confirm 'with interest' nuance vs exact-change 'misma moneda'."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

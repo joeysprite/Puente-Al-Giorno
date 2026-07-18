@@ -1,0 +1,81 @@
+{
+  "id": "0032",
+  "type": "marker",
+  "es": {
+    "text": "O sea",
+    "literal": "or be-it (subjunctive of ser)",
+    "meaning": "That is; I mean — the conversational rephraser.",
+    "example": "Llega el viernes, o sea, pasado mañana.",
+    "exampleTranslation": "She arrives Friday — that is, the day after tomorrow.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Overuse is a class-marked stereotype in both Spain (pijo) and Mexico (fresa) — fine to use, risky to lean on. Reviewer to confirm framing.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/ser",
+        "headword": "ser",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Cioè",
+    "literal": "that is (ciò + è)",
+    "meaning": "That is; I mean — the conversational rephraser.",
+    "example": "Arriva venerdì, cioè dopodomani.",
+    "exampleTranslation": "She arrives Friday — that is, the day after tomorrow.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/cioe/",
+        "headword": "cioè",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Unguessable in either direction, and you'll use it constantly: both languages build their rephraser on 'to be' — o sea is a subjunctive of ser, cioè is ciò+è ('that is') — but nothing on the surface tells you they correspond.",
+    "tags": [
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The calque 'o sia' lands on a real Italian word — ossia — but the wrong one: ossia is formal, written 'or rather'. The conversational filler is cioè.",
+      "it_to_es": "The calque 'eso es' means 'exactly!', not 'I mean'. The rephraser is o sea (conversational) or es decir (formal)."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "discourse",
+    "speech"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-14. The o sea→ossia near-miss (real word, wrong register) is the subtlest trap in the bank so far."
+  },
+  "createdOn": "2026-07-14",
+  "retiredReason": null,
+  "cue": "I mean… / that is to say (self-correcting mid-sentence)"
+}

@@ -1,0 +1,80 @@
+{
+  "pin": null,
+  "pinWindow": null,
+  "season": "summer",
+  "events": [],
+  "themes": [
+    "weather",
+    "body"
+  ],
+  "retiredReason": null,
+  "createdOn": "2026-07-12",
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Kept by editorial decision: technically a collocation, but idiomatic in the sense that matters (HAVE for body states, not BE). Weak as a headline entry — its earning power is the trap, not the expression: estoy caliente / sono caldo both read as arousal. Slot as a summer-season beginner day, never a showcase. Note: schema CEFR floor is A2; there is no A1 value."
+  },
+  "id": "0080",
+  "type": "collocation",
+  "cefr": "A2",
+  "difficulty": 1,
+  "es": {
+    "text": "Tengo calor",
+    "literal": "I have heat",
+    "meaning": "I'm hot (temperature).",
+    "example": "Tengo calor, abre la ventana.",
+    "exampleTranslation": "I'm hot, open the window.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/calor",
+        "headword": "calor",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Ho caldo",
+    "literal": "I have hot",
+    "meaning": "I'm hot (temperature).",
+    "example": "Ho caldo, apri la finestra.",
+    "exampleTranslation": "I'm hot, open the window.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/caldo/",
+        "headword": "caldo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages use HAVE, not BE — and both punish the learner who reaches for BE in exactly the same way. Estoy caliente and sono caldo are each heard as a statement of arousal, not temperature. The parallel is your friend here; do not break it.",
+    "tags": [
+      "interference_risk",
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "An English-influenced Spanish speaker who has learned to avoid 'estoy caliente' sometimes still produces 'sono caldo' in Italian. Same trap, same fix: ho caldo.",
+      "it_to_es": "Mirrored exactly: 'estoy caliente' is the same error as 'sono caldo'. Use tengo calor."
+    }
+  }
+}

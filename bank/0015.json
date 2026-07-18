@@ -1,0 +1,86 @@
+{
+  "id": "0015",
+  "type": "idiom",
+  "es": {
+    "text": "Tener la sartén por el mango",
+    "literal": "to hold the pan by the handle",
+    "meaning": "To be in control; to have the upper hand.",
+    "example": "En esta negociación, ellos tienen la sartén por el mango.",
+    "exampleTranslation": "In this negotiation, they hold the upper hand.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/sart%C3%A9n",
+        "headword": "sartén",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Tenere il coltello dalla parte del manico",
+    "literal": "to hold the knife by the handle end",
+    "meaning": "To be the one in control.",
+    "example": "È lui che tiene il coltello dalla parte del manico.",
+    "exampleTranslation": "He's the one calling the shots.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/coltello",
+        "headword": "coltello",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both grip the handle for control; mango / manico are near-cognates.",
+    "tags": [
+      "cognate_pair",
+      "false_friend",
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": "Spanish mango = handle here, NOT the fruit. Classic false-friend trap."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "power",
+    "negotiation"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Direction of the mango warning assigned it→es on import (the trap bites when reading/producing Spanish); reviewer to confirm."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null,
+  "hook": {
+    "headline": "In Spanish, <span class=\"es-w\">mango</span> is a handle. Not the fruit.",
+    "subhead": "Same grip, same idiom — and a fruit lying in wait."
+  }
+}

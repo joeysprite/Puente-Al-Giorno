@@ -1,0 +1,83 @@
+{
+  "id": "0049",
+  "type": "collocation",
+  "cue": "Say you're starving / dying of hunger (figuratively)",
+  "es": {
+    "text": "Morirse de hambre",
+    "literal": "to die-oneself of hunger",
+    "meaning": "To be starving (figurative); the reflexive marks the hyperbole.",
+    "example": "¿Ya vamos a comer? Me muero de hambre.",
+    "exampleTranslation": "Are we eating soon? I'm starving.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Non-reflexive 'morir de hambre' exists and leans LITERAL (famine, starvation). The -se is doing the figurative work — that contrast is the entry's point.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/morir",
+        "headword": "morir",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Morire di fame",
+    "literal": "to die of hunger",
+    "meaning": "To be starving (figurative) — or literally to starve; context decides.",
+    "example": "Quando mangiamo? Muoio di fame.",
+    "exampleTranslation": "When are we eating? I'm starving.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/morire/",
+        "headword": "morire",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both die of hunger daily and survive — but Spanish has a switch Italian lacks: the reflexive. Morirse (with -se) is the hyperbole; plain morir leans literal. Italian's morire di fame does both jobs and lets context sort it out. The pattern generalizes across the whole family — me muero de risa / de sueño / de ganas — and Italian answers with a preposition twist of its own: morire DAL ridere, DALLA voglia (da + article for the cause), not always di.",
+    "tags": [
+      "interference_risk",
+      "auxiliary_trap"
+    ],
+    "interference": {
+      "es_to_it": "Importing the reflexive gives 'mi muoio di fame' — not Italian; the verb stands alone: muoio di fame. And the family shifts preposition: morire DAL ridere, not 'di ridere'.",
+      "it_to_es": "Dropping the -se gives 'muero de hambre' — grammatical but oddly grave, like an actual famine report. Everyday hunger wants me muero."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "food",
+    "hyperbole",
+    "reflexives"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-17. The morirse/morir figurative-literal split and the dal/di cause-preposition claim are Claude's analysis — both reviewers to confirm; the ES side especially (is bare 'muero de hambre' truly marked, or regionally fine?)."
+  },
+  "createdOn": "2026-07-17",
+  "retiredReason": null
+}

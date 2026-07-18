@@ -1,0 +1,81 @@
+{
+  "id": "0206",
+  "type": "marker",
+  "es": {
+    "text": "En consecuencia",
+    "literal": "in consequence",
+    "meaning": "Consequently; as a result.",
+    "example": "En consecuencia, el proyecto se aplaza.",
+    "exampleTranslation": "Consequently, the project is postponed.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/consecuencia",
+        "headword": "consecuencia",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "di conseguenza",
+    "literal": "of consequence",
+    "meaning": "Consequently; as a result.",
+    "example": "Di conseguenza, il progetto slitta.",
+    "exampleTranslation": "As a result, the project slips.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/conseguenza",
+        "headword": "conseguenza",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "A pure preposition mirror on a shared Latin noun: Italian reaches for di, Spanish for en. One flip to memorise, both directions.",
+    "tags": [
+      "preposition_differs",
+      "cognate_pair"
+    ],
+    "interference": {
+      "es_to_it": "The preposition flips: DI conseguenza, not 'in conseguenza'.",
+      "it_to_es": "Mirror flip: EN consecuencia, not 'de consecuencia'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "discourse",
+    "logic"
+  ],
+  "cefr": "B2",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

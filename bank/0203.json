@@ -1,0 +1,81 @@
+{
+  "id": "0203",
+  "type": "marker",
+  "es": {
+    "text": "A decir verdad",
+    "literal": "at saying truth",
+    "meaning": "To tell the truth; honestly.",
+    "example": "A decir verdad, no me gusta.",
+    "exampleTranslation": "To tell the truth, I don't like it.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/verdad",
+        "headword": "verdad",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "a dire il vero",
+    "literal": "at saying the true",
+    "meaning": "To tell the truth; honestly.",
+    "example": "A dire il vero, non mi piace.",
+    "exampleTranslation": "To be honest, I don't like it.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/vero",
+        "headword": "vero",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Twin openers with a tiny article war: Italian says the-true (il vero), Spanish says bare truth (verdad). Each language finds the other's version slightly off.",
+    "tags": [
+      "cognate_pair",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": "Spanish speakers import their bare noun: 'a dire verità'. Italian wants the article and the adjective-as-noun: a dire IL VERO.",
+      "it_to_es": "Italians add the article: 'a decir la verdad' — heard, but the fixed marker is bare: a decir verdad."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "discourse",
+    "honesty"
+  ],
+  "cefr": "B1",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

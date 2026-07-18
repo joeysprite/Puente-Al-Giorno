@@ -1,0 +1,84 @@
+{
+  "id": "0028",
+  "type": "idiom",
+  "es": {
+    "text": "Dar la vuelta a la tortilla",
+    "literal": "to flip the omelette",
+    "meaning": "To completely reverse a situation, turning it in one's favor.",
+    "example": "Íbamos perdiendo 2-0, pero logramos dar la vuelta a la tortilla y ganamos el partido.",
+    "exampleTranslation": "We were losing 2-0, but we managed to turn things around and won the match.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "es",
+      "mx"
+    ],
+    "regionNote": "tortilla itself is a false friend inside the idiom: omelette in Spain, corn flatbread in Mexico — yet the idiom exists in both. Mexico more commonly says '(se) volteó la tortilla' / 'voltear la tortilla'. DLE lists the locución under 'volver la tortilla'. Reviewer to pick the LatAm-default surface form.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/tortilla",
+        "headword": "tortilla",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Rivoltare la frittata",
+    "literal": "to flip the frittata",
+    "meaning": "To spin a situation to make oneself look better; to twist an argument to dodge blame.",
+    "example": "Ha sbagliato lui, ma ha rivoltato la frittata e ora sembra colpa mia.",
+    "exampleTranslation": "He was the one who made the mistake, but he flipped the frittata and now it looks like it's my fault.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/frittata/",
+        "headword": "frittata",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Nearly identical cooking imagery — a flat egg dish being flipped — hiding a real divergence in meaning. Spanish 'dar la vuelta a la tortilla' is a genuine, often triumphant reversal of fortune; Italian 'rivoltare la frittata' is manipulative — someone distorting the story to dodge blame. The examples show it: Spain's is a comeback, Italy's is an accusation.",
+    "tags": [
+      "shared_metaphor",
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "Using 'rivoltare la frittata' for a genuine comeback misfires badly — you are accusing yourself of spin. For the sports-comeback sense Italian says 'ribaltare la situazione' or 'ribaltare il risultato'.",
+      "it_to_es": "'Dar la vuelta a la tortilla' does not carry the blame-shifting accusation; a Spanish listener hears a neutral or positive turnaround. For manipulative spin Spanish reaches elsewhere (e.g. 'tergiversar')."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "reversal",
+    "blame",
+    "food"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-13. Meaning divergence is the payload. Reviewer to confirm: (a) MX surface form, (b) whether ES side can also carry the negative 'spin' sense in some regions, (c) 'ribaltare la situazione' as the recommended IT alternative."
+  },
+  "createdOn": "2026-07-13",
+  "retiredReason": null,
+  "hook": {
+    "headline": "Both languages flip the same egg dish. Only one of them is <span class=\"it-w\">accusing you</span>.",
+    "subhead": "Spanish flips the tortilla and wins the match. Italian flips the frittata and dodges the blame."
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "0018",
+  "type": "collocation",
+  "es": {
+    "text": "Echar una mano",
+    "literal": "to throw a hand",
+    "meaning": "To lend a hand; to help out.",
+    "example": "¿Me echas una mano con estas cajas?",
+    "exampleTranslation": "Can you give me a hand with these boxes?",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/mano",
+        "headword": "mano",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Dare una mano",
+    "literal": "to give a hand",
+    "meaning": "To help someone out.",
+    "example": "Mi dai una mano con la traduzione?",
+    "exampleTranslation": "Can you give me a hand with the translation?",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/mano",
+        "headword": "mano",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Nearly identical; only the verb differs — Spanish throws the hand (echar), Italian gives it (dare), as English does.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Spanish speakers say 'gettare una mano' in Italian. Wrong — it's dare.",
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "help"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Arguably a collocation rather than an idiom — type flagged accordingly. Restored 2026-07-14 under revised scope: the card teaches the axis, not the phrase."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

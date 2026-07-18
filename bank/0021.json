@@ -1,0 +1,79 @@
+{
+  "id": "0021",
+  "type": "idiom",
+  "es": {
+    "text": "Estar entre la espada y la pared",
+    "literal": "to be between the sword and the wall",
+    "meaning": "To be stuck between two bad options.",
+    "example": "Sin dinero y sin trabajo, estaba entre la espada y la pared.",
+    "exampleTranslation": "Broke and jobless, he was caught between a rock and a hard place.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/espada",
+        "headword": "espada",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Essere tra l'incudine e il martello",
+    "literal": "to be between the anvil and the hammer",
+    "meaning": "To be trapped between two equally bad outcomes.",
+    "example": "Mi trovo tra l'incudine e il martello.",
+    "exampleTranslation": "I'm caught between a rock and a hard place.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/incudine",
+        "headword": "incudine",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish traps you between blade and wall; Italian between anvil and hammer — you are the metal being struck. Both use the 'between two things' frame English fills with rock and hard place.",
+    "tags": [
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "dilemma"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": null
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

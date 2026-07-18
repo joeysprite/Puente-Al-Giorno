@@ -1,0 +1,80 @@
+{
+  "id": "0226",
+  "type": "collocation",
+  "es": {
+    "text": "En promedio",
+    "literal": "in average",
+    "meaning": "On average.",
+    "example": "En promedio duermo siete horas.",
+    "exampleTranslation": "On average I sleep seven hours.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Spain: 'de media'. LatAm: 'en promedio'. Served form should follow the reader's region if we ever localise.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/promedio",
+        "headword": "promedio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "in media",
+    "literal": "in average",
+    "meaning": "On average.",
+    "example": "In media dormo sette ore.",
+    "exampleTranslation": "On average I sleep seven hours.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/media",
+        "headword": "media",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "One phrase, three prepositions: Italian in media, Mexican Spanish en promedio, Peninsular Spanish de media. The Atlantic runs straight through this entry — which is exactly why regions is a required field.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": "Regional split: LatAm says en promedio; Spain says DE media — a preposition flip inside Spanish itself."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "numbers"
+  ],
+  "cefr": "B1",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

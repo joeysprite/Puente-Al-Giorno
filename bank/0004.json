@@ -1,0 +1,80 @@
+{
+  "id": "0004",
+  "type": "idiom",
+  "es": {
+    "text": "Tirar la toalla",
+    "literal": "to throw the towel",
+    "meaning": "To give up; to quit.",
+    "example": "Después de tres intentos fallidos, decidió tirar la toalla.",
+    "exampleTranslation": "After three failed attempts, he decided to give up.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/toalla",
+        "headword": "toalla",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Gettare la spugna",
+    "literal": "to throw the sponge",
+    "meaning": "To give up; to surrender.",
+    "example": "Non gettare la spugna adesso, sei così vicino alla soluzione.",
+    "exampleTranslation": "Don't give up now, you're so close.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/gettare/",
+        "headword": "gettare",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both from boxing. Spanish keeps the towel (as English does); Italian swaps in the sponge, what cutmen historically used.",
+    "tags": [
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "giving_up",
+    "sport"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Supersedes the schema-demo duplicate previously at id 0001; that file is removed."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

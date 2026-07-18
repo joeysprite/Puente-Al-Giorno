@@ -1,0 +1,81 @@
+{
+  "id": "0033",
+  "type": "idiom",
+  "es": {
+    "text": "Menos mal",
+    "literal": "less bad",
+    "meaning": "Thank goodness; what a relief.",
+    "example": "Menos mal que trajiste paraguas.",
+    "exampleTranslation": "Thank goodness you brought an umbrella.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/mal",
+        "headword": "mal",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Meno male",
+    "literal": "less bad",
+    "meaning": "Thank goodness; what a relief.",
+    "example": "Meno male che hai portato l'ombrello.",
+    "exampleTranslation": "Thank goodness you brought the umbrella.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/male",
+        "headword": "male",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Identical down to the joint: menos mal QUE, meno male CHE — same words, same order, same construction. A true freebie, and the card should say so: knowing which transfers are safe is worth as much as knowing which ones bite.",
+    "tags": [
+      "cognate_pair",
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "relief"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-14. Deliberately banked as a labelled freebie — the trust-calibration entry."
+  },
+  "createdOn": "2026-07-14",
+  "retiredReason": null,
+  "cue": "Thank goodness / just as well"
+}

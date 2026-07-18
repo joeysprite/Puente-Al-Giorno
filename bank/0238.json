@@ -1,0 +1,80 @@
+{
+  "id": "0238",
+  "type": "collocation",
+  "es": {
+    "text": "Por lo general",
+    "literal": "for the general",
+    "meaning": "Usually; as a rule.",
+    "example": "Por lo general me levanto a las siete.",
+    "exampleTranslation": "I usually get up at seven.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/general",
+        "headword": "general",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "di solito",
+    "literal": "of usual",
+    "meaning": "Usually; as a rule.",
+    "example": "Di solito mi alzo alle sette.",
+    "exampleTranslation": "I usually get up at seven.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/solito",
+        "headword": "solito",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "No bridge survives here — Italian's di solito and Spanish's por lo general share neither preposition nor noun, and the calques fail loudly in both directions. Some crossings you simply swim.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'De sólito' is not Spanish — the frames don't align at all: por lo general, generalmente, or normalmente.",
+      "it_to_es": "'Per il generale' is nobody's Italian; the everyday adverbial is di solito (or generalmente, shared)."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "habits"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

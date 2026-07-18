@@ -1,0 +1,88 @@
+{
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [
+    {
+      "key": "mx_independence",
+      "requiresEvent": true,
+      "note": "One entry, two national cries — so it appears on each country's day rather than being forced to choose one."
+    },
+    {
+      "key": "festa_repubblica",
+      "requiresEvent": true,
+      "note": "One entry, two national cries — so it appears on each country's day rather than being forced to choose one."
+    }
+  ],
+  "themes": [
+    "national",
+    "celebration"
+  ],
+  "retiredReason": "Formula. Out of scope for v1 — RECOVER IMMEDIATELY if the tear-off calendar goes ahead; a dated page needs dated content.",
+  "createdOn": "2026-07-12",
+  "review": {
+    "status": "retired",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending."
+  },
+  "id": "0070",
+  "type": "formula",
+  "cefr": "A2",
+  "difficulty": 1,
+  "es": {
+    "text": "¡Viva México!",
+    "literal": "long live Mexico",
+    "meaning": "The cry of the Grito, on the night of 15 September.",
+    "example": "El presidente gritó: ¡Viva México!",
+    "exampleTranslation": "The president cried: Long live Mexico!",
+    "register": "standard",
+    "formality": "neutral",
+    "regions": [
+      "mx"
+    ],
+    "regionNote": "Mexico-specific. The Grito is the night of the 15th; the holiday is the 16th.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/vivir",
+        "headword": "vivir",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Viva l'Italia!",
+    "literal": "long live Italy",
+    "meaning": "Patriotic cry, heard on 2 June.",
+    "example": "Viva l'Italia, viva la Repubblica!",
+    "exampleTranslation": "Long live Italy, long live the Republic!",
+    "register": "standard",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/viva/",
+        "headword": "viva",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Identical construction: a fossilised subjunctive of 'to live' used as a cheer. Spanish keeps the accent (¡Viva!), Italian does not. Note the two nations do not share a date — this entry attaches to BOTH occasions and surfaces twice a year.",
+    "tags": [
+      "cognate_pair"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": "Italians forget the opening ¡ in Spanish."
+    }
+  }
+}

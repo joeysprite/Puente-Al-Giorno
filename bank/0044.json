@@ -1,0 +1,82 @@
+{
+  "id": "0044",
+  "type": "idiom",
+  "es": {
+    "text": "Como caído del cielo",
+    "literal": "as if fallen from the sky",
+    "meaning": "Heaven-sent; arriving exactly when needed (POSITIVE).",
+    "example": "Ese dinero llegó como caído del cielo.",
+    "exampleTranslation": "That money was a godsend.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/cielo",
+        "headword": "cielo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Cadere dalle nuvole",
+    "literal": "to fall from the clouds",
+    "meaning": "To be stunned by unexpected news; taken completely aback (SURPRISE).",
+    "example": "Quando gliel'ho detto, è caduto dalle nuvole.",
+    "exampleTranslation": "When I told him, he was flabbergasted.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/nuvola/",
+        "headword": "nuvola",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both fall from the sky and land in different sentences: in Spanish the THING falls (a godsend, welcome), in Italian the PERSON falls (astonished, often unpleasantly). Near-identical imagery, disjoint meanings — the frittata pattern again, this time with weather.",
+    "tags": [
+      "false_friend",
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": "Using 'caduto dalle nuvole' for a godsend miscasts you as the shocked one; the welcome arrival is 'piovuto dal cielo'.",
+      "it_to_es": "Using 'caído del cielo' for astonishment fails — Spanish surprise falls elsewhere: 'quedarse de piedra' (entry 0012)."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "surprise",
+    "luck",
+    "weather"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Discovered via FluentU list (Joe, 2026-07-16); all content authored fresh, ES pairing by Claude — verify. False-friend-inside-imagery, same class as 0028. Hook candidate."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

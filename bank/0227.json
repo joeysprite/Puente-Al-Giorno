@@ -1,0 +1,79 @@
+{
+  "id": "0227",
+  "type": "collocation",
+  "es": {
+    "text": "En silencio",
+    "literal": "in silence",
+    "meaning": "In silence; silently.",
+    "example": "Escuchaba en silencio.",
+    "exampleTranslation": "She listened in silence.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/silencio",
+        "headword": "silencio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "in silenzio",
+    "literal": "in silence",
+    "meaning": "In silence; silently.",
+    "example": "Ascoltava in silenzio.",
+    "exampleTranslation": "She listened in silence.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/silenzio",
+        "headword": "silenzio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Identical, and labelled so on purpose: after twenty preposition flips, the reader deserves to know which crossings are safe. This one is.",
+    "tags": [
+      "cognate_pair"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "manner"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

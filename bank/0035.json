@@ -1,0 +1,81 @@
+{
+  "id": "0035",
+  "type": "collocation",
+  "es": {
+    "text": "Valer la pena",
+    "literal": "to be worth the sorrow",
+    "meaning": "To be worth it; worth the effort.",
+    "example": "Vale la pena intentarlo.",
+    "exampleTranslation": "It's worth a try.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Peninsular Spanish also says 'merecer la pena'; 'valer la pena' is the pan-Hispanic default. Reviewer to confirm.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/pena",
+        "headword": "pena",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Valere la pena",
+    "literal": "to be worth the sorrow",
+    "meaning": "To be worth it; worth the effort.",
+    "example": "Ne vale la pena.",
+    "exampleTranslation": "It's worth it.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/pena/",
+        "headword": "pena",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "A near-perfect cognate pair — same verb, same 'pena' — with one small Italian word doing all the damage: ne. Italian says NE vale la pena ('it's worth it [of it]'), and that partitive has no Spanish counterpart to map from. The same ne from entry 0026, earning its keep again.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Spanish speakers say 'vale la pena' in Italian — understood, but the idiomatic pronoun is missing. With a referent, it's ne vale la pena.",
+      "it_to_es": "No trap this direction: Italians dropping ne land on exactly the right Spanish."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "worth",
+    "effort"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-16 (Italian side). The ne trap cross-references 0026. Pairs as a themed day with it."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

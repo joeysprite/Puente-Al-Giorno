@@ -1,0 +1,80 @@
+{
+  "id": "0010",
+  "type": "idiom",
+  "es": {
+    "text": "Meter la pata",
+    "literal": "to put in the paw",
+    "meaning": "To mess up; to make an embarrassing mistake.",
+    "example": "Metí la pata olvidando su nombre.",
+    "exampleTranslation": "I messed up by forgetting his name.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://www.rae.es/gtg/locuci%C3%B3n-verbal",
+        "headword": "locución verbal",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Fare una figuraccia",
+    "literal": "to make an ugly figure",
+    "meaning": "To embarrass oneself; to make a bad impression.",
+    "example": "Ho fatto una figuraccia davanti a tutti.",
+    "exampleTranslation": "I embarrassed myself in front of everyone.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/figuraccia",
+        "headword": "figuraccia",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Not a true match: Spanish is about making a blunder; Italian is about the social embarrassment that results. Related but distinct — worth teaching the nuance rather than pretending they're equivalents.",
+    "tags": [
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "figuraccia is the pejorative of figura (the -accia suffix). Learning the suffix pays off broadly.",
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "mistakes",
+    "embarrassment"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Pairing is imperfect — reviewer should confirm whether to keep or re-pair."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

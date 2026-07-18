@@ -1,0 +1,80 @@
+{
+  "id": "0023",
+  "type": "idiom",
+  "es": {
+    "text": "Ir al grano",
+    "literal": "to go to the grain",
+    "meaning": "To get to the point.",
+    "example": "Vamos al grano, no tenemos mucho tiempo.",
+    "exampleTranslation": "Let's get to the point, we don't have much time.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/grano",
+        "headword": "grano",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Andare al sodo",
+    "literal": "to go to the solid part",
+    "meaning": "To get to the heart of the matter.",
+    "example": "Andiamo al sodo: quanto costa?",
+    "exampleTranslation": "Let's cut to the chase: how much does it cost?",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/sodo",
+        "headword": "sodo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both strip away the husk: Spanish reaches the grain, Italian the sodo (firm core). Both stay polite in professional register — useful meeting phrases.",
+    "tags": [
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "communication",
+    "business"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": null
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

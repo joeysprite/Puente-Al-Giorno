@@ -1,0 +1,86 @@
+{
+  "id": "0120",
+  "type": "idiom",
+  "cefr": "B2",
+  "difficulty": 3,
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "themes": [
+    "sport",
+    "achievement"
+  ],
+  "createdOn": "2026-07-13",
+  "retiredReason": null,
+  "events": [
+    {
+      "key": "olympics",
+      "requiresEvent": false,
+      "note": "The Games are on. This one is useful year-round, but it earns its keep this fortnight."
+    }
+  ],
+  "es": {
+    "text": "Dar la talla",
+    "literal": "to give the size",
+    "meaning": "To measure up; to be good enough for the occasion.",
+    "example": "No dio la talla en la final.",
+    "exampleTranslation": "He didn't measure up in the final.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "es",
+      "mx",
+      "ar"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/talla",
+        "headword": "talla",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Essere all'altezza",
+    "literal": "to be at the height",
+    "meaning": "To measure up; to be equal to the task.",
+    "example": "Non è stato all'altezza della finale.",
+    "exampleTranslation": "He wasn't up to the final.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/altezza/",
+        "headword": "altezza",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both reach for measurement, but along different axes: Spanish measures your SIZE (talla, as in clothing), Italian measures your HEIGHT. And the registers part company — dar la talla is colloquial and would cost you marks in a DELE oral, while essere all'altezza is neutral enough for the CILS.",
+    "tags": [
+      "register_differs",
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": "'Dare la taglia' is not Italian — taglia is a clothing size and nothing else. Use essere all'altezza.",
+      "it_to_es": "'Estar a la altura' does exist in Spanish and is the safer, more formal choice; dar la talla is its colloquial cousin."
+    }
+  },
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending."
+  }
+}

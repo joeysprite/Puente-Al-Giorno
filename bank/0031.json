@@ -1,0 +1,82 @@
+{
+  "id": "0031",
+  "type": "marker",
+  "es": {
+    "text": "Ojalá",
+    "literal": "God willing (from Arabic law šaʾa llāh)",
+    "meaning": "I hope so; if only — a wish particle that pulls the subjunctive.",
+    "example": "Ojalá venga mañana.",
+    "exampleTranslation": "I hope she comes tomorrow.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/ojal%C3%A1",
+        "headword": "ojalá",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Magari",
+    "literal": "blessed (from Greek makári)",
+    "meaning": "If only; I wish — and, separately, 'maybe'.",
+    "example": "Magari venisse domani!",
+    "exampleTranslation": "If only she came tomorrow!",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/magari/",
+        "headword": "magari",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Two wish-particles, each a fossil of a different empire: ojalá is Arabic ('if God wills'), magari is Greek ('blessed'). The two peninsulas' histories compressed into one word each. Both pull the subjunctive — but magari moonlights as 'maybe' (magari vengo domani = maybe I'll come), a job ojalá never does.",
+    "tags": [
+      "interference_risk",
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "Hearing magari as pure ojalá misparses half its uses: 'magari vengo domani' is 'maybe I'll come', not a wish. Context and mood decide — indicative magari is 'maybe', subjunctive magari is a wish.",
+      "it_to_es": "Deploying ojalá to mean 'maybe' fails — Spanish splits the jobs: quizá / a lo mejor for maybe, ojalá only for wishes."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "wishes",
+    "subjunctive"
+  ],
+  "cefr": "B1",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-14. Etymology pair (Arabic vs Greek) is a card-front gift. Exclamative 'Magari!' = 'I wish!' worth a reviewer check as third sense."
+  },
+  "createdOn": "2026-07-14",
+  "retiredReason": null,
+  "cue": "Hopefully / I wish (introducing a hope)"
+}

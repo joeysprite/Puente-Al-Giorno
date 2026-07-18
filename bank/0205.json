@@ -1,0 +1,81 @@
+{
+  "id": "0205",
+  "type": "collocation",
+  "es": {
+    "text": "A toda costa",
+    "literal": "at all cost",
+    "meaning": "At all costs; no matter what.",
+    "example": "Quiere ganar a toda costa.",
+    "exampleTranslation": "She wants to win at all costs.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/costa",
+        "headword": "costa",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "a tutti i costi",
+    "literal": "at all the costs",
+    "meaning": "At all costs; no matter what.",
+    "example": "Vuole vincere a tutti i costi.",
+    "exampleTranslation": "She wants to win at all costs.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/costi",
+        "headword": "costi",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same vow, different arithmetic: Italian pays all the costs (plural), Spanish pays at all cost (singular) — and Spanish costa here is an old word for expense, not the seaside.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk",
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "Spanish singular pulls 'a tutto il costo' — Italian counts the costs: a tutti i costi, plural.",
+      "it_to_es": "Italian plural pulls 'a todas las costas' — Spanish keeps one indivisible costa (and costa here is not the coast)."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "determination"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

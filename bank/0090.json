@@ -1,0 +1,78 @@
+{
+  "pin": null,
+  "pinWindow": null,
+  "season": "winter",
+  "events": [],
+  "themes": [
+    "weather"
+  ],
+  "retiredReason": null,
+  "createdOn": "2026-07-12",
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending."
+  },
+  "id": "0090",
+  "type": "idiom",
+  "cefr": "B2",
+  "difficulty": 3,
+  "es": {
+    "text": "Hace un frío que pela",
+    "literal": "it makes a cold that peels",
+    "meaning": "It's bitterly cold.",
+    "example": "Ponte el abrigo, hace un frío que pela.",
+    "exampleTranslation": "Put your coat on, it's freezing.",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "es",
+      "mx"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/frio",
+        "headword": "frío",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Fa un freddo cane",
+    "literal": "it makes a dog cold",
+    "meaning": "It's bitterly cold.",
+    "example": "Copriti, fa un freddo cane.",
+    "exampleTranslation": "Bundle up, it's freezing.",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/freddo/",
+        "headword": "freddo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both build the intensifier onto the 'it makes cold' frame, but the intensifier itself is untranslatable in each direction: Spanish peels, Italian reaches for a dog. Neither image survives the crossing.",
+    "tags": [
+      "register_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Calquing gives 'fa un freddo che pela' — comprehensible, not idiomatic. Italian says freddo cane or freddo boia.",
+      "it_to_es": "'Hace un frío perro' is not Spanish. Use que pela."
+    }
+  }
+}

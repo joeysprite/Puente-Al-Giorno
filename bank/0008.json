@@ -1,0 +1,79 @@
+{
+  "id": "0008",
+  "type": "idiom",
+  "es": {
+    "text": "Dar en el clavo",
+    "literal": "to hit on the nail",
+    "meaning": "To be exactly right.",
+    "example": "Diste en el clavo con esa respuesta.",
+    "exampleTranslation": "You hit the nail on the head with that answer.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/clavo",
+        "headword": "clavo",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Cogliere nel segno",
+    "literal": "to catch in the mark",
+    "meaning": "To get something exactly right.",
+    "example": "Hai colto nel segno con la tua analisi.",
+    "exampleTranslation": "You hit the mark with your analysis.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/cogliere/",
+        "headword": "cogliere",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish uses the nail, as English does; Italian aims at a target (segno). cogliere is a high-value B1 verb — see also cogliere l'occasione.",
+    "tags": [
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "accuracy"
+  ],
+  "cefr": "B1",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "IT past participle 'colto' is irregular — worth surfacing in the UI."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

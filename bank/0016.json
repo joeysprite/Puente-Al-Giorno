@@ -1,0 +1,81 @@
+{
+  "id": "0016",
+  "type": "proverb",
+  "es": {
+    "text": "A caballo regalado no le mires el diente",
+    "literal": "to a gifted horse don't look at the tooth",
+    "meaning": "Don't find fault with a gift.",
+    "example": "Es usado, pero gratis: a caballo regalado no le mires el diente.",
+    "exampleTranslation": "It's used, but free — don't look a gift horse in the mouth.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Variants exist (…no le mires el dentado / el colmillo). Reviewer to pick the LatAm-default form.",
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58047&Lng=0",
+        "headword": "ficha 58047",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "A caval donato non si guarda in bocca",
+    "literal": "to a donated horse one does not look in the mouth",
+    "meaning": "Don't find fault with something given freely.",
+    "example": "È di seconda mano ma gratis — a caval donato non si guarda in bocca.",
+    "exampleTranslation": "It's secondhand but free — don't look a gift horse in the mouth.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58047&Lng=0",
+        "headword": "ficha 58047 (Italian equivalent)",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "A proverb shared across Spanish, Italian, and English. caval is the clipped poetic form of cavallo.",
+    "tags": [
+      "shared_metaphor",
+      "cognate_pair"
+    ],
+    "interference": {
+      "es_to_it": "The Italian uses impersonal si (non si guarda) — a B1 structure worth isolating.",
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "gifts",
+    "gratitude"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Cervantes Refranero documents both sides in one record — the ideal source type for this product."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

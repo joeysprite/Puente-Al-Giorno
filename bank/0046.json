@@ -1,0 +1,82 @@
+{
+  "id": "0046",
+  "type": "marker",
+  "cue": "Tell someone to take it slow / easy does it",
+  "es": {
+    "text": "Despacito",
+    "literal": "little-slowly (diminutive)",
+    "meaning": "Slowly, gently; easy does it — softened by the diminutive.",
+    "example": "Despacito, que el piso está mojado.",
+    "exampleTranslation": "Easy now — the floor is wet.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/despacio",
+        "headword": "despacio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Piano piano",
+    "literal": "slowly slowly (reduplicated)",
+    "meaning": "Slowly, gently; little by little; easy does it.",
+    "example": "Piano piano, che il pavimento è bagnato.",
+    "exampleTranslation": "Easy now — the floor is wet.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/piano2/",
+        "headword": "piano",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same soothing instruction built by two different machines: Italian softens by SAYING IT TWICE (piano piano — reduplication), Spanish by SHRINKING THE WORD (despacio → despacito, the diminutive). Each language reaches for its favorite intensity dial. Both also drift into 'little by little' territory — cross-reference 0234 (a poco a poco / poco a poco), and Mexico even reduplicates the diminutive: poquito a poquito.",
+    "tags": [
+      "interference_risk",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "Spanish speakers under-use Italian reduplication — it feels childlike to them, but piano piano, pian piano, zitto zitto, sotto sotto are fully adult Italian.",
+      "it_to_es": "Italians importing reduplication produce 'despacio despacio' — understood, marked; the Spanish softener is the diminutive: despacito."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "manner",
+    "morphology"
+  ],
+  "cefr": "A2",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-17. The reduplication-vs-diminutive axis generalizes far past this pair — candidate for a themed sequence."
+  },
+  "createdOn": "2026-07-17",
+  "retiredReason": null
+}

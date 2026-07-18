@@ -1,0 +1,81 @@
+{
+  "id": "0210",
+  "type": "marker",
+  "es": {
+    "text": "Con todo respeto",
+    "literal": "with all respect",
+    "meaning": "With all due respect.",
+    "example": "Con todo respeto, no estoy de acuerdo.",
+    "exampleTranslation": "With all due respect, I disagree.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Peninsular usage often keeps the article (con todo el respeto); LatAm default is bare. Reviewer to confirm.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/respeto",
+        "headword": "respeto",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "con tutto il rispetto",
+    "literal": "with all the respect",
+    "meaning": "With all due respect.",
+    "example": "Con tutto il rispetto, dissento.",
+    "exampleTranslation": "With all due respect, I disagree.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/rispetto",
+        "headword": "rispetto",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The article war again, in the politest possible sentence: Italian respects THE respect, Spanish respects it bare. The disagreement that follows is identical.",
+    "tags": [
+      "preposition_differs",
+      "cognate_pair"
+    ],
+    "interference": {
+      "es_to_it": "Spanish drops the article; Italian insists: con tutto IL rispetto.",
+      "it_to_es": "Italians add it: 'con todo el respeto' — heard in Spain, but the pan-Hispanic fixed form is bare."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "politeness",
+    "disagreement"
+  ],
+  "cefr": "B1",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

@@ -1,0 +1,81 @@
+{
+  "id": "0229",
+  "type": "collocation",
+  "es": {
+    "text": "Por casualidad",
+    "literal": "for chance",
+    "meaning": "By chance; by any chance.",
+    "example": "¿Por casualidad viste mis llaves?",
+    "exampleTranslation": "Did you by any chance see my keys?",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Mexico also says 'de casualidad'. Reviewer to confirm which fronts.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/casualidad",
+        "headword": "casualidad",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "per caso",
+    "literal": "for chance",
+    "meaning": "By chance; by any chance.",
+    "example": "Hai visto per caso le mie chiavi?",
+    "exampleTranslation": "Have you by any chance seen my keys?",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/caso",
+        "headword": "caso",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same preposition for once (per/por) — the mismatch moved into the noun: Italian's clipped caso against Spanish's four-syllable casualidad. Each language thinks the other's version is the wrong length.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Per casualità' overshoots — Italian keeps it short: per caso.",
+      "it_to_es": "'Por caso' undershoots — Spanish spends the full noun: por casualidad (MX also 'de casualidad')."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "chance",
+    "questions"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

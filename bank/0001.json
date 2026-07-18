@@ -1,0 +1,81 @@
+{
+  "id": "0001",
+  "type": "idiom",
+  "es": {
+    "text": "Estar en las nubes",
+    "literal": "to be in the clouds",
+    "meaning": "To be daydreaming or distracted.",
+    "example": "Perdona, ¿qué decías? Estaba en las nubes.",
+    "exampleTranslation": "Sorry, what were you saying? I was off in the clouds.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/nube",
+        "headword": "nube",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere la testa tra le nuvole",
+    "literal": "to have one's head among the clouds",
+    "meaning": "To be absent-minded; not paying attention.",
+    "example": "Oggi non riesco a concentrarmi, ho la testa tra le nuvole.",
+    "exampleTranslation": "I can't focus today, my head's in the clouds.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/ricerca/avere+la+testa+tra+le+nuvole/",
+        "headword": "nuvola",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same metaphor, different grammar: Spanish puts you in the clouds; Italian puts only your head there.",
+    "tags": [
+      "shared_metaphor",
+      "cognate_pair"
+    ],
+    "interference": {
+      "es_to_it": "Italian takes avere here, not essere — ho la testa tra le nuvole.",
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "attention",
+    "weather"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Source spot-checked in Treccani; RAE entry not opened. Direction of warning assigned es→it on import; reviewer to confirm."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

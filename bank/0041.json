@@ -1,0 +1,81 @@
+{
+  "id": "0041",
+  "type": "idiom",
+  "es": {
+    "text": "Cada muerte de obispo",
+    "literal": "every death of a bishop",
+    "meaning": "Once in a blue moon; very rarely.",
+    "example": "Nos vemos cada muerte de obispo.",
+    "exampleTranslation": "We see each other once in a blue moon.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "ar",
+      "co"
+    ],
+    "regionNote": "LatAm form; Spain also knows 'de Pascuas a Ramos' and 'de uvas a peras'. Reviewer to confirm MX currency.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/obispo",
+        "headword": "obispo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Ogni morte di papa",
+    "literal": "every death of a pope",
+    "meaning": "Once in a blue moon; very rarely.",
+    "example": "Ci sentiamo ogni morte di papa.",
+    "exampleTranslation": "We talk once in a blue moon.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/papa1/",
+        "headword": "papa",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same joke told at different ranks: rarity measured in clerical funerals — Italy waits for a pope to die, Latin America only for a bishop. The hierarchy gap is the delight: same Church, same morbid clock, calibrated to local ecclesiastical supply.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Promoting the cleric — 'ogni morte di vescovo' — gets a laugh, not the idiom. In Italy only the pope's death keeps time.",
+      "it_to_es": "Demoting works no better: 'cada muerte de papa' is understood and marked. The Spanish clock runs on bishops."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "rarity",
+    "religion",
+    "humor"
+  ],
+  "cefr": "B2",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Discovered via FluentU list (Joe, 2026-07-16); all content authored fresh, ES pairing by Claude — verify. Hook candidate: 'Italy waits for a pope to die. Mexico only needs a bishop.'"
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

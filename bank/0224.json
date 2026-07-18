@@ -1,0 +1,81 @@
+{
+  "id": "0224",
+  "type": "marker",
+  "es": {
+    "text": "En todo caso",
+    "literal": "in all case",
+    "meaning": "In any case; anyway.",
+    "example": "En todo caso, te llamo mañana.",
+    "exampleTranslation": "In any case, I'll call you tomorrow.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/caso",
+        "headword": "caso",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "in ogni caso",
+    "literal": "in every case",
+    "meaning": "In any case; anyway.",
+    "example": "In ogni caso, ti chiamo domani.",
+    "exampleTranslation": "In any case, I'll call you tomorrow.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/caso",
+        "headword": "caso",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Italian counts cases one by one (ogni), Spanish takes them wholesale (todo) — the same quantifier mirror as con ogni probabilità / con toda probabilidad. Once you see the pattern, both entries teach each other.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The ogni/toda split again (see con ogni probabilità): 'in tutto caso' is not Italian.",
+      "it_to_es": "'En cada caso' means literally in each case — the marker is en todo caso."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "discourse",
+    "concession"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

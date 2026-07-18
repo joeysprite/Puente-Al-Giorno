@@ -1,0 +1,81 @@
+{
+  "id": "0235",
+  "type": "collocation",
+  "es": {
+    "text": "En voz alta",
+    "literal": "in voice high",
+    "meaning": "Out loud; aloud.",
+    "example": "Lee en voz alta.",
+    "exampleTranslation": "Read out loud.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/alta",
+        "headword": "alta",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "a voce alta",
+    "literal": "at voice high",
+    "meaning": "Out loud; aloud.",
+    "example": "Leggi a voce alta.",
+    "exampleTranslation": "Read out loud.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/alta",
+        "headword": "alta",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Twin phrases, mirrored particles — and a nice classroom pair with a memoria / de memoria: Italian flips one way on memory and the other way on voice. There is no rule; there is only the list. That's the pedagogy.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "EN pulls 'in voce alta' — Italian projects AT high voice: a voce alta.",
+      "it_to_es": "A pulls 'a voz alta' — close, but the fixed Spanish is en voz alta (a voces = shouting, a different register)."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "speech",
+    "learning"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

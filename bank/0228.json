@@ -1,0 +1,80 @@
+{
+  "id": "0228",
+  "type": "collocation",
+  "es": {
+    "text": "De prisa",
+    "literal": "of hurry",
+    "meaning": "Quickly; in a hurry.",
+    "example": "Comió de prisa.",
+    "exampleTranslation": "He ate in a hurry.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/prisa",
+        "headword": "prisa",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "in fretta",
+    "literal": "in hurry",
+    "meaning": "Quickly; in a hurry.",
+    "example": "Ha mangiato in fretta.",
+    "exampleTranslation": "He ate in a hurry.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/fretta",
+        "headword": "fretta",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Hurry sits IN Italian and comes OF Spanish (de prisa) — with the extra wrinkle that Spanish fused its version into a single word, deprisa, without changing anything. The flip only really bites going it→es.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "DE pulls 'di fretta' — which Italian actually accepts (di fretta exists!) but the neutral form is in fretta. Low-stakes flip.",
+      "it_to_es": "IN pulls 'en prisa' — not Spanish. De prisa (also spelled deprisa), or MX colloquial 'a las carreras'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "speed"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

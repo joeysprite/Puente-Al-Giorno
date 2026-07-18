@@ -1,0 +1,80 @@
+{
+  "id": "0215",
+  "type": "collocation",
+  "es": {
+    "text": "Por mi cuenta",
+    "literal": "for my account",
+    "meaning": "On my own; by myself; for my part.",
+    "example": "Prefiero trabajar por mi cuenta.",
+    "exampleTranslation": "I prefer working on my own.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/cuenta",
+        "headword": "cuenta",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "per conto mio",
+    "literal": "for account mine",
+    "meaning": "On my own; by myself; for my part.",
+    "example": "Preferisco lavorare per conto mio.",
+    "exampleTranslation": "I prefer working on my own.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/mio",
+        "headword": "mio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same ledger metaphor (your own account), possessive on opposite sides of the noun. A tidy little word-order mirror — and in both languages it also means 'in my opinion', quietly.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Word order flips: Italian postposes the possessive (conto MIO); importing Spanish order gives 'per mio conto' — which Italians actually also say, but the fixed everyday form postposes.",
+      "it_to_es": "Italian order pulls 'por cuenta mía' — grammatical, marked; the neutral form is por mi cuenta."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "independence"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm."
+  },
+  "createdOn": "2026-07-16",
+  "retiredReason": null
+}

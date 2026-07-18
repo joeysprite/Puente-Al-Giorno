@@ -1,0 +1,77 @@
+{
+  "id": "0026",
+  "type": "idiom",
+  "es": {
+    "text": "Estar hasta las narices",
+    "literal": "to be up to the nostrils",
+    "meaning": "To be fed up; to have had enough.",
+    "example": "Estoy hasta las narices de sus excusas.",
+    "exampleTranslation": "I'm fed up with his excuses.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "es"
+    ],
+    "regionNote": "PENINSULAR. In Mexico the common equivalents are 'estar harto' (neutral) or 'estar hasta la madre' (vulgar — do NOT ship as a neutral equivalent). Needs a proper LatAm variant.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/nariz",
+        "headword": "nariz",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Averne fin sopra i capelli",
+    "literal": "to have it up over the hair",
+    "meaning": "To be completely fed up.",
+    "example": "Ne ho fin sopra i capelli di questa situazione.",
+    "exampleTranslation": "I've had it up to here with this situation.",
+    "register": "standard",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/capello",
+        "headword": "capello",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both measure exasperation by how high it has risen — Spanish to the nose, Italian above the hair.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The Italian partitive ne is doing real work (ne ho fin sopra i capelli) and is a B1 marker Spanish speakers routinely drop.",
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "frustration"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side has the sharpest regional problem in the bank — the natural MX equivalent is vulgar. Tag interference_risk added on import to match the ne warning; original had shared_metaphor only."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

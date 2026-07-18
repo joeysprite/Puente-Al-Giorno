@@ -1,0 +1,82 @@
+{
+  "id": "0012",
+  "type": "idiom",
+  "es": {
+    "text": "Quedarse de piedra",
+    "literal": "to remain of stone",
+    "meaning": "To be stunned; frozen in shock.",
+    "example": "Cuando me lo contó, me quedé de piedra.",
+    "exampleTranslation": "When she told me, I was stunned.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "es",
+      "mx"
+    ],
+    "regionNote": "Peninsular-leaning. Mexican speakers often prefer 'quedarse helado'. Reviewer to confirm LatAm currency.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/piedra",
+        "headword": "piedra",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Rimanere di sasso",
+    "literal": "to remain of stone",
+    "meaning": "To be left speechless with shock.",
+    "example": "Sono rimasto di sasso alla notizia.",
+    "exampleTranslation": "I was stunned at the news.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/sasso",
+        "headword": "sasso",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Twin idioms — both turn you to stone, both use a 'remain' verb.",
+    "tags": [
+      "shared_metaphor",
+      "auxiliary_trap"
+    ],
+    "interference": {
+      "es_to_it": "HIGH VALUE: rimanere takes essere — sono rimasto di sasso. Spanish speakers reach for 'ho rimasto'. This is a flagship interference entry.",
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "shock"
+  ],
+  "cefr": "B1",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Best auxiliary-trap teaching entry in the bank so far. Overlaps deliberately with 0027 (quedarse/rimanere, the bare collocation)."
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null,
+  "hook": {
+    "headline": "You will say <span class=\"it-w\">ho rimasto</span>. No Italian ever has.",
+    "subhead": "Spanish has one perfect auxiliary. Italian has two, and rimanere takes the other one."
+  }
+}
