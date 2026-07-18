@@ -1,0 +1,83 @@
+{
+  "id": "0053",
+  "type": "proverb",
+  "cue": "Promise to return a favor",
+  "es": {
+    "text": "Hoy por ti, mañana por mí",
+    "literal": "today for you, tomorrow for me",
+    "meaning": "I help you now, you help me later — reciprocity between equals.",
+    "example": "No te preocupes, yo te cubro el turno: hoy por ti, mañana por mí.",
+    "exampleTranslation": "Don't worry, I'll cover your shift — you'd do the same for me.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/",
+        "headword": "hoy",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Oggi a me, domani a te",
+    "literal": "today to me, tomorrow to you",
+    "meaning": "What happens to me now will happen to you later — reciprocity, and often a warning.",
+    "example": "Tocca a me oggi, ma oggi a me, domani a te.",
+    "exampleTranslation": "It's my turn today — but your turn comes.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": "Claude's claim: the Italian leans darker (traditionally inscribed on cemeteries — the dead addressing the living). Reviewer to confirm before this is used as the entry's payload.",
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/oggi",
+        "headword": "oggi",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The two halves are swapped, and the mood swaps with them. Spanish starts with YOU — today's favor is mine to give, tomorrow's is yours: warm, transactional, between friends. Italian starts with ME, and the reciprocity it promises is often misfortune rather than help. Same structure, reversed perspective, opposite temperature.",
+    "tags": [
+      "false_friend",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "Word-for-word 'oggi per te, domani per me' misses the fixed Italian order — and the fixed Italian carries a shadow the Spanish does not.",
+      "it_to_es": "Reading the Spanish as ominous misfires; between colleagues it simply means I've got you covered."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "reciprocity",
+    "friendship",
+    "fate"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's proverb list 2026-07-18 (discovered via learner sites; all glosses and examples authored fresh). IT counterpart chosen by Claude from recall — UNVERIFIED, reviewer to confirm the pairing exists and is current. Perspective-reversal entry. The cemetery claim needs confirming or cutting."
+  },
+  "createdOn": "2026-07-18",
+  "retiredReason": null
+}

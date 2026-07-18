@@ -1,0 +1,83 @@
+{
+  "id": "0050",
+  "type": "idiom",
+  "cue": "Say someone has good sense (not book-learning)",
+  "es": {
+    "text": "Tener dos dedos de frente",
+    "literal": "to have two fingers of forehead",
+    "meaning": "To have common sense; to show basic good judgment. Usually heard in the negative.",
+    "example": "Si tuviera dos dedos de frente, no habría firmado ese contrato.",
+    "exampleTranslation": "If he had any sense, he wouldn't have signed that contract.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "es",
+      "mx",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Understood pan-regionally; reviewer to confirm how current it is in Mexico versus plainer 'tener cabeza'. The image is phrenological — forehead height read as intelligence.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/dedo",
+        "headword": "dedo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere sale in zucca",
+    "literal": "to have salt in the gourd",
+    "meaning": "To have good sense; to be sensible. Usually heard in the negative.",
+    "example": "Se avesse un po' di sale in zucca, non firmerebbe quel contratto.",
+    "exampleTranslation": "If he had any sense, he wouldn't sign that contract.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": "zucca is colloquial for 'head'. Related: 'essere una zucca vuota' — an empty gourd, i.e. a fool.",
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/zucca/",
+        "headword": "zucca",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages measure sense by a physical quantity in the head — and both mostly use it to say someone hasn't got any. Spanish measures the forehead in finger-widths, a leftover of reading intelligence off the skull; Italian measures salt in the gourd, salt being both precious and, since Latin sal, a word for wit. Neither is about knowledge: you can have a doctorate and still, in both languages, be short two fingers or an empty gourd.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Due dita di fronte' is not the Italian idiom — the sense lives in the gourd: avere sale in zucca.",
+      "it_to_es": "'Tener sal en la calabaza' means nothing in Spanish. The measure is the forehead: dos dedos de frente."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "wisdom",
+    "judgment",
+    "insults"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Banked 2026-07-18 from the candidates queue, prompted by Joe's interest in the knowledge/wisdom distinction. Both sides and the pairing are Claude's; the Latin sal = wit/salt link and the phrenological reading of 'dos dedos de frente' are Claude's etymological claims, unverified — reviewers to confirm or cut. ES reviewer: is this current in MX?"
+  },
+  "createdOn": "2026-07-18",
+  "retiredReason": null
+}

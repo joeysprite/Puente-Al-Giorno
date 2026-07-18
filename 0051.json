@@ -1,0 +1,82 @@
+{
+  "id": "0051",
+  "type": "proverb",
+  "cue": "Warn someone that dozing off costs them",
+  "es": {
+    "text": "Camarón que se duerme se lo lleva la corriente",
+    "literal": "shrimp that falls asleep is carried off by the current",
+    "meaning": "Snooze and you lose — inattention gets you swept away.",
+    "example": "Manda la solicitud hoy: camarón que se duerme se lo lleva la corriente.",
+    "exampleTranslation": "Send the application today — you snooze, you lose.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "co",
+      "ar"
+    ],
+    "regionNote": "Strongly Mexican and pan-LatAm; less current in Spain. Reviewer to confirm.",
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/",
+        "headword": "camarón",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Chi dorme non piglia pesci",
+    "literal": "who sleeps catches no fish",
+    "meaning": "The sleeper catches nothing — idleness costs you.",
+    "example": "Muoviti: chi dorme non piglia pesci.",
+    "exampleTranslation": "Get moving — the early bird gets the worm.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/dormire/",
+        "headword": "dormire",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both proverbs punish sleep by water, and both are wonderfully unfair about it. Italian blames the fisherman: doze off and you simply catch nothing. Spanish demotes you to the prey — you are the shrimp, and the current takes you while you nap. One is lost opportunity, the other is active disaster.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Calquing the shrimp gets a laugh, not the proverb — Italian keeps the fisherman awake: chi dorme non piglia pesci.",
+      "it_to_es": "'Quien duerme no pesca' is understood but is not the fixed refrán; in Mexico the shrimp does the work."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "diligence",
+    "opportunity",
+    "animals"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's proverb list 2026-07-18 (discovered via learner sites; all glosses and examples authored fresh). IT counterpart chosen by Claude from recall — UNVERIFIED, reviewer to confirm the pairing exists and is current. The strongest MX-anchored proverb in the bank; queued since the Europass harvest."
+  },
+  "createdOn": "2026-07-18",
+  "retiredReason": null
+}
