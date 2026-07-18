@@ -1,0 +1,160 @@
+{
+  "_comment": [
+    "The events registry. Four recurrence kinds:",
+    "  annual      — same month/day every year (Ferragosto, 15 Aug).",
+    "  nth_weekday — 'first Sunday of May'. weekday 0=Sun..6=Sat; nth 1..5, or -1 for last.",
+    "  computed    — derived from a rule (Easter computus; Carnevale = Easter - 47).",
+    "  irregular   — may not happen in a given year at all. Occurrences listed explicitly.",
+    "                An entry with requiresEvent:true is DORMANT in a year with no",
+    "                occurrence; it does NOT fall back into rotation. A World Cup idiom",
+    "                in 2028 is nonsense.",
+    "",
+    "A quadrennial event in this registry is just an override written four years early,",
+    "with a window instead of a date. Same work, done earlier, where forgetting is",
+    "impossible. Milano-Cortina 2026 was in ITALY and needed four lines written any time",
+    "in the last six years. It passed in February. That is the argument for the registry."
+  ],
+  "events": {
+    "festa_repubblica": {
+      "name": "Festa della Repubblica",
+      "country": "it",
+      "recurrence": "annual",
+      "month": 6,
+      "day": 2,
+      "window": {
+        "before": 2,
+        "after": 0
+      }
+    },
+    "mx_independence": {
+      "name": "Independencia de México",
+      "country": "mx",
+      "recurrence": "annual",
+      "month": 9,
+      "day": 16,
+      "window": {
+        "before": 2,
+        "after": 0
+      },
+      "note": "El Grito is the night of the 15th. NOT Cinco de Mayo — do not let an entry drift there."
+    },
+    "ferragosto": {
+      "name": "Ferragosto",
+      "country": "it",
+      "recurrence": "annual",
+      "month": 8,
+      "day": 15,
+      "window": {
+        "before": 4,
+        "after": 1
+      },
+      "note": "Italy closes. Rich material: ponte, chiuso per ferie, esodo."
+    },
+    "dia_de_muertos": {
+      "name": "Día de Muertos",
+      "country": "mx",
+      "recurrence": "annual",
+      "month": 11,
+      "day": 2,
+      "window": {
+        "before": 2,
+        "after": 0
+      }
+    },
+    "reyes": {
+      "name": "Día de Reyes / Epifania",
+      "country": "es",
+      "recurrence": "annual",
+      "month": 1,
+      "day": 6,
+      "window": {
+        "before": 1,
+        "after": 0
+      }
+    },
+    "easter": {
+      "name": "Semana Santa / Pasqua",
+      "recurrence": "computed",
+      "rule": "easter",
+      "window": {
+        "before": 7,
+        "after": 1
+      }
+    },
+    "carnevale": {
+      "name": "Carnaval / Carnevale",
+      "recurrence": "computed",
+      "rule": "easter_offset",
+      "offsetDays": -47,
+      "window": {
+        "before": 3,
+        "after": 0
+      },
+      "note": "Martedì grasso = Easter minus 47."
+    },
+    "world_cup": {
+      "name": "FIFA World Cup",
+      "recurrence": "irregular",
+      "occurrences": {
+        "2026": {
+          "from": "2026-06-11",
+          "to": "2026-07-19"
+        },
+        "2030": null
+      },
+      "note": "2026: USA/Canada/Mexico. 2030: Spain/Portugal/Morocco — dates not yet published, hence null. A null occurrence means KNOWN EVENT, UNKNOWN DATES: entries stay dormant and the validator warns, rather than guessing."
+    },
+    "olympics": {
+      "name": "Olympic Games",
+      "recurrence": "irregular",
+      "occurrences": {
+        "2026": {
+          "from": "2026-02-06",
+          "to": "2026-02-22"
+        },
+        "2028": {
+          "from": "2028-07-14",
+          "to": "2028-07-30"
+        },
+        "2030": null
+      },
+      "note": "2026 Milano-Cortina (ITALY — the most on-brand event this product could have had). 2028 Los Angeles. 2030 French Alps, dates unpublished → null = known event, unknown dates."
+    },
+    "madre_mx": {
+      "name": "Día de la Madre (México)",
+      "country": "mx",
+      "recurrence": "annual",
+      "month": 5,
+      "day": 10,
+      "window": {
+        "before": 1,
+        "after": 0
+      },
+      "note": "Mexico fixes it to the 10th regardless of weekday. Spain and Italy do not."
+    },
+    "madre_es": {
+      "name": "Día de la Madre (España)",
+      "country": "es",
+      "recurrence": "nth_weekday",
+      "month": 5,
+      "weekday": 0,
+      "nth": 1,
+      "window": {
+        "before": 0,
+        "after": 0
+      }
+    },
+    "madre_it": {
+      "name": "Festa della Mamma",
+      "country": "it",
+      "recurrence": "nth_weekday",
+      "month": 5,
+      "weekday": 0,
+      "nth": 2,
+      "window": {
+        "before": 0,
+        "after": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "_readme": [
+    "ALTERNATIVES LAYER — alternative pairings for expressions already in the bank.",
+    "The strict rule (one expression, one active entry) still governs bank/. This",
+    "file is where alternative partners live while that rule stands. Lifecycle:",
+    "",
+    "  proposed  → the base layer. An idea with a bridge and a walk. Anyone may add.",
+    "  staged    → approved out of the base layer by the editor (statusBy + statusOn",
+    "              required). Waiting for a graduation path.",
+    "  rejected  → vetoed, with the reason kept so it is never re-proposed.",
+    "",
+    "GRADUATION (leaving this file) happens one of two ways:",
+    "  a) REPLACEMENT — the alternative replaces the anchor entry's current partner",
+    "     (the old partner may be archived here as 'proposed' to preserve it), or",
+    "  b) SIBLING ENTRY — only if the parked spaced-repetition policy is revived",
+    "     (see TODO standing decisions); the alternative becomes a new bank entry.",
+    "",
+    "Fields per alternative:",
+    "  anchor      — bank entry id this proposes an alternative FOR",
+    "  keepSide    — which side of the anchor stays ('es' or 'it')",
+    "  alt         — the proposed new partner: text, literal, meaning (fresh-authored)",
+    "  bridge      — what THIS pairing teaches (must differ from the anchor's bridge)",
+    "  walk        — the path from the anchor's current pairing to this one: what",
+    "                changes, why both exist, when a learner needs which",
+    "  status/statusBy/statusOn/notes — lifecycle bookkeeping"
+  ],
+  "alternatives": [
+    {
+      "id": "A001",
+      "anchor": "0028",
+      "keepSide": "es",
+      "alt": {
+        "lang": "it",
+        "text": "Ribaltare la situazione",
+        "literal": "to overturn the situation",
+        "meaning": "To turn a situation around; to stage a genuine comeback."
+      },
+      "bridge": "The straight pairing the frittata refuses to be: dar la vuelta a la tortilla and ribaltare la situazione BOTH mean a genuine reversal — this is the alignment Spanish speakers expect when they reach for the frittata and get spin instead.",
+      "walk": "Entry 0028 teaches the trap (frittata = manipulation); this pairing teaches the repair — the phrase 0028's own es→it warning tells you to use instead. Day one: the trap. Weeks later: the fix, remembered because the trap came first.",
+      "status": "proposed",
+      "statusBy": null,
+      "statusOn": null,
+      "notes": "First natural spaced-repetition sibling; named inside 0028's interference text since 2026-07-13."
+    },
+    {
+      "id": "A002",
+      "anchor": "0026",
+      "keepSide": "it",
+      "alt": {
+        "lang": "es",
+        "text": "Estar harto",
+        "literal": "to be fed up / sated",
+        "meaning": "To be fed up; to have had enough (neutral register, pan-regional)."
+      },
+      "bridge": "Averne fin sopra i capelli paired with the phrase a Mexican speaker actually says: estar harto. Loses the height-of-exasperation imagery, keeps the meaning and the ne-trap teaching intact.",
+      "walk": "0026's es side (hasta las narices) is Peninsular-flagged and its MX idiomatic equivalent is vulgar. This alternative is option (b) from that entry's review question: re-pair for the LatAm-default audience and accept plainer color. If the Spanish reviewer rules for re-pairing, this GRADUATES BY REPLACEMENT and 'hasta las narices' gets archived here.",
+      "status": "proposed",
+      "statusBy": null,
+      "statusOn": null,
+      "notes": "The regional re-pairing option, pre-drafted so the reviewer's ruling can be executed same-day."
+    },
+    {
+      "id": "A003",
+      "anchor": "0002",
+      "keepSide": "it",
+      "alt": {
+        "lang": "es",
+        "text": "Estar zafado",
+        "literal": "to be unscrewed / come loose",
+        "meaning": "To be nuts; a bit crazy (Mexican colloquial)."
+      },
+      "bridge": "Fuori come un balcone next to Mexico's own looseness: zafado is a screw come loose where the Italian is a balcony jutting out — both architecture-adjacent madness, and the register finally matches on both sides.",
+      "walk": "0002 is doubly flagged: Peninsular es side AND slang it side (the cautionary entry). This alternative fixes the regional half. Whether the balcony survives review at all is a separate question — if it dies, this alternative dies with it.",
+      "status": "proposed",
+      "statusBy": null,
+      "statusOn": null,
+      "notes": "Depends on 0002 surviving Italian review; zafado register needs the Spanish reviewer."
+    },
+    {
+      "id": "A004",
+      "anchor": "0039",
+      "keepSide": "it",
+      "alt": {
+        "lang": "es",
+        "text": "¡Mucha mierda!",
+        "literal": "lots of shit",
+        "meaning": "Break a leg — theatre-specific, deliberately crude."
+      },
+      "bridge": "In bocca al lupo beside the only Spanish luck-wish that shares its jinx-dodging logic — but theatre-only and vulgar where the Italian is universal and polite.",
+      "walk": "This WAS 0039's original pairing, vetoed by the editor 2026-07-16: vulgar, and a scope mismatch (universal vs stage-only). Kept here as a rejected record so it is never innocently re-proposed. If a theatre-themed day ever exists, the veto could be revisited in that narrow context.",
+      "status": "rejected",
+      "statusBy": "jf",
+      "statusOn": "2026-07-16",
+      "notes": "The layer's first inhabitant of the graveyard shelf — rejections are memory too."
+    }
+  ]
+}

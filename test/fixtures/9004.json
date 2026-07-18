@@ -1,0 +1,76 @@
+{
+  "id": "9004",
+  "type": "collocation",
+  "es": {
+    "text": "Salir",
+    "literal": "to go out / to leave",
+    "meaning": "To exit; to leave a place.",
+    "example": "Salgo de casa a las ocho.",
+    "exampleTranslation": "I leave the house at eight.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "es"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/salir",
+        "headword": "salir",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": "native-mx-01"
+      }
+    ]
+  },
+  "it": {
+    "text": "Salire",
+    "literal": "to go up / to climb / to board",
+    "meaning": "To ascend; to get on a vehicle.",
+    "example": "Salgo sull'autobus.",
+    "exampleTranslation": "I'm getting on the bus.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/salire/",
+        "headword": "salire",
+        "verifiedOn": "2026-07-12",
+        "verifiedBy": "native-it-03"
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Identical-looking verbs, opposite directions of travel: Spanish salir goes OUT, Italian salire goes UP. Italian's verb for leaving is uscire — precisely the one a Spanish speaker will not reach for.",
+    "tags": [
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "A Spanish speaker says 'salire' meaning 'to leave' and communicates the opposite. Italian 'to leave' is uscire.",
+      "it_to_es": "Milder in reverse: an Italian using 'salir' for 'go up' is heard as 'go out'. Spanish for 'go up' is subir."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "themes": [
+    "movement",
+    "false_friends"
+  ],
+  "cefr": "A2",
+  "difficulty": 2,
+  "review": {
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-12",
+    "notes": null
+  },
+  "createdOn": "2026-07-12",
+  "retiredReason": null
+}

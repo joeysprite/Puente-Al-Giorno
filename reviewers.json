@@ -1,0 +1,32 @@
+{
+  "_comment": [
+    "The allowlist IS the rule. A reviewer id that is not in this file cannot",
+    "sign off an entry, and no model, agent, or pipeline may be added here.",
+    "Adding a name to this file should require a second pair of eyes on the PR.",
+    "'lang' is what they are native in and therefore allowed to approve.",
+    "'verifier' = allowed to appear in sources[].verifiedBy (opened the page).",
+    "'reviewer' = allowed to appear in review.esReviewer / review.itReviewer."
+  ],
+  "people": {
+    "jf": {
+      "name": "J. F. (founder)",
+      "lang": ["en"],
+      "roles": ["verifier"]
+    },
+    "native-mx-01": {
+      "name": "Reviewer, Spanish (MX)",
+      "lang": ["es"],
+      "roles": ["verifier", "reviewer"]
+    },
+    "native-es-02": {
+      "name": "Reviewer, Spanish (ES)",
+      "lang": ["es"],
+      "roles": ["verifier", "reviewer"]
+    },
+    "native-it-03": {
+      "name": "Reviewer, Italian (IT)",
+      "lang": ["it"],
+      "roles": ["verifier", "reviewer"]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_comment": [
+    "Manual force. Highest precedence — beats events, pins, everything.",
+    "Use for sponsor tie-ins, a topical entry, a fix after a bad send.",
+    "If an override displaces a pin, the scheduler says so loudly rather than",
+    "letting the pinned entry vanish silently."
+  ],
+  "overrides": {
+    "2026-07-19": { "id": "0055", "reason": "World Cup final — force the bench/panchina entry" }
+  }
+}
