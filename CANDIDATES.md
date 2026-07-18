@@ -96,3 +96,54 @@ From storylearning.com 84-idioms page (2026-07-17; ~11 already banked, ~25 alrea
 | Farfalle nello stomaco | mariposas en el estómago | exact twin — freebie |
 | Lacrime di coccodrillo | lágrimas de cocodrilo | exact twin — freebie |
 | Due pesi e due misure | doble rasero / dos varas de medir | double standards: two weights vs one measuring stick |
+
+From Joe's proverb list (2026-07-18; learner-site discovery, 5 banked as 0051–0054/0056, rest queued):
+
+| Spanish | Sketch of IT direction | Note |
+|---|---|---|
+| Al buen entendedor, pocas palabras | a buon intenditor poche parole | near-exact cognate twin (entendedor/intenditor) — freebie |
+| Ojos que no ven, corazón que no siente | occhio non vede, cuore non duole | twin; ES heart doesn't FEEL, IT heart doesn't HURT |
+| El que mucho abarca poco aprieta | chi troppo vuole nulla stringe | ES embraces too much, IT WANTS too much — verb axis differs |
+| Lo barato sale caro | chi più spende meno spende | ⚑ inverted framing: ES cheap turns expensive, IT spending more spends less |
+| Más vale prevenir que lamentar | prevenire è meglio che curare | ES contrasts prevent/REGRET (emotional), IT prevent/CURE (medical) |
+| El tiempo lo cura todo | il tempo guarisce tutte le ferite | near twin; IT names the wounds |
+| Dime con quién andas y te diré quién eres | dimmi con chi vai e ti dirò chi sei | exact twin — freebie, worth labelling as such |
+| El amor todo lo puede | l'amore vince tutto | both descend from Virgil's omnia vincit amor — thin bridge, low priority |
+| Si te caes siete veces, levántate ocho | (no fixed IT twin known) | Japanese proverb naturalised into ES; needs an IT reviewer's judgment |
+
+REJECTED — not folk proverbs but authored quotes (same class as the Kington tomato line):
+"La belleza que atrae rara vez coincide con la belleza que enamora"; "La acción es la clave
+fundamental para todo éxito"; "El hombre que se levanta es aún más grande que el que no ha
+caído". Authored, attributable, and with no fixed counterpart in Italian — the bridge would
+be a translation, not a pairing. Do not bank.
+
+From Joe's Italian proverb list (2026-07-18; 4 banked as 0057–0060; heavy overlap with existing bank/queue — saturation confirmed):
+
+ALREADY HANDLED: il mattino ha l'oro in bocca (0056), chi dorme non piglia pesci (0051),
+a caval donato (0016), cercare il pelo nell'uovo (0022 IT side), chi troppo vuole / l'abito
+non fa il monaco / meglio tardi che mai / capitare a fagiolo / quale il padre tale il figlio
+(all already queued).
+
+| Italian | Sketch of ES direction | Note |
+|---|---|---|
+| Nessuna nuova, buona nuova | (no fixed ES refrán — 'sin noticias, buenas noticias' is a calque) | possible no-twin entry |
+| Finché c'è vita, c'è speranza | mientras hay vida, hay esperanza | exact twin — freebie |
+| Ride bene chi ride ultimo | el que ríe último, ríe mejor | IT laughs WELL, ES laughs BEST — tiny axis |
+| Chi fa da sé, fa per tre | (no rhyming ES twin) | IT rhymes sé/tre and quantifies by three |
+| Chi non fa, non falla | el que no hace, no yerra | IT rhymes fa/falla |
+| La pazienza è la virtù dei forti | la paciencia es la madre de la ciencia | ⚑ IT credits the STRONG, ES credits KNOWLEDGE — and the ES rhymes |
+| Non rimandare a domani… | no dejes para mañana lo que puedas hacer hoy | exact twin — freebie |
+| Chi trova un amico, trova un tesoro | quien encuentra un amigo, encuentra un tesoro | exact twin — freebie |
+| L'appetito vien mangiando | el apetito viene comiendo | exact twin — freebie |
+| L'amore è cieco | el amor es ciego | exact twin — freebie |
+| Non tutte le ciambelle riescono col buco | (no fixed ES twin; MX 'no siempre se puede') | doughnut imagery is IT-only |
+| Far venire il latte alle ginocchia | MX sacar de quicio / dar lata | ⚑ milk to the knees — no ES image comes close |
+| Essere come il prezzemolo | estar hasta en la sopa | ⚑ parsley vs being IN THE SOUP — both culinary ubiquity, strong |
+| Avere le mani di pasta frolla | ser un manazas (ES) / MX ? | pastry hands vs big-hands; needs MX form |
+
+REJECTED — authored or literary, not folk proverbs (same class as the Kington tomato line):
+"La vita è come una fotografia. Se sorridi, viene meglio" (modern quote/meme);
+"Noi non potremo avere perfetta vita senza amici" (literary); "Della sua istessa colpa,
+amor è scusa" (literary, archaic). Also rejected on editorial grounds: "Alle belle donne,
+le più volte toccano i brutti uomini" — a stereotype about women's looks, not wisdom, and
+nothing a subscriber should receive on a Tuesday. Do not bank.

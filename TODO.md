@@ -1,20 +1,21 @@
 # TODO — un puente al giorno
 
 The one file to open first. Updated whenever state changes; history lives in git.
-Last updated: 2026-07-13 (privacy policy drafted; variant C rebuilt off retired 0018). Reviewers identified (Joe's past ES/IT teacher contacts) — next: names into reviewers.json, then the 8 regional flags.
+Last updated: 2026-07-18. THE REPO IS LIVE: https://github.com/joeysprite/Puente-Al-Giorno — public, CI green (validate on every push; daily 04:00 UTC rebuild armed). The repo is now the source of truth; this file's home is there.
 
 ## Where things stand
 
 | | |
 |---|---|
-| Bank | **86 (was 37) entries: 28 drafts, 2 needs-review, 7 retired, 0 approved** |
-| Composition (if all approved) | 38% easy-only vs 33% ceiling — **gate would fail; write traps** |
+| Bank | **97 entries: 90 active (0 approved), 3 needs-review within those, 3 retired formulas + calendar mockup v2** |
+| Composition (if all approved) | 23% easy-only / 77% high-value — **gate comfortable**; CEFR B1+B2 = 71% (policy ≥60%) |
 | Reviewers | **None.** `reviewers.json` holds placeholders only |
-| Sources human-verified | **0 of 37** |
+| Sources human-verified | **0 of 97** (one web-verified by Claude: 0036 — not a sign-off) |
 | Scheduler / validator / desk / CI | Done, tested, boring — no work needed |
-| Landing page | 4 variants built; **C (ho rimasto) chosen as index.html** |
+| Landing page | 6 variants + privacy + 404 + match game + 94 OG cards; index = C, datebars live, fonts self-hosted |
 | Subscribers | 0 — form posts to a placeholder |
-| Renderer (the email itself) | Does not exist |
+| Renderer (the email itself) | Does not exist — deliberately gated behind first approvals |
+| Repo | **LIVE + public, CI green**: github.com/joeysprite/Puente-Al-Giorno |
 
 Scope decision (REVISED 2026-07-14): **the card teaches the axis, not the phrase.**
 An entry earns its slot by its bridge payload — idiom, collocation, or marker.
@@ -39,6 +40,12 @@ entries, tested on readers, before anything prints.
 - [ ] **Recruit the Italian reviewer.** Second; the ES flags are sharper.
 - [ ] **Add both to `reviewers.json`** (real ids, real names). The allowlist is
       the rule.
+- [x] **Repo pushed to GitHub (2026-07-17):** all 97 entries, tools, site, cards,
+      fonts, docs; both workflows created; CI ran twice, green. Future changes:
+      edit on GitHub or hand Claude files to update via the browser flow.
+- [ ] **Netlify + domain.** Import the repo, publish directory `landing/`,
+      then point a Namecheap domain (Joe to pick) — unblocks SITE_URL for the
+      share cards, canonical URL, and the Buttondown sender domain (SPF/DKIM).
 - [ ] **Wire the form.** Buttondown (double opt-in ON, tracking OFF), replace
       `FORM_ACTION` in `tools/build-landing.mjs`, rebuild. **Test one signup and
       confirm the `l1` answer actually lands as metadata** — it is the entire
