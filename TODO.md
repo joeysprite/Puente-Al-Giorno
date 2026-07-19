@@ -143,6 +143,14 @@ weeks. More scheduler features. Separate ES/IT products (deletes the moat).
 The tear-off calendar (needs 365 approved; the email writes it). English-free
 glosses (+50% review cost; wait for l1 signup data to justify it).
 
+## Now (single next step)
+
+- [ ] **Masthead word-spacing: eyeball the middle setting.** Sequence: char-split
+  bug (word gaps = letter gaps, wrong) → single space (23-32px, Joe: too tight)
+  → double NBSP (39-48px, Joe: too exaggerated) → NBSP+thin (31-40px, Joe: slightly wide) → CURRENT: NBSP+hair space, regenerated across all cards/social/brand, pending Joe eyeball + push. On next session: Joe eyeballs og-default; if good, sync + push
+  + redeploy; if not, adjust the replace() in the three build tools (one line
+  each) and regenerate. brand.json's letterspacing rule stands regardless.
+
 ## Standing decisions (so they don't get relitigated)
 
 - **One expression, one entry (2026-07-17):** each expression appears in exactly

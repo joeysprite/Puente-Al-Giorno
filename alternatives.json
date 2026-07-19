@@ -92,6 +92,23 @@
       "statusBy": "jf",
       "statusOn": "2026-07-16",
       "notes": "The layer's first inhabitant of the graveyard shelf — rejections are memory too."
+    },
+    {
+      "id": "A005",
+      "anchor": "0063",
+      "keepSide": "es",
+      "alt": {
+        "lang": "it",
+        "text": "Non rimandare a domani quello che puoi fare oggi",
+        "literal": "do not postpone to tomorrow what you can do today",
+        "meaning": "Don't put off until tomorrow what you can do today."
+      },
+      "bridge": "The literal twin: same words, same order, same task-shifting frame as the Spanish. A labelled freebie rather than a lesson — useful for showing which crossings are safe.",
+      "walk": "Entry 0063 pairs the Spanish with the older 'chi ha tempo non aspetti tempo', where Italian moves TIME rather than the task. This alternative is the flat, exact rendering — the one a learner would guess. Graduating it would mean swapping 0063's Italian side and losing the divergence, so it more likely stays here as evidence that the interesting pairing was chosen over the obvious one.",
+      "status": "proposed",
+      "statusBy": null,
+      "statusOn": null,
+      "notes": "Filed 2026-07-18 when 0063 was banked with the non-obvious pairing."
     }
   ]
 }

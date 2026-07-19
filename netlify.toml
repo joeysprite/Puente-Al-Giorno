@@ -1,0 +1,28 @@
+# Netlify configuration, kept in the repo rather than in a dashboard so the
+# deploy settings are versioned like everything else here.
+#
+# The site is prebuilt: tools/build-landing.mjs and tools/build-match.mjs run
+# in GitHub Actions (see .github/workflows/daily-landing.yml) and commit their
+# output. Netlify only serves what is already in landing/.
+
+[build]
+  publish = "landing"
+  command = ""
+
+# 404.html in the publish directory is picked up automatically.
+
+[[headers]]
+  for = "/fonts/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/cards/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
