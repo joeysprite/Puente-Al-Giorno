@@ -1,0 +1,83 @@
+{
+  "id": "0063",
+  "type": "proverb",
+  "cue": "Tell someone to stop putting it off",
+  "es": {
+    "text": "No dejes para mañana lo que puedas hacer hoy",
+    "literal": "do not leave for tomorrow what you can do today",
+    "meaning": "Don't postpone what you're able to do now.",
+    "example": "Manda el correo antes de irte: no dejes para mañana lo que puedas hacer hoy.",
+    "exampleTranslation": "Send the email before you leave — don't put off what you can do today.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/",
+        "headword": "no dejes para mañana",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Chi ha tempo non aspetti tempo",
+    "literal": "whoever has time, let them not wait for time",
+    "meaning": "If you have the chance now, don't wait for a better moment.",
+    "example": "Firmalo adesso: chi ha tempo non aspetti tempo.",
+    "exampleTranslation": "Sign it now — if you can do it today, don't wait.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": "The everyday twin of the Spanish is 'non rimandare a domani quello che puoi fare oggi'. This older proverb is the more idiomatic Italian and is paired here deliberately; the literal twin is recorded as an alternative pairing.",
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/tempo/",
+        "headword": "tempo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both proverbs attack delay, but they grab different things. Spanish moves the TASK: don't shift it into tomorrow. Italian moves the TIME: if you have it, don't sit waiting for more of it — and it says so by using the word twice, first meaning the time you already hold and then the better moment you're hoping for. Spanish scolds the procrastinator; Italian catches the specific self-deception that makes procrastination feel reasonable.",
+    "tags": [
+      "interference_risk",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "The word-for-word Italian version exists and is understood, but this older proverb is the idiomatic one — and note the subjunctive: non ASPETTI, not 'non aspetta'.",
+      "it_to_es": "The doubled tempo has no Spanish equivalent; 'quien tiene tiempo no espere tiempo' is not a refrán. Spanish frames it as the task deferred."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "procrastination",
+    "time",
+    "diligence"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Prompted by Joe sharing the English aphorism 'life is not a rehearsal' 2026-07-18 (authored, no fixed counterpart, not bankable itself). IT side deliberately NOT the literal twin — that pairing is filed in alternatives.json as A005. Reviewer to confirm 'chi ha tempo non aspetti tempo' is still current speech rather than dictionary-only, and to sanity-check the subjunctive form."
+  },
+  "createdOn": "2026-07-18",
+  "retiredReason": null
+}

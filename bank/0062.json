@@ -1,0 +1,83 @@
+{
+  "id": "0062",
+  "type": "proverb",
+  "cue": "Console someone after a setback",
+  "es": {
+    "text": "No hay mal que por bien no venga",
+    "literal": "there is no bad that does not come for good",
+    "meaning": "Every misfortune brings something good with it.",
+    "example": "Perdí el vuelo, pero ahí conocí a mi socia: no hay mal que por bien no venga.",
+    "exampleTranslation": "I missed my flight, but that's where I met my business partner — every cloud has a silver lining.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/",
+        "headword": "no hay mal que por bien no venga",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Non tutti i mali vengono per nuocere",
+    "literal": "not all evils come in order to harm",
+    "meaning": "Some misfortunes turn out to be for the best.",
+    "example": "Ho perso il treno e ho evitato lo sciopero: non tutti i mali vengono per nuocere.",
+    "exampleTranslation": "I missed the train and dodged the strike — some bad turns work out.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/male/",
+        "headword": "male",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same consolation offered at two different strengths. Spanish makes a universal promise — there is NO misfortune that fails to bring some good, no exceptions, said to someone who has just lost something. Italian only concedes a share: not ALL misfortunes are there to harm you, which quietly admits that some are. One language guarantees the silver lining; the other allows it. Both are built on a negation, and neither survives being translated word for word.",
+    "tags": [
+      "interference_risk",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "The calque 'non c'è male che non venga per bene' is not the Italian proverb, and it overpromises — Italian claims some, not all.",
+      "it_to_es": "'No todos los males vienen para dañar' is not a refrán; Spanish states it absolutely, with the double negative doing the work."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "consolation",
+    "optimism",
+    "misfortune"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Prompted by an inspirational graphic Joe shared 2026-07-18 ('el agua no sonaría tan hermosa sin piedras en su camino' — a modern composed line, not a refrán, so not bankable itself). Both proverbs and the universal-vs-partial reading are Claude's; the scope difference is the payload and needs both reviewers to confirm it is real rather than an artifact of how each is usually quoted."
+  },
+  "createdOn": "2026-07-18",
+  "retiredReason": null
+}
