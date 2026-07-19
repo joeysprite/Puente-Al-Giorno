@@ -8,6 +8,11 @@
 [build]
   publish = "landing"
   command = ""
+  # Skip the deploy entirely unless something Netlify actually serves changed.
+  # Most commits here touch bank/, tools/ or docs — none of which affect the
+  # published site until a generator is re-run and its output committed.
+  # Netlify runs this before building: exit 0 = skip the build, non-zero = build.
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- landing/"
 
 # 404.html in the publish directory is picked up automatically.
 
