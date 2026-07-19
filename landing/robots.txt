@@ -1,0 +1,7 @@
+# SOFT LAUNCH — the daily email does not exist yet and the pages are still
+# being tuned. Search engines are asked to stay away until the first issue
+# ships. AT LAUNCH: delete the Disallow line, keep the sitemap line.
+User-agent: *
+Disallow: /
+
+# Sitemap: https://aquamarine-biscochitos-58e5c1.netlify.app/sitemap.xml
