@@ -68,7 +68,7 @@ function svgFor(e) {
   <rect width="${W}" height="${H}" fill="${C.paper}"/>
   <rect x="40" y="40" width="${W - 80}" height="${H - 80}" fill="${C.card}" stroke="${C.rule}"/>
   <line x1="${MID}" y1="130" x2="${MID}" y2="${H - 170}" stroke="${C.rule}"/>
-  <text x="${MID}" y="105" text-anchor="middle" font-family="IBM Plex Mono" font-size="20" letter-spacing="4" fill="${C.ink3}">${BRAND.name.toUpperCase().split("").join(" ")}</text>
+  <text x="${MID}" y="105" text-anchor="middle" font-family="IBM Plex Mono" font-size="20" letter-spacing="4" fill="${C.ink3}">${BRAND.name.toUpperCase().replace(/ /g, "\u00a0\u200a")}</text>
   <text x="${MID - 60}" y="165" text-anchor="end" font-family="IBM Plex Mono" font-size="18" letter-spacing="3" fill="${C.es}">ESPA\u00d1OL</text>
   <text x="${MID + 60}" y="165" text-anchor="start" font-family="IBM Plex Mono" font-size="18" letter-spacing="3" fill="${C.it}">ITALIANO</text>
   ${block(esLines, MID - 60, "end", C.es)}

@@ -20,7 +20,7 @@ import { join, resolve } from "node:path";
 import { buildYear } from "./schedule.mjs";
 
 const ROOT = resolve(process.env.BANK_ROOT ?? ".");
-const FORM_ACTION = "#wire-me-to-buttondown"; // e.g. https://buttondown.com/api/emails/embed-subscribe/YOURLIST
+const FORM_ACTION = "https://buttondown.com/api/emails/embed-subscribe/unpuentealgiorno";
 
 const BRAND = JSON.parse(readFileSync(join(ROOT, "brand.json"), "utf8"));
 const C = BRAND.color, F = BRAND.font;
@@ -33,7 +33,7 @@ const CARD = arg("--card", "compact");
 // --waitlist: the page cannot promise a daily email until entries are approved
 // and the renderer exists. This mode says so, and adds noindex for soft launch.
 const WAITLIST = argv.includes("--waitlist");
-const SITE_URL = arg("--site", process.env.SITE_URL ?? "https://REPLACE-WITH-YOUR-DOMAIN"); // compact = expression/lit/meaning; full = + example/translation per side
+const SITE_URL = arg("--site", process.env.SITE_URL ?? "https://aquamarine-biscochitos-58e5c1.netlify.app"); // compact = expression/lit/meaning; full = + example/translation per side
 
 // Headline is derived from the hero entry unless overridden. Copy that names the
 // entry is the only copy that can't drift from the bank.
@@ -108,6 +108,8 @@ const HTML = `<!doctype html>
 <meta name="color-scheme" content="light">
 ${WAITLIST ? '<meta name="robots" content="noindex">' : ""}
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23FAF6EE'/%3E%3Ctext x='8' y='22' font-family='Georgia' font-size='16' fill='%238C2F39'%3Ep%3C/text%3E%3Ctext x='17' y='22' font-family='Georgia' font-size='16' fill='%233D5A45'%3Eg%3C/text%3E%3C/svg%3E">
+<link rel="canonical" href="${SITE_URL}/">
+<meta property="og:url" content="${SITE_URL}/">
 <meta property="og:title" content="Un puente al giorno">
 <meta property="og:description" content="One Spanish–Italian expression pair a day — and the exact mistake speakers of one make in the other.">
 <meta property="og:type" content="website">
@@ -275,7 +277,8 @@ ${WAITLIST ? '<meta name="robots" content="noindex">' : ""}
 <div class="wrap"><hr class="divide"></div>
 
 <section class="wrap">
-  <form method="post" action="${FORM_ACTION}">
+  <form method="post" action="${FORM_ACTION}" target="_blank">
+    <input type="hidden" name="embed" value="1">
     <h2>${WAITLIST ? "Be there for entry one" : "Get tomorrow's pair"}</h2>
     <p class="sub">${WAITLIST
       ? "Every entry is checked by a native speaker of each language before it is sent — which is why there is a wait. When the first one goes out, you get it."
@@ -288,9 +291,9 @@ ${WAITLIST ? '<meta name="robots" content="noindex">' : ""}
     <fieldset>
       <legend>I'm starting from</legend>
       <div class="pills">
-        <label class="pill"><input type="radio" name="l1" value="en" checked><span>English</span></label>
-        <label class="pill"><input type="radio" name="l1" value="es"><span>Español</span></label>
-        <label class="pill"><input type="radio" name="l1" value="it"><span>Italiano</span></label>
+        <label class="pill"><input type="radio" name="metadata__l1" value="en" checked><span>English</span></label>
+        <label class="pill"><input type="radio" name="metadata__l1" value="es"><span>Español</span></label>
+        <label class="pill"><input type="radio" name="metadata__l1" value="it"><span>Italiano</span></label>
       </div>
       <p class="why">The warnings are directional — what trips a Spanish speaker in Italian
       isn't what trips an Italian in Spanish. This picks your side.</p>
@@ -338,4 +341,4 @@ ${WAITLIST ? '<meta name="robots" content="noindex">' : ""}
 mkdirSync(join(ROOT, "landing"), { recursive: true });
 writeFileSync(join(ROOT, "landing", OUT), HTML);
 console.log(`landing/${OUT} ← entries ${hero.id}, ${second.id}, ${third.id}`);
-console.log(`Wire the form: replace FORM_ACTION in tools/build-landing.mjs`);
+console.log(`form → ${FORM_ACTION} (l1 posts as metadata__l1)`);
