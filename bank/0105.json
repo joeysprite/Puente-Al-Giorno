@@ -1,0 +1,80 @@
+{
+  "id": "0105",
+  "type": "idiom",
+  "cue": "How do you tell someone to get lost?",
+  "es": {
+    "text": "Mandar al quinto pino",
+    "literal": "to send to the fifth pine tree",
+    "meaning": "To send someone packing; to tell them to get lost.",
+    "example": "Se puso pesado y lo mandé al quinto pino.",
+    "exampleTranslation": "He got annoying so I told him to get lost.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "es"
+    ],
+    "regionNote": "Strongly Peninsular. Mexico prefers 'mandar a volar' or 'mandar por un tubo'. Reviewer should pick the MX-default form; this may re-pair.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/pino",
+        "headword": "pino",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Mandare a quel paese",
+    "literal": "to send to that village",
+    "meaning": "To tell someone to get lost.",
+    "example": "Si è messo a insistere e l'ho mandato a quel paese.",
+    "exampleTranslation": "He kept pushing so I told him where to go.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/paese/",
+        "headword": "paese",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages banish the nuisance to a vague far-off place, and decline to name it. Spanish sends them to the FIFTH PINE — a specific tree in no particular forest, the fifth of nothing. Italian sends them to THAT VILLAGE — everyone knows which, nobody will say. A precise absurdity versus a knowing vagueness, and both are polite stand-ins for something much ruder.",
+    "tags": [
+      "shared_metaphor",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "Pines mean nothing here; Italian names a coy destination: a quel paese. Both are euphemisms for a cruder send-off.",
+      "it_to_es": "'Mandar a ese pueblo' is not the Spanish idiom, and the Italian is Peninsular-flavoured anyway — in Mexico, mandar a volar."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "dismissal",
+    "places",
+    "euphemism"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Both are the polite face of something vulgar — a register entry about euphemism. ES side is very Peninsular; flagged for MX re-pairing."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

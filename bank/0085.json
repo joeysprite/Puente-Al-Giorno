@@ -1,0 +1,83 @@
+{
+  "id": "0085",
+  "type": "idiom",
+  "cue": "How do you say someone lost their temper?",
+  "es": {
+    "text": "Hinchársele las narices a alguien",
+    "literal": "for someone's nostrils to swell",
+    "meaning": "To lose one's temper; to get thoroughly annoyed.",
+    "example": "Sigue así y se le van a hinchar las narices.",
+    "exampleTranslation": "Keep it up and he's going to blow.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Reviewer to confirm MX currency; the register is brisk but not vulgar in Spain.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/nariz",
+        "headword": "nariz",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Saltare la mosca al naso",
+    "literal": "for the fly to jump to one's nose",
+    "meaning": "To lose one's temper; to flare up suddenly.",
+    "example": "Continua così e gli salta la mosca al naso.",
+    "exampleTranslation": "Keep it up and he'll snap.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/mosca/",
+        "headword": "mosca",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages site anger in the NOSE — and disagree about what happens there. Spanish swells the nostrils, which is the body flaring on its own. Italian sends a FLY to land on the nose, an outside irritant arriving to set it off. One is pressure from inside, the other provocation from outside, and Italian's fly is the same insect that plants suspicion in the ear — a small winged agent of everything that gets under Italian skin.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Swelling nostrils will puzzle an Italian; there the fly must jump — and note the dative: GLI salta la mosca al naso.",
+      "it_to_es": "There is no fly in the Spanish; the nostrils do the work themselves."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "anger",
+    "body",
+    "animals"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh here). IT counterpart from Claude's recall — UNVERIFIED. Pairs with the pulce/mosca entry — same insect, two orifices, two emotions."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "0093",
+  "type": "idiom",
+  "cue": "How do you say someone is in a foul mood?",
+  "es": {
+    "text": "Tener mal templada la guitarra",
+    "literal": "to have one's guitar badly tuned",
+    "meaning": "To be in a bad mood; to be out of sorts.",
+    "example": "Hoy el jefe tiene mal templada la guitarra.",
+    "exampleTranslation": "The boss is in a mood today.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Reviewer to confirm MX currency; 'estar de malas' is the everyday alternative.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/guitarra",
+        "headword": "guitarra",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere la luna storta",
+    "literal": "to have the moon crooked",
+    "meaning": "To be in a bad mood; to be easily irritated.",
+    "example": "Oggi il capo ha la luna storta.",
+    "exampleTranslation": "The boss is in a mood today.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/luna/",
+        "headword": "luna",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "A bad mood explained by two different systems. Spanish blames the INSTRUMENT: the guitar is out of tune, so everything the person produces comes out sour — a fault in the works, and fixable. Italian blames the SKY: the moon is crooked today, a condition imposed from outside, nobody's fault and nothing to be done until it passes. One diagnosis suggests tuning; the other suggests waiting.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Guitars mean nothing to an Italian mood; the moon governs it — avere la luna storta (or essere di luna storta).",
+      "it_to_es": "'Tener la luna torcida' is not Spanish; the badly tuned guitar carries it."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "mood",
+    "music",
+    "weather"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Fixable-vs-fated framing. The ES side may be regional — flagged."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

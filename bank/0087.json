@@ -1,0 +1,83 @@
+{
+  "id": "0087",
+  "type": "idiom",
+  "cue": "How do you say someone lost heart?",
+  "es": {
+    "text": "Caérsele a uno las alas del corazón",
+    "literal": "for the wings of one's heart to fall off",
+    "meaning": "To lose heart; to become discouraged.",
+    "example": "Tras seis meses buscando trabajo se le cayeron las alas del corazón.",
+    "exampleTranslation": "After six months job-hunting he lost heart.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Literary-leaning; reviewer to say whether it is current speech in Mexico or mostly written.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/ala",
+        "headword": "ala",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Cadere le braccia",
+    "literal": "for one's arms to fall",
+    "meaning": "To be dismayed; to lose all impetus.",
+    "example": "Dopo sei mesi di ricerche gli sono cadute le braccia.",
+    "exampleTranslation": "After six months of searching his arms just dropped.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/braccio/",
+        "headword": "braccio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Discouragement as a body part giving way, and the choice of part is the whole difference. Spanish drops the WINGS OF THE HEART — an organ that had been flying and now cannot, romantic and slightly literary. Italian drops the ARMS — the plain machinery of doing things, which simply stops. One language loses its lift, the other loses its grip.",
+    "tags": [
+      "shared_metaphor",
+      "auxiliary_trap"
+    ],
+    "interference": {
+      "es_to_it": "Wings and hearts are not the Italian image; there the arms fall — and note it takes essere: gli SONO cadute le braccia.",
+      "it_to_es": "'Caérsele los brazos' is understood but is not the fixed Spanish phrase; the heart's wings do the falling."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "discouragement",
+    "body",
+    "emotion"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh here). IT counterpart from Claude's recall — UNVERIFIED. Lift-vs-grip framing; ES side may be more literary than spoken — flagged."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

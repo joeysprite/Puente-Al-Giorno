@@ -1,0 +1,83 @@
+{
+  "id": "0096",
+  "type": "idiom",
+  "cue": "How do you say someone refuses to see what's obvious?",
+  "es": {
+    "text": "Tener telarañas en los ojos",
+    "literal": "to have cobwebs in one's eyes",
+    "meaning": "To fail to see what is plainly there.",
+    "example": "¿No viste el error? Tienes telarañas en los ojos.",
+    "exampleTranslation": "You didn't spot the mistake? You must be blind.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Reviewer to confirm MX currency and to check the RAE headword spelling (telaraña).",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/tela%C3%B1a",
+        "headword": "telaraña",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere le fette di salame sugli occhi",
+    "literal": "to have slices of salami over one's eyes",
+    "meaning": "To fail to see what is plainly there.",
+    "example": "Non hai visto l'errore? Hai le fette di salame sugli occhi.",
+    "exampleTranslation": "You didn't spot the mistake? You must be blind.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/fetta/",
+        "headword": "fetta",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Blindness explained by what is stuck over the eyes, and the two languages reach for opposite kinds of object. Spanish grows COBWEBS — something that accumulated slowly because you were not looking, neglect made visible. Italy applies SALAMI — placed there, absurd, comic, and above all edible, because Italian reaches for the kitchen even to insult you. One blames time, the other blames lunch.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Cobwebs mean nothing here in Italian; the eyes are covered with slices of salami — fette di salame SUGLI occhi.",
+      "it_to_es": "'Tener rodajas de salami en los ojos' is not Spanish; the eyes gather cobwebs."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "blindness",
+    "food",
+    "neglect"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Queued from the Instagram set with the IT side only; the book supplies the ES. Neglect-vs-absurdity framing."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

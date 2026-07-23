@@ -1,0 +1,83 @@
+{
+  "id": "0111",
+  "type": "idiom",
+  "cue": "How do you say someone is out of their mind?",
+  "es": {
+    "text": "Faltarle a uno un tornillo",
+    "literal": "for someone to be missing a screw",
+    "meaning": "To be a bit crazy; to have something not quite right upstairs.",
+    "example": "¿Renunciar sin otro trabajo? Le falta un tornillo.",
+    "exampleTranslation": "Quit with no other job? He's got a screw loose.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/tornillo",
+        "headword": "tornillo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Mancare un venerdì",
+    "literal": "to be missing a Friday",
+    "meaning": "To be a bit crazy; to be not all there.",
+    "example": "Lasciare tutto così? Gli manca un venerdì.",
+    "exampleTranslation": "Drop everything like that? He's not all there.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/venerd%C3%AC/",
+        "headword": "venerdì",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Madness as a missing piece — but of what? Spanish removes hardware: a screw gone from the machine of the mind, something mechanical come loose. Italian removes a DAY: gli manca un venerdì, he's short a Friday — from Robinson Crusoe's Friday, or from the idea that a person missing a day of the week has lost part of their very calendar. A machine with a loose part versus a week with a hole in it.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Screws are not the Italian image; the madman is short a weekday — gli manca un venerdì. (Also common: gli manca una rotella, a little wheel.)",
+      "it_to_es": "'Le falta un viernes' means nothing in Spanish; the missing part is a screw — un tornillo."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "madness",
+    "machines",
+    "time"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Screw-vs-Friday. NOTE: IT 'manca una rotella' (a cog) is the closer mechanical twin — reviewer may prefer it, in which case this re-pairs. Second madness entry (0002 balcone is different)."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

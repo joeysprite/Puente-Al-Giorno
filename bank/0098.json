@@ -1,0 +1,83 @@
+{
+  "id": "0098",
+  "type": "idiom",
+  "cue": "How do you say someone lost their temper completely?",
+  "es": {
+    "text": "Subirse a la parra",
+    "literal": "to climb up the grapevine",
+    "meaning": "To fly into a rage; to hit the ceiling.",
+    "example": "Cuando le dije que no, se subió a la parra.",
+    "exampleTranslation": "When I said no, he hit the roof.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Also carries a second sense of putting on airs. Reviewer to confirm which dominates in Mexico.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/parra",
+        "headword": "parra",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Uscire dai gangheri",
+    "literal": "to come off the hinges",
+    "meaning": "To fly into a rage; to lose all self-control.",
+    "example": "Quando gli ho detto di no, è uscito dai gangheri.",
+    "exampleTranslation": "When I said no, he went off the deep end.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/ganghero/",
+        "headword": "ganghero",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Rage as displacement, in two directions. Spanish sends you UP — climbing the grapevine, out of reach, ranting from somewhere above the conversation. Italian sends you OFF — a door wrenched from its hinges, still recognisably itself but no longer attached to anything. Height versus detachment. And Italian keeps a spare: this is the third temper idiom in the bank, after the swelling nostrils and the fly on the nose.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Grapevines carry no anger in Italian; the hinges do — uscire DAI gangheri.",
+      "it_to_es": "'Salirse de los goznes' is not the Spanish idiom; anger climbs the parra."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "anger",
+    "height",
+    "objects"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Third temper entry — a themed run with 0085 is now possible."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

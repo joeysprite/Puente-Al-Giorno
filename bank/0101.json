@@ -1,0 +1,83 @@
+{
+  "id": "0101",
+  "type": "idiom",
+  "cue": "How do you say two people are identical?",
+  "es": {
+    "text": "Parecerse como dos gotas de agua",
+    "literal": "to resemble each other like two drops of water",
+    "meaning": "To be virtually identical.",
+    "example": "Los gemelos se parecen como dos gotas de agua.",
+    "exampleTranslation": "The twins are like two peas in a pod.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/gota",
+        "headword": "gota",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Somigliarsi come due gocce d'acqua",
+    "literal": "to resemble each other like two drops of water",
+    "meaning": "To be virtually identical.",
+    "example": "I gemelli si somigliano come due gocce d'acqua.",
+    "exampleTranslation": "The twins are like two peas in a pod.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/goccia/",
+        "headword": "goccia",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "A near-perfect twin about twins — the two languages use the very same image, two drops of water, to mean identical. English is the odd one out, reaching for peas in a pod. The only gap is grammatical, and it is the same reflexive both languages build differently: Spanish parecerSE, Italian somigliarSI, each with its own pronoun. Same picture, same meaning, two ways of saying 'each other'.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The verb is somigliarsi (or assomigliarsi), not parersi — and the drops are gocce, plural of goccia.",
+      "it_to_es": "Spanish uses parecerse, not an equivalent of somigliare; 'dos gotas de agua' is exactly right."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "similarity",
+    "water",
+    "reflexives"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Freebie twin; the reflexive verbs are the small lesson. English's peas make a nice footnote."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

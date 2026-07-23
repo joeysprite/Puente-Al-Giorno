@@ -1,0 +1,83 @@
+{
+  "id": "0102",
+  "type": "idiom",
+  "cue": "How do you say the past is best left alone?",
+  "es": {
+    "text": "Agua pasada no mueve molino",
+    "literal": "water that has passed moves no mill",
+    "meaning": "What's done is done; no use dwelling on the past.",
+    "example": "Ya te pedí perdón: agua pasada no mueve molino.",
+    "exampleTranslation": "I apologised — it's water under the bridge.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/",
+        "headword": "agua",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Acqua passata non macina più",
+    "literal": "water that has passed grinds no more",
+    "meaning": "What's done is done; the past is past.",
+    "example": "Ti ho già chiesto scusa: acqua passata non macina più.",
+    "exampleTranslation": "I apologised — that's water under the bridge.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/acqua/",
+        "headword": "acqua",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same proverb, the same mill, one verb apart — and the verb is the whole lesson. Spanish says the passed water no longer MOVES the mill (mover, to move the whole machine); Italian says it no longer GRINDS (macinare, the specific work a mill does). Both picture the stream that has already flowed past the wheel and cannot be called back. English drops the mill entirely for water under a bridge.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Italian names the mill's actual job: non MACINA più. 'Non muove il mulino' will be understood but is not the fixed proverb.",
+      "it_to_es": "'Agua pasada no muele' is not the Spanish form; it moves the mill — no mueve molino."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "past",
+    "water",
+    "work"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Move-vs-grind; near-twin proverb, safe crossing. Pairs thematically with 0081 (mill) and the whole water cluster."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

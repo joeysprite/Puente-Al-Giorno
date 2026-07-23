@@ -1,0 +1,83 @@
+{
+  "id": "0094",
+  "type": "idiom",
+  "cue": "How do you say someone badmouths people behind their back?",
+  "es": {
+    "text": "Cortarle un traje a uno",
+    "literal": "to cut someone a suit",
+    "meaning": "To badmouth someone in their absence; to run them down.",
+    "example": "En cuanto salió, le cortaron un traje.",
+    "exampleTranslation": "The moment he left they tore him apart.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/traje",
+        "headword": "traje",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Tagliare i panni addosso a qualcuno",
+    "literal": "to cut the clothes onto someone",
+    "meaning": "To badmouth someone in their absence; to run them down.",
+    "example": "Appena è uscito gli hanno tagliato i panni addosso.",
+    "exampleTranslation": "The moment he left they tore him apart.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/panno/",
+        "headword": "panno",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages send gossip to the tailor, and the cloth tells you how personal it gets. Spanish cuts the absent person a SUIT — a whole garment made to their measurements while they are out of the room, finished behind their back. Italian cuts the clothes ONTO them, addosso, the shears working against the body itself. One tailors in absence; the other tailors on the victim.",
+    "tags": [
+      "shared_metaphor",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": "The Italian needs addosso — tagliare i panni ADDOSSO a qualcuno. Without it the phrase is just tailoring.",
+      "it_to_es": "'Cortar los paños encima' is not Spanish; the fixed image is a suit cut for someone: cortarle un traje."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "gossip",
+    "clothing",
+    "malice"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Rare case where both languages independently chose tailoring for slander."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "0109",
+  "type": "idiom",
+  "cue": "How do you say someone tells tall tales?",
+  "es": {
+    "text": "Venir con músicas",
+    "literal": "to come with musics",
+    "meaning": "To come telling tall tales or excuses; to spin a line.",
+    "example": "No me vengas con músicas, dime la verdad.",
+    "exampleTranslation": "Don't give me that song and dance — tell me the truth.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/m%C3%BAsica",
+        "headword": "música",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Raccontare storie",
+    "literal": "to tell stories",
+    "meaning": "To spin tales; to make excuses.",
+    "example": "Non raccontarmi storie, dimmi la verità.",
+    "exampleTranslation": "Don't tell me stories — tell me the truth.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/storia/",
+        "headword": "storia",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both dismiss a lie as a performance, and pick a different art form. Spanish hears MUSIC — venir con músicas, arriving with a whole tune to distract you, the con man as one-man band. Italian hears STORIES — raccontare storie, the plain fiction of it. Curiously here English lines up with Spanish, calling it a song and dance, while Italian stays flat. Note the near-false-friend: Italian 'storie' as excuses, not 'historias' as tales.",
+    "tags": [
+      "false_friend",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Venire con musiche' is not idiomatic; Italian tells stories — raccontare storie. And storie here means baloney, not history.",
+      "it_to_es": "'Contar historias' is weaker in Spanish; the dismissive idiom is venir con músicas."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "lies",
+    "music",
+    "excuses"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Music-vs-story; English aligns with Spanish for once. The storie/historias false friend is a bonus."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

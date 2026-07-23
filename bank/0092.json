@@ -1,0 +1,83 @@
+{
+  "id": "0092",
+  "type": "idiom",
+  "cue": "How do you say that was the last straw?",
+  "es": {
+    "text": "La última gota que hace rebosar la copa",
+    "literal": "the last drop that makes the glass overflow",
+    "meaning": "The final small thing that exhausts one's patience.",
+    "example": "Esa llamada fue la última gota que hizo rebosar la copa.",
+    "exampleTranslation": "That call was the last straw.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/gota",
+        "headword": "gota",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "La goccia che fa traboccare il vaso",
+    "literal": "the drop that makes the vase overflow",
+    "meaning": "The final small thing that exhausts one's patience.",
+    "example": "Quella telefonata è stata la goccia che ha fatto traboccare il vaso.",
+    "exampleTranslation": "That call was the last straw.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/goccia/",
+        "headword": "goccia",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Almost the same sentence in both languages, differing by one vessel. Spanish overflows a COPA — a drinking glass, something at the table, personal and about to be spilled. Italian overflows a VASO — a vase or jar, larger, standing somewhere in the house. English abandons liquid entirely for a camel and a straw. Two Romance languages agree on the physics and quibble only about the container.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The Italian container is the vaso, not the copa — and Italian usually drops 'last': la goccia, not l'ultima goccia.",
+      "it_to_es": "'El vaso' in Spanish is a drinking glass too, but the fixed phrase says copa and keeps última."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "patience",
+    "water",
+    "limits"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Near-twin whose payload is the vessel; safe crossing, good pacing entry."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

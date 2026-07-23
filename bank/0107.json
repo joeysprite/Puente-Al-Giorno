@@ -1,0 +1,83 @@
+{
+  "id": "0107",
+  "type": "idiom",
+  "cue": "How do you say you set out to gain and ended up losing?",
+  "es": {
+    "text": "Ir por lana y volver trasquilado",
+    "literal": "to go for wool and come back shorn",
+    "meaning": "To set out to gain something and end up worse off.",
+    "example": "Fue a reclamar y volvió multado: fue por lana y volvió trasquilado.",
+    "exampleTranslation": "He went to complain and came back fined — went for wool, came back shorn.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/",
+        "headword": "lana",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Andare per suonare e tornare suonato",
+    "literal": "to go to play and come back beaten",
+    "meaning": "To set out to do something to others and have it done to you.",
+    "example": "È andato a protestare e c'ha rimesso: è andato per suonare ed è tornato suonato.",
+    "exampleTranslation": "He went to complain and lost out — went to give and got given.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": "Claude's IT pairing UNCERTAIN — 'restarci' or 'fare un buco nell'acqua' may fit better. Reviewer to choose.",
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/suonare/",
+        "headword": "suonare",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both proverbs punish the aggressor by turning the verb back on them, and the reversal is built into the grammar. Spanish shears you: you went FOR wool (to take) and came back shorn (taken from), the sheep-thief fleeced. Italian plays on suonare — to play music, and colloquially to thrash — so you went to suonare someone and came back suonato yourself. A pun in one language, a shearing in the other, both saying the biter got bit.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The Italian relies on the suonare/suonato pun and may not be the fixed form — reviewer to confirm. The wool image will not transfer.",
+      "it_to_es": "'Ir por lana' has no musical pun; Spanish shears the would-be shearer."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "reversal",
+    "wool",
+    "justice"
+  ],
+  "cefr": "B2",
+  "difficulty": 4,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. IT side flagged uncertain. The self-reversing verb is the shared mechanism even if the images differ."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "0099",
+  "type": "idiom",
+  "cue": "How do you say someone let you down badly?",
+  "es": {
+    "text": "Dejar a uno en la estacada",
+    "literal": "to leave someone at the stockade",
+    "meaning": "To abandon someone at the worst moment; to leave them in the lurch.",
+    "example": "Me dejó en la estacada el día de la mudanza.",
+    "exampleTranslation": "He left me in the lurch on moving day.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/estacada",
+        "headword": "estacada",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Piantare in asso",
+    "literal": "to plant in Naxos",
+    "meaning": "To abandon someone abruptly; to leave them in the lurch.",
+    "example": "Mi ha piantato in asso il giorno del trasloco.",
+    "exampleTranslation": "He left me in the lurch on moving day.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/piantare/",
+        "headword": "piantare",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both phrases strand you somewhere, and both places have worn unrecognisable. Spanish leaves you at the estacada — the palisade, the fenced ground where duels and jousts were fought, so you are abandoned mid-combat. Italian plants you in asso, which is widely said to be Naxos worn down by centuries of mouths: the island where Theseus sailed away and left Ariadne asleep. A battlefield and a beach, and neither language remembers.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Lasciare nella palizzata' says nothing; Italian plants you: piantare in asso.",
+      "it_to_es": "'Plantar en as' is meaningless in Spanish — the abandonment happens at the estacada."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "betrayal",
+    "abandonment",
+    "history"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. The asso/Naxos etymology is widely repeated but should be presented as tradition, NOT fact, until the IT reviewer confirms — flagged deliberately after the a-occhio-e-croce incident."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

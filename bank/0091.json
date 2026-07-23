@@ -1,0 +1,83 @@
+{
+  "id": "0091",
+  "type": "idiom",
+  "cue": "How do you say someone turns up everywhere?",
+  "es": {
+    "text": "Estar hasta en la sopa",
+    "literal": "to be even in the soup",
+    "meaning": "To be absolutely everywhere; impossible to escape.",
+    "example": "Esa canción está hasta en la sopa.",
+    "exampleTranslation": "You can't get away from that song.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/sopa",
+        "headword": "sopa",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Essere come il prezzemolo",
+    "literal": "to be like parsley",
+    "meaning": "To turn up everywhere; to be in everything.",
+    "example": "Quella canzone è come il prezzemolo.",
+    "exampleTranslation": "That song is everywhere.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/prezzemolo/",
+        "headword": "prezzemolo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Ubiquity measured in the kitchen, from two sides of the pot. Spanish puts the person IN the soup — they have got into the very thing you were about to eat, inescapable. Italian makes them the PARSLEY, the herb that ends up in every dish whether or not anyone asked. One is an intruder in your bowl, the other a garnish nobody can stop. Both are said with a sigh.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Soup is not the Italian image — the ubiquitous thing is parsley: è come il prezzemolo.",
+      "it_to_es": "'Ser como el perejil' is not the Spanish idiom; the pest turns up in the soup."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "ubiquity",
+    "food",
+    "annoyance"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Queued since the Italian Matters harvest; the book confirms the ES side."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

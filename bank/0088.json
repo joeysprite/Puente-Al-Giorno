@@ -1,0 +1,83 @@
+{
+  "id": "0088",
+  "type": "idiom",
+  "cue": "How do you say you're heartbroken?",
+  "es": {
+    "text": "Tener el corazón hecho pedazos",
+    "literal": "to have the heart made into pieces",
+    "meaning": "To be heartbroken.",
+    "example": "Desde que se fue tiene el corazón hecho pedazos.",
+    "exampleTranslation": "She's been heartbroken since he left.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/coraz%C3%B3n",
+        "headword": "corazón",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere il cuore a pezzi",
+    "literal": "to have the heart in pieces",
+    "meaning": "To be heartbroken.",
+    "example": "Da quando è partito ha il cuore a pezzi.",
+    "exampleTranslation": "She's been heartbroken since he left.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/cuore/",
+        "headword": "cuore",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "A near-exact twin with one joint different: Spanish MAKES the heart into pieces (hecho pedazos, a past participle doing the breaking), Italian simply has it AT pieces (a pezzi, a state it is in). Spanish narrates the damage; Italian reports the condition. Everything else — organ, image, register — matches, which makes this a safe crossing and a good day to notice how small the remaining gap can be.",
+    "tags": [
+      "cognate_pair",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": "'Il cuore fatto pezzi' is wrong: Italian uses the preposition — a pezzi.",
+      "it_to_es": "'Tener el corazón a pedazos' misses the participle; Spanish wants hecho pedazos."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "heartbreak",
+    "emotion",
+    "body"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh here). IT counterpart from Claude's recall — UNVERIFIED. Freebie twin whose payload is the participle-vs-preposition joint. Natural Valentine's-adjacent companion to 0077."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

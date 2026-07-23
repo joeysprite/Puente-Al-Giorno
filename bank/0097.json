@@ -1,0 +1,83 @@
+{
+  "id": "0097",
+  "type": "idiom",
+  "cue": "How do you say someone is nobody's fool?",
+  "es": {
+    "text": "Saber latín",
+    "literal": "to know Latin",
+    "meaning": "To be shrewd; to be nobody's fool.",
+    "example": "A ese no lo engañas: sabe latín.",
+    "exampleTranslation": "You won't fool him — he's nobody's fool.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/lat%C3%ADn",
+        "headword": "latín",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Saperla lunga",
+    "literal": "to know it long",
+    "meaning": "To be shrewd; to know more than one lets on.",
+    "example": "Quello non lo freghi: la sa lunga.",
+    "exampleTranslation": "You won't fool him — he's nobody's fool.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/sapere1/",
+        "headword": "sapere",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Two ways of measuring cunning. Spanish measures it by CONTENT: knowing Latin, the old marker of a real education, so nobody can dazzle you with what they know. Italian measures it by EXTENT: la sa lunga, they know it LONG — knowledge stretching further than the conversation lets on. Depth of learning versus reach of knowing, and only the Italian implies the person is holding something back.",
+    "tags": [
+      "shared_metaphor",
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "'Sapere il latino' means literally knowing the language, nothing more. Shrewdness is saperLA lunga — note the obligatory la.",
+      "it_to_es": "'Saberla larga' is not Spanish; cunning there is classical education: saber latín."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "cunning",
+    "knowledge",
+    "education"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Content-vs-extent framing; the Italian la is a small grammar lesson in itself."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

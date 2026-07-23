@@ -1,0 +1,83 @@
+{
+  "id": "0084",
+  "type": "idiom",
+  "cue": "How do you say something made you suspicious?",
+  "es": {
+    "text": "Ponérsele la mosca detrás de la oreja",
+    "literal": "for the fly to settle behind one's ear",
+    "meaning": "To become suspicious; to sense something is off.",
+    "example": "Cuando pidió pagar en efectivo, se me puso la mosca detrás de la oreja.",
+    "exampleTranslation": "When he asked to pay cash, something felt off.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/mosca",
+        "headword": "mosca",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere la pulce nell'orecchio",
+    "literal": "to have the flea in the ear",
+    "meaning": "To have a nagging suspicion planted in one's mind.",
+    "example": "Quando ha chiesto di pagare in contanti mi è venuta la pulce nell'orecchio.",
+    "exampleTranslation": "When he asked to pay cash it put a flea in my ear.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/pulce/",
+        "headword": "pulce",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Suspicion arrives as an insect at the ear in both languages — and then they differ on species and on geography. Spanish sets a FLY BEHIND the ear: outside, hovering, something you can almost brush away. Italian puts a FLEA INSIDE it: in there, biting, impossible to ignore. Preposition and creature together decide how badly the doubt itches.",
+    "tags": [
+      "shared_metaphor",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": "The Italian insect is a flea and it goes IN (nell'orecchio), not behind — and it is normally something that comes to you: mi è venuta la pulce nell'orecchio.",
+      "it_to_es": "'Tener la pulga en la oreja' is not the Spanish idiom; the fly settles BEHIND the ear."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "suspicion",
+    "animals",
+    "body"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh here). IT counterpart from Claude's recall — UNVERIFIED. Cross-references the other fly idiom banked today; a two-insect themed run is possible."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

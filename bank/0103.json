@@ -1,0 +1,83 @@
+{
+  "id": "0103",
+  "type": "idiom",
+  "cue": "How do you say everything's going great?",
+  "es": {
+    "text": "Ir todo viento en popa",
+    "literal": "to go all wind at the stern",
+    "meaning": "For everything to be going smoothly and successfully.",
+    "example": "Desde el ascenso, todo le va viento en popa.",
+    "exampleTranslation": "Since the promotion, everything's going his way.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/popa",
+        "headword": "popa",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Andare a gonfie vele",
+    "literal": "to go with full sails",
+    "meaning": "For everything to be going wonderfully.",
+    "example": "Dopo la promozione, gli va tutto a gonfie vele.",
+    "exampleTranslation": "Since the promotion, it's all smooth sailing.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/vela/",
+        "headword": "vela",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages put success on a boat under good wind, and each looks at a different part of the rig. Spanish feels the WIND at the stern — viento en popa, the breeze pushing from behind, the invisible force doing the work. Italian sees the SAILS themselves — a gonfie vele, swollen full, the visible result of that same wind. Cause versus effect, on the same happy voyage.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Vento in poppa' does exist in Italian, but the more idiomatic phrase looks at the sails: a gonfie vele.",
+      "it_to_es": "'A velas hinchadas' is not the Spanish idiom; Spanish feels the wind at the stern — viento en popa."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "success",
+    "sailing",
+    "wind"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Wind-vs-sails, cause-vs-effect. Note IT also has vento in poppa as a near-calque — reviewer to rank."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

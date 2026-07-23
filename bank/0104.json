@@ -1,0 +1,83 @@
+{
+  "id": "0104",
+  "type": "idiom",
+  "cue": "How do you say it's a small world?",
+  "es": {
+    "text": "El mundo es un pañuelo",
+    "literal": "the world is a handkerchief",
+    "meaning": "It's a small world — said on an unexpected coincidence.",
+    "example": "¿También conoces a Ana? ¡El mundo es un pañuelo!",
+    "exampleTranslation": "You know Ana too? It's a small world!",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/pañuelo",
+        "headword": "pañuelo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Il mondo è piccolo",
+    "literal": "the world is small",
+    "meaning": "It's a small world.",
+    "example": "Conosci anche tu Ana? Il mondo è piccolo!",
+    "exampleTranslation": "You know Ana too? Small world!",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/mondo/",
+        "headword": "mondo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same delighted surprise at a coincidence, but only one language reaches for a metaphor. Spanish shrinks the whole world to a PAÑUELO, a handkerchief — small enough to fold into a pocket, a vivid little object. Italian just states the size plainly: il mondo è piccolo, the world is small. A rare case where Spanish is the figurative one and Italian the literal — usually it runs the other way.",
+    "tags": [
+      "false_friend",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "There is no handkerchief in the Italian; 'il mondo è un fazzoletto' will puzzle. Italian says it flat: il mondo è piccolo.",
+      "it_to_es": "Reducing the Spanish to 'el mundo es pequeño' is understood but loses the idiom — the fixed phrase is the handkerchief."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "coincidence",
+    "world",
+    "objects"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. One of the few entries where ES is figurative and IT is literal — worth noting as a reversal of the usual pattern."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

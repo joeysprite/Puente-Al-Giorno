@@ -1,0 +1,83 @@
+{
+  "id": "0106",
+  "type": "idiom",
+  "cue": "How do you say things went from bad to worse?",
+  "es": {
+    "text": "Andar de Herodes a Pilato",
+    "literal": "to walk from Herod to Pilate",
+    "meaning": "To go from one bad situation to a worse one; to be passed around fruitlessly.",
+    "example": "Con esos trámites ando de Herodes a Pilato.",
+    "exampleTranslation": "With this paperwork I'm sent from pillar to post.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/herodes",
+        "headword": "Herodes",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Cadere dalla padella nella brace",
+    "literal": "to fall from the frying pan into the embers",
+    "meaning": "To go from a bad situation to a worse one.",
+    "example": "Con quelle pratiche sono caduto dalla padella nella brace.",
+    "exampleTranslation": "With that paperwork I went out of the frying pan into the fire.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/padella/",
+        "headword": "padella",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same worsening, two very different registers of misery. Spanish sends you on the Gospel journey of Christ's trial — shuttled from Herod to Pilate, from one authority to the next, nobody taking responsibility: a bureaucratic hell with a biblical face. Italian drops you from the frying pan into the coals — pure kitchen physics, hot to hotter. English keeps the Italian pan but swaps embers for fire. Scripture versus stove for the identical predicament.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The Italian is culinary, not biblical — dalla padella nella brace. 'Da Erode a Pilato' would only be understood as the literal Passion route.",
+      "it_to_es": "'De la sartén a las brasas' is understood but is not the fixed Spanish idiom, which walks the Passion: de Herodes a Pilato."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "misfortune",
+    "religion",
+    "cooking"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Scripture-vs-stove; note this is a THIRD 'bad to worse' entry (0099 estacada is unrelated; salir de Guatemala queued). Kept for the biblical/culinary contrast."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

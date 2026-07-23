@@ -1,0 +1,83 @@
+{
+  "id": "0089",
+  "type": "idiom",
+  "cue": "How do you say someone gave it everything they had?",
+  "es": {
+    "text": "Poner toda la carne en el asador",
+    "literal": "to put all the meat on the grill",
+    "meaning": "To go all in; to commit everything to one attempt. ADMIRING.",
+    "example": "Puso toda la carne en el asador y produjo la película ella misma.",
+    "exampleTranslation": "She went all in and produced the film herself.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/carne",
+        "headword": "carne",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Mettere troppa carne al fuoco",
+    "literal": "to put too much meat on the fire",
+    "meaning": "To take on too much at once; to overcommit. CRITICAL.",
+    "example": "Hai messo troppa carne al fuoco: non riuscirai a finire niente.",
+    "exampleTranslation": "You've taken on too much — you'll finish nothing.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/carne/",
+        "headword": "carne",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same meat on the same fire, and the two languages deliver opposite verdicts. Spanish admires it: all the meat on the grill, holding nothing back, the gambler's whole stake. Italian scolds it: TOO much meat on the fire, more than anyone could cook, ambition curdling into chaos. The word that decides the judgement is troppa — and a Spanish speaker who translates their own compliment has just called someone reckless.",
+    "tags": [
+      "false_friend",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The costly one: praising someone with 'ha messo tutta la carne al fuoco' lands as criticism. For genuine all-in praise Italian says 'ha dato tutto se stesso'.",
+      "it_to_es": "Translating the Italian warning into Spanish produces a compliment — 'poner toda la carne en el asador' is admiring. To warn, Spanish says 'abarcar demasiado'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "ambition",
+    "food",
+    "valence"
+  ],
+  "cefr": "B2",
+  "difficulty": 4,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. The valence flip flagged in CANDIDATES since the Europass harvest — now confirmed from the book. Top-tier entry; the trap has real social cost."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

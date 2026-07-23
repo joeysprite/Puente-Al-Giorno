@@ -1,0 +1,83 @@
+{
+  "id": "0086",
+  "type": "idiom",
+  "cue": "How do you say someone is filling your head with nonsense?",
+  "es": {
+    "text": "Llenar la cabeza de pajaritos",
+    "literal": "to fill the head with little birds",
+    "meaning": "To fill someone's head with empty promises or unrealistic talk.",
+    "example": "No le llenes la cabeza de pajaritos, que luego se ilusiona.",
+    "exampleTranslation": "Don't fill her head with nonsense — she'll get her hopes up.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/p%C3%A1jaro",
+        "headword": "pájaro",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Mettere grilli in testa a qualcuno",
+    "literal": "to put crickets in someone's head",
+    "meaning": "To put unrealistic ideas into someone's head.",
+    "example": "Non mettergli grilli in testa, poi ci spera davvero.",
+    "exampleTranslation": "Don't put ideas in his head — he'll actually count on it.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/grillo1/",
+        "headword": "grillo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The causative twin of entry 0074, one grammatical step over: there the head already HAS the creatures, here somebody PUTS them in. Both languages carry both forms with the same animals — Spanish birds, Italian crickets — which means the pair teaches a whole grammatical family rather than a single phrase. And the blame shifts with the verb: having birds makes you a dreamer, being given them makes you a mark.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Birds again fail in Italian: the head takes grilli, and the verb is mettere IN testa (a qualcuno), not riempire.",
+      "it_to_es": "'Poner grillos en la cabeza' is not Spanish; fill it with little birds — and note the diminutive, pajaritos, which carries the condescension."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "deception",
+    "animals",
+    "causatives"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh here). IT counterpart from Claude's recall — UNVERIFIED. Stative/causative sibling of 0074 — the clearest case yet for a themed two-day sequence."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

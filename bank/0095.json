@@ -1,0 +1,83 @@
+{
+  "id": "0095",
+  "type": "idiom",
+  "cue": "How do you say someone did things in the wrong order?",
+  "es": {
+    "text": "Empezar la casa por el tejado",
+    "literal": "to start the house at the roof",
+    "meaning": "To do things in the wrong order; to skip the groundwork.",
+    "example": "Compró el coche antes de sacarse el carnet: empezó la casa por el tejado.",
+    "exampleTranslation": "He bought the car before getting his licence — cart before the horse.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/tejado",
+        "headword": "tejado",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Mettere il carro davanti ai buoi",
+    "literal": "to put the cart in front of the oxen",
+    "meaning": "To do things in the wrong order.",
+    "example": "Ha comprato la macchina prima della patente: ha messo il carro davanti ai buoi.",
+    "exampleTranslation": "He bought the car before the licence — cart before the horse.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/carro/",
+        "headword": "carro",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same error, two industries. Spanish builds: a house begun at the roof, with nothing underneath to hold it — a failure of foundations, and the whole thing will fall. Italian hauls: the cart placed in front of the oxen, everything present and correctly assembled but facing the wrong way, so nothing moves. One image says you skipped a step, the other says you reversed one. English keeps the cart and swaps the animal.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Roofs are not the Italian image — the mistake is agricultural: il carro davanti ai BUOI, oxen, not horses.",
+      "it_to_es": "'Poner el carro delante de los bueyes' is understood in Spanish but the vivid fixed phrase builds the house from the roof down."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "order",
+    "building",
+    "farming"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Foundations-vs-direction framing; the English version sits between the two."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}
