@@ -1,0 +1,83 @@
+{
+  "id": "0083",
+  "type": "idiom",
+  "cue": "How do you say something will never happen?",
+  "es": {
+    "text": "Cuando las ranas críen pelo",
+    "literal": "when frogs grow hair",
+    "meaning": "Never; on a day that will not come.",
+    "example": "¿Que él pida perdón? Cuando las ranas críen pelo.",
+    "exampleTranslation": "Him, apologise? When pigs fly.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/rana",
+        "headword": "rana",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Quando gli asini voleranno",
+    "literal": "when donkeys fly",
+    "meaning": "Never; on a day that will not come.",
+    "example": "Che lui chieda scusa? Quando gli asini voleranno.",
+    "exampleTranslation": "Him, apologise? When pigs fly.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/asino/",
+        "headword": "asino",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "A competition in impossibility, and each language picks a different kind. Spanish asks a frog to grow HAIR — an absurdity of biology, a small wet animal acquiring what it could never have. Italian asks a donkey to FLY — an absurdity of physics, the heaviest, most earthbound animal leaving the ground. English splits the difference with a flying pig. Three languages, three ways of saying the universe would have to change first.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Frogs and hair get a blank look in Italy; the impossible thing there is a donkey in the air. Also common: alle calende greche.",
+      "it_to_es": "Flying donkeys are not the Spanish formula — the frog must grow hair. Mexico also says 'cuando San Juan agache el dedo'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "impossibility",
+    "animals",
+    "humor"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in a Spanish idioms book Joe is reading, 2026-07-21 (discovery only; every gloss and example here authored fresh). IT counterpart chosen by Claude from recall — UNVERIFIED. Biology-vs-physics framing; the MX San Juan variant is worth a region note if the reviewer confirms it."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

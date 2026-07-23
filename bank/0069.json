@@ -1,0 +1,80 @@
+{
+  "id": "0069",
+  "type": "marker",
+  "cue": "How do you shrug and say who knows?",
+  "es": {
+    "text": "¡Sepa!",
+    "literal": "may-one-know!",
+    "meaning": "Who knows; beats me — the one-word shrug.",
+    "example": "—¿A qué hora llega? —¡Sepa!",
+    "exampleTranslation": "“What time does he arrive?” “Who knows!”",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "mx"
+    ],
+    "regionNote": "Mexican; often extended 'sepa la bola' or softened '¿quién sabe?' (which is pan-Hispanic). Spain: 'ni idea' / 'yo qué sé'. Reviewer to confirm bare ¡sepa! currency.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/saber",
+        "headword": "saber",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Boh",
+    "literal": "(bare shrug syllable)",
+    "meaning": "Dunno; who knows — the minimal Italian shrug, felt as untranslatable.",
+    "example": "—Dove sono le chiavi? —Boh.",
+    "exampleTranslation": "“Where are the keys?” “Dunno.”",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": "Written boh, often with a shoulder shrug; famously claimed as untranslatable. Fine among friends, too casual for exams or bosses.",
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/boh",
+        "headword": "boh",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The minimal shrug, built oppositely: Italian compresses ignorance into a bare syllable that is not even a verb — boh — while Mexico compresses it into pure grammar: sepa, a lone subjunctive ('may one know') with the knower deleted. One language shrugs with sound, the other with mood. Both are one word, both are complete answers, and both are too casual for your boss.",
+    "tags": [
+      "interference_risk",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "There is no verb inside boh to translate — reaching for 'non so' is correct but loses the shrug. Boh is learned by ear, not by rule.",
+      "it_to_es": "Boh means nothing in Spanish. The Mexican monosyllable is ¡sepa! — and note it is subjunctive, a grammar joke your textbook never made."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "ignorance",
+    "shrugs",
+    "subjunctive"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. Sound-vs-mood is the payload; register warning on both sides."
+  },
+  "createdOn": "2026-07-20",
+  "retiredReason": null
+}

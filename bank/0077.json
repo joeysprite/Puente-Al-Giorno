@@ -1,0 +1,87 @@
+{
+  "id": "0077",
+  "type": "collocation",
+  "cue": "How do you tell someone you love them without saying too much?",
+  "es": {
+    "text": "Te quiero",
+    "literal": "I want you",
+    "meaning": "I love you — the warm everyday form, used with partners, family and close friends alike.",
+    "example": "Te quiero mucho, hermanita.",
+    "exampleTranslation": "I love you so much, sis.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Sits against 'te amo', which is heavier and more declarative; in much of Latin America te quiero carries most of the romantic weight day to day and te amo is saved for weight. Reviewer to calibrate for Mexico specifically.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/querer",
+        "headword": "querer",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Ti voglio bene",
+    "literal": "I want good for you",
+    "meaning": "I love you — affection for family and friends, and explicitly NOT the romantic declaration.",
+    "example": "Ti voglio bene, sorellina.",
+    "exampleTranslation": "I love you, little sis.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": "Sits against 'ti amo', which is the romantic declaration. Between partners, ti voglio bene can read as affection short of love — reviewer to confirm how sharply that boundary is felt today.",
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/volere/",
+        "headword": "volere",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages soften love with a verb of wanting, and then aim it differently: Spanish wants the PERSON — te quiero, I want you — while Italian wants GOOD FOR the person, ti voglio bene. The forms look interchangeable and are not, because the two scales run opposite. In Spanish, te quiero is the everyday warmth couples live in and te amo is the heavy one, kept for weight. In Italian, ti amo is what partners say, and ti voglio bene marks affection that stops short of romance. The same softening move is tender in one language and a demotion in the other.",
+    "tags": [
+      "false_friend",
+      "register_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The costly one: saying ti voglio bene to a romantic partner can read as a let-down, affection without romance. If you mean it romantically, the word is ti amo.",
+      "it_to_es": "Reaching straight for te amo is understood but often lands heavier than intended in Latin America — te quiero carries most everyday romantic weight, and te amo is saved for the moments that deserve it."
+    }
+  },
+  "pin": null,
+  "pinWindow": {
+    "from": "02-12",
+    "to": "02-14"
+  },
+  "season": null,
+  "events": [],
+  "themes": [
+    "love",
+    "register",
+    "relationships"
+  ],
+  "cefr": "B1",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-20, flagged for Valentine's Day. Soft-pinned 12-14 Feb rather than hard-pinned to the 14th, so the scheduler can place it in the run-up without displacing anything. The register scales on BOTH sides are the payload and both need native calibration: how heavy te amo really feels in Mexico, and how sharply Italians hear ti voglio bene as non-romantic between partners. Do not ship this one on my say-so."
+  },
+  "createdOn": "2026-07-20",
+  "retiredReason": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "0075",
+  "type": "idiom",
+  "cue": "How do you say someone loves their food?",
+  "es": {
+    "text": "Tener buen diente",
+    "literal": "to have a good tooth",
+    "meaning": "To have a hearty appetite; to be a big eater.",
+    "example": "Tu hijo tiene buen diente, repitió tres veces.",
+    "exampleTranslation": "Your son's a good eater — he went back three times.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Also 'ser de buen comer'. Reviewer to confirm MX currency.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/diente",
+        "headword": "diente",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Essere una buona forchetta",
+    "literal": "to be a good fork",
+    "meaning": "To love eating; to have a big appetite.",
+    "example": "Tuo figlio è una buona forchetta, ha fatto il bis tre volte.",
+    "exampleTranslation": "Your son loves his food — three helpings.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/forchetta/",
+        "headword": "forchetta",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "A compliment paid with two different objects: Spanish credits the TOOTH — the body doing the work — while Italian credits the FORK, the tool. And the grammar follows the metaphor: in Spanish you HAVE a good tooth (something you possess), in Italian you ARE a good fork (something you become at the table). Have versus be, body versus instrument, in six words.",
+    "tags": [
+      "auxiliary_trap",
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": "'Avere una buona forchetta' is the classic slip — Italian says ESSERE una buona forchetta. You are the fork.",
+      "it_to_es": "'Ser un buen diente' misfires; Spanish keeps it possessive: TENER buen diente."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "food",
+    "appetite",
+    "auxiliaries"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Discovered via an Instagram card set Joe shared 2026-07-20 (discovery only; all glosses and examples authored fresh). ES counterpart chosen by Claude from recall — UNVERIFIED. Third have/be entry — a themed run with 0080 and the acqua alla gola pair is now possible."
+  },
+  "createdOn": "2026-07-20",
+  "retiredReason": null
+}

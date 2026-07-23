@@ -1,0 +1,83 @@
+{
+  "id": "0078",
+  "type": "idiom",
+  "cue": "How do you say hardly anyone showed up?",
+  "es": {
+    "text": "Ser cuatro gatos",
+    "literal": "to be four cats",
+    "meaning": "To be hardly anyone; a very thin crowd.",
+    "example": "Fuimos al estreno y éramos cuatro gatos.",
+    "exampleTranslation": "We went to the opening and there was hardly a soul.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Also 'había cuatro gatos'. Reviewer to confirm MX currency.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/gato",
+        "headword": "gato",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Esserci quattro gatti",
+    "literal": "there to be four cats",
+    "meaning": "There to be hardly anyone; a very thin crowd.",
+    "example": "Siamo andati alla prima ed eravamo quattro gatti.",
+    "exampleTranslation": "We went to the opening and there was hardly a soul.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/gatto/",
+        "headword": "gatto",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The freakiest twin in the bank: same animal, same number, same shrug. Both languages independently settled on FOUR CATS as the unit of a disappointing turnout — not three, not a handful, and not dogs. When two languages agree this precisely the interesting question flips: not what diverges, but whether one borrowed it from the other, or whether four cats is simply what an empty room looks like around the Mediterranean.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "This one transfers whole — but mind the frame: Italian builds it with esserci (eravamo quattro gatti), not with avere.",
+      "it_to_es": "Equally safe coming back. Spanish uses ser or haber: éramos cuatro gatos, había cuatro gatos."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "crowds",
+    "animals",
+    "disappointment"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in a Spanish idioms book Joe is reading, 2026-07-21 (discovery only; every gloss and example here authored fresh). IT counterpart chosen by Claude from recall — UNVERIFIED. Exact-twin entry whose payload is the coincidence itself — a good early-week freebie."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

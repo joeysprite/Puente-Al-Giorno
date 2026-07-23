@@ -75,12 +75,13 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Strong candidate for an early 'bridge' showcase entry."
+    "notes": "Strong candidate for an early 'bridge' showcase entry. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,
   "hook": {
     "headline": "Neither language has hairs on its tongue. Only the preposition moves.",
     "subhead": "pelos/peli, lengua/lingua — and then en la becomes sulla."
-  }
+  },
+  "cue": "How do you describe someone who says exactly what they think?"
 }

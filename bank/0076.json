@@ -1,0 +1,83 @@
+{
+  "id": "0076",
+  "type": "idiom",
+  "cue": "How do you say you were put on the spot?",
+  "es": {
+    "text": "De buenas a primeras",
+    "literal": "from goods to firsts",
+    "meaning": "Right off the bat; suddenly and without warning, with no time to prepare.",
+    "example": "No puedo decidir de buenas a primeras, déjame pensarlo.",
+    "exampleTranslation": "I can't decide just like that — let me think it over.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Pan-Hispanic. Mexico also has 'así nomás' and 'de bote pronto'; Spain leans on 'a bote pronto'. Reviewer to confirm which fronts for an MX-default audience.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/bueno",
+        "headword": "bueno",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Su due piedi",
+    "literal": "on two feet",
+    "meaning": "On the spot; immediately, without time to think it over.",
+    "example": "Non so risponderti su due piedi, fammici pensare.",
+    "exampleTranslation": "I can't answer you on the spot — let me think about it.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/piede/",
+        "headword": "piede",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "One idiom still shows its picture; the other has worn smooth. Italian puts you on your two feet — you are standing, nobody has offered you a chair, answer now. Spanish says de buenas a primeras, a phrase whose literal reading (from goods to firsts) means nothing to anyone, including Spaniards: the image eroded centuries ago and only the function survived. Learners can reason their way into the Italian and simply have to memorise the Spanish.",
+    "tags": [
+      "interference_risk",
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "There is no Italian version of the Spanish phrase to calque — and note the fixed number: su DUE piedi, never 'su un piede'.",
+      "it_to_es": "Do not reach for feet in Spanish. 'A pie juntillas' exists but means the opposite kind of thing — believing something firmly, not deciding hastily."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "immediacy",
+    "decisions",
+    "transparency"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Discovered via a clip Joe shared 2026-07-20 (discovery only; glosses and examples authored fresh). ES pairing by Claude — UNVERIFIED. Two claims to check: that 'de buenas a primeras' is the closest everyday counterpart for an MX audience, and the a-pie-juntillas contrast in the it_to_es trap."
+  },
+  "createdOn": "2026-07-20",
+  "retiredReason": null
+}

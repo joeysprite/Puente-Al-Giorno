@@ -1,0 +1,81 @@
+{
+  "id": "0064",
+  "type": "idiom",
+  "cue": "How do you say someone should be locked up for good?",
+  "es": {
+    "text": "Botar la llave",
+    "literal": "to throw away the key",
+    "meaning": "To put someone away for good — usually in 'encerrarlo y botar la llave'.",
+    "example": "A ese tipo hay que encerrarlo y botar la llave.",
+    "exampleTranslation": "They should lock that guy up and throw away the key.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "co",
+      "ve",
+      "mx"
+    ],
+    "regionNote": "'Botar' for throwing away is Caribbean, Colombian, Venezuelan and Central American; Mexico and Spain lean to 'tirar la llave'. Reviewer to decide which form fronts for an MX-default audience — this may want re-pairing as 'tirar la llave'.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/botar",
+        "headword": "botar",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Buttare via la chiave",
+    "literal": "to throw away the key",
+    "meaning": "To put someone away for good — usually in 'rinchiuderlo e buttare via la chiave'.",
+    "example": "Uno così bisogna rinchiuderlo e buttare via la chiave.",
+    "exampleTranslation": "Someone like that should be locked up and the key thrown away.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/buttare/",
+        "headword": "buttare",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "A rare case where the verbs really are cousins — botar and buttare both mean to throw, and they look and sound related. But Italian will not let the verb stand alone: it needs VIA. Buttare la chiave sounds unfinished; buttare VIA la chiave is the phrase. That particle governs a whole family Spanish speakers keep dropping — andare via, portare via, mandare via — where Spanish is content with the bare verb.",
+    "tags": [
+      "cognate_pair",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": "Dropping via is the error: buttare VIA la chiave. Spanish gives no warning here, because botar needs nothing after it.",
+      "it_to_es": "Adding a particle ('botar vía la llave') is not Spanish — and in Mexico the more current verb is tirar, not botar."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "punishment",
+    "finality"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Submitted by Joe 2026-07-19. Two open questions: (1) whether either phrase stands alone as a fixed idiom or only inside the longer 'lock them up and…' construction — banked as the short form, reviewers to rule; (2) botar vs tirar for the MX-default audience. The botar/buttare cognate claim is Claude's and is presented as resemblance, not established etymology — do not print an origin story without confirming it."
+  },
+  "createdOn": "2026-07-19",
+  "retiredReason": null
+}

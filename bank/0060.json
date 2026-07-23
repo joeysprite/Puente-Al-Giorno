@@ -19,7 +19,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending."
+    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
   },
   "id": "0060",
   "type": "idiom",
@@ -80,5 +80,6 @@
       "es_to_it": "Spanish speakers say 'fare ponte'. Italian needs the article: fare il ponte.",
       "it_to_es": "Italians say 'hacer el puente'. Spanish drops it: hacer puente."
     }
-  }
+  },
+  "cue": "How do you say you're taking the bridging day off?"
 }

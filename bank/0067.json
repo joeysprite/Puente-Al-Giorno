@@ -1,0 +1,83 @@
+{
+  "id": "0067",
+  "type": "marker",
+  "cue": "How do you wave off someone's thanks?",
+  "es": {
+    "text": "Imagínate",
+    "literal": "imagine-yourself",
+    "meaning": "Just imagine; wow — an intensifier of surprise or empathy, NOT a reply to thanks.",
+    "example": "—Esperamos tres horas. —¡Imagínate!",
+    "exampleTranslation": "“We waited three hours.” “Can you imagine!”",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/imaginar",
+        "headword": "imaginar",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Figurati",
+    "literal": "figure-yourself",
+    "meaning": "Don't mention it; not at all; also 'of course not' — the standard wave-off of thanks.",
+    "example": "—Grazie mille! —Figurati!",
+    "exampleTranslation": "“Thanks so much!” “Don't mention it!”",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/figurarsi/",
+        "headword": "figurarsi",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "A false friend built from the same instruction: both tell you to picture something. Italian's figurati has drifted into courtesy — picture how little trouble it was — and become the standard reply to thanks. Spanish imagínate stayed an amazement marker: picture how big it was. Same imperative, opposite directions: one shrinks the favour, the other inflates the story.",
+    "tags": [
+      "false_friend",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Answering 'gracias' with 'imagínate' confuses a Mexican — the wave-off is 'no hay de qué' or 'de nada'. Save imagínate for astonishment.",
+      "it_to_es": "Replying to grazie with a literal translation fails; figurati (or figurati!) is the ritual. And when an Italian says figurati to decline your apology, no imagining is requested."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "courtesy",
+    "false_friend",
+    "rituals"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. The thanks-ritual asymmetry pairs nicely with 0039's crepi ritual — possible themed sequence on scripted replies."
+  },
+  "createdOn": "2026-07-20",
+  "retiredReason": null
+}

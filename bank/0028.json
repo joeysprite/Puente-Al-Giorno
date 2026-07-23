@@ -73,12 +73,13 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-13. Meaning divergence is the payload. Reviewer to confirm: (a) MX surface form, (b) whether ES side can also carry the negative 'spin' sense in some regions, (c) 'ribaltare la situazione' as the recommended IT alternative."
+    "notes": "Submitted by Joe 2026-07-13. Meaning divergence is the payload. Reviewer to confirm: (a) MX surface form, (b) whether ES side can also carry the negative 'spin' sense in some regions, (c) 'ribaltare la situazione' as the recommended IT alternative. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
   },
   "createdOn": "2026-07-13",
   "retiredReason": null,
   "hook": {
     "headline": "Both languages flip the same egg dish. Only one of them is <span class=\"it-w\">accusing you</span>.",
     "subhead": "Spanish flips the tortilla and wins the match. Italian flips the frittata and dodges the blame."
-  }
+  },
+  "cue": "How do you say a situation completely turned around?"
 }

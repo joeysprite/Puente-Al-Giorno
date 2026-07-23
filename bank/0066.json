@@ -1,0 +1,80 @@
+{
+  "id": "0066",
+  "type": "marker",
+  "cue": "How do you urge someone on?",
+  "es": {
+    "text": "¡Ándale!",
+    "literal": "walk-along-there!",
+    "meaning": "Come on!; that's it!; also 'exactly!' when agreeing.",
+    "example": "¡Ándale, que se hace tarde!",
+    "exampleTranslation": "Come on, it's getting late!",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "mx"
+    ],
+    "regionNote": "Quintessentially Mexican (with cousin ¡órale!). Spain urges with ¡venga! or ¡vamos!. The -le is the famous Mexican intensifier clitic (ándale, órale, échale, córrele).",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/andar",
+        "headword": "andar",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Dai",
+    "literal": "give!",
+    "meaning": "Come on!; go on; also softening disbelief (ma dai = no way).",
+    "example": "Dai, usciamo che è tardi!",
+    "exampleTranslation": "Come on, let's head out, it's late!",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/dare/",
+        "headword": "dare",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages turned an imperative into pure encouragement, but they grabbed different verbs: Italian urges you with GIVE (dai), Mexico with WALK (ándale) — motion for motion's sake, wearing the untranslatable -le that Mexican Spanish bolts onto commands. Neither is understood literally by anyone, which is what makes them markers rather than verbs.",
+    "tags": [
+      "interference_risk",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "'Cammina!' as encouragement reads as an order to literally walk — the Italian nudge is dai. And dai doubles as disbelief: ma dai!",
+      "it_to_es": "'¡Da!' means nothing in Spanish. Mexico walks you forward: ándale (Spain: venga). The -le has no Italian counterpart — don't seek one."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "encouragement",
+    "imperatives",
+    "daily"
+  ],
+  "cefr": "A2",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. The -le clitic note is a whole future entry (órale/échale/córrele family)."
+  },
+  "createdOn": "2026-07-20",
+  "retiredReason": null
+}

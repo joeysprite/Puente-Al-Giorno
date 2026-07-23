@@ -14,7 +14,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Kept by editorial decision: technically a collocation, but idiomatic in the sense that matters (HAVE for body states, not BE). Weak as a headline entry — its earning power is the trap, not the expression: estoy caliente / sono caldo both read as arousal. Slot as a summer-season beginner day, never a showcase. Note: schema CEFR floor is A2; there is no A1 value."
+    "notes": "Kept by editorial decision: technically a collocation, but idiomatic in the sense that matters (HAVE for body states, not BE). Weak as a headline entry — its earning power is the trap, not the expression: estoy caliente / sono caldo both read as arousal. Slot as a summer-season beginner day, never a showcase. Note: schema CEFR floor is A2; there is no A1 value. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
   },
   "id": "0080",
   "type": "collocation",
@@ -76,5 +76,6 @@
       "es_to_it": "An English-influenced Spanish speaker who has learned to avoid 'estoy caliente' sometimes still produces 'sono caldo' in Italian. Same trap, same fix: ho caldo.",
       "it_to_es": "Mirrored exactly: 'estoy caliente' is the same error as 'sono caldo'. Use tengo calor."
     }
-  }
+  },
+  "cue": "How do you say you're hot?"
 }

@@ -1,0 +1,84 @@
+{
+  "id": "0072",
+  "type": "idiom",
+  "cue": "How do you say you're in serious trouble?",
+  "es": {
+    "text": "Estar con el agua al cuello",
+    "literal": "to be with the water at the neck",
+    "meaning": "To be in serious trouble, usually financial.",
+    "example": "Con esa deuda estamos con el agua al cuello.",
+    "exampleTranslation": "With that debt we're in over our heads.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/agua",
+        "headword": "agua",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere l'acqua alla gola",
+    "literal": "to have the water at the throat",
+    "meaning": "To be in serious difficulty, often from money or a deadline.",
+    "example": "Con questa scadenza ho l'acqua alla gola.",
+    "exampleTranslation": "With this deadline I'm drowning.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/gola/",
+        "headword": "gola",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same rising water, stopped one inch apart: Spanish measures it at the NECK, Italian at the THROAT — outside versus inside, the part you'd grab versus the part you'd breathe through. And the verbs part company: Spanish is WITH the water (estar con), Italian HAS it (avere), which is the same have/be split that catches learners everywhere else in these two languages.",
+    "tags": [
+      "cognate_pair",
+      "auxiliary_trap",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": "'Essere con l'acqua al collo' half-works but the fixed form is avere l'acqua ALLA GOLA — have, not be, and throat, not neck.",
+      "it_to_es": "'Tener el agua a la garganta' is not the Spanish idiom: estar CON el agua AL CUELLO."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "trouble",
+    "water",
+    "auxiliaries"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Discovered via an Instagram card set Joe shared 2026-07-20 (discovery only; all glosses and examples authored fresh). ES counterpart chosen by Claude from recall — UNVERIFIED. Best have/be trap in the bank after 0080; the neck/throat inch is the delight."
+  },
+  "createdOn": "2026-07-20",
+  "retiredReason": null
+}

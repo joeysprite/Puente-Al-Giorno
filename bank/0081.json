@@ -1,0 +1,83 @@
+{
+  "id": "0081",
+  "type": "idiom",
+  "cue": "How do you say someone twists everything to their own advantage?",
+  "es": {
+    "text": "Arrimar el ascua a su sardina",
+    "literal": "to draw the ember to one's own sardine",
+    "meaning": "To turn every situation to one's own advantage.",
+    "example": "Siempre arrima el ascua a su sardina: cualquier acuerdo acaba beneficiándole.",
+    "exampleTranslation": "He always works it round to his own benefit — every deal ends up favouring him.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/",
+        "headword": "ascua",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Tirare l'acqua al proprio mulino",
+    "literal": "to draw the water to one's own mill",
+    "meaning": "To turn every situation to one's own advantage.",
+    "example": "Tira sempre l'acqua al suo mulino: ogni accordo finisce per favorirlo.",
+    "exampleTranslation": "He always works it round to his own benefit — every deal ends up favouring him.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/mulino/",
+        "headword": "mulino",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Identical grammar, different economies. Both drag a resource toward a thing that is theirs — and the resource tells you what each culture pictures as work. Spain drags EMBERS toward a sardine on the fire: one person, one supper, immediate. Italy diverts WATER toward a mill: property, machinery, a livelihood turning. Selfishness at the scale of a meal versus selfishness at the scale of an industry.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The Italian resource is water and the destination is a mill — embers and sardines will only puzzle. And it is tirare, to pull, not arrimare.",
+      "it_to_es": "'Llevar el agua a su molino' does exist in Spanish and is understood, but the vivid refrán is the sardine on the coals."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "selfishness",
+    "work",
+    "food"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in a Spanish idioms book Joe is reading, 2026-07-21 (discovery only; every gloss and example here authored fresh). IT counterpart chosen by Claude from recall — UNVERIFIED. Same skeleton, two economies — one of the cleanest bridges in the bank."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

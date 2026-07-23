@@ -74,8 +74,9 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-16 (Italian side). Best bridge of the batch: proverb-level false friends with opposite moral valence. Hook candidate."
+    "notes": "Submitted by Joe 2026-07-16 (Italian side). Best bridge of the batch: proverb-level false friends with opposite moral valence. Hook candidate. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
   },
   "createdOn": "2026-07-16",
-  "retiredReason": null
+  "retiredReason": null,
+  "cue": "How do you answer someone who says others suffer too?"
 }

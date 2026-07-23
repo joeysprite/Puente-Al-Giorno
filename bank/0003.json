@@ -74,12 +74,13 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": null
+    "notes": " Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,
   "hook": {
     "headline": "It costs an eye in both languages. The verb is the trap.",
     "subhead": "Costare takes essere, not avere. Spanish gives you no warning."
-  }
+  },
+  "cue": "How do you complain that something cost a fortune?"
 }

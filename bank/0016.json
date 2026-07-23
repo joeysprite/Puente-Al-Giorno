@@ -74,8 +74,9 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Cervantes Refranero documents both sides in one record — the ideal source type for this product."
+    "notes": "Cervantes Refranero documents both sides in one record — the ideal source type for this product. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
   },
   "createdOn": "2026-07-12",
-  "retiredReason": null
+  "retiredReason": null,
+  "cue": "How do you tell someone not to criticise a gift?"
 }

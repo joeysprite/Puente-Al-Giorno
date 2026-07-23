@@ -1,0 +1,83 @@
+{
+  "id": "0082",
+  "type": "idiom",
+  "cue": "How do you say someone laughed but didn't mean it?",
+  "es": {
+    "text": "Reír con risa de conejo",
+    "literal": "to laugh with a rabbit's laugh",
+    "meaning": "To force a laugh; to laugh without meaning it.",
+    "example": "Contó el chiste y todos rieron con risa de conejo.",
+    "exampleTranslation": "He told the joke and everyone laughed politely.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Reviewer to confirm MX currency; 'risa forzada' is the plain alternative everywhere.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/conejo",
+        "headword": "conejo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Riso giallo",
+    "literal": "yellow laugh",
+    "meaning": "A forced or bitter laugh; laughter that hides discomfort.",
+    "example": "Ha raccontato la barzelletta e tutti hanno fatto un riso giallo.",
+    "exampleTranslation": "He told the joke and everyone gave a thin laugh.",
+    "register": "standard",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/giallo/",
+        "headword": "giallo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Insincere laughter, coded two ways. Spanish points at the FACE — a rabbit's laugh, all exposed teeth and no eyes, the grin of an animal that is not amused. Italian points at a COLOUR: yellow, the shade Italian reserves for the bitter and the sickly. One language describes the expression, the other names its temperature. Neither is translatable by the other's route.",
+    "tags": [
+      "shared_metaphor",
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "'Risata da coniglio' says nothing to an Italian — the forced laugh is giallo, and note it is riso (a laugh) not risata here.",
+      "it_to_es": "'Risa amarilla' is not Spanish; the colour carries no such meaning. Spanish shows the rabbit's teeth."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "laughter",
+    "insincerity",
+    "animals"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in a Spanish idioms book Joe is reading, 2026-07-21 (discovery only; every gloss and example here authored fresh). IT counterpart chosen by Claude from recall — UNVERIFIED. Expression-vs-temperature axis; IT reviewer to confirm riso giallo is still current rather than literary."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

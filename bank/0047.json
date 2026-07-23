@@ -1,7 +1,7 @@
 {
   "id": "0047",
   "type": "marker",
-  "cue": "Say something went just okay — good but not GREAT",
+  "cue": "How do you say something went just okay?",
   "es": {
     "text": "Bien, pero no tan bien",
     "literal": "well, but not so well",
@@ -50,7 +50,7 @@
     ]
   },
   "bridge": {
-    "note": "Underneath the joke is a grammar asymmetry: Italian bolts -issimo onto almost anything, adverbs included — bene → benissimo, presto → prestissimo — while Spanish blocks it on bien (no *bienísimo in the standard; you escalate with muy bien or, in Mexico, rebién). Italian owns a one-word 'very well'; Spanish has to build it. The phrase runs on machinery the Spanish speaker doesn't expect to exist.",
+    "note": "Underneath the joke is a grammar asymmetry: Italian bolts -issimo onto almost anything, adverbs included — bene becomes benissimo, presto becomes prestissimo — while Spanish blocks it on bien (no *bienísimo in the standard; you escalate with muy bien or, in Mexico, rebién). Italian owns a one-word 'very well'; Spanish has to build it. The phrase runs on machinery the Spanish speaker doesn't expect to exist.",
     "tags": [
       "interference_risk",
       "false_friend"
@@ -76,7 +76,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-17. IT phrase is meme-boosted (mid-2010s) but now ordinary speech — IT reviewer to confirm the register aged well. ES pairing flagged."
+    "notes": "Submitted by Joe 2026-07-17. IT phrase is meme-boosted (mid-2010s) but now ordinary speech — IT reviewer to confirm the register aged well. ES pairing flagged. Arrow characters removed from the bridge note 2026-07-19: the serif italic renders them from a fallback face much wider than metrics predict, overflowing the Instagram panel. Prose reads better without them anyway."
   },
   "createdOn": "2026-07-17",
   "retiredReason": null

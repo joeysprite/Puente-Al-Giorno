@@ -1,0 +1,83 @@
+{
+  "id": "0071",
+  "type": "idiom",
+  "cue": "How do you describe someone who can't hold on to money?",
+  "es": {
+    "text": "Ser un manirroto",
+    "literal": "to be a broken-handed one",
+    "meaning": "To be a spendthrift; to burn through money.",
+    "example": "Es un manirroto: le pagan el viernes y el sábado no tiene nada.",
+    "exampleTranslation": "He's a spendthrift — paid Friday, broke by Saturday.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Also 'gastar a manos llenas'. Reviewer to confirm MX currency of manirroto vs plainer 'gastalón'.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/manirroto",
+        "headword": "manirroto",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere le mani bucate",
+    "literal": "to have holed hands",
+    "meaning": "To spend money easily; to be unable to save.",
+    "example": "Ha le mani bucate: lo stipendio gli dura una settimana.",
+    "exampleTranslation": "Money runs right through him — his salary lasts a week.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/bucato1/",
+        "headword": "bucato",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both blame the hands, and both break them — but differently. Italian punches HOLES in them so the money falls through; Spanish snaps the hand itself (mani-rroto, hand-broken) so it cannot close. One is a leak, the other a grip that failed. Same diagnosis, two mechanisms, and neither language reaches for the wallet.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Avere le mani rotte' is not the idiom — the hands are bucate, holed. And it is avere + le mani, never essere.",
+      "it_to_es": "'Tener las manos agujereadas' is understood but is not the Spanish idiom; the fixed form makes an adjective of it: manirroto."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "money",
+    "hands",
+    "character"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Discovered via an Instagram card set Joe shared 2026-07-20 (discovery only; all glosses and examples authored fresh). ES counterpart chosen by Claude from recall — UNVERIFIED. Leak-vs-grip is the payload."
+  },
+  "createdOn": "2026-07-20",
+  "retiredReason": null
+}

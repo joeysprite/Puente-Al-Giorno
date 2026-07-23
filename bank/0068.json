@@ -1,0 +1,81 @@
+{
+  "id": "0068",
+  "type": "marker",
+  "cue": "How do you exclaim oh my goodness?",
+  "es": {
+    "text": "¡Madre mía!",
+    "literal": "my mother!",
+    "meaning": "Good heavens; oh my — surprise, dismay, awe.",
+    "example": "¡Madre mía, cuánto tráfico!",
+    "exampleTranslation": "Good grief, so much traffic!",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "es",
+      "mx"
+    ],
+    "regionNote": "Peninsular-leaning; Mexico deploys the madre-family differently and richly (¡a toda madre!, me vale madre, un desmadre) with register hazards everywhere. Reviewer to advise how much of that minefield to flag.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/madre",
+        "headword": "madre",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Mamma mia!",
+    "literal": "my mom!",
+    "meaning": "Good heavens; oh my — surprise, dismay, awe.",
+    "example": "Mamma mia, quanto traffico!",
+    "exampleTranslation": "Good grief, so much traffic!",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/mamma/",
+        "headword": "mamma",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The rare exact twin that is also a trap of degree: both languages cry out to their mother, same words, same order, same occasions. But Spanish madre carries a second, volatile life — in Mexico the madre-family ranges from high praise (a toda madre) to vulgarity (me vale madre), so the innocent twin sits at the door of a register minefield Italian mamma never enters.",
+    "tags": [
+      "cognate_pair",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "Mamma mia transfers perfectly — say madre mía and be understood everywhere. The danger is the NEXT step: improvising with madre in Mexico without knowing the family.",
+      "it_to_es": "Madre mía transfers cleanly to mamma mia. Italian mamma is safe in every construction; no minefield on that side."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "exclamations",
+    "family",
+    "register"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. Freebie twin with a register footnote that earns its keep."
+  },
+  "createdOn": "2026-07-20",
+  "retiredReason": null
+}

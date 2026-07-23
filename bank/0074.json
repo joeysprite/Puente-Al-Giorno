@@ -1,0 +1,83 @@
+{
+  "id": "0074",
+  "type": "idiom",
+  "cue": "How do you describe someone with their head in the clouds?",
+  "es": {
+    "text": "Tener pájaros en la cabeza",
+    "literal": "to have birds in the head",
+    "meaning": "To be full of unrealistic notions; to be flighty.",
+    "example": "Tiene pájaros en la cabeza: quiere renunciar y vivir en la playa.",
+    "exampleTranslation": "She's got her head in the clouds — she wants to quit and live at the beach.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/p%C3%A1jaro",
+        "headword": "pájaro",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere grilli per la testa",
+    "literal": "to have crickets in the head",
+    "meaning": "To have strange or unrealistic ideas; to be restless.",
+    "example": "Ha grilli per la testa: vuole mollare tutto e partire.",
+    "exampleTranslation": "He's full of wild ideas — he wants to drop everything and leave.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/grillo1/",
+        "headword": "grillo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both fill the head with small restless creatures, and the choice of creature is the whole difference. Spanish releases BIRDS — they fly off, romantic, headed somewhere. Italian releases CRICKETS — they jump and chirp and go nowhere, which is a sharper verdict: not dreaming, just noisy. Cross-reference 0001, where Spanish puts the whole person in the clouds instead.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Avere uccelli per la testa' is not Italian — the head hosts grilli, and note the preposition: PER la testa, not nella.",
+      "it_to_es": "'Tener grillos en la cabeza' is not the Spanish idiom; Spanish keeps birds — and uses EN, not por."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "daydreaming",
+    "animals",
+    "character"
+  ],
+  "cefr": "B2",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Discovered via an Instagram card set Joe shared 2026-07-20 (discovery only; all glosses and examples authored fresh). ES counterpart chosen by Claude from recall — UNVERIFIED. Bird-vs-cricket is a verdict difference, not just imagery."
+  },
+  "createdOn": "2026-07-20",
+  "retiredReason": null
+}

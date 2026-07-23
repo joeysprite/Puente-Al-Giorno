@@ -74,8 +74,9 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Source spot-checked in Treccani; RAE entry not opened. Direction of warning assigned es→it on import; reviewer to confirm."
+    "notes": "Source spot-checked in Treccani; RAE entry not opened. Direction of warning assigned es→it on import; reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
   },
   "createdOn": "2026-07-12",
-  "retiredReason": null
+  "retiredReason": null,
+  "cue": "How do you say someone's mind is elsewhere?"
 }

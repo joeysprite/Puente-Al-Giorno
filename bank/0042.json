@@ -71,12 +71,13 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending. Restored 2026-07-14 under revised scope: the card teaches the axis, not the phrase."
+    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending. Restored 2026-07-14 under revised scope: the card teaches the axis, not the phrase. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,
   "hook": {
     "headline": "<span class=\"es-w\">Salir</span> is not <span class=\"it-w\">salire</span>. One goes out. One goes up.",
     "subhead": "Spanish salir goes out. Italian salire goes up. Every day, one pair like this."
-  }
+  },
+  "cue": "How do you say you're heading out?"
 }

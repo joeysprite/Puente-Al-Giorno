@@ -1,7 +1,7 @@
 {
   "id": "0046",
   "type": "marker",
-  "cue": "Tell someone to take it slow / easy does it",
+  "cue": "How do you tell someone to take it slow?",
   "es": {
     "text": "Despacito",
     "literal": "little-slowly (diminutive)",
@@ -50,7 +50,7 @@
     ]
   },
   "bridge": {
-    "note": "The same soothing instruction built by two different machines: Italian softens by SAYING IT TWICE (piano piano — reduplication), Spanish by SHRINKING THE WORD (despacio → despacito, the diminutive). Each language reaches for its favorite intensity dial. Both also drift into 'little by little' territory — cross-reference 0234 (a poco a poco / poco a poco), and Mexico even reduplicates the diminutive: poquito a poquito.",
+    "note": "The same soothing instruction built by two different machines: Italian softens by SAYING IT TWICE (piano piano — reduplication), Spanish by SHRINKING THE WORD (despacio becomes despacito, the diminutive). Each language reaches for its favorite intensity dial. Both also drift into 'little by little' territory — cross-reference 0234 (a poco a poco / poco a poco), and Mexico even reduplicates the diminutive: poquito a poquito.",
     "tags": [
       "interference_risk",
       "register_differs"
@@ -75,7 +75,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-17. The reduplication-vs-diminutive axis generalizes far past this pair — candidate for a themed sequence."
+    "notes": "Submitted by Joe 2026-07-17. The reduplication-vs-diminutive axis generalizes far past this pair — candidate for a themed sequence. Arrow characters removed from the bridge note 2026-07-19: the serif italic renders them from a fallback face much wider than metrics predict, overflowing the Instagram panel. Prose reads better without them anyway."
   },
   "createdOn": "2026-07-17",
   "retiredReason": null

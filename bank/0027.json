@@ -73,8 +73,9 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Renumbered from 0007 on import of the study-thread bank (id collision). Authored as a schema demo; sources not human-verified; reviewer sign-off pending. Restored 2026-07-14 under revised scope: the card teaches the axis, not the phrase."
+    "notes": "Renumbered from 0007 on import of the study-thread bank (id collision). Authored as a schema demo; sources not human-verified; reviewer sign-off pending. Restored 2026-07-14 under revised scope: the card teaches the axis, not the phrase. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
   },
   "createdOn": "2026-07-12",
-  "retiredReason": null
+  "retiredReason": null,
+  "cue": "How do you say you're staying put?"
 }

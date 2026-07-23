@@ -75,12 +75,13 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Direction of the mango warning assigned it→es on import (the trap bites when reading/producing Spanish); reviewer to confirm."
+    "notes": "Direction of the mango warning assigned it→es on import (the trap bites when reading/producing Spanish); reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,
   "hook": {
     "headline": "In Spanish, <span class=\"es-w\">mango</span> is a handle. Not the fruit.",
     "subhead": "Same grip, same idiom — and a fruit lying in wait."
-  }
+  },
+  "cue": "How do you say who's really in control?"
 }

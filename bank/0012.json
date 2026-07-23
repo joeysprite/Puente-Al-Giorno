@@ -71,12 +71,13 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Best auxiliary-trap teaching entry in the bank so far. Overlaps deliberately with 0027 (quedarse/rimanere, the bare collocation)."
+    "notes": "Best auxiliary-trap teaching entry in the bank so far. Overlaps deliberately with 0027 (quedarse/rimanere, the bare collocation). Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,
   "hook": {
     "headline": "You will say <span class=\"it-w\">ho rimasto</span>. No Italian ever has.",
     "subhead": "Spanish has one perfect auxiliary. Italian has two, and rimanere takes the other one."
-  }
+  },
+  "cue": "How do you say news left you stunned?"
 }

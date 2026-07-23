@@ -1,0 +1,83 @@
+{
+  "id": "0073",
+  "type": "idiom",
+  "cue": "How do you say you don't know what to do?",
+  "es": {
+    "text": "No saber a qué carta quedarse",
+    "literal": "not to know which card to stay with",
+    "meaning": "To be unable to decide; to not know which way to go.",
+    "example": "Con tantas ofertas no sé a qué carta quedarme.",
+    "exampleTranslation": "With so many offers I don't know which to pick.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/carta",
+        "headword": "carta",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Non sapere che pesce prendere",
+    "literal": "not to know which fish to catch",
+    "meaning": "To be confused; to not know what to do.",
+    "example": "Con tante offerte non so che pesce prendere.",
+    "exampleTranslation": "With so many offers I don't know which way to turn.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/pesce/",
+        "headword": "pesce",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Indecision staged as two different games. Italian puts you at the water with a net and too many fish; Spanish sits you at a card table, unable to commit to a hand. Fishing is luck, cards are nerve — and the Spanish version quietly admits that choosing badly is a bet you can lose, where the Italian one just leaves you standing in the shallows.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Non sapere a che carta restare' means nothing in Italian; the Italian dilemma is aquatic — che pesce prendere.",
+      "it_to_es": "'No saber qué pez agarrar' is not Spanish. The fixed refrán deals cards: a qué carta quedarse."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "indecision",
+    "games",
+    "fishing"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Discovered via an Instagram card set Joe shared 2026-07-20 (discovery only; all glosses and examples authored fresh). ES counterpart chosen by Claude from recall — UNVERIFIED. Luck-vs-nerve framing; both are B2 and worth pairing on adjacent weeks."
+  },
+  "createdOn": "2026-07-20",
+  "retiredReason": null
+}

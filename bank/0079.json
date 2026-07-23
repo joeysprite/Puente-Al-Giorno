@@ -1,0 +1,83 @@
+{
+  "id": "0079",
+  "type": "idiom",
+  "cue": "How do you say it's pitch dark?",
+  "es": {
+    "text": "Estar como boca de lobo",
+    "literal": "to be like a wolf's mouth",
+    "meaning": "To be pitch dark; utterly without light.",
+    "example": "Apagaron todo y aquello estaba como boca de lobo.",
+    "exampleTranslation": "They cut the lights and it was pitch black.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/lobo",
+        "headword": "lobo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Essere buio pesto",
+    "literal": "to be crushed dark",
+    "meaning": "To be pitch dark.",
+    "example": "Hanno spento tutto ed era buio pesto.",
+    "exampleTranslation": "They cut the lights and it was pitch black.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/pesto1/",
+        "headword": "pesto",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Two wolves' mouths in one bank, pointing opposite ways. Here Spanish makes the wolf's mouth a place of total darkness — somewhere you would not want to be. In entry 0039 Italian sends you INTO the wolf's mouth to wish you luck. Same animal, same anatomy, one ominous and one affectionate. And Italian does not use the wolf for darkness at all: it reaches for pesto, crushed, the same word as the sauce, because both come from pestare, to pound.",
+    "tags": [
+      "shared_metaphor",
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "There is no wolf in the Italian phrase — 'come bocca di lupo' will be understood as the good-luck idiom, not as darkness. Say buio pesto.",
+      "it_to_es": "'Oscuro machacado' means nothing in Spanish; the darkness lives in the wolf's mouth."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "darkness",
+    "animals",
+    "cross-reference"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES side discovered in a Spanish idioms book Joe is reading, 2026-07-21 (discovery only; every gloss and example here authored fresh). IT counterpart chosen by Claude from recall — UNVERIFIED. Pairs with 0039 as a themed two-day sequence on the same wolf."
+  },
+  "createdOn": "2026-07-21",
+  "retiredReason": null
+}

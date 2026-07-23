@@ -1,0 +1,81 @@
+{
+  "id": "0065",
+  "type": "marker",
+  "cue": "How do you say you have a hunch?",
+  "es": {
+    "text": "Me late que",
+    "literal": "it beats to me that",
+    "meaning": "I have a feeling that; something tells me.",
+    "example": "Me late que hoy llueve.",
+    "exampleTranslation": "I have a feeling it'll rain today.",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "mx"
+    ],
+    "regionNote": "Distinctly Mexican — latir as 'to have a hunch / to appeal' is MX colloquial; Spain says 'me da que'. Also 'me late' alone = 'sounds good to me'. Reviewer to confirm register breadth.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/latir",
+        "headword": "latir",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Mi sa che",
+    "literal": "it knows to me that",
+    "meaning": "I have a feeling that; I suspect.",
+    "example": "Mi sa che oggi piove.",
+    "exampleTranslation": "I have a feeling it'll rain today.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/sapere1/",
+        "headword": "sapere",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Two bodies guessing: Italian's hunch KNOWS (mi sa, from sapere — impersonal knowledge arriving on its own), Mexico's hunch BEATS (me late, from latir — the heart as forecaster). Both are dative constructions where the feeling happens TO you, which is exactly the grammar English lacks. A hunch you receive, not one you make.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "'Mi late che' is not Italian — the organ doesn't forecast there; knowledge does: mi sa che. And mi sa che takes indicative, not subjunctive.",
+      "it_to_es": "'Me sabe que' means something tastes to me — the Spanish hunch beats: me late que (in Mexico; elsewhere 'me da que')."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "hunches",
+    "dative",
+    "daily"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. Dative-experiencer pair; MX-anchored."
+  },
+  "createdOn": "2026-07-20",
+  "retiredReason": null
+}

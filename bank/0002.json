@@ -70,8 +70,9 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "THE CAUTIONARY ENTRY. Shipped unflagged in the personal app. IT side is slang and dictionary-absent (source is a slang dictionary, mapped to authority 'Corpus'); ES side is Peninsular-only. Both problems must be resolved, not just documented. 2026-07-17: Europass list surfaced 'essere una capra' (IT) = to be IGNORANT — a false friend of this entry's ES side (como una cabra = crazy). Same goat, different defect. Consider a cross-language note or companion entry."
+    "notes": "THE CAUTIONARY ENTRY. Shipped unflagged in the personal app. IT side is slang and dictionary-absent (source is a slang dictionary, mapped to authority 'Corpus'); ES side is Peninsular-only. Both problems must be resolved, not just documented. 2026-07-17: Europass list surfaced 'essere una capra' (IT) = to be IGNORANT — a false friend of this entry's ES side (como una cabra = crazy). Same goat, different defect. Consider a cross-language note or companion entry. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
   },
   "createdOn": "2026-07-12",
-  "retiredReason": null
+  "retiredReason": null,
+  "cue": "How do you call someone a bit crazy, affectionately?"
 }

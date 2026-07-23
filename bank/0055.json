@@ -19,7 +19,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending. Restored 2026-07-14 under revised scope: the card teaches the axis, not the phrase."
+    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending. Restored 2026-07-14 under revised scope: the card teaches the axis, not the phrase. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
   },
   "id": "0055",
   "type": "collocation",
@@ -81,5 +81,6 @@
       "es_to_it": "Spanish speakers say 'nella panchina', importing the article from 'en el banquillo'. The fixed form is 'in panchina', no article.",
       "it_to_es": "Italians drop the article and say 'en banquillo'. Spanish requires it: en el banquillo."
     }
-  }
+  },
+  "cue": "How do you say someone is on the bench?"
 }
