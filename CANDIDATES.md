@@ -147,3 +147,124 @@ REJECTED — authored or literary, not folk proverbs (same class as the Kington 
 amor è scusa" (literary, archaic). Also rejected on editorial grounds: "Alle belle donne,
 le più volte toccano i brutti uomini" — a stereotype about women's looks, not wisdom, and
 nothing a subscriber should receive on a Tuesday. Do not bank.
+
+From Joe's Italian Matters 50-marker list (2026-07-20; 4 already banked as 0031-0033/0040, 5 banked today as 0065-0069; best of the rest below):
+
+| Italian | Sketch of ES direction | Note |
+|---|---|---|
+| Vabbè | bueno / pues nada | resignation markers; MX 'ni modo' is the richer pairing — check |
+| Che peccato | qué pena / qué lástima | near-twin; MX pena also = embarrassment, false-friend adjacent |
+| Ci sta | va / queda bien | trendy IT approval marker; ES pairing uncertain |
+| Ci penso io | yo me encargo | delegation formulas |
+| Allora | entonces / pues | workhorse discourse openers — deserves care, high frequency |
+| Insomma | en fin / total | summing-up markers; insomma also = 'so-so' when alone |
+| Ecco | he aquí?? / ya está / aquí tienes | ecco resists ES; possible no-twin entry |
+| Ma dai | ¡no manches! (MX) / ¡anda ya! | disbelief; no manches register care (softened no mames) |
+| Meno male che | menos mal que | the che/que clause extension of banked 0033 |
+| Può darsi | puede ser | twin — freebie |
+| Sul serio | ¿en serio? | twin — freebie |
+| Hai ragione | tienes razón | twin (avere/tener ragione — reason you HAVE) — freebie |
+| Pazzesco | qué locura (MX) / increíble | amazement adjectives |
+| Non ci credo | no lo puedo creer / no inventes (MX) | disbelief; the ci is a micro-lesson |
+| Figurati (decline-apology sense) | — | second sense of 0067; keep with entry |
+| Dunque | pues bien / así que | formal-leaning; C1 shelf candidate |
+| A dire il vero | a decir verdad | near-twin — freebie |
+| In realtà | en realidad | twin, but IT 'in realtà' contradicts more strongly — check |
+| Infatti | de hecho / efectivamente | infatti confirms, de hecho can pivot — subtle, good B2 |
+| Comunque | de todos modos / igual (AR) | concessive workhorses |
+
+From an Instagram card set Joe shared (2026-07-20; 2 already banked as 0002/0044, 2 already queued, 5 banked as 0071-0075; rest below):
+
+| Italian | Sketch of ES direction | Note |
+|---|---|---|
+| Avere un diavolo per capello | echar chispas / estar hecho una furia | ⚑ a devil per HAIR vs throwing SPARKS — density vs emission |
+| Avere le fette di salame sugli occhi | tener una venda en los ojos | salami vs blindfold; note valence — IT is unwitting, 'hacer la vista gorda' is deliberate, do not conflate |
+| Rompere le scatole | dar lata (MX) / romper las pelotas (vulgar) | ⚑ BOTH languages use a mild euphemism standing in for a vulgar original — a register entry about euphemism itself |
+
+From a Spanish idioms book Joe is reading (2026-07-21; 5 banked as 0078-0079/0081-0083; rest below. Book is a DISCOVERY source only — its glosses, examples and dialogues stay in the book; anything banked is authored fresh here):
+
+| Spanish | Sketch of IT direction | Note |
+|---|---|---|
+| Cortar el bacalao | comandare / essere il capo | ⚑ cutting the codfish = who rules; IT lacks the fish, check 'tenere il coltello dalla parte del manico' — pairs with banked 0015 sartén/manico! |
+| Te conozco bacalao aunque vengas disfrazado | te conozco… / IT? | second bacalao idiom; likely no IT twin — possible no-twin entry |
+| Caerse de su burro | cadere dal pero? | ⚑ VALENCE CHECK: ES = admit you were wrong; IT cadere dal pero = naive realisation. Not equivalent — do not pair without a reviewer |
+| Llevarse el gato al agua | spuntarla / avere la meglio | cat-to-water vs plain victory verbs; IT may have no animal |
+| Acostarse con las gallinas | andare a letto con le galline | exact twin incl. the hens — freebie |
+| Largar a otro el mochuelo | scaricare il barile | owl vs barrel — both hand off an unwanted thing |
+| Haberle visto las orejas al lobo | scamparla bella | third wolf idiom; IT has no wolf here |
+| Encomendar las ovejas al lobo | dare le pecore in custodia al lupo | near twin; EN swaps to fox/henhouse — the odd one out is English again |
+| Sacudir la mosca | sganciare (la grana) | fly-shaking vs unhooking cash |
+| No oír ni el vuelo de una mosca | non sentire volare una mosca | exact twin incl. the fly — freebie |
+| ¡A otro perro con ese hueso! | a un altro cane con quest'osso? / racconta ad altri | check IT fixedness |
+| Darle perro a uno | dare buca a qualcuno | ⚑ standing someone up: ES gives a DOG, IT gives a HOLE — strong |
+| Pagar el pato | pagare per tutti / fare da capro espiatorio | duck vs scapegoat |
+
+Second batch from the Spanish idioms book (2026-07-21; 2 already banked — 0043 manos en la masa, 0006 tomar el pelo; 5 banked as 0084-0088; rest below):
+
+| Spanish | Sketch of IT direction | Note |
+|---|---|---|
+| Dar en un hueso | trovare un osso duro | ⚑ both BONES: ES hits one (a snag), IT finds a hard one (a tough opponent) — meanings differ, check before pairing |
+| Hablar con el corazón en la mano | parlare col cuore in mano | near-twin, but IT 'cuore in mano' leans generous/open-handed vs ES frank/sincere — nuance check |
+| No llegarle a uno al tobillo | non arrivare alla caviglia | ⚑ IT form UNCERTAIN — may be 'non essere degno di allacciargli le scarpe'. Needs the reviewer, do not bank on my recall |
+
+Third batch from the Spanish idioms book (2026-07-21; 2 already banked — 0011 echar leña al fuego, 0023 ir al grano; 5 banked as 0089/0091-0094; 2 filed as alternatives A006-A007; rest below):
+
+| Spanish | Sketch of IT direction | Note |
+|---|---|---|
+| Andar pisando huevos | camminare sulle uova | near twin, eggs both sides — EN switches to thin ice |
+| Hacer buenas migas con alguien | (no obvious IT idiom) | crumbs; possible no-twin entry, needs reviewer |
+| Sacar las castañas del fuego | togliere le castagne dal fuoco | near-exact twin incl. chestnuts — freebie |
+| Llevarse calabazas | prendere un due di picche | ⚑ rejection: ES pumpkins, IT the two of spades (cards) — strong |
+| No partir peras con nadie | fare da solo / non spartire | pears; IT twin uncertain |
+| Ponerse las botas | fare soldi a palate | boots vs shovelfuls |
+| Estar de veinticinco alfileres | essere in ghingheri | 25 pins vs ghingheri — both opaque, good B2/C1 |
+| Vaciar el costal | vuotare il sacco | ⚑ near-exact twin: both empty a SACK to confess — freebie, pairs with 0045 |
+| Bailar en la cuerda floja | camminare sul filo del rasoio | slack rope vs razor's edge |
+| Tascar el freno | scalpitare | champ the bit vs paw the ground |
+| Darle a uno una buena lejía | fare una lavata di capo | ⚑ BOTH WASH: ES bleach, IT a head-washing — strong |
+| Ponerse de jarras | mettersi con le mani sui fianchi | ES pitchers, IT plain description |
+| Ensartar perlas | perdere tempo | pearls; IT likely no twin |
+| Hacerse un lío | fare un pasticcio | mess-making; IT pasticcio is a pie — food again |
+
+Fourth batch from the Spanish idioms book (2026-07-21; 5 banked as 0095-0099; A008 filed for 0044; rest below):
+
+| Spanish | Sketch of IT direction | Note |
+|---|---|---|
+| Quedar a la altura de su zapatilla | fare una figuraccia | ES measures failure in slipper-height, IT just "make a bad figure" — figura/figuraccia is a whole entry of its own |
+| Cortar los lazos | tagliare i ponti | ⚑ ES cuts TIES, IT burns/cuts BRIDGES — and our product is named for a bridge. Strong, slightly on the nose |
+| Descubrir el polvorín | scoprire gli altarini | ⚑ ES uncovers the POWDER MAGAZINE (explosive), IT the little ALTARS (shameful private shrines) — excellent |
+| La pelota está aún en el tejado | la partita è ancora aperta | ES ball still on the roof, IT match still open — sport both sides |
+
+Fifth batch from the Spanish idioms book (2026-07-21; 5 banked as 0101-0105; rest below):
+
+| Spanish | Sketch of IT direction | Note |
+|---|---|---|
+| Echar agua al mar | portare acqua al mare | ⚑ near-exact twin: both throw/carry water TO the sea = pointless — freebie, pairs with the water cluster |
+| No es cosa del otro mundo | non è niente di che / non è cosa dell'altro mondo | ⚑ IT has a near-calque 'roba dell'altro mondo' but meaning FLIPS (=outrageous, not unremarkable) — VALENCE CHECK, do not pair without reviewer |
+| Tragarle a uno la tierra | sparire nel nulla / ingoiato dalla terra | earth swallows you = vanish |
+| Quien no se arriesga no pasa la mar | chi non risica non rosica | ⚑ ALREADY BANKED as 0054 (different ES side). This is a SECOND Spanish proverb for the same Italian — alternatives-layer candidate for 0054 |
+| Estar entre dos aguas | essere in mezzo al guado / non sapere che pesce prendere | between two waters = undecided; check overlap with banked 0073 |
+
+Sixth batch from the Spanish idioms book (2026-07-21; 5 banked as 0106-0109/0111; rest below. SATURATION NOTE: the bank now has strong coverage of temper, madness, laughter, confession, ugliness — several book idioms are 4th/5th on a theme and are queued rather than banked unless the bridge is genuinely new):
+
+| Spanish | Sketch of IT direction | Note |
+|---|---|---|
+| Un viento de mil demonios | un vento del diavolo | ⚑ both DEMONIC wind: ES a thousand demons, IT the devil's — freebie, strong |
+| Alzarse con el santo y la limosna | fare man bassa / prendere cassa e baracca | clear off with everything; saint imagery is ES-only |
+| Tener ángel | avere un certo non so che | ⚑ ES 'have an angel'=charm, IT 'a certain I-don't-know-what' — charm named vs unnameable, lovely |
+| Quedarse para vestir santos | rimanere zitella | ⚑ REGISTER/DATED: 'remain a spinster'. Both dated & arguably sexist — editorial call before banking |
+| Hacer su santa voluntad | fare il proprio comodo | do as one pleases; santa intensifier |
+| Aquello fue llegar y besar el santo | è stato un gioco da ragazzi | easy as pie; saint-kissing vs child's play |
+| Tener el santo de espaldas | avere la sfortuna alle calcagna | saint's back turned = unlucky; the santo cluster is very ES-Catholic |
+| Todos los santos tienen novena | verrà anche il tuo momento | your time will come |
+| Más feo que el pecado | brutto come la fame / il peccato | ⚑ ugly as SIN both?? or IT ugly as HUNGER — check which |
+| No poder ver a alguien ni en pintura | non poter vedere qualcuno nemmeno dipinto | ⚑ near-EXACT twin incl. 'not even in a painting' — freebie, strong |
+| Fumarse una clase | marinare la scuola / bigiare | skip class; ES 'smoke' the class |
+| Decirle a alguien cuatro verdades | dirne quattro a qualcuno | ⚑ both use FOUR: ES four truths, IT just 'say four' — number-idiom twin |
+| Destornillarse de risa | sbellicarsi dalle risa | ES unscrew, IT un-belly-button oneself laughing — both bodily-comic |
+| Tener un tornillo flojo | avere una rotella fuori posto | loose screw vs cog out of place — pairs with banked 0111 |
+| No saber ni papa de | non capire un'acca | ⚑ ES not a POTATO, IT not an H (silent letter) — both 'know nothing', great imagery |
+| Perder los estribos | perdere le staffe | ⚑ near-EXACT twin: both LOSE THE STIRRUPS = lose temper — freebie, the cleanest cognate idiom yet |
+| Quemarse las pestañas | studiare sodo / bruciarsi le ciglia? | burn eyelashes = burn midnight oil; check IT fixedness |
+
+REJECTED (editorial): none new, but 'quedarse para vestir santos' flagged for register review — dated and arguably sexist, decide before it ships.

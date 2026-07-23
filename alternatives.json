@@ -109,6 +109,57 @@
       "statusBy": null,
       "statusOn": null,
       "notes": "Filed 2026-07-18 when 0063 was banked with the non-obvious pairing."
+    },
+    {
+      "id": "A006",
+      "anchor": "0022",
+      "keepSide": "it",
+      "alt": {
+        "lang": "es",
+        "text": "Buscarle pelos al huevo",
+        "literal": "to look for hairs on the egg",
+        "meaning": "To nitpick; to find fault with everything."
+      },
+      "bridge": "The literal twin of the Italian: cercare il pelo nell'uovo and buscarle pelos al huevo are the same hair and the same egg. Entry 0022 deliberately pairs the Italian with 'buscarle tres pies al gato' instead, because cat-legs versus egg-hair teaches more than an exact match.",
+      "walk": "0022 chose divergence over identity. This alternative records that Spanish ALSO has the exact twin — useful if a reviewer thinks the tres pies pairing is forced, and useful as evidence the divergence was a choice.",
+      "status": "proposed",
+      "statusBy": null,
+      "statusOn": null,
+      "notes": "Surfaced from the book 2026-07-21."
+    },
+    {
+      "id": "A007",
+      "anchor": "0014",
+      "keepSide": "it",
+      "alt": {
+        "lang": "es",
+        "text": "Caer chuzos de punta",
+        "literal": "to rain sharp-pointed spears",
+        "meaning": "To rain extremely hard."
+      },
+      "bridge": "A harsher Spanish downpour than 0014's llover a cántaros: pitchers of water become falling spears. Pairs differently with the Italian, trading volume for violence.",
+      "walk": "0014 pairs jugs with jugs. This alternative would pair weapons with water — a bigger gap and a sharper card, but Peninsular-leaning and possibly unknown in Mexico. Reviewer call.",
+      "status": "proposed",
+      "statusBy": null,
+      "statusOn": null,
+      "notes": "Surfaced from the book 2026-07-21; MX currency doubtful."
+    },
+    {
+      "id": "A008",
+      "anchor": "0044",
+      "keepSide": "it",
+      "alt": {
+        "lang": "es",
+        "text": "Caerse del nido",
+        "literal": "to fall out of the nest",
+        "meaning": "To be completely taken aback by news."
+      },
+      "bridge": "The TRUE Spanish equivalent of cadere dalle nuvole — both mean astonishment at unexpected news, and both drop the person from a height.",
+      "walk": "Entry 0044 deliberately pairs cadere dalle nuvole with 'como caído del cielo' to teach a false friend: nearly identical imagery, disjoint meanings. This alternative records the honest equivalent the book supplied. If a reviewer finds 0044's false-friend framing unfair, this is the straight pairing — but banking both would cost the trap, which is the more valuable card.",
+      "status": "proposed",
+      "statusBy": null,
+      "statusOn": null,
+      "notes": "Surfaced from the book 2026-07-21. Strong evidence that 0044's bridge is correct: Spanish HAS a real equivalent, so 'caído del cielo' really is a false friend rather than a rough match."
     }
   ]
 }
