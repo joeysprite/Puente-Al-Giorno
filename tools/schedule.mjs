@@ -215,7 +215,8 @@ function placeInWindow(slots, anchor, k) {
 
 // ─────────────────────────────────────────────────────────── the scheduler
 
-export function buildYear(year, bank, eventsFile, overridesFile) {
+export function buildYear(year, bank, eventsFile, overridesFile, opts = {}) {
+  const WEEKEND = opts.weekend === true;
   const notes = [];
   const schedule = new Map(); // dateIso -> { id, reason }
   const days = daysInYear(year);
@@ -384,7 +385,10 @@ export function buildYear(year, bank, eventsFile, overridesFile) {
       !(placedByEvent.has(e.id) && eventExclusive(e))
   );
 
-  const freeDays = days.filter((d) => !schedule.has(d));
+  // With --weekend, Sundays are not filled here; they mirror the preceding
+  // Saturday after rotation. A Sunday that already holds a pin/event keeps it.
+  const isSunday = (d) => parse(d).getUTCDay() === 0;
+  const freeDays = days.filter((d) => !schedule.has(d) && !(WEEKEND && isSunday(d)));
   const prevDay = (d) => iso(addDays(parse(d), -1));
   const nextDay = (d) => iso(addDays(parse(d), 1));
 
@@ -477,6 +481,19 @@ export function buildYear(year, bank, eventsFile, overridesFile) {
     }
   }
 
+  // ── 5. WEEKEND MIRROR ────────────────────────────────────────────────────
+  // Sunday repeats Saturday. Runs after everything else so a genuinely pinned
+  // Sunday (a holiday greeting, say) is left alone; only empty Sundays inherit.
+  if (WEEKEND) {
+    let mirrored = 0;
+    for (const day of days) {
+      if (!isSunday(day) || schedule.has(day)) continue;
+      const sat = schedule.get(prevDay(day));
+      if (sat) { schedule.set(day, { id: sat.id, reason: "weekend (shares Saturday)" }); mirrored++; }
+    }
+    notes.push(`weekend mode: ${mirrored} Sundays share the preceding Saturday`);
+  }
+
   return {
     year,
     schedule,
@@ -487,7 +504,7 @@ export function buildYear(year, bank, eventsFile, overridesFile) {
 
 // ─────────────────────────────────────────────────────────────── invariants
 
-export function check(year, bank, result, EVENTS, OVERRIDES) {
+export function check(year, bank, result, EVENTS, OVERRIDES, opts = {}) {
   const fails = [];
   const days = daysInYear(year);
 
@@ -496,7 +513,7 @@ export function check(year, bank, result, EVENTS, OVERRIDES) {
   if (missing.length) fails.push(`${missing.length} day(s) with no entry (first: ${missing[0]})`);
 
   // 2. Determinism. Recompute from scratch; must be byte-identical.
-  const again = buildYear(year, bank, EVENTS, OVERRIDES);
+  const again = buildYear(year, bank, EVENTS, OVERRIDES, opts);
   for (const d of days) {
     if (again.schedule.get(d)?.id !== result.schedule.get(d)?.id) {
       fails.push(`NOT DETERMINISTIC on ${d}`);
@@ -598,7 +615,8 @@ if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) 
     return i >= 0 ? args[i + 1] : null;
   };
 
-  const result = buildYear(year, BANK, EVENTS, OVERRIDES);
+  const weekend = args.includes("--weekend");
+  const result = buildYear(year, BANK, EVENTS, OVERRIDES, { weekend });
   const titles = new Map(BANK.map((e) => [e.id, `${e.es.text} / ${e.it.text}`]));
 
   console.log(`\n── ${year} ── ${result.stats.approved} approved, ${result.stats.pool} in rotation, ` +
@@ -610,7 +628,7 @@ if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) 
       console.log("This is the honest state of the bank until a reviewer signs off. Not an error.");
       process.exit(0);
     }
-    const fails = check(year, BANK, result, EVENTS, OVERRIDES);
+    const fails = check(year, BANK, result, EVENTS, OVERRIDES, { weekend });
     console.log(fails.length ? `INVARIANTS FAILED:\n  ${fails.join("\n  ")}` : "All invariants hold:");
     if (!fails.length) {
       console.log("  ✓ every day of the year has an entry (no gaps, structurally)");

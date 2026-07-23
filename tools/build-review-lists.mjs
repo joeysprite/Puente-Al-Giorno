@@ -15,6 +15,18 @@ import { readFileSync, writeFileSync, readdirSync, mkdirSync, existsSync } from 
 import { join, resolve } from "node:path";
 
 const ROOT = resolve(process.env.BANK_ROOT ?? ".");
+// Alternatives point AT bank entries via `anchor`. The link was one-way, so a
+// reviewer judging a pairing could not see that a different partner had been
+// considered. Index them here and surface them on the anchored entry —
+// computed at build time, never stored in the entry itself.
+let ALTS_BY_ANCHOR = {};
+try {
+  const doc = JSON.parse(readFileSync(join(ROOT, "alternatives.json"), "utf8"));
+  for (const a of doc.alternatives ?? []) (ALTS_BY_ANCHOR[a.anchor] ??= []).push(a);
+} catch {}
+// --simple: a stripped list for a reviewer who just needs to say "yes, we say
+// that" — expression, literal, meaning, example. No sources, traps or notes.
+const SIMPLE = process.argv.includes("--simple");
 const CHECK = process.argv.includes("--check");
 
 const bank = readdirSync(join(ROOT, "bank"))
@@ -53,6 +65,10 @@ function fileFor(lang) {
     const trap = e.bridge?.interference?.[lang === "es" ? "it_to_es" : "es_to_it"];
     if (trap) lines.push(`- **trap when producing ${L.name}:** ${trap}`);
     if (e.review.notes) lines.push(`- **notes:** ${e.review.notes}`);
+    for (const a of ALTS_BY_ANCHOR[e.id] ?? []) {
+      const verb = a.status === "rejected" ? "REJECTED alternative" : "alternative under consideration";
+      lines.push(`- **${verb} (${a.id}):** pairing this with \u201c${a.alt.text}\u201d instead \u2014 ${a.bridge}`);
+    }
     lines.push(
       ``,
       `> reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right  [ ] source opened & confirms`
