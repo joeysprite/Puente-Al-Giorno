@@ -5,7 +5,7 @@
   "es": {
     "text": "Tener dos dedos de frente",
     "literal": "to have two fingers of forehead",
-    "meaning": "To have common sense; to show basic good judgment. Usually heard in the negative.",
+    "meaning": "To have common sense; to show basic good judgment.",
     "example": "Si tuviera dos dedos de frente, no habría firmado ese contrato.",
     "exampleTranslation": "If he had any sense, he wouldn't have signed that contract.",
     "register": "colloquial",
@@ -29,8 +29,8 @@
   },
   "it": {
     "text": "Avere sale in zucca",
-    "literal": "to have salt in the gourd",
-    "meaning": "To have good sense; to be sensible. Usually heard in the negative.",
+    "literal": "to have salt in the pumpkin",
+    "meaning": "To have good sense; to be sensible.",
     "example": "Se avesse un po' di sale in zucca, non firmerebbe quel contratto.",
     "exampleTranslation": "If he had any sense, he wouldn't sign that contract.",
     "register": "colloquial",
@@ -38,7 +38,7 @@
     "regions": [
       "it"
     ],
-    "regionNote": "zucca is colloquial for 'head'. Related: 'essere una zucca vuota' — an empty gourd, i.e. a fool.",
+    "regionNote": "zucca is colloquial for 'head'; literally it is the pumpkin. Related: 'essere una zucca vuota' — an empty pumpkin, i.e. a fool.",
     "sources": [
       {
         "authority": "Treccani",
@@ -50,7 +50,7 @@
     ]
   },
   "bridge": {
-    "note": "Both languages measure sense by a physical quantity in the head — and both mostly use it to say someone hasn't got any. Spanish measures the forehead in finger-widths, a leftover of reading intelligence off the skull; Italian measures salt in the gourd, salt being both precious and, since Latin sal, a word for wit. Neither is about knowledge: you can have a doctorate and still, in both languages, be short two fingers or an empty gourd.",
+    "note": "Both languages measure sense by a physical quantity in the head — and both mostly use it to say someone hasn't got any. Spanish measures the forehead in finger-widths; Italian measures salt in the pumpkin. Neither is about knowledge: you can have a doctorate and still, in both languages, be short two fingers or an empty pumpkin.",
     "tags": [
       "shared_metaphor",
       "interference_risk"
@@ -76,7 +76,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Banked 2026-07-18 from the candidates queue, prompted by Joe's interest in the knowledge/wisdom distinction. Both sides and the pairing are Claude's; the Latin sal = wit/salt link and the phrenological reading of 'dos dedos de frente' are Claude's etymological claims, unverified — reviewers to confirm or cut. ES reviewer: is this current in MX?"
+    "notes": "Banked 2026-07-18 from the candidates queue, prompted by Joe's interest in the knowledge/wisdom distinction. Both sides and the pairing are Claude's; the Latin sal = wit/salt link and the phrenological reading of 'dos dedos de frente' are Claude's etymological claims, unverified — reviewers to confirm or cut. ES reviewer: is this current in MX? | 2026-07-23: reverted an incorrect reclassification to 'expression' — the reviewer's note here was a literal-translation fix (zucca = pumpkin, not gourd). APPLIED 2026-07-23: literal changed to 'to have salt in the pumpkin'. | 2026-07-24: propagated the pumpkin fix — the 2026-07-23 change had only touched `literal`, leaving 'gourd' in the IT regionNote and twice in the bridge note, so the entry contradicted itself. Also cut two unverified etymological claims from the bridge note (the Latin sal = wit derivation, and the phrenological reading of the forehead) rather than ship them unsourced — a occhio e croce class risk. They remain listed here as reviewer questions, not as published prose."
   },
   "createdOn": "2026-07-18",
   "retiredReason": null
