@@ -1,0 +1,84 @@
+{
+  "id": "0115",
+  "type": "idiom",
+  "es": {
+    "text": "No está el horno para bollos",
+    "literal": "the oven isn't ready for buns",
+    "meaning": "The situation or mood isn't right for something — not the moment to ask, joke, or bring something up.",
+    "example": "No le pidas el coche ahora, que no está el horno para bollos: acaba de perder el trabajo.",
+    "exampleTranslation": "Don't ask him for the car right now — it's not the moment, he just lost his job.",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "es",
+      "mx",
+      "ar"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://www.rae.es/diccionario-estudiante/horno",
+        "headword": "horno",
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
+      }
+    ]
+  },
+  "it": {
+    "text": "Non è aria",
+    "literal": "it's not air",
+    "meaning": "Not the right moment or mood for something. Can be a neutral heads-up or, depending on tone, a sharper warning that someone is genuinely annoyed.",
+    "example": "Non chiedergli niente adesso: non è aria.",
+    "exampleTranslation": "Don't ask him for anything right now — it's not the moment.",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/aria",
+        "headword": "aria",
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same function, fully different domain. Spanish reaches into the kitchen — the oven isn't at temperature, so don't expect buns. Italian reaches into the atmosphere — the air itself is wrong. Neither image transfers; a learner has to drop the picture entirely and just learn the phrase whole. Register also isn't a flat match: native discussion of 'non è aria' repeatedly describes it as carrying real edge or irritation depending on tone, sharper than a neutral 'not now' — worth a native check on whether 'no está el horno para bollos' carries the same optional bite.",
+    "tags": [
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "Non è forno per panini or similar literal renderings mean nothing in Italian — the oven image doesn't exist on this side.",
+      "it_to_es": "No es aire wouldn't be understood as this idiom in Spanish at all."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "mood",
+    "timing"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), teacher confirmed native Italian speaker — strong discovery source, formally cited to De Mauro. Spanish side confirmed via RAE's Diccionario del estudiante (rae.es/diccionario-estudiante/horno), which gives the exact example 'no está el horno para bollos' used almost verbatim here. Register flag: multiple native discussions describe 'non è aria' as capable of real edge/irritation, not just neutral timing — this needs a reviewer call on whether that's IT-only or true of the ES side too, and whether the Instagram card's simple 'It's not the right time!' gloss undersells that. Source-authority note: labelled 'RAE (DLE)' per schema constraint, but the page actually checked is RAE's Diccionario del estudiante (rae.es/diccionario-estudiante), not the flagship dle.rae.es — both are official RAE publications, but they are not the same dictionary."
+  },
+  "createdOn": "2026-07-24",
+  "retiredReason": null,
+  "hook": {
+    "headline": "One reaches for the oven. One reaches for the air.",
+    "subhead": "Completely different image, same warning — don't ask right now."
+  },
+  "cue": "How do you warn someone it's really not the moment to bring something up?"
+}

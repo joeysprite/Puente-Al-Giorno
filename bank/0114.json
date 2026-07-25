@@ -1,0 +1,85 @@
+{
+  "id": "0114",
+  "type": "idiom",
+  "es": {
+    "text": "No te quedes de brazos cruzados",
+    "literal": "don't stay with arms crossed",
+    "meaning": "Don't remain passive or inactive — do something instead of waiting with folded arms.",
+    "example": "Si no te gusta cómo va el proyecto, no te quedes de brazos cruzados: propón algo.",
+    "exampleTranslation": "If you don't like how the project is going, don't just stand there — suggest something.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "es",
+      "mx",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://brainscape.com/flashcards/davies-20-16430956/packs/22170452",
+        "headword": "brazos cruzados",
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
+      }
+    ]
+  },
+  "it": {
+    "text": "Non stare con le mani in mano",
+    "literal": "don't stay with hands in hand",
+    "meaning": "Don't remain idle or inactive — the hands are folded together instead of doing anything.",
+    "example": "C'è ancora molto da fare prima di stasera: non stare con le mani in mano!",
+    "exampleTranslation": "There's still a lot to do before tonight — don't just sit there doing nothing!",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/mano_(Sinonimi-e-Contrari)/",
+        "headword": "mano",
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same idea, different hands. Both languages picture idleness as something done WITH the hands — but Spanish folds the arms shut (a defensive, closed posture), while Italian just lets the hands rest together, open and empty. Translate the image literally across and it stops being the idiom a native speaker reaches for.",
+    "tags": [
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Non stare con le braccia incrociate reads as a literal physical description in Italian, not the idiom — the conventional form is mani in mano.",
+      "it_to_es": "No te quedes con las manos en la mano isn't a Spanish construction at all — the idiom Spanish actually reaches for is de brazos cruzados."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "work",
+    "laziness"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), teacher confirmed native Italian speaker — strong discovery source, formally cited to Treccani's mano synonyms page instead. Spanish side has no formal RAE headword; sourced to attested real usage (Corpus tier). The interference directions are Claude's reasoning about literal cross-translation, not reviewer-confirmed — needs native check on both, especially whether an Italian speaker would actually produce 'braccia incrociate' as an error or immediately recognise it as wrong."
+  },
+  "createdOn": "2026-07-24",
+  "retiredReason": null,
+  "hook": {
+    "headline": "Idle hands, but which body part?",
+    "subhead": "Spanish folds the arms shut. Italian just lets the hands sit."
+  },
+  "cue": "How do you tell someone to stop being idle and do something?"
+}

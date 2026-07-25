@@ -1,0 +1,84 @@
+{
+  "id": "0113",
+  "type": "idiom",
+  "es": {
+    "text": "Hablar con la pared",
+    "literal": "to talk to the wall",
+    "meaning": "To talk to someone who isn't listening or won't be persuaded, so the words go nowhere.",
+    "example": "Le he explicado tres veces cómo funciona y sigue sin entenderlo; es como hablar con la pared.",
+    "exampleTranslation": "I've explained how it works three times and he still doesn't get it — it's like talking to a wall.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "es",
+      "mx",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://www.tiktok.com/discover/hablar-contigo-es-hablar-con-la-pared",
+        "headword": "hablar con la pared",
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
+      }
+    ]
+  },
+  "it": {
+    "text": "È come parlare al muro",
+    "literal": "it's like talking to the wall",
+    "meaning": "To speak to someone who won't listen or refuses to be swayed — words that hit an unmoving surface.",
+    "example": "Gli ho ripetuto mille volte di stare attento, ma è come parlare al muro.",
+    "exampleTranslation": "I've told him a thousand times to be careful, but it's like talking to a wall.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://accademiadellacrusca.it/it/consulenza/parlare-al-muro/895",
+        "headword": "parlare al muro",
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Rare case: the same wall in both languages, doing the same job. Both reach for a mute, unmoving physical surface to describe a listener who won't be reached. Low interference risk — this is one of the few genuine one-to-one calques in the bank.",
+    "tags": [
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "communication"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), run by Joe's Italian teacher — confirmed native Italian speaker, treated as a strong discovery source, not a citation on its own. Formal citation is Accademia della Crusca's dedicated article tracing the phrase to the 14th century — about as authoritative as Italian etymology gets. Spanish side has no formal RAE headword; sourced to real, heavy colloquial usage (Corpus tier, same as 0002's balcone entry) — genuinely current but not academy-listed. Meaning and both examples written fresh. Needs native review on both sides. Source-authority note: cited as 'Corpus' because Accademia della Crusca (the actual page checked) isn't in the schema's fixed authority list — it is not Treccani, and labelling it as Treccani would claim a page that was never fetched. Crusca is, if anything, a stronger authority than the schema has a slot for."
+  },
+  "createdOn": "2026-07-24",
+  "retiredReason": null,
+  "hook": {
+    "headline": "Same wall, same silence, two languages.",
+    "subhead": "One of the rare true 1:1 matches in the whole bank."
+  },
+  "cue": "How do you say someone just isn't listening, no matter what you say?"
+}

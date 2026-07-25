@@ -1,0 +1,85 @@
+{
+  "id": "0116",
+  "type": "idiom",
+  "es": {
+    "text": "Estar a dos pasos",
+    "literal": "to be at two steps",
+    "meaning": "To be very close by, a short distance away.",
+    "example": "No hace falta coger el coche, el supermercado está a dos pasos.",
+    "exampleTranslation": "No need to take the car, the supermarket is two steps away.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "es",
+      "mx",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://www.rae.es/diccionario-estudiante/paso",
+        "headword": "paso",
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
+      }
+    ]
+  },
+  "it": {
+    "text": "Essere a due passi",
+    "literal": "to be at two steps",
+    "meaning": "To be very close by, a short distance away.",
+    "example": "Non serve la macchina, il supermercato è a due passi.",
+    "exampleTranslation": "No need for the car, the supermarket is two steps away.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/passo",
+        "headword": "passo",
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
+      }
+    ]
+  },
+  "bridge": {
+    "note": "A direct calque — both languages count the same two steps to say something is close. Genuinely rare: almost nothing to teach on the axis of divergence, which makes it a good low-tension entry between heavier ones.",
+    "tags": [
+      "shared_metaphor",
+      "cognate_pair"
+    ],
+    "interference": {
+      "es_to_it": null,
+      "it_to_es": null
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "distance"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), teacher confirmed native Italian speaker — formally cited to De Mauro instead. Spanish side confirmed via RAE's Diccionario del estudiante with the near-identical worked example 'El supermercado se encuentra a dos pasos.' Both examples here written fresh. Needs native review, though risk of any real content problem is low given how directly the two match. Source-authority note: labelled 'RAE (DLE)' per schema constraint, but the page actually checked is RAE's Diccionario del estudiante (rae.es/diccionario-estudiante), not the flagship dle.rae.es — both are official RAE publications, but they are not the same dictionary."
+  },
+  "createdOn": "2026-07-24",
+  "retiredReason": null,
+  "hook": {
+    "headline": "The one pair that needs no bridge at all.",
+    "subhead": "Same two steps, same meaning, no trap."
+  },
+  "cue": "How do you say something is really close by?"
+}

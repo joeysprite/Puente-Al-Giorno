@@ -1,0 +1,85 @@
+{
+  "id": "0117",
+  "type": "idiom",
+  "es": {
+    "text": "Pongamos punto final al asunto",
+    "literal": "let's put a final point to the matter",
+    "meaning": "To bring a matter, argument, or disagreement to a definitive close and not return to it.",
+    "example": "Ya hemos discutido esto suficiente. Pongamos punto final al asunto.",
+    "exampleTranslation": "We've argued about this enough. Let's put it to rest.",
+    "register": "standard",
+    "formality": "neutral",
+    "regions": [
+      "es",
+      "mx",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://www.estandarte.com/noticias/idioma-espanol/tipos-de-puntos-punto-y-seguido-punto-y-aparte-y-punto-final_3950.html",
+        "headword": "punto final",
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
+      }
+    ]
+  },
+  "it": {
+    "text": "Mettiamoci una pietra sopra",
+    "literal": "let's put a stone over it",
+    "meaning": "To consider a disagreement, quarrel, or misunderstanding settled and move past it.",
+    "example": "È stato un malinteso stupido. Dai, mettiamoci una pietra sopra.",
+    "exampleTranslation": "It was a silly misunderstanding. Come on, let's let it go.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/sopra_(Sinonimi-e-Contrari)/",
+        "headword": "sopra",
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both close the matter, but with different objects. Italian's stone comes from the image of sealing a grave — final, physical, a little heavy. Spanish reaches for a punctuation mark, the mark that ends a piece of writing — administrative rather than physical. Same function, genuinely different weight.",
+    "tags": [
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "Mettiamo un punto finale exists but reads as more bureaucratic/written than mettiamoci una pietra sopra, which is the warmer, spoken form for patching things up personally.",
+      "it_to_es": "Pongamos una piedra encima isn't the Spanish idiom — a Spanish listener wouldn't reliably parse the stone image the way an Italian one would."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "forgiveness",
+    "conflict"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "draft",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), teacher confirmed native Italian speaker — formally cited to Treccani's sopra synonyms page, which defines it almost exactly as used here. Spanish side: 'punto final' sense 2 (figurative, closing a matter) is RAE-documented but I have not independently confirmed 'pongamos punto final al asunto' is the single best/most natural Spanish equivalent rather than an alternative like 'pasemos página' — this needs a native call, not just a dictionary check."
+  },
+  "createdOn": "2026-07-24",
+  "retiredReason": null,
+  "hook": {
+    "headline": "A stone or a punctuation mark?",
+    "subhead": "Same instinct to move on, completely different object doing the work."
+  },
+  "cue": "How do you tell someone you're done arguing and want to move past it?"
+}
