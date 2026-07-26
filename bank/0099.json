@@ -56,7 +56,7 @@
       "interference_risk"
     ],
     "interference": {
-      "es_to_it": "'Lasciare nella palizzata' says nothing; Italian plants you: piantare in asso.",
+      "es_to_it": "'Lasciare nella palizzata' says nothing; Italian plants you: piantare in asso. And asso here is not 'ace' — that false friend misleads many learners; modern Italian treats in asso as a fossilised whole.",
       "it_to_es": "'Plantar en as' is meaningless in Spanish — the abandonment happens at the estacada."
     }
   },
@@ -76,7 +76,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. The asso/Naxos etymology is widely repeated but should be presented as tradition, NOT fact, until the IT reviewer confirms — flagged deliberately after the a-occhio-e-croce incident."
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. The asso/Naxos etymology is widely repeated but should be presented as tradition, NOT fact, until the IT reviewer confirms — flagged deliberately after the a-occhio-e-croce incident. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: interference direction sharpened by Joe (bridge review). NOTE on the etymology already in this entry's bridge: the derivation from 'Nasso' (Naxos, where Theseus abandoned Ariadne) is the widely-repeated account but is contested, with a card-game derivation from asso/ace competing. The trap as written avoids taking a side — it says only that asso does not mean 'ace' HERE and that the phrase is fossilised, both of which hold either way. Worth revisiting whether the bridge should assert Naxos as fact; same risk class as the 0038 invented etymology."
   },
   "createdOn": "2026-07-21",
   "retiredReason": null

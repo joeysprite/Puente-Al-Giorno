@@ -56,8 +56,8 @@
       "interference_risk"
     ],
     "interference": {
-      "es_to_it": "'Avere uccelli per la testa' is not Italian — the head hosts grilli, and note the preposition: PER la testa, not nella.",
-      "it_to_es": "'Tener grillos en la cabeza' is not the Spanish idiom; Spanish keeps birds — and uses EN, not por."
+      "es_to_it": "'Avere uccelli per la testa' is not Italian — the head hosts grilli. Note the preposition: Italian is PER la testa, Spanish EN la cabeza; learners mix them constantly.",
+      "it_to_es": "'Tener grillos en la cabeza' is not the Spanish idiom; Spanish keeps birds. And the preposition flips: Spanish EN la cabeza, not por."
     }
   },
   "pin": null,
@@ -76,7 +76,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Discovered via an Instagram card set Joe shared 2026-07-20 (discovery only; all glosses and examples authored fresh). ES counterpart chosen by Claude from recall — UNVERIFIED. Bird-vs-cricket is a verdict difference, not just imagery."
+    "notes": "Discovered via an Instagram card set Joe shared 2026-07-20 (discovery only; all glosses and examples authored fresh). ES counterpart chosen by Claude from recall — UNVERIFIED. Bird-vs-cricket is a verdict difference, not just imagery. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: interference direction sharpened by Joe (bridge review)."
   },
   "createdOn": "2026-07-20",
   "retiredReason": null

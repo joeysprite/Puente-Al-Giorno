@@ -56,8 +56,8 @@
       "interference_risk"
     ],
     "interference": {
-      "es_to_it": "The verb is somigliarsi (or assomigliarsi), not parersi — and the drops are gocce, plural of goccia.",
-      "it_to_es": "Spanish uses parecerse, not an equivalent of somigliare; 'dos gotas de agua' is exactly right."
+      "es_to_it": "The verb is somigliarsi (or assomigliarsi), not parersi — and the drops are gocce, plural of goccia. Watch the pronoun too: Italian puts it before the verb, mi somiglia.",
+      "it_to_es": "Spanish uses parecerse, not an equivalent of somigliare, and the pronoun placement differs: Spanish says se parece a mí. 'Me parece' is real Spanish but means something else entirely — 'it seems to me'. 'Dos gotas de agua' is exactly right."
     }
   },
   "pin": null,
@@ -76,7 +76,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Freebie twin; the reflexive verbs are the small lesson. English's peas make a nice footnote."
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Freebie twin; the reflexive verbs are the small lesson. English's peas make a nice footnote. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: interference direction sharpened by Joe (bridge review). Pronoun-placement contrast added at Joe's direction. One refinement applied: the it→es half is much stronger than the es→it half and is written to carry the weight. 'Me parece' is a genuine meaning collision (it seems to me), whereas Italian 'somiglia a me' — the error the es→it half guards against — is grammatical Italian, just the emphatic stressed form rather than wrong. Stated as a placement preference on that side rather than an error."
   },
   "createdOn": "2026-07-21",
   "retiredReason": null

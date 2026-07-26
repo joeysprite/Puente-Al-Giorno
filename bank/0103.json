@@ -56,7 +56,7 @@
       "interference_risk"
     ],
     "interference": {
-      "es_to_it": "'Vento in poppa' does exist in Italian, but the more idiomatic phrase looks at the sails: a gonfie vele.",
+      "es_to_it": "'Vento in poppa' does exist in Italian, but it reads as marked and literary — not interchangeable. The everyday phrase looks at the sails: a gonfie vele.",
       "it_to_es": "'A velas hinchadas' is not the Spanish idiom; Spanish feels the wind at the stern — viento en popa."
     }
   },
@@ -76,7 +76,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Wind-vs-sails, cause-vs-effect. Note IT also has vento in poppa as a near-calque — reviewer to rank."
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Wind-vs-sails, cause-vs-effect. Note IT also has vento in poppa as a near-calque — reviewer to rank. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: interference direction sharpened by Joe (bridge review)."
   },
   "createdOn": "2026-07-21",
   "retiredReason": null
