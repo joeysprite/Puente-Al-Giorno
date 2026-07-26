@@ -10,11 +10,11 @@
   "retiredReason": null,
   "createdOn": "2026-07-12",
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Kept by editorial decision: technically a collocation, but idiomatic in the sense that matters (HAVE for body states, not BE). Weak as a headline entry — its earning power is the trap, not the expression: estoy caliente / sono caldo both read as arousal. Slot as a summer-season beginner day, never a showcase. Note: schema CEFR floor is A2; there is no A1 value. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Kept by editorial decision: technically a collocation, but idiomatic in the sense that matters (HAVE for body states, not BE). Weak as a headline entry — its earning power is the trap, not the expression: estoy caliente / sono caldo both read as arousal. Slot as a summer-season beginner day, never a showcase. Note: schema CEFR floor is A2; there is no A1 value. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: approved as part of the IMPLICIT-APPROVAL batch — both reviewers returned this with a tick and no written comment, and Joe confirmed the sources against source-checklist-2.md. Recorded distinctly from the 2026-07-24 explicit batch because the underlying reviewer signal is weaker: absence of comment, not a positive written pass. If any of these later prove wrong, this note is where to start."
   },
   "id": "0080",
   "type": "collocation",
@@ -39,8 +39,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/calor",
         "headword": "calor",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -61,8 +61,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/caldo/",
         "headword": "caldo",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },

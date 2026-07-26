@@ -21,8 +21,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/pierna",
         "headword": "pierna",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "authority": "De Mauro",
         "url": "https://dizionario.internazionale.it/parola/ghiro",
         "headword": "ghiro",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -54,8 +54,8 @@
       "shared_metaphor"
     ],
     "interference": {
-      "es_to_it": null,
-      "it_to_es": null
+      "es_to_it": "'Dormire a gamba sciolta' isn't Italian. Italian sleeps like the hibernating dormouse: come un ghiro.",
+      "it_to_es": "'Dormir como un lirón' is standard Spanish — a direct synonym of dormir a pierna suelta. The Italian calque lands perfectly."
     }
   },
   "pin": null,
@@ -68,11 +68,11 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": " Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": " Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: approved as part of the IMPLICIT-APPROVAL batch — both reviewers returned this with a tick and no written comment, and Joe confirmed the sources against source-checklist-2.md. Recorded distinctly from the 2026-07-24 explicit batch because the underlying reviewer signal is weaker: absence of comment, not a positive written pass. If any of these later prove wrong, this note is where to start. | 2026-07-24: interference direction(s) written/approved by Joe in the editor-led bridge review."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

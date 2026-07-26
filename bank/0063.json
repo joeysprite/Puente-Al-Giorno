@@ -22,8 +22,8 @@
         "authority": "Cervantes",
         "url": "https://cvc.cervantes.es/lengua/refranero/",
         "headword": "no dejes para mañana",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -44,8 +44,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/tempo/",
         "headword": "tempo",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -72,11 +72,11 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Prompted by Joe sharing the English aphorism 'life is not a rehearsal' 2026-07-18 (authored, no fixed counterpart, not bankable itself). IT side deliberately NOT the literal twin — that pairing is filed in alternatives.json as A005. Reviewer to confirm 'chi ha tempo non aspetti tempo' is still current speech rather than dictionary-only, and to sanity-check the subjunctive form."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Prompted by Joe sharing the English aphorism 'life is not a rehearsal' 2026-07-18 (authored, no fixed counterpart, not bankable itself). IT side deliberately NOT the literal twin — that pairing is filed in alternatives.json as A005. Reviewer to confirm 'chi ha tempo non aspetti tempo' is still current speech rather than dictionary-only, and to sanity-check the subjunctive form. | 2026-07-23: REVERTED to draft — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03."
   },
   "createdOn": "2026-07-18",
   "retiredReason": null

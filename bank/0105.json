@@ -13,7 +13,7 @@
     "regions": [
       "es"
     ],
-    "regionNote": "Strongly Peninsular. Mexico prefers 'mandar a volar' or 'mandar por un tubo'. Reviewer should pick the MX-default form; this may re-pair.",
+    "regionNote": "Strongly Peninsular. Mexico prefers 'mandar a volar' or 'mandar por un tubo'.",
     "sources": [
       {
         "authority": "RAE (DLE)",
@@ -73,7 +73,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Both are the polite face of something vulgar — a register entry about euphemism. ES side is very Peninsular; flagged for MX re-pairing."
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Both are the polite face of something vulgar — a register entry about euphemism. ES side is very Peninsular; flagged for MX re-pairing. | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer should pick'). Factual content kept. EDITORIAL FLAG (social): shipping text touches vulgar register. Accurate and stays in the bank — it is the substance of the warning. Whether it appears verbatim in public-facing carousel copy is an editorial call, decided per post."
   },
   "createdOn": "2026-07-21",
   "retiredReason": null

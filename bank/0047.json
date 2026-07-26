@@ -16,14 +16,14 @@
       "ar",
       "co"
     ],
-    "regionNote": "PAIRING UNCERTAIN: Spanish has no fixed twin for the Italian phrase; this is the transparent construction. María to rule whether 'más o menos', 'regular', or MX 'ahí la llevo' serves better.",
+    "regionNote": "PAIRING UNCERTAIN: Spanish has no fixed twin for the Italian phrase; this is the transparent construction.",
     "sources": [
       {
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/bien",
         "headword": "bien",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -44,8 +44,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/bene1/",
         "headword": "bene",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -72,11 +72,11 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-17. IT phrase is meme-boosted (mid-2010s) but now ordinary speech — IT reviewer to confirm the register aged well. ES pairing flagged. Arrow characters removed from the bridge note 2026-07-19: the serif italic renders them from a fallback face much wider than metrics predict, overflowing the Instagram panel. Prose reads better without them anyway."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Submitted by Joe 2026-07-17. IT phrase is meme-boosted (mid-2010s) but now ordinary speech — IT reviewer to confirm the register aged well. ES pairing flagged. Arrow characters removed from the bridge note 2026-07-19: the serif italic renders them from a fallback face much wider than metrics predict, overflowing the Instagram panel. Prose reads better without them anyway. | 2026-07-23: REVERTED to draft — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03. | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: removed reviewer's name. Factual content preserved; provenance stays in these notes, which are internal."
   },
   "createdOn": "2026-07-17",
   "retiredReason": null

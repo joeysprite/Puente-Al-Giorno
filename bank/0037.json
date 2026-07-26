@@ -5,8 +5,8 @@
     "text": "Mal de muchos, consuelo de tontos",
     "literal": "misfortune of many, consolation of fools",
     "meaning": "Shared misfortune is a fool's comfort — dismissing the solace of company in misery.",
-    "example": "Todos suspendieron, pero mal de muchos, consuelo de tontos.",
-    "exampleTranslation": "Everyone failed, but shared misery is a fool's comfort.",
+    "example": "Todos reprobaron el examen, pero mal de muchos, consuelo de tontos.",
+    "exampleTranslation": "Everyone failed the exam, but misery loves company.",
     "register": "standard",
     "formality": "ok_in_exam",
     "regions": [
@@ -74,7 +74,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-16 (Italian side). Best bridge of the batch: proverb-level false friends with opposite moral valence. Hook candidate. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "notes": "Submitted by Joe 2026-07-16 (Italian side). Best bridge of the batch: proverb-level false friends with opposite moral valence. Hook candidate. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: ES example replaced with reviewer's own sentence (was: \"Todos suspendieron, pero mal de muchos, consuelo de tontos.\"); fresh English translation written."
   },
   "createdOn": "2026-07-16",
   "retiredReason": null,

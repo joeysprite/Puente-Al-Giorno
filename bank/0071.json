@@ -16,7 +16,7 @@
       "ar",
       "co"
     ],
-    "regionNote": "Also 'gastar a manos llenas'. Reviewer to confirm MX currency of manirroto vs plainer 'gastalón'.",
+    "regionNote": "Also 'gastar a manos llenas'.",
     "sources": [
       {
         "authority": "RAE (DLE)",
@@ -76,7 +76,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Discovered via an Instagram card set Joe shared 2026-07-20 (discovery only; all glosses and examples authored fresh). ES counterpart chosen by Claude from recall — UNVERIFIED. Leak-vs-grip is the payload."
+    "notes": "Discovered via an Instagram card set Joe shared 2026-07-20 (discovery only; all glosses and examples authored fresh). ES counterpart chosen by Claude from recall — UNVERIFIED. Leak-vs-grip is the payload. | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: stripped review instruction. Factual content preserved; provenance stays in these notes, which are internal."
   },
   "createdOn": "2026-07-20",
   "retiredReason": null

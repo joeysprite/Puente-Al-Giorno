@@ -5,22 +5,22 @@
     "text": "Quedarse de piedra",
     "literal": "to remain of stone",
     "meaning": "To be stunned; frozen in shock.",
-    "example": "Cuando me lo contó, me quedé de piedra.",
-    "exampleTranslation": "When she told me, I was stunned.",
+    "example": "Cuando me lo contó, me quedé como una piedra.",
+    "exampleTranslation": "When she told me, I was shocked.",
     "register": "standard",
     "formality": "ok_in_exam",
     "regions": [
       "es",
       "mx"
     ],
-    "regionNote": "Peninsular-leaning. Mexican speakers often prefer 'quedarse helado'. Reviewer to confirm LatAm currency.",
+    "regionNote": "Mexican speakers also say 'quedarse helado'.",
     "sources": [
       {
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/piedra",
         "headword": "piedra",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -28,8 +28,8 @@
     "text": "Rimanere di sasso",
     "literal": "to remain of stone",
     "meaning": "To be left speechless with shock.",
-    "example": "Sono rimasto di sasso alla notizia.",
-    "exampleTranslation": "I was stunned at the news.",
+    "example": "Sono rimasto di sasso per quella notizia.",
+    "exampleTranslation": "I was stunned at that news.",
     "register": "standard",
     "formality": "ok_in_exam",
     "regions": [
@@ -41,8 +41,8 @@
         "authority": "De Mauro",
         "url": "https://dizionario.internazionale.it/parola/sasso",
         "headword": "sasso",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -50,11 +50,12 @@
     "note": "Twin idioms — both turn you to stone, both use a 'remain' verb.",
     "tags": [
       "shared_metaphor",
-      "auxiliary_trap"
+      "auxiliary_trap",
+      "interference_risk"
     ],
     "interference": {
       "es_to_it": "HIGH VALUE: rimanere takes essere — sono rimasto di sasso. Spanish speakers reach for 'ho rimasto'. This is a flagship interference entry.",
-      "it_to_es": null
+      "it_to_es": "Spanish quedarse is pronominal; Italian rimanere isn't. Italians drop the pronoun and produce 'quedé de piedra' — Spanish needs me quedé de piedra."
     }
   },
   "pin": null,
@@ -67,11 +68,11 @@
   "cefr": "B1",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Best auxiliary-trap teaching entry in the bank so far. Overlaps deliberately with 0027 (quedarse/rimanere, the bare collocation). Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Best auxiliary-trap teaching entry in the bank so far. Overlaps deliberately with 0027 (quedarse/rimanere, the bare collocation). Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: ES example replaced with reviewer's own sentence (was: \"Cuando me lo contó, me quedé de piedra.\"); fresh English translation written. | 2026-07-24: exampleTranslation set by editor. | 2026-07-24: IT example and translation set by editor (alla notizia → per quella notizia). Approved. | 2026-07-24: regionNote's 'reviewer to confirm' instruction CLOSED. The ES reviewer is Mexican and passed this entry clean, which is the LatAm-currency confirmation the note was requesting. Rewritten from a pending question into a recorded answer. | 2026-07-24: interference direction(s) written and approved by Joe (narrow pass). Entry had been tagged shared_metaphor/cognate_pair without interference_risk, which kept it outside every prior bridge pass despite carrying a real calque failure; interference_risk tag added. | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer should pick'). Factual content kept."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

@@ -16,7 +16,7 @@
       "ar",
       "co"
     ],
-    "regionNote": "Mexico commonly says 'el que se fue a la Villa perdió su silla' — la Villa being read as the Guadalupe basilica in CDMX, a lovely re-localisation of the rhyme. María to confirm which form fronts for the MX-default audience.",
+    "regionNote": "Mexico commonly says 'el que se fue a la Villa perdió su silla' — la Villa being read as the Guadalupe basilica in CDMX, a lovely re-localisation of the rhyme.",
     "sources": [
       {
         "authority": "Cervantes",
@@ -76,7 +76,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-17. IT pairing by Claude — 'chi va a Roma perde la poltrona' is my recall of the canonical twin; IT reviewer to confirm form and currency. ES origin story (the 15th-c. archbishop of Seville) left out of the note as unverified trivia — reviewer may restore if it checks out."
+    "notes": "Submitted by Joe 2026-07-17. IT pairing by Claude — 'chi va a Roma perde la poltrona' is my recall of the canonical twin; IT reviewer to confirm form and currency. ES origin story (the 15th-c. archbishop of Seville) left out of the note as unverified trivia — reviewer may restore if it checks out. | 2026-07-24: a swap to the Mexican form ('El que se fue a la Villa') was applied and then REVERTED by editor decision — the Peninsular Sevilla form stays as anchor. Worth recording why the swap was considered: the ES reviewer's example used the Villa form, and Torres #50 attests it independently. Also worth recording why reverting is defensible on sourcing grounds: the Sevilla form is Cervantes-attested, while no dictionary headword was found for the Mexican variant (Corpus tier only). Reviewer suggestion declined, not lost — do not re-propose without new evidence. | 2026-07-24: bridge reviewed and approved by Joe (editor-led bridge review). Entry status remains draft: sources are still unverified, which is a separate gate from the bridge. Flip to approved once the source links are checked. | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: removed reviewer's name. Factual content preserved; provenance stays in these notes, which are internal."
   },
   "createdOn": "2026-07-17",
   "retiredReason": null

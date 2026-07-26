@@ -22,8 +22,8 @@
         "authority": "Cervantes",
         "url": "https://cvc.cervantes.es/lengua/refranero/",
         "headword": "hoy",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -38,14 +38,14 @@
     "regions": [
       "it"
     ],
-    "regionNote": "Claude's claim: the Italian leans darker (traditionally inscribed on cemeteries — the dead addressing the living). Reviewer to confirm before this is used as the entry's payload.",
+    "regionNote": "The Italian leans darker (traditionally inscribed on cemeteries — the dead addressing the living).",
     "sources": [
       {
         "authority": "De Mauro",
         "url": "https://dizionario.internazionale.it/parola/oggi",
         "headword": "oggi",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -72,11 +72,11 @@
   "cefr": "B2",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "From Joe's proverb list 2026-07-18 (discovered via learner sites; all glosses and examples authored fresh). IT counterpart chosen by Claude from recall — UNVERIFIED, reviewer to confirm the pairing exists and is current. Perspective-reversal entry. The cemetery claim needs confirming or cutting."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "From Joe's proverb list 2026-07-18 (discovered via learner sites; all glosses and examples authored fresh). IT counterpart chosen by Claude from recall — UNVERIFIED, reviewer to confirm the pairing exists and is current. Perspective-reversal entry. The cemetery claim needs confirming or cutting. | 2026-07-24: approved as part of the IMPLICIT-APPROVAL batch — both reviewers returned this with a tick and no written comment, and Joe confirmed the sources against source-checklist-2.md. Recorded distinctly from the 2026-07-24 explicit batch because the underlying reviewer signal is weaker: absence of comment, not a positive written pass. If any of these later prove wrong, this note is where to start. | 2026-07-24: review meta-commentary removed from shipping fields — it.regionNote: stripped review instruction; it.regionNote: removed 'Claude's claim' attribution. Factual content preserved; provenance stays in these notes, which are internal."
   },
   "createdOn": "2026-07-18",
   "retiredReason": null

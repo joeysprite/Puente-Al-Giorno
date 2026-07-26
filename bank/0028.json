@@ -13,14 +13,14 @@
       "es",
       "mx"
     ],
-    "regionNote": "tortilla itself is a false friend inside the idiom: omelette in Spain, corn flatbread in Mexico — yet the idiom exists in both. Mexico more commonly says '(se) volteó la tortilla' / 'voltear la tortilla'. DLE lists the locución under 'volver la tortilla'. Reviewer to pick the LatAm-default surface form.",
+    "regionNote": "tortilla itself is a false friend inside the idiom: omelette in Spain, corn flatbread in Mexico — yet the idiom exists in both. Mexico more commonly says '(se) volteó la tortilla' / 'voltear la tortilla'; DLE lists the locución under 'volver la tortilla'. Editorial decision 2026-07-24: 'dar la vuelta a la tortilla' stays as the anchor surface form for both audiences.",
     "sources": [
       {
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/tortilla",
         "headword": "tortilla",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -41,8 +41,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/frittata/",
         "headword": "frittata",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -69,11 +69,11 @@
   "cefr": "B2",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-13. Meaning divergence is the payload. Reviewer to confirm: (a) MX surface form, (b) whether ES side can also carry the negative 'spin' sense in some regions, (c) 'ribaltare la situazione' as the recommended IT alternative. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Submitted by Joe 2026-07-13. Meaning divergence is the payload. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24 SETTLED BY EDITOR. Three things were decided together: (a) MX surface form — 'dar la vuelta a la tortilla' kept as anchor, not swapped to the Mexican 'voltear la tortilla'; (b) whether the ES side can also carry the negative blame-shifting sense — editor's answer is no, the bridge's divergence claim stands as written; (c) reviewer's proposed replacement example declined, original kept. Entry approved. | Dissenting evidence, preserved deliberately: the ES reviewer's proposed example was 'Discutíamos porque llegó tarde y ella volteó la tortilla porque yo olvidé su cumpleaños', in which the Spanish idiom carries the blame-shifting sense that this entry's bridge, both interference notes and the hook assert is exclusively Italian. That reading was considered and overruled by the editor on 2026-07-24. Recorded so the reviewer's input is not erased and is not re-litigated without new evidence. | Still genuinely open, unrelated to the above: whether 'ribaltare la situazione' is the right IT alternative to recommend in the es→it note."
   },
   "createdOn": "2026-07-13",
   "retiredReason": null,

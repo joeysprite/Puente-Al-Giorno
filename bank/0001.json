@@ -21,8 +21,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/nube",
         "headword": "nube",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/ricerca/avere+la+testa+tra+le+nuvole/",
         "headword": "nuvola",
-        "verifiedOn": "2026-07-12",
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -55,8 +55,8 @@
       "cognate_pair"
     ],
     "interference": {
-      "es_to_it": "Italian takes avere here, not essere — ho la testa tra le nuvole.",
-      "it_to_es": null
+      "es_to_it": "Spanish uses estar + location; Italian takes avere for mental states — ho la testa tra le nuvole, not sono.",
+      "it_to_es": "An Italian who always reaches for 'tener la cabeza en las nubes' sounds slightly marked — a little formal, a little bookish — but not wrong."
     }
   },
   "pin": null,
@@ -70,11 +70,11 @@
   "cefr": "A2",
   "difficulty": 1,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Source spot-checked in Treccani; RAE entry not opened. Direction of warning assigned es→it on import; reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Source spot-checked in Treccani; RAE entry not opened. Direction of warning assigned es→it on import; reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-23: REVERTED to draft — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03. | 2026-07-24: interference direction(s) written/approved by Joe in the editor-led bridge review."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

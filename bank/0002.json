@@ -48,11 +48,13 @@
   "bridge": {
     "note": "Spanish reaches for an animal, Italian for architecture. The Italian is a pun: a balcony juts fuori ('out'), and essere fuori alone already means to be out of one's mind.",
     "tags": [
-      "register_differs"
+      "register_differs",
+      "interference_risk",
+      "false_friend"
     ],
     "interference": {
-      "es_to_it": null,
-      "it_to_es": null
+      "es_to_it": "'Essere come una capra' says something else in Italian — a capra is ignorant, hopeless at something, not crazy. Italian puts you outside instead: fuori come un balcone.",
+      "it_to_es": "'Estar fuera como un balcón' means nothing in Spanish. The animal carries it: como una cabra."
     }
   },
   "pin": null,
@@ -70,7 +72,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "THE CAUTIONARY ENTRY. Shipped unflagged in the personal app. IT side is slang and dictionary-absent (source is a slang dictionary, mapped to authority 'Corpus'); ES side is Peninsular-only. Both problems must be resolved, not just documented. 2026-07-17: Europass list surfaced 'essere una capra' (IT) = to be IGNORANT — a false friend of this entry's ES side (como una cabra = crazy). Same goat, different defect. Consider a cross-language note or companion entry. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "notes": "THE CAUTIONARY ENTRY. Shipped unflagged in the personal app. IT side is slang and dictionary-absent (source is a slang dictionary, mapped to authority 'Corpus'); ES side is Peninsular-only. Both problems must be resolved, not just documented. 2026-07-17: Europass list surfaced 'essere una capra' (IT) = to be IGNORANT — a false friend of this entry's ES side (como una cabra = crazy). Same goat, different defect. Consider a cross-language note or companion entry. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: ES reviewer proposed a replacement example (\"Mi vecino está loco como una cabra, hace ejercicio 3am\"). Applied, then REVERTED to the original by editor decision — the reviewer's version adds 'loco' as an intensifier, which the original deliberately omits. Reviewer suggestion declined, not lost. | 2026-07-24: interference direction(s) written and approved by Joe (narrow pass). Entry had been tagged shared_metaphor/cognate_pair without interference_risk, which kept it outside every prior bridge pass despite carrying a real calque failure; interference_risk tag added. false_friend tag added: cabra/capra are cognates with near-opposite senses — Spanish 'como una cabra' is crazy, Italian 'sei una capra' is ignorant. The entry previously carried register_differs only."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

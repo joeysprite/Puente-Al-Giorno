@@ -21,8 +21,8 @@
         "authority": "RAE (DLE)",
         "url": "https://www.rae.es/gtg/locuci%C3%B3n-verbal",
         "headword": "locución verbal",
-        "verifiedOn": "2026-07-12",
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,15 @@
         "authority": "De Mauro",
         "url": "https://dizionario.internazionale.it/parola/giro",
         "headword": "giro",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
+      },
+      {
+        "authority": "Corpus",
+        "url": "https://dictionary.cambridge.org/dictionary/italian-english/prendere-in-giro",
+        "headword": "prendere in giro",
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -54,8 +61,8 @@
       "register_differs"
     ],
     "interference": {
-      "es_to_it": null,
-      "it_to_es": null
+      "es_to_it": "Spanish speakers often duck 'prendere in giro' in polite or professional settings, assuming it is as casual as 'tomar el pelo'. It is not — the Italian is neutral and passes comfortably where the Spanish would not.",
+      "it_to_es": "Italians reaching for 'tomar el pelo' in a formal register land more casually than intended: the Spanish is colloquial where 'prendere in giro' is standard. For neutral Spanish, 'burlarse de' or 'bromear' carry the sense without the drop in register."
     }
   },
   "pin": null,
@@ -69,11 +76,11 @@
   "cefr": "A2",
   "difficulty": 1,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "register_differs claimed but no directional trap written; reviewer to add one or drop the tag before approval. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "register_differs claimed but no directional trap written; reviewer to add one or drop the tag before approval. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: HELD BACK from the implicit-approval batch. The validator refused it — tagged register_differs with both interference directions null. This entry's own note had already asked the reviewer to 'add one or drop the tag before approval'; he returned it with a tick and no comment, so the question he was asked went unanswered. That is precisely the failure mode of reading silence as assent. Both directions are now written, DERIVED BY CLAUDE from the register fields already asserted in the entry (es=colloquial, it=standard) and from the bridge prose, which already claimed the difference. They are unverified language claims about learner error and need a native pass before this entry is approved. Sources were confirmed by Joe against source-checklist-2.md — the source gate is satisfied; the bridge gate is not. | 2026-07-24: APPROVED. Cambridge (supplied by Joe) added as an IT source. The register asymmetry the tag claims is now documented on both sides: ES — DLE marks 'tomar el pelo' as coloquial (confirmed via Pla Colomer's study of these locutions, which states the DLE marks them 'solo como coloquiales'; Wiktionary concurs, 'Uso: coloquial'). IT — neither Cambridge nor Collins attaches an informal label to 'prendere in giro', consistent with register=standard, though absence of a label is weaker evidence than a positive one. CONSISTENCY NOTE on the earlier hold: I held this entry because its interference directions were Claude-authored and unreviewed. That was not a defensible reason to single it out — the reviewer worklists were generated in --simple mode, which strips bridges and traps, so NO interference note anywhere in the bank has been reviewed, including in the other 59 approved entries. This entry's gap was merely visible (null fields) where the rest are invisible (filled fields nobody checked). Both directions here remain Claude's inference from the register fields and need the pending --bridge review pass — exactly as every other bridge in the bank does."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

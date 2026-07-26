@@ -14,14 +14,14 @@
       "ar",
       "co"
     ],
-    "regionNote": "Common in LatAm (MX/AR); in Spain 'estar deseando' is more natural. A rare pair where the LATAM side matches Italian and the Peninsular side doesn't — reviewer to confirm distribution.",
+    "regionNote": "Common in LatAm (MX/AR); in Spain 'estar deseando' is more natural.",
     "sources": [
       {
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/hora",
         "headword": "hora",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -42,8 +42,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/ora1/",
         "headword": "ora",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -55,8 +55,8 @@
       "preposition_differs"
     ],
     "interference": {
-      "es_to_it": "The connector: 'non vedo l'ora che vieni' fails twice — it wants di + infinitive (same subject) or che + SUBJUNCTIVE (different subject): non vedo l'ora che tu venga.",
-      "it_to_es": "Italians say 'no veo la hora de verte' — perfect in LatAm; in Spain it may read as an italianism."
+      "es_to_it": "The connector: 'non vedo l'ora che vieni' fails twice — it wants di + infinitive (same subject) or che + SUBJUNCTIVE (different subject): non vedo l'ora che tu venga. Spanish is more flexible here than Italian.",
+      "it_to_es": "Italians say 'no veo la hora de verte', which is perfect in LatAm; in Spain it may read as an Italianism, where 'tengo ganas de verte' would be preferred."
     }
   },
   "pin": null,
@@ -70,11 +70,11 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Discovered via FluentU list (Joe, 2026-07-16); all content authored fresh, ES pairing by Claude — verify.  Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Discovered via FluentU list (Joe, 2026-07-16); all content authored fresh, ES pairing by Claude — verify.  Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-23: REVERTED to draft — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03. | 2026-07-24: both interference directions REWRITTEN by Joe. Two typos corrected on the way in ('which perfect' → 'which is perfect'; 'italianism' → 'Italianism') and 'Spanish has more flexibility than italian' lightly reordered for readability — no change of meaning. Note this trap now carries a dialect claim (LatAm vs Spain) of exactly the kind flagged as unsourced elsewhere; it rests on Joe's judgement, not a cited source. | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: stripped review instruction. Factual content preserved; provenance stays in these notes, which are internal."
   },
   "createdOn": "2026-07-16",
   "retiredReason": null,

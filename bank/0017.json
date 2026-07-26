@@ -13,14 +13,14 @@
       "es",
       "mx"
     ],
-    "regionNote": "Peninsular-leaning; understood in Mexico. Reviewer to confirm.",
+    "regionNote": "Peninsular-leaning, but current in Mexico.",
     "sources": [
       {
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/ojo",
         "headword": "ojo",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -41,8 +41,8 @@
         "authority": "De Mauro",
         "url": "https://dizionario.internazionale.it/parola/occhio",
         "headword": "occhio",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -52,8 +52,8 @@
       "shared_metaphor"
     ],
     "interference": {
-      "es_to_it": null,
-      "it_to_es": null
+      "es_to_it": "'Non attaccare occhio' — pegar is glue/stick, but Italian closes the eye: non chiudere occhio.",
+      "it_to_es": "'No cerrar ojo' is understood but isn't the fixed form. Spanish sticks: no pegar ojo."
     }
   },
   "pin": null,
@@ -66,11 +66,11 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Natural pairing with 0020 (sleeping well) — consider a themed week. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Natural pairing with 0020 (sleeping well) — consider a themed week. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: approved as part of the IMPLICIT-APPROVAL batch — both reviewers returned this with a tick and no written comment, and Joe confirmed the sources against source-checklist-2.md. Recorded distinctly from the 2026-07-24 explicit batch because the underlying reviewer signal is weaker: absence of comment, not a positive written pass. If any of these later prove wrong, this note is where to start. | 2026-07-24: regionNote's 'reviewer to confirm' instruction CLOSED. The ES reviewer is Mexican and passed this entry clean, which is the LatAm-currency confirmation the note was requesting. Rewritten from a pending question into a recorded answer. | 2026-07-24: interference direction(s) written/approved by Joe in the editor-led bridge review. | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer should pick'). Factual content kept. | 2026-07-24: regionNote RESTORED — the instruction sweep had stripped the whole sentence because the regional fact and the reviewer attribution shared it, losing real content. The fact is reinstated without the attribution; provenance stays in these notes."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

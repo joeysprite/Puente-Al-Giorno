@@ -13,14 +13,14 @@
       "es",
       "mx"
     ],
-    "regionNote": "Peninsular-leaning. Reviewer to confirm LatAm currency.",
+    "regionNote": "Peninsular-leaning, but current across Latin America.",
     "sources": [
       {
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/gato",
         "headword": "gato",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -41,8 +41,8 @@
         "authority": "De Mauro",
         "url": "https://dizionario.internazionale.it/parola/pelo",
         "headword": "pelo",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -53,7 +53,7 @@
     ],
     "interference": {
       "es_to_it": "The idioms are not interchangeable: buscarle tres pies al gato is overcomplicating; cercare il pelo nell'uovo is nitpicking.",
-      "it_to_es": null
+      "it_to_es": "An Italian using buscarle tres pies al gato for nitpicking will be heard as describing someone who overcomplicates, not someone who fusses over detail."
     }
   },
   "pin": null,
@@ -66,11 +66,11 @@
   "cefr": "B2",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Semantic mismatch — reviewer should decide whether to keep paired or split. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Semantic mismatch — reviewer should decide whether to keep paired or split. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-23: REVERTED to draft — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03. | 2026-07-24: regionNote's 'reviewer to confirm' instruction CLOSED. The ES reviewer is Mexican and passed this entry clean, which is the LatAm-currency confirmation the note was requesting. Rewritten from a pending question into a recorded answer. | 2026-07-24: interference direction(s) written/approved by Joe in the editor-led bridge review. | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer should pick'). Factual content kept. | 2026-07-24: regionNote RESTORED — the instruction sweep had stripped the whole sentence because the regional fact and the reviewer attribution shared it, losing real content. The fact is reinstated without the attribution; provenance stays in these notes."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

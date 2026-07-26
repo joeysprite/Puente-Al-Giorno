@@ -15,7 +15,7 @@
       "ar",
       "co"
     ],
-    "regionNote": "Pairing uncertainty flagged: a cambio (chosen), en compensación (stiff), eso sí (most conversational). María to pick the default.",
+    "regionNote": "Three options compete: a cambio (chosen here), en compensación (stiff), and eso sí (most conversational — paga poco; eso sí, queda cerca).",
     "sources": [
       {
         "authority": "RAE (DLE)",
@@ -49,7 +49,7 @@
     ]
   },
   "bridge": {
-    "note": "Both balance a ledger mid-sentence — Italian with compensation, Spanish with exchange. The best conversational Spanish equivalent may actually be 'eso sí', which isn't prepositional at all; reviewer's call.",
+    "note": "Both balance a ledger mid-sentence — Italian with compensation, Spanish with exchange.",
     "tags": [
       "preposition_differs",
       "interference_risk"
@@ -74,7 +74,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: stripped review instruction; es.regionNote: removed reviewer's name. Factual content preserved; provenance stays in these notes, which are internal. | 2026-07-24: further review instructions stripped from shipping fields (bridge.note) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer should pick'). Factual content kept. | 2026-07-24: regionNote restored as fact. The original carried the competing options but wrapped them in an uncertainty flag naming the reviewer; the options themselves are useful and are kept."
   },
   "createdOn": "2026-07-16",
   "retiredReason": null,

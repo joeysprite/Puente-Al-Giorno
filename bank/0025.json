@@ -2,60 +2,58 @@
   "id": "0025",
   "type": "idiom",
   "es": {
-    "text": "Ser uña y carne",
-    "literal": "to be fingernail and flesh",
+    "text": "Ser uña y mugre",
+    "literal": "to be fingernail and grime",
     "meaning": "To be inseparable friends.",
-    "example": "Esos dos son uña y carne desde la infancia.",
-    "exampleTranslation": "Those two have been inseparable since childhood.",
+    "example": "Esos dos son uña y mugre desde la primaria.",
+    "exampleTranslation": "Those two have been inseparable since elementary school.",
     "register": "standard",
     "formality": "ok_in_exam",
     "regions": [
-      "mx",
-      "es",
-      "ar",
-      "co"
+      "mx"
     ],
-    "regionNote": null,
+    "regionNote": "Mexican Spanish (also attested in the Andes, Honduras, and Panama per Oxford Languages). The Castilian equivalent is uña y carne, now this entry's alternative rather than its anchor. The folk logic differs slightly from the Castilian version: uña y carne reads nail and flesh as one body; uña y mugre reads the grime that always collects under the nail and can never quite be scrubbed out — same conclusion, earthier reasoning.",
     "sources": [
       {
-        "authority": "RAE (DLE)",
-        "url": "https://dle.rae.es/u%C3%B1a",
-        "headword": "uña",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "authority": "Corpus",
+        "url": "https://es.bab.la/diccionario/espanol/ser-u%C3%B1a-y-mugre",
+        "headword": "ser uña y mugre",
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
   "it": {
-    "text": "Essere pane e cacio",
-    "literal": "to be bread and cheese",
-    "meaning": "To be extremely close; inseparable.",
-    "example": "Marco e Luca sono pane e cacio.",
-    "exampleTranslation": "Marco and Luca are thick as thieves.",
+    "text": "Essere come il cacio sui maccheroni",
+    "literal": "to be like the cheese on the macaroni",
+    "meaning": "To be a perfect fit; two things that complete each other.",
+    "example": "Luca e Sara sono come il cacio sui maccheroni nei progetti: lei si occupa della parte burocratica e lui della parte più tecnica.",
+    "exampleTranslation": "Luca and Sara are a perfect fit on projects: she handles the paperwork and he takes the technical side.",
     "register": "colloquial",
     "formality": "neutral",
     "regions": [
       "it"
     ],
-    "regionNote": "cacio is the older/regional word for cheese (vs. formaggio) and survives mainly in fixed expressions.",
+    "regionNote": "Italian",
     "sources": [
       {
         "authority": "De Mauro",
         "url": "https://dizionario.internazionale.it/parola/cacio",
         "headword": "cacio",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
   "bridge": {
-    "note": "Spanish picks two things physically fused (nail and flesh); Italian two things that simply belong together. Both drop the article entirely: ser uña y carne, essere pane e cacio.",
+    "note": "Spanish fuses; Italian combines. Uña y mugre is one body by accident of grime — the dirt that collects under the nail and never quite scrubs out, inseparable not by design but by habit. Il cacio sui maccheroni is two distinct things whose meeting is ideal. One says you cannot pull them apart; the other says they were made to go together.",
     "tags": [
-      "shared_metaphor"
+      "false_friend",
+      "interference_risk"
     ],
     "interference": {
-      "es_to_it": null,
-      "it_to_es": null
+      "es_to_it": "Calling lifelong friends 'come il cacio sui maccheroni' tells an Italian they complement each other well, not that they are inseparable.",
+      "it_to_es": "Uña y mugre overshoots a complementary working pair — a Spanish listener hears deep personal intimacy, not a good division of labour."
     }
   },
   "pin": null,
@@ -68,13 +66,13 @@
   "cefr": "B2",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": " Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "IT side re-paired 2026-07-23 on the Italian reviewer's recommendation: she did not recognise 'essere pane e cacio' and supplied 'essere come il cacio sui maccheroni' plus the example verbatim, so the IT phrase and example are reviewer-sourced. Note this shifts the IT meaning from inseparability to complementarity — the divergence is now the editorial payload rather than a defect. PENDING: bridge note and both interference directions are Claude-written and NOT reviewed; the repair suggestions ('amici per la pelle', 'venir como anillo al dedo') are unverified claims. | 2026-07-23: regionNote added (Castilian); repair suggestions removed from bridges pending bridge-review pass; IT→ES trap flagged for dialect-specific confirmation (does this hold in Mexican Spanish?) | 2026-07-24: ES anchor swapped from uña y carne (Castilian) to uña y mugre (Mexican) at Joe's direction. Book-attested via Torres #97; formally sourced here to Oxford Languages (via bab.la), which explicitly tags the phrase's regional currency. Status remains needs_review — this is an unreviewed change, and the IT→ES dialect-confirmation flag from 2026-07-23 still stands (does the trap hold the same way for uña y mugre as it did for uña y carne?). uña y carne is not yet added to alternatives.json as the Castilian counterpart — flagged as a follow-up, not done automatically. | 2026-07-24: APPROVED. Sources confirmed by jf against source-checklist-3.md. Open questions on this entry were resolved by Joe the same day — see the preceding notes."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,
-  "cue": "How do you describe two inseparable friends?"
+  "cue": "How do you say two people belong together?"
 }

@@ -1,6 +1,6 @@
 {
   "id": "0029",
-  "type": "idiom",
+  "type": "marker",
   "es": {
     "text": "Había una vez",
     "literal": "there was a time",
@@ -15,7 +15,7 @@
       "ar",
       "co"
     ],
-    "regionNote": "The archaic variant 'Érase una vez' (with fossilised enclitic -se) is equally canonical, especially in Spain and in print. Reviewer to confirm which form is LatAm-default for the headword.",
+    "regionNote": "The archaic variant 'Érase una vez' (with fossilised enclitic -se) is equally canonical, especially in Spain and in print.",
     "sources": [
       {
         "authority": "RAE (DLE)",
@@ -74,7 +74,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-14 (as 'Habia una vez / cera una volta'; forms normalised to 'Había' and 'C'era'). CLASSIFICATION: typed idiom, not formula — the schema defines formula as a fixed SOCIAL phrase tied to an occasion (buon anno), which is why formulas require pins. A narrative opener has no occasion; it is a fixed discourse idiom. Reviewer may overrule."
+    "notes": "Submitted by Joe 2026-07-14 (as 'Habia una vez / cera una volta'; forms normalised to 'Había' and 'C'era'). CLASSIFICATION: typed idiom, not formula — the schema defines formula as a fixed SOCIAL phrase tied to an occasion (buon anno), which is why formulas require pins. A narrative opener has no occasion; it is a fixed discourse idiom. Reviewer may overrule. | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: stripped review instruction. Factual content preserved; provenance stays in these notes, which are internal."
   },
   "createdOn": "2026-07-14",
   "retiredReason": null,

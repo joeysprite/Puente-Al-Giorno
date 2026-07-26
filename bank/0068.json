@@ -14,7 +14,7 @@
       "es",
       "mx"
     ],
-    "regionNote": "Peninsular-leaning; Mexico deploys the madre-family differently and richly (¡a toda madre!, me vale madre, un desmadre) with register hazards everywhere. Reviewer to advise how much of that minefield to flag.",
+    "regionNote": "Peninsular-leaning; Mexico deploys the madre-family differently and richly (¡a toda madre!, me vale madre, un desmadre) with register hazards everywhere.",
     "sources": [
       {
         "authority": "RAE (DLE)",
@@ -74,7 +74,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. Freebie twin with a register footnote that earns its keep."
+    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. Freebie twin with a register footnote that earns its keep. | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer should pick'). Factual content kept. EDITORIAL FLAG (social): shipping text touches vulgar register. Accurate and stays in the bank — it is the substance of the warning. Whether it appears verbatim in public-facing carousel copy is an editorial call, decided per post."
   },
   "createdOn": "2026-07-20",
   "retiredReason": null

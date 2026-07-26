@@ -21,8 +21,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/c%C3%A1ntaro",
         "headword": "cántaro",
-        "verifiedOn": "2026-07-12",
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "authority": "De Mauro",
         "url": "https://dizionario.internazionale.it/parola/catinella",
         "headword": "catinella",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -54,8 +54,8 @@
       "shared_metaphor"
     ],
     "interference": {
-      "es_to_it": null,
-      "it_to_es": null
+      "es_to_it": "'Piovere a brocche' isn't Italian — the vessel is the basin: a catinelle.",
+      "it_to_es": "'Llover a palanganas' isn't Spanish — the vessel is the pitcher: a cántaros."
     }
   },
   "pin": null,
@@ -68,11 +68,11 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "First entry to carry a soft season tag — good test case for the scheduler. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "First entry to carry a soft season tag — good test case for the scheduler. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-23: REVERTED to draft — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03. | 2026-07-24: interference direction(s) written/approved by Joe in the editor-led bridge review."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

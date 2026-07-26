@@ -22,14 +22,14 @@
         "authority": "Cervantes",
         "url": "https://cvc.cervantes.es/lengua/refranero/",
         "headword": "no hay mal que por bien no venga",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
   "it": {
     "text": "Non tutti i mali vengono per nuocere",
-    "literal": "not all evils come in order to harm",
+    "literal": "Not all the bad things come in order to harm",
     "meaning": "Some misfortunes turn out to be for the best.",
     "example": "Ho perso il treno e ho evitato lo sciopero: non tutti i mali vengono per nuocere.",
     "exampleTranslation": "I missed the train and dodged the strike — some bad turns work out.",
@@ -44,8 +44,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/male/",
         "headword": "male",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -72,11 +72,11 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Prompted by an inspirational graphic Joe shared 2026-07-18 ('el agua no sonaría tan hermosa sin piedras en su camino' — a modern composed line, not a refrán, so not bankable itself). Both proverbs and the universal-vs-partial reading are Claude's; the scope difference is the payload and needs both reviewers to confirm it is real rather than an artifact of how each is usually quoted."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Prompted by an inspirational graphic Joe shared 2026-07-18 ('el agua no sonaría tan hermosa sin piedras en su camino' — a modern composed line, not a refrán, so not bankable itself). Both proverbs and the universal-vs-partial reading are Claude's; the scope difference is the payload and needs both reviewers to confirm it is real rather than an artifact of how each is usually quoted. | 2026-07-24: IT literal set by editor. Approved."
   },
   "createdOn": "2026-07-18",
   "retiredReason": null

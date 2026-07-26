@@ -55,7 +55,7 @@
       "interference_risk"
     ],
     "interference": {
-      "es_to_it": null,
+      "es_to_it": "Don't calque en promedio or de media; Italian uses in media only.",
       "it_to_es": "Regional split: LatAm says en promedio; Spain says DE media — a preposition flip inside Spanish itself."
     }
   },
@@ -73,7 +73,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: es→it direction WRITTEN by Joe — this entry previously had only one direction, flagged in the bridge-review triage. Status remains draft; sources still unverified."
   },
   "createdOn": "2026-07-16",
   "retiredReason": null,

@@ -21,8 +21,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/moneda",
         "headword": "moneda",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "authority": "De Mauro",
         "url": "https://dizionario.internazionale.it/parola/rendere-pan-per-focaccia",
         "headword": "rendere pan per focaccia",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -71,11 +71,11 @@
   "cefr": "B2",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-16 from his Italian teacher contact as 'vendere...'. Verb and meaning corrected and web-verified same day (see it.regionNote). Teacher's gloss traced to real etymology — an interesting error, not a careless one. IT reviewer: confirm 'with interest' nuance vs exact-change 'misma moneda'. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Submitted by Joe 2026-07-16 from his Italian teacher contact as 'vendere...'. Verb and meaning corrected and web-verified same day (see it.regionNote). Teacher's gloss traced to real etymology — an interesting error, not a careless one. IT reviewer: confirm 'with interest' nuance vs exact-change 'misma moneda'. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-23: REVERTED to draft — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03."
   },
   "createdOn": "2026-07-16",
   "retiredReason": null,

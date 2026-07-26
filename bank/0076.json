@@ -6,8 +6,8 @@
     "text": "De buenas a primeras",
     "literal": "from goods to firsts",
     "meaning": "Right off the bat; suddenly and without warning, with no time to prepare.",
-    "example": "No puedo decidir de buenas a primeras, déjame pensarlo.",
-    "exampleTranslation": "I can't decide just like that — let me think it over.",
+    "example": "Estaba muy tranquila y, de buenas a primeras, se enojó y se fue.",
+    "exampleTranslation": "She was completely calm and then, out of nowhere, got angry and left.",
     "register": "colloquial",
     "formality": "neutral",
     "regions": [
@@ -16,7 +16,7 @@
       "ar",
       "co"
     ],
-    "regionNote": "Pan-Hispanic. Mexico also has 'así nomás' and 'de bote pronto'; Spain leans on 'a bote pronto'. Reviewer to confirm which fronts for an MX-default audience.",
+    "regionNote": "Pan-Hispanic. Mexico also has 'así nomás' and 'de bote pronto'; Spain leans on 'a bote pronto'.",
     "sources": [
       {
         "authority": "RAE (DLE)",
@@ -76,7 +76,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Discovered via a clip Joe shared 2026-07-20 (discovery only; glosses and examples authored fresh). ES pairing by Claude — UNVERIFIED. Two claims to check: that 'de buenas a primeras' is the closest everyday counterpart for an MX audience, and the a-pie-juntillas contrast in the it_to_es trap."
+    "notes": "Discovered via a clip Joe shared 2026-07-20 (discovery only; glosses and examples authored fresh). ES pairing by Claude — UNVERIFIED. Two claims to check: that 'de buenas a primeras' is the closest everyday counterpart for an MX audience, and the a-pie-juntillas contrast in the it_to_es trap. | 2026-07-24: ES example replaced with reviewer's own sentence (was: \"No puedo decidir de buenas a primeras, déjame pensarlo.\"); fresh English translation written. | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: stripped review instruction. Factual content preserved; provenance stays in these notes, which are internal."
   },
   "createdOn": "2026-07-20",
   "retiredReason": null

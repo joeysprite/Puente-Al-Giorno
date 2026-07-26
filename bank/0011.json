@@ -5,8 +5,8 @@
     "text": "Echar leña al fuego",
     "literal": "to throw firewood on the fire",
     "meaning": "To make a tense situation worse.",
-    "example": "No eches más leña al fuego, ya están bastante enfadados.",
-    "exampleTranslation": "Don't add fuel to the fire, they're angry enough already.",
+    "example": "No le eches más leña al fuego, que ya están bastante enfadados.",
+    "exampleTranslation": "Don't add more fuel to the fire, they're already angry enough.",
     "register": "standard",
     "formality": "ok_in_exam",
     "regions": [
@@ -51,11 +51,12 @@
   "bridge": {
     "note": "Same image, escalating fuel: Spanish adds wood, Italian adds gasoline. gettare recurs (see 0004) — a verb worth banking.",
     "tags": [
-      "shared_metaphor"
+      "shared_metaphor",
+      "interference_risk"
     ],
     "interference": {
-      "es_to_it": null,
-      "it_to_es": null
+      "es_to_it": "'Gettare legna sul fuoco' reads as literally adding firewood. The Italian idiom pours fuel on it: benzina.",
+      "it_to_es": "'Echar gasolina al fuego' is understood but isn't the fixed form. Spanish adds wood: echar leña al fuego."
     }
   },
   "pin": null,
@@ -72,7 +73,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": " Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "notes": " Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: ES example replaced with reviewer's own sentence (was: \"No eches más leña al fuego, ya están bastante enfadados.\"); fresh English translation written. | 2026-07-24: interference direction(s) written and approved by Joe (narrow pass). Entry had been tagged shared_metaphor/cognate_pair without interference_risk, which kept it outside every prior bridge pass despite carrying a real calque failure; interference_risk tag added."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

@@ -13,7 +13,7 @@
     "regions": [
       "mx"
     ],
-    "regionNote": "Mexican; often extended 'sepa la bola' or softened '¿quién sabe?' (which is pan-Hispanic). Spain: 'ni idea' / 'yo qué sé'. Reviewer to confirm bare ¡sepa! currency.",
+    "regionNote": "Mexican; often extended 'sepa la bola' or softened '¿quién sabe?' (which is pan-Hispanic). Spain: 'ni idea' / 'yo qué sé'. currency.",
     "sources": [
       {
         "authority": "RAE (DLE)",
@@ -73,7 +73,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. Sound-vs-mood is the payload; register warning on both sides."
+    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. Sound-vs-mood is the payload; register warning on both sides. | 2026-07-24: bridge reviewed and approved by Joe (editor-led bridge review). Entry status remains draft: sources are still unverified, which is a separate gate from the bridge. Flip to approved once the source links are checked. | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: stripped review instruction. Factual content preserved; provenance stays in these notes, which are internal."
   },
   "createdOn": "2026-07-20",
   "retiredReason": null

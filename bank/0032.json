@@ -15,14 +15,14 @@
       "ar",
       "co"
     ],
-    "regionNote": "Overuse is a class-marked stereotype in both Spain (pijo) and Mexico (fresa) — fine to use, risky to lean on. Reviewer to confirm framing.",
+    "regionNote": "Overuse is a class-marked stereotype in both Spain (pijo) and Mexico (fresa) — fine to use, risky to lean on.",
     "sources": [
       {
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/ser",
         "headword": "ser",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/cioe/",
         "headword": "cioè",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -69,11 +69,11 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-14. The o sea→ossia near-miss (real word, wrong register) is the subtlest trap in the bank so far."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Submitted by Joe 2026-07-14. The o sea→ossia near-miss (real word, wrong register) is the subtlest trap in the bank so far. | 2026-07-24: approved as part of the IMPLICIT-APPROVAL batch — both reviewers returned this with a tick and no written comment, and Joe confirmed the sources against source-checklist-2.md. Recorded distinctly from the 2026-07-24 explicit batch because the underlying reviewer signal is weaker: absence of comment, not a positive written pass. If any of these later prove wrong, this note is where to start. | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: stripped review instruction. Factual content preserved; provenance stays in these notes, which are internal."
   },
   "createdOn": "2026-07-14",
   "retiredReason": null,

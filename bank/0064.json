@@ -15,14 +15,14 @@
       "ve",
       "mx"
     ],
-    "regionNote": "'Botar' for throwing away is Caribbean, Colombian, Venezuelan and Central American; Mexico and Spain lean to 'tirar la llave'. Reviewer to decide which form fronts for an MX-default audience — this may want re-pairing as 'tirar la llave'.",
+    "regionNote": "'Botar' for throwing away is Caribbean, Colombian, Venezuelan and Central American; Mexico and Spain lean to 'tirar la llave'.",
     "sources": [
       {
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/botar",
         "headword": "botar",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/buttare/",
         "headword": "buttare",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -70,11 +70,11 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-19. Two open questions: (1) whether either phrase stands alone as a fixed idiom or only inside the longer 'lock them up and…' construction — banked as the short form, reviewers to rule; (2) botar vs tirar for the MX-default audience. The botar/buttare cognate claim is Claude's and is presented as resemblance, not established etymology — do not print an origin story without confirming it."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Submitted by Joe 2026-07-19. Two open questions: (1) whether either phrase stands alone as a fixed idiom or only inside the longer 'lock them up and…' construction — banked as the short form, reviewers to rule; (2) botar vs tirar for the MX-default audience. The botar/buttare cognate claim is Claude's and is presented as resemblance, not established etymology — do not print an origin story without confirming it. | 2026-07-23: REVERTED to draft — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03. | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer should pick'). Factual content kept."
   },
   "createdOn": "2026-07-19",
   "retiredReason": null

@@ -22,8 +22,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/morir",
         "headword": "morir",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -44,8 +44,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/morire/",
         "headword": "morire",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -72,11 +72,11 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-17. The morirse/morir figurative-literal split and the dal/di cause-preposition claim are Claude's analysis — both reviewers to confirm; the ES side especially (is bare 'muero de hambre' truly marked, or regionally fine?)."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Submitted by Joe 2026-07-17. The morirse/morir figurative-literal split and the dal/di cause-preposition claim are Claude's analysis — both reviewers to confirm; the ES side especially (is bare 'muero de hambre' truly marked, or regionally fine?). | 2026-07-23: REVERTED to draft — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03."
   },
   "createdOn": "2026-07-17",
   "retiredReason": null

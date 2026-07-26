@@ -10,16 +10,17 @@
     "register": "colloquial",
     "formality": "neutral",
     "regions": [
-      "es"
+      "es",
+      "mx"
     ],
-    "regionNote": "PENINSULAR. In Mexico the common equivalents are 'estar harto' (neutral) or 'estar hasta la madre' (vulgar — do NOT ship as a neutral equivalent). Needs a proper LatAm variant.",
+    "regionNote": "Mexico's near-equivalents: 'estar harto' is the neutral one; 'estar hasta la madre' carries the same meaning but is vulgar, not interchangeable in polite company.",
     "sources": [
       {
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/nariz",
         "headword": "nariz",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -38,22 +39,23 @@
     "sources": [
       {
         "authority": "De Mauro",
-        "url": "https://dizionario.internazionale.it/parola/capello",
-        "headword": "capello",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "url": "https://dizionario.internazionale.it/parola/averne-fin-sopra-i-capelli",
+        "headword": "averne fin sopra i capelli",
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
   "bridge": {
-    "note": "Both measure exasperation by how high it has risen — Spanish to the nose, Italian above the hair.",
+    "note": "Both measure exasperation by how high it has risen — Spanish to the nose, Italian above the hair. A classic Romance mismatch: same meaning, different verb and different body part.",
     "tags": [
       "shared_metaphor",
-      "interference_risk"
+      "interference_risk",
+      "auxiliary_trap"
     ],
     "interference": {
-      "es_to_it": "The Italian partitive ne is doing real work (ne ho fin sopra i capelli) and is a B1 marker Spanish speakers routinely drop.",
-      "it_to_es": null
+      "es_to_it": "Spanish builds this with estar, so Spanish speakers produce 'essere fin sopra i capelli'. Italian needs avere — and the ne, which Spanish has no equivalent for and drops almost automatically.",
+      "it_to_es": "Italian's avere pulls speakers toward 'tengo hasta las narices'. Spanish needs estar: estoy hasta las narices. Tener only works in the causative — 'me tienes hasta las narices', you've got me fed up. Spanish also doesn't reach for hair here; the measure is the nose."
     }
   },
   "pin": null,
@@ -66,11 +68,11 @@
   "cefr": "B2",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "ES side has the sharpest regional problem in the bank — the natural MX equivalent is vulgar. Tag interference_risk added on import to match the ne warning; original had shared_metaphor only. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "ES side has the sharpest regional problem in the bank — the natural MX equivalent is vulgar. Tag interference_risk added on import to match the ne warning; original had shared_metaphor only. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-23: REVERTED to draft — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03. | 2026-07-24: regions CORRECTED from ['es'] to ['es','mx'] and the PENINSULAR label removed. The reviewer — a Mexican speaker — marked this natural with no other comment (Joe, 2026-07-24), which contradicts the entry's own claim that Mexico uses different expressions instead. Same unjustified Peninsular-only narrowing found on 0024 and, earlier, on 0112. The Mexican alternatives are kept as related expressions, and the register warning on 'hasta la madre' is retained — that hazard is real regardless. | 2026-07-24: headword form QUERIED (Joe: should it be 'avere' not 'averne'?) and CONFIRMED as 'averne'. The 'ne' is lexical, not optional — a pronominal verb meaning 'of it', pointing at whatever one has had enough of; the same construction as its cousins 'averne abbastanza' and 'non poterne più'. Evidence: De Mauro carries a DEDICATED headword for the full phrase including 'ne'; Devoto-Oli lists it identically; WordReference files its dictionary entry under the same form; and every attested example carries the particle, including this entry's own ('Ne ho fin sopra i capelli di questa situazione'). Source upgraded from De Mauro 'capello' (generic, the phrase buried among other capelli locutions) to De Mauro's dedicated entry, which confirms the headword form directly. No change to the entry text. | 2026-07-24: bridge and BOTH interference directions written by Joe (first entry of the editor-led bridge review). One correction applied on the way in: Joe's draft named the mismatch as avere/tener in both directions, but the Spanish here is estar, not tener — so it→es is avere→tener as he wrote it, while es→it is estar→essere. Causative exception added to the it→es note ('me tienes hasta las narices' is valid Spanish) so the trap isn't overstated. auxiliary_trap tag added — the have/be axis is now the entry's main teaching point, not just the shared metaphor. NOTE: Joe independently proposed stripping the ne from the headword earlier the same day, which is precisely the es→it error this entry now teaches — the trap is attested by the editor producing it. | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer should pick'). Factual content kept. EDITORIAL FLAG (social): shipping text touches vulgar register. Accurate and stays in the bank — it is the substance of the warning. Whether it appears verbatim in public-facing carousel copy is an editorial call, decided per post. | 2026-07-24: regionNote reworded — it had read 'must NOT be shipped as a neutral equivalent', which is an instruction to the pipeline rather than information for a learner. Same warning, stated as a fact about register."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

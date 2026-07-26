@@ -5,7 +5,7 @@
   "es": {
     "text": "Tener dos dedos de frente",
     "literal": "to have two fingers of forehead",
-    "meaning": "To have common sense; to show basic good judgment.",
+    "meaning": "To have common sense; to show basic good judgment. Usually heard in the negative.",
     "example": "Si tuviera dos dedos de frente, no habría firmado ese contrato.",
     "exampleTranslation": "If he had any sense, he wouldn't have signed that contract.",
     "register": "colloquial",
@@ -16,21 +16,21 @@
       "ar",
       "co"
     ],
-    "regionNote": "Understood pan-regionally; reviewer to confirm how current it is in Mexico versus plainer 'tener cabeza'. The image is phrenological — forehead height read as intelligence.",
+    "regionNote": "The image is phrenological — forehead height read as intelligence.",
     "sources": [
       {
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/dedo",
         "headword": "dedo",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
   "it": {
     "text": "Avere sale in zucca",
     "literal": "to have salt in the pumpkin",
-    "meaning": "To have good sense; to be sensible.",
+    "meaning": "To have good sense; to be sensible. Usually heard in the negative.",
     "example": "Se avesse un po' di sale in zucca, non firmerebbe quel contratto.",
     "exampleTranslation": "If he had any sense, he wouldn't sign that contract.",
     "register": "colloquial",
@@ -44,8 +44,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/zucca/",
         "headword": "zucca",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -72,11 +72,11 @@
   "cefr": "B2",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Banked 2026-07-18 from the candidates queue, prompted by Joe's interest in the knowledge/wisdom distinction. Both sides and the pairing are Claude's; the Latin sal = wit/salt link and the phrenological reading of 'dos dedos de frente' are Claude's etymological claims, unverified — reviewers to confirm or cut. ES reviewer: is this current in MX? | 2026-07-23: reverted an incorrect reclassification to 'expression' — the reviewer's note here was a literal-translation fix (zucca = pumpkin, not gourd). APPLIED 2026-07-23: literal changed to 'to have salt in the pumpkin'. | 2026-07-24: propagated the pumpkin fix — the 2026-07-23 change had only touched `literal`, leaving 'gourd' in the IT regionNote and twice in the bridge note, so the entry contradicted itself. Also cut two unverified etymological claims from the bridge note (the Latin sal = wit derivation, and the phrenological reading of the forehead) rather than ship them unsourced — a occhio e croce class risk. They remain listed here as reviewer questions, not as published prose."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Banked 2026-07-18 from the candidates queue, prompted by Joe's interest in the knowledge/wisdom distinction. Both sides and the pairing are Claude's; the Latin sal = wit/salt link and the phrenological reading of 'dos dedos de frente' are Claude's etymological claims, unverified — reviewers to confirm or cut. ES reviewer: is this current in MX? | 2026-07-23: reverted an incorrect reclassification to 'expression' — the reviewer's note here was a literal-translation fix (zucca = pumpkin, not gourd). APPLIED 2026-07-23: literal changed to 'to have salt in the pumpkin'. | 2026-07-24: propagated the pumpkin fix — the 2026-07-23 change had only touched `literal`, leaving 'gourd' in the IT regionNote and twice in the bridge note, so the entry contradicted itself. Also cut two unverified etymological claims from the bridge note (the Latin sal = wit derivation, and the phrenological reading of the forehead) rather than ship them unsourced — a occhio e croce class risk. They remain listed here as reviewer questions, not as published prose. | 2026-07-24: approved — sources confirmed by jf against the two links; esReviewer=native-mx-01, itReviewer=native-it-03. | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: stripped review instruction. Factual content preserved; provenance stays in these notes, which are internal."
   },
   "createdOn": "2026-07-18",
   "retiredReason": null

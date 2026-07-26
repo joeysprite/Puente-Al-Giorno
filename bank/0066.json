@@ -53,8 +53,8 @@
       "register_differs"
     ],
     "interference": {
-      "es_to_it": "'Cammina!' as encouragement reads as an order to literally walk — the Italian nudge is dai. And dai doubles as disbelief: ma dai!",
-      "it_to_es": "'¡Da!' means nothing in Spanish. Mexico walks you forward: ándale (Spain: venga). The -le has no Italian counterpart — don't seek one."
+      "es_to_it": "Don't bring andar; Italian encouragement gives (dai). 'Cammina!' as encouragement reads as an order to literally walk — the Italian nudge is dai. And dai doubles as disbelief: ma dai!",
+      "it_to_es": "Don't bring dare; Spanish encouragement walks (ándale) or comes (venga). '¡Da!' means nothing in Spanish. Mexico walks you forward: ándale (Spain: venga). The -le has no Italian counterpart — don't seek one."
     }
   },
   "pin": null,
@@ -73,7 +73,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. The -le clitic note is a whole future entry (órale/échale/córrele family)."
+    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. The -le clitic note is a whole future entry (órale/échale/córrele family). | 2026-07-24: Joe added an opening line to each interference direction — a compressed 'don't bring X' framing that states the swap before the explanation. Existing text kept beneath it unchanged. Status remains draft; sources still unverified."
   },
   "createdOn": "2026-07-20",
   "retiredReason": null

@@ -21,8 +21,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/clavo",
         "headword": "clavo",
-        "verifiedOn": "2026-07-12",
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,19 +43,20 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/cogliere/",
         "headword": "cogliere",
-        "verifiedOn": "2026-07-12",
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
   "bridge": {
     "note": "Spanish uses the nail, as English does; Italian aims at a target (segno). cogliere is a high-value B1 verb — see also cogliere l'occasione.",
     "tags": [
-      "shared_metaphor"
+      "shared_metaphor",
+      "interference_risk"
     ],
     "interference": {
-      "es_to_it": null,
-      "it_to_es": null
+      "es_to_it": "'Dare nel chiodo' isn't Italian. Italian catches the mark: cogliere nel segno.",
+      "it_to_es": "'Coger en el signo' fails twice — it isn't the Spanish idiom, and coger is vulgar in Mexico and the Río de la Plata. Spanish hits the nail: dar en el clavo."
     }
   },
   "pin": null,
@@ -68,11 +69,11 @@
   "cefr": "B1",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "IT past participle 'colto' is irregular — worth surfacing in the UI. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "IT past participle 'colto' is irregular — worth surfacing in the UI. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: approved as part of the IMPLICIT-APPROVAL batch — both reviewers returned this with a tick and no written comment, and Joe confirmed the sources against source-checklist-2.md. Recorded distinctly from the 2026-07-24 explicit batch because the underlying reviewer signal is weaker: absence of comment, not a positive written pass. If any of these later prove wrong, this note is where to start. | 2026-07-24: interference direction(s) written and approved by Joe (narrow pass). Entry had been tagged shared_metaphor/cognate_pair without interference_risk, which kept it outside every prior bridge pass despite carrying a real calque failure; interference_risk tag added. EDITORIAL FLAG (social): this trap names 'coger' as vulgar in Mexico and the Río de la Plata. The claim is accurate and stays in the bank — it is the substance of the trap, and softening it would leave a learner producing something crude. But whether it appears verbatim in public-facing carousel copy is an editorial call, not a data one. Decide per post; the bank is not the constraint."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

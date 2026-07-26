@@ -31,8 +31,8 @@
     "text": "Mancare un venerdì",
     "literal": "to be missing a Friday",
     "meaning": "To be a bit crazy; to be not all there.",
-    "example": "Lasciare tutto così? Gli manca un venerdì.",
-    "exampleTranslation": "Drop everything like that? He's not all there.",
+    "example": "Ha lasciato tutto ed è partita, le manca proprio un venerdì.",
+    "exampleTranslation": "She dropped everything and left — she's clearly a bit crazy.",
     "register": "colloquial",
     "formality": "neutral",
     "regions": [
@@ -76,7 +76,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Screw-vs-Friday. NOTE: IT 'manca una rotella' (a cog) is the closer mechanical twin — reviewer may prefer it, in which case this re-pairs. Second madness entry (0002 balcone is different)."
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Screw-vs-Friday. NOTE: IT 'manca una rotella' (a cog) is the closer mechanical twin — reviewer may prefer it, in which case this re-pairs. Second madness entry (0002 balcone is different). | 2026-07-24: IT example replaced with reviewer's own sentence (was: \"Lasciare tutto così? Gli manca un venerdì.\"); fresh English translation written. | 2026-07-24: IT example punctuation restored to the reviewer's original comma (I had changed it to a colon); exampleTranslation set by editor — replaces my literal 'missing a Friday' calque, which rendered the idiom word-for-word instead of translating its meaning."
   },
   "createdOn": "2026-07-21",
   "retiredReason": null

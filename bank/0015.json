@@ -21,8 +21,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/sart%C3%A9n",
         "headword": "sartén",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "authority": "De Mauro",
         "url": "https://dizionario.internazionale.it/parola/coltello",
         "headword": "coltello",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -56,7 +56,7 @@
       "shared_metaphor"
     ],
     "interference": {
-      "es_to_it": null,
+      "es_to_it": "'Tenere la padella per il manico' fails twice: Italian grips a knife, not a pan, and the preposition is dalla parte del, not per il.",
       "it_to_es": "Spanish mango = handle here, NOT the fruit. Classic false-friend trap."
     }
   },
@@ -71,11 +71,11 @@
   "cefr": "B2",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Direction of the mango warning assigned it→es on import (the trap bites when reading/producing Spanish); reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Direction of the mango warning assigned it→es on import (the trap bites when reading/producing Spanish); reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-23: REVERTED to draft — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03. | 2026-07-24: interference direction(s) written/approved by Joe in the editor-led bridge review."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

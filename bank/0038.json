@@ -22,8 +22,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/cubero",
         "headword": "cubero",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -38,21 +38,21 @@
     "regions": [
       "it"
     ],
-    "regionNote": "Kitchen split PARTLY RESOLVED: Treccani glosses the locuzione with estimating verbs — stimare, giudicare, valutare — and De Mauro's example is guessing someone's age, both supporting Claude's claim that 'a occhio e croce' leans toward estimates of quantity, time and value. Whether plain 'a occhio' is the natural kitchen form (metti il sale a occhio) is still unattested here — Italian reviewer to settle.",
+    "regionNote": "Kitchen split PARTLY RESOLVED: Treccani glosses the locuzione with estimating verbs — stimare, giudicare, valutare — and De Mauro's example is guessing someone's age, both supporting that 'a occhio e croce' leans toward estimates of quantity, time and value.",
     "sources": [
       {
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/croce/",
         "headword": "croce (locuz. «a occhio e croce»)",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       },
       {
         "authority": "De Mauro",
         "url": "https://dizionario.internazionale.it/parola/a-occhio-e-croce",
         "headword": "a occhio e croce",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -79,11 +79,11 @@
   "cefr": "B2",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-16 from Mexican usage (cooking context). IT pairing chosen by Claude. 2026-07-18 CORRECTIONS: (1) etymology — Claude's 'Milanese silk weavers' contained invented detail; the loom/warp-thread origin and Latin ad oculum are corroborated by Wikipedia and Virgilio Sapere, note rewritten. (2) SOURCE URL WAS WRONG — Claude had cited Treccani's 'occhio' entry; the locuzione is listed under CROCE. Now cites croce, plus De Mauro's dedicated headword. Both still unopened by a human: verifiedOn stays null. IT reviewer: confirm the kitchen/estimate split, the only claim still unsupported."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Submitted by Joe 2026-07-16 from Mexican usage (cooking context). IT pairing chosen by Claude. 2026-07-18 CORRECTIONS: (1) etymology — Claude's 'Milanese silk weavers' contained invented detail; the loom/warp-thread origin and Latin ad oculum are corroborated by Wikipedia and Virgilio Sapere, note rewritten. (2) SOURCE URL WAS WRONG — Claude had cited Treccani's 'occhio' entry; the locuzione is listed under CROCE. Now cites croce, plus De Mauro's dedicated headword. Both still unopened by a human: verifiedOn stays null. IT reviewer: confirm the kitchen/estimate split, the only claim still unsupported. | 2026-07-23: REVERTED to draft — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03. | 2026-07-24: review meta-commentary removed from shipping fields — it.regionNote: removed 'Claude's claim' attribution. Factual content preserved; provenance stays in these notes, which are internal. | 2026-07-24: further review instructions stripped from shipping fields (it.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer should pick'). Factual content kept."
   },
   "createdOn": "2026-07-16",
   "retiredReason": null

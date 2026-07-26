@@ -13,7 +13,7 @@
     "regions": [
       "mx"
     ],
-    "regionNote": "Distinctly Mexican — latir as 'to have a hunch / to appeal' is MX colloquial; Spain says 'me da que'. Also 'me late' alone = 'sounds good to me'. Reviewer to confirm register breadth.",
+    "regionNote": "Distinctly Mexican — latir as 'to have a hunch / to appeal' is MX colloquial; Spain says 'me da que'. Also 'me late' alone = 'sounds good to me'.",
     "sources": [
       {
         "authority": "RAE (DLE)",
@@ -54,8 +54,8 @@
       "register_differs"
     ],
     "interference": {
-      "es_to_it": "'Mi late che' is not Italian — the organ doesn't forecast there; knowledge does: mi sa che. And mi sa che takes indicative, not subjunctive.",
-      "it_to_es": "'Me sabe que' means something tastes to me — the Spanish hunch beats: me late que (in Mexico; elsewhere 'me da que')."
+      "es_to_it": "Don't bring the heartbeat; Italian hunches know. 'Mi late che' is not Italian — the organ doesn't forecast there; knowledge does: mi sa che. And mi sa che takes indicative, not subjunctive.",
+      "it_to_es": "Don't bring sapere; Spanish hunches beat (Mexico) or give (Spain). 'Me sabe que' means something tastes to me — the Spanish hunch beats: me late que (in Mexico; elsewhere 'me da que')."
     }
   },
   "pin": null,
@@ -74,7 +74,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. Dative-experiencer pair; MX-anchored."
+    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. Dative-experiencer pair; MX-anchored. | 2026-07-24: Joe added an opening line to each interference direction — a compressed 'don't bring X' framing that states the swap before the explanation. Existing text kept beneath it unchanged. Status remains draft; sources still unverified. | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: stripped review instruction. Factual content preserved; provenance stays in these notes, which are internal."
   },
   "createdOn": "2026-07-20",
   "retiredReason": null

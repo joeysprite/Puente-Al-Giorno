@@ -16,7 +16,7 @@
       "ar",
       "co"
     ],
-    "regionNote": "Reviewer to confirm MX currency and to check the RAE headword spelling (telaraña).",
+    "regionNote": null,
     "sources": [
       {
         "authority": "RAE (DLE)",
@@ -76,7 +76,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Queued from the Instagram set with the IT side only; the book supplies the ES. Neglect-vs-absurdity framing."
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Queued from the Instagram set with the IT side only; the book supplies the ES. Neglect-vs-absurdity framing. | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: stripped review instruction. Factual content preserved; provenance stays in these notes, which are internal."
   },
   "createdOn": "2026-07-21",
   "retiredReason": null

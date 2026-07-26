@@ -56,7 +56,7 @@
     ],
     "interference": {
       "es_to_it": "Near-twins with different temperatures: in effetti concedes mid-thought ('come to think of it…'); en efecto CONFIRMS, formally ('indeed, as stated'). Using en efecto for casual concession sounds like a press release.",
-      "it_to_es": "Mirror: in effetti is too casual for formal confirmation; Italian would escalate to 'infatti' or 'in effetti' depending — reviewer to sharpen."
+      "it_to_es": "Mirror: in effetti is too casual for formal confirmation; Italian escalates to infatti when the point is being confirmed rather than mused over."
     }
   },
   "pin": null,
@@ -73,7 +73,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: further review instructions stripped from shipping fields (bridge.it_to_es) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer should pick'). Factual content kept. | 2026-07-24: it→es rewritten — an inline 'reviewer to sharpen' had survived the sweep because it followed an em-dash rather than a sentence break. The direction now states the contrast instead of deferring it."
   },
   "createdOn": "2026-07-16",
   "retiredReason": null,

@@ -51,11 +51,12 @@
   "bridge": {
     "note": "Both from boxing. Spanish keeps the towel (as English does); Italian swaps in the sponge, what cutmen historically used.",
     "tags": [
-      "shared_metaphor"
+      "shared_metaphor",
+      "interference_risk"
     ],
     "interference": {
-      "es_to_it": null,
-      "it_to_es": null
+      "es_to_it": "'Gettare l'asciugamano' isn't the Italian idiom — the corner throws the sponge: gettare la spugna.",
+      "it_to_es": "'Tirar la esponja' isn't Spanish. The towel goes in: tirar la toalla."
     }
   },
   "pin": null,
@@ -73,7 +74,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Supersedes the schema-demo duplicate previously at id 0001; that file is removed. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "notes": "Supersedes the schema-demo duplicate previously at id 0001; that file is removed. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: interference direction(s) written and approved by Joe (narrow pass). Entry had been tagged shared_metaphor/cognate_pair without interference_risk, which kept it outside every prior bridge pass despite carrying a real calque failure; interference_risk tag added."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

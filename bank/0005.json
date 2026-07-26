@@ -21,8 +21,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/p%C3%A1jaro",
         "headword": "pájaro",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -30,8 +30,8 @@
     "text": "Prendere due piccioni con una fava",
     "literal": "to catch two pigeons with one bean",
     "meaning": "To achieve two aims with a single action.",
-    "example": "Se invito Marco e Giulia insieme, prendo due piccioni con una fava.",
-    "exampleTranslation": "If I invite Marco and Giulia together, I kill two birds with one stone.",
+    "example": "Se vado al lavoro in bicicletta, faccio esercizio fisico e risparmio sulla benzina: così prendo due piccioni con una fava!",
+    "exampleTranslation": "If I bike to work, I get exercise and save on gas — two birds with one stone!",
     "register": "standard",
     "formality": "ok_in_exam",
     "regions": [
@@ -43,19 +43,20 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/magazine/lingua_italiana/articoli/parole/Modi_di_dire28.html",
         "headword": "piccione",
-        "verifiedOn": "2026-07-12",
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
   "bridge": {
     "note": "Spanish mirrors English almost exactly. Italian baits one bean to catch two birds — the older form of the metaphor, traceable to the 1612 Crusca. prendere (catch) is gentler than matar (kill).",
     "tags": [
-      "shared_metaphor"
+      "shared_metaphor",
+      "interference_risk"
     ],
     "interference": {
-      "es_to_it": null,
-      "it_to_es": null
+      "es_to_it": "'Uccidere due uccelli con un colpo' is a literal translation, not the idiom. Italian catches two pigeons with one bean: prendere due piccioni con una fava.",
+      "it_to_es": "Two problems at once. Coger is vulgar across Mexico and the Río de la Plata, where the sexual sense dominates — speakers there reach for agarrar or tomar. And the Spanish idiom kills birds with a shot anyway: matar dos pájaros de un tiro."
     }
   },
   "pin": null,
@@ -68,11 +69,11 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "IT source is unusually strong — a scholarly Treccani article. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "IT source is unusually strong — a scholarly Treccani article. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: IT example replaced with reviewer's sentence; fresh English translation. Approved. | 2026-07-24: interference direction(s) written and approved by Joe (narrow pass). Entry had been tagged shared_metaphor/cognate_pair without interference_risk, which kept it outside every prior bridge pass despite carrying a real calque failure; interference_risk tag added. EDITORIAL FLAG (social): this trap names 'coger' as vulgar in Mexico and the Río de la Plata. The claim is accurate and stays in the bank — it is the substance of the trap, and softening it would leave a learner producing something crude. But whether it appears verbatim in public-facing carousel copy is an editorial call, not a data one. Decide per post; the bank is not the constraint."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

@@ -15,11 +15,11 @@
   "retiredReason": null,
   "createdOn": "2026-07-12",
   "review": {
-    "status": "needs_review",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: ES example replaced with reviewer's own sentence (was: \"El jueves es fiesta, así que hacemos puente.\"); fresh English translation written. | 2026-07-24: it→es trap confirmed and sharpened. Joe flagged that 'hacer el puente' is not the holiday expression; verified against DLE 'puente', where sense 7 gives 'Hacer puente' (no article) for the vacation run, while sense 9 is the gymnastic exercise — which is what 'hacer el puente' actually denotes. The article does not merely mark the phrase as foreign; it switches it to a different meaning. Claude had wrongly doubted this trap; the doubt is withdrawn. | 2026-07-24: APPROVED. Sources confirmed by jf against source-checklist-3.md. Open questions on this entry were resolved by Joe the same day — see the preceding notes."
   },
   "id": "0060",
   "type": "idiom",
@@ -29,8 +29,8 @@
     "text": "Hacer puente",
     "literal": "to make bridge",
     "meaning": "To take the day between a holiday and the weekend off.",
-    "example": "El jueves es fiesta, así que hacemos puente.",
-    "exampleTranslation": "Thursday's a holiday, so we're taking Friday too.",
+    "example": "El jueves es festivo, así que hacemos puente.",
+    "exampleTranslation": "Thursday's a holiday, so we're making it a long weekend.",
     "register": "colloquial",
     "formality": "neutral",
     "regions": [
@@ -43,8 +43,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/puente",
         "headword": "puente",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -65,8 +65,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/ponte/",
         "headword": "ponte",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -78,7 +78,7 @@
     ],
     "interference": {
       "es_to_it": "Spanish speakers say 'fare ponte'. Italian needs the article: fare il ponte.",
-      "it_to_es": "Italians say 'hacer el puente'. Spanish drops it: hacer puente."
+      "it_to_es": "Italians add the article and say 'hacer el puente' — which is real Spanish for something else entirely: the gymnastic backbend (DLE 'puente' sense 9). The long weekend is article-less: hacer puente."
     }
   },
   "cue": "How do you say you're taking the bridging day off?"

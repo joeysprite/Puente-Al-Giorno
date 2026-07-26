@@ -73,13 +73,13 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), teacher confirmed native Italian speaker — formally cited to De Mauro instead. Spanish side confirmed via RAE's Diccionario del estudiante with the near-identical worked example 'El supermercado se encuentra a dos pasos.' Both examples here written fresh. Needs native review, though risk of any real content problem is low given how directly the two match. Source-authority note: labelled 'RAE (DLE)' per schema constraint, but the page actually checked is RAE's Diccionario del estudiante (rae.es/diccionario-estudiante), not the flagship dle.rae.es — both are official RAE publications, but they are not the same dictionary."
+    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), teacher confirmed native Italian speaker — formally cited to De Mauro instead. Spanish side confirmed via RAE's Diccionario del estudiante with the near-identical worked example 'El supermercado se encuentra a dos pasos.' Both examples here written fresh. Needs native review, though risk of any real content problem is low given how directly the two match. Source-authority note: labelled 'RAE (DLE)' per schema constraint, but the page actually checked is RAE's Diccionario del estudiante (rae.es/diccionario-estudiante), not the flagship dle.rae.es — both are official RAE publications, but they are not the same dictionary. | 2026-07-24: review meta-commentary removed from shipping fields — hook.subhead: rewrote card-facing copy that said 'no trap'. Factual content preserved; provenance stays in these notes, which are internal."
   },
   "createdOn": "2026-07-24",
   "retiredReason": null,
   "hook": {
     "headline": "The one pair that needs no bridge at all.",
-    "subhead": "Same two steps, same meaning, no trap."
+    "subhead": "Same two steps, same meaning, nothing to unlearn."
   },
   "cue": "How do you say something is really close by?"
 }

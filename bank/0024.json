@@ -21,42 +21,42 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/pez",
         "headword": "pez",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
   "it": {
-    "text": "Sentirsi come un pesce nell'acqua",
-    "literal": "to feel like a fish in water",
-    "meaning": "To feel perfectly at home somewhere.",
-    "example": "Tra i numeri si sente come un pesce nell'acqua.",
-    "exampleTranslation": "With numbers he's completely in his element.",
+    "text": "Essere un pesce fuor d'acqua",
+    "literal": "to be a fish out of water",
+    "meaning": "To be out of one's element; visibly out of place.",
+    "example": "In quella situazione ero un pesce fuor d'acqua perché non conoscevo nessuno.",
+    "exampleTranslation": "In that situation I was a fish out of water — I didn't know anyone.",
     "register": "standard",
     "formality": "ok_in_exam",
     "regions": [
       "it"
     ],
-    "regionNote": null,
+    "regionNote": "Italian",
     "sources": [
       {
         "authority": "De Mauro",
         "url": "https://dizionario.internazionale.it/parola/pesce",
         "headword": "pesce",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
   "bridge": {
-    "note": "Near-identical pair: pez/pesce, agua/acqua — but the verbs part company, a state verb against a reflexive.",
+    "note": "Same fish, opposite default. Spanish keeps it in the water and describes belonging; Italian pulls it out and describes the lack of it. Both languages can form both halves, but each reaches by habit for one — and the halves mean opposite things.",
     "tags": [
-      "cognate_pair",
+      "shared_metaphor",
       "interference_risk"
     ],
     "interference": {
-      "es_to_it": "The verb differs: Spanish uses estar (a state); Italian prefers reflexive sentirsi (to feel oneself). Spanish speakers under-use the reflexive here.",
-      "it_to_es": null
+      "es_to_it": "Translating the positive straight across as 'come un pesce nell'acqua' lands as formal; Italian's live form is the negative.",
+      "it_to_es": "The negative does transfer — Spanish has 'como pez fuera del agua' — but it is the marked half of the pair. An Italian who only ever reaches for the negative will sound oddly bleak in Spanish."
     }
   },
   "pin": null,
@@ -70,13 +70,13 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Bridge note expanded on import to meet the 40-char floor; original read 'Near-identical: pez/pesce, agua/acqua.' Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "IT side re-paired 2026-07-23 on the Italian reviewer's recommendation: she did not recognise the positive 'sentirsi come un pesce nell'acqua' and supplied both the negative form and the example verbatim, so the IT phrase and example are reviewer-sourced. The ES side was approved as-is. PENDING: the bridge note and both interference directions are Claude-written and have NOT been reviewed — the earlier worklists were generated with --simple, which withholds traps. Needs a bridge pass. | 2026-07-23: regionNote added (Castilian); repair suggestions removed from bridges pending bridge-review pass; IT→ES trap flagged for dialect-specific confirmation (does this hold in Mexican Spanish?) | 2026-07-24: regionNote 'Castilian Spanish' REMOVED as simply wrong (Joe). The ES reviewer is Mexican and passed this entry, so the expression is attested in Mexican Spanish; regions ['mx','es','ar','co'] stands and no region-specific caveat applies. The label appears to have been added on 2026-07-23 by me while sorting dialect questions, with no evidence behind it — the same unjustified narrowing the validator caught on 0112 (dar la cara). | 2026-07-24: APPROVED. Sources confirmed by jf against source-checklist-3.md. Open questions on this entry were resolved by Joe the same day — see the preceding notes."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,
-  "cue": "How do you say someone is in their element?"
+  "cue": "How do you say someone fits right in?"
 }

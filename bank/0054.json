@@ -22,8 +22,8 @@
         "authority": "Cervantes",
         "url": "https://cvc.cervantes.es/lengua/refranero/",
         "headword": "arriesgar",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -44,8 +44,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/risicare/",
         "headword": "risicare",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -71,11 +71,11 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "From Joe's proverb list 2026-07-18 (discovered via learner sites; all glosses and examples authored fresh). IT counterpart chosen by Claude from recall — UNVERIFIED, reviewer to confirm the pairing exists and is current. Form-mirrors-meaning entry: the rhyme is the mnemonic."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "From Joe's proverb list 2026-07-18 (discovered via learner sites; all glosses and examples authored fresh). IT counterpart chosen by Claude from recall — UNVERIFIED, reviewer to confirm the pairing exists and is current. Form-mirrors-meaning entry: the rhyme is the mnemonic. | 2026-07-24: approved as part of the IMPLICIT-APPROVAL batch — both reviewers returned this with a tick and no written comment, and Joe confirmed the sources against source-checklist-2.md. Recorded distinctly from the 2026-07-24 explicit batch because the underlying reviewer signal is weaker: absence of comment, not a positive written pass. If any of these later prove wrong, this note is where to start."
   },
   "createdOn": "2026-07-18",
   "retiredReason": null

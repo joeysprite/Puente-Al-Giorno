@@ -15,14 +15,14 @@
       "co",
       "ar"
     ],
-    "regionNote": "Strongly Mexican and pan-LatAm; less current in Spain. Reviewer to confirm.",
+    "regionNote": "Strongly Mexican and pan-LatAm; less current in Spain.",
     "sources": [
       {
         "authority": "Cervantes",
         "url": "https://cvc.cervantes.es/lengua/refranero/",
         "headword": "camarón",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/dormire/",
         "headword": "dormire",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -71,11 +71,11 @@
   "cefr": "B2",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "From Joe's proverb list 2026-07-18 (discovered via learner sites; all glosses and examples authored fresh). IT counterpart chosen by Claude from recall — UNVERIFIED, reviewer to confirm the pairing exists and is current. The strongest MX-anchored proverb in the bank; queued since the Europass harvest."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "From Joe's proverb list 2026-07-18 (discovered via learner sites; all glosses and examples authored fresh). IT counterpart chosen by Claude from recall — UNVERIFIED, reviewer to confirm the pairing exists and is current. The strongest MX-anchored proverb in the bank; queued since the Europass harvest. | 2026-07-24: approved as part of the IMPLICIT-APPROVAL batch — both reviewers returned this with a tick and no written comment, and Joe confirmed the sources against source-checklist-2.md. Recorded distinctly from the 2026-07-24 explicit batch because the underlying reviewer signal is weaker: absence of comment, not a positive written pass. If any of these later prove wrong, this note is where to start. | 2026-07-24: bridge reviewed and approved by Joe (editor-led bridge review). | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: stripped review instruction. Factual content preserved; provenance stays in these notes, which are internal."
   },
   "createdOn": "2026-07-18",
   "retiredReason": null

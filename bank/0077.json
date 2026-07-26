@@ -16,7 +16,7 @@
       "ar",
       "co"
     ],
-    "regionNote": "Sits against 'te amo', which is heavier and more declarative; in much of Latin America te quiero carries most of the romantic weight day to day and te amo is saved for weight. Reviewer to calibrate for Mexico specifically.",
+    "regionNote": "Sits against 'te amo', which is heavier and more declarative; in much of Latin America te quiero carries most of the romantic weight day to day and te amo is saved for weight.",
     "sources": [
       {
         "authority": "RAE (DLE)",
@@ -38,7 +38,7 @@
     "regions": [
       "it"
     ],
-    "regionNote": "Sits against 'ti amo', which is the romantic declaration. Between partners, ti voglio bene can read as affection short of love — reviewer to confirm how sharply that boundary is felt today.",
+    "regionNote": "Sits against 'ti amo', which is the romantic declaration.",
     "sources": [
       {
         "authority": "Treccani",
@@ -80,7 +80,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-20, flagged for Valentine's Day. Soft-pinned 12-14 Feb rather than hard-pinned to the 14th, so the scheduler can place it in the run-up without displacing anything. The register scales on BOTH sides are the payload and both need native calibration: how heavy te amo really feels in Mexico, and how sharply Italians hear ti voglio bene as non-romantic between partners. Do not ship this one on my say-so."
+    "notes": "Submitted by Joe 2026-07-20, flagged for Valentine's Day. Soft-pinned 12-14 Feb rather than hard-pinned to the 14th, so the scheduler can place it in the run-up without displacing anything. The register scales on BOTH sides are the payload and both need native calibration: how heavy te amo really feels in Mexico, and how sharply Italians hear ti voglio bene as non-romantic between partners. Do not ship this one on my say-so. | 2026-07-24: review meta-commentary removed from shipping fields — it.regionNote: stripped review instruction. Factual content preserved; provenance stays in these notes, which are internal. | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer should pick'). Factual content kept."
   },
   "createdOn": "2026-07-20",
   "retiredReason": null

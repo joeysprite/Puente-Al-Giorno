@@ -56,8 +56,8 @@
       "interference_risk"
     ],
     "interference": {
-      "es_to_it": "Answering 'gracias' with 'imagínate' confuses a Mexican — the wave-off is 'no hay de qué' or 'de nada'. Save imagínate for astonishment.",
-      "it_to_es": "Replying to grazie with a literal translation fails; figurati (or figurati!) is the ritual. And when an Italian says figurati to decline your apology, no imagining is requested."
+      "es_to_it": "Don't bring imagínate into courtesy; Italian figurati shrinks the favor. Answering 'gracias' with 'imagínate' confuses a Mexican — the wave-off is 'no hay de qué' or 'de nada'. Save imagínate for astonishment.",
+      "it_to_es": "Don't bring figurati into amazement; Spanish imagínate inflates the story. Replying to grazie with a literal translation fails; figurati (or figurati!) is the ritual. And when an Italian says figurati to decline your apology, no imagining is requested."
     }
   },
   "pin": null,
@@ -76,7 +76,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. The thanks-ritual asymmetry pairs nicely with 0039's crepi ritual — possible themed sequence on scripted replies."
+    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. The thanks-ritual asymmetry pairs nicely with 0039's crepi ritual — possible themed sequence on scripted replies. | 2026-07-24: Joe added an opening line to each interference direction — a compressed 'don't bring X' framing that states the swap before the explanation. Existing text kept beneath it unchanged. Status remains draft; sources still unverified."
   },
   "createdOn": "2026-07-20",
   "retiredReason": null

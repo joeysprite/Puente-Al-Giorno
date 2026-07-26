@@ -21,8 +21,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/mano",
         "headword": "mano",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "authority": "De Mauro",
         "url": "https://dizionario.internazionale.it/parola/mano",
         "headword": "mano",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -56,7 +56,7 @@
     ],
     "interference": {
       "es_to_it": "Spanish speakers say 'gettare una mano' in Italian. Wrong — it's dare.",
-      "it_to_es": null
+      "it_to_es": "Italians reach for 'dar una mano' — but the Spanish idiom throws the hand: echar una mano is the fixed form."
     }
   },
   "pin": null,
@@ -69,11 +69,11 @@
   "cefr": "A2",
   "difficulty": 1,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Arguably a collocation rather than an idiom — type flagged accordingly. Restored 2026-07-14 under revised scope: the card teaches the axis, not the phrase. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Arguably a collocation rather than an idiom — type flagged accordingly. Restored 2026-07-14 under revised scope: the card teaches the axis, not the phrase. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: approved as part of the IMPLICIT-APPROVAL batch — both reviewers returned this with a tick and no written comment, and Joe confirmed the sources against source-checklist-2.md. Recorded distinctly from the 2026-07-24 explicit batch because the underlying reviewer signal is weaker: absence of comment, not a positive written pass. If any of these later prove wrong, this note is where to start. | 2026-07-24: interference direction(s) written/approved by Joe in the editor-led bridge review. Dialect note: Claude flagged that 'dar una mano' is reportedly standard in Argentina, Uruguay and Chile and argued the trap should be framed regionally rather than as a quality judgement. That evidence was thin (a Portuguese-language business blog, a learner site, and a Chilean dictionary aggregator — no RAE/Cervantes treatment found), and Joe decided in favour of the fixed-form framing. Recorded so the question isn't re-raised without better sources; note this entry's regions include 'ar' and 'co', for which the bank has no reviewer."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

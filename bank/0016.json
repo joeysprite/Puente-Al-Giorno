@@ -15,14 +15,14 @@
       "ar",
       "co"
     ],
-    "regionNote": "Variants exist (…no le mires el dentado / el colmillo). Reviewer to pick the LatAm-default form.",
+    "regionNote": "Variants exist (…no le mires el dentado / el colmillo).",
     "sources": [
       {
         "authority": "Cervantes",
         "url": "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58047&Lng=0",
         "headword": "ficha 58047",
-        "verifiedOn": "2026-07-12",
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "authority": "Cervantes",
         "url": "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58047&Lng=0",
         "headword": "ficha 58047 (Italian equivalent)",
-        "verifiedOn": "2026-07-12",
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -56,7 +56,7 @@
     ],
     "interference": {
       "es_to_it": "The Italian uses impersonal si (non si guarda) — a B1 structure worth isolating.",
-      "it_to_es": null
+      "it_to_es": "Italians reach for 'a caballo donado' — Spanish says regalado. Spanish also keeps the imperative (no le mires) where Italian goes impersonal (non si guarda)."
     }
   },
   "pin": null,
@@ -70,11 +70,11 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Cervantes Refranero documents both sides in one record — the ideal source type for this product. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Cervantes Refranero documents both sides in one record — the ideal source type for this product. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: approved as part of the IMPLICIT-APPROVAL batch — both reviewers returned this with a tick and no written comment, and Joe confirmed the sources against source-checklist-2.md. Recorded distinctly from the 2026-07-24 explicit batch because the underlying reviewer signal is weaker: absence of comment, not a positive written pass. If any of these later prove wrong, this note is where to start. | 2026-07-24: interference direction(s) written/approved by Joe in the editor-led bridge review. | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer should pick'). Factual content kept."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

@@ -38,8 +38,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/talla",
         "headword": "talla",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -60,8 +60,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/altezza/",
         "headword": "altezza",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-24",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -77,10 +77,10 @@
     }
   },
   "review": {
-    "status": "needs_review",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-24",
+    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending. | 2026-07-23: REVERTED to needs_review — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03."
   }
 }
