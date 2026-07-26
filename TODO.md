@@ -2,7 +2,7 @@
 Rewritten 2026-07-26.
 
 **Bank: 151 entries — 64 approved, 84 draft, 3 retired. `needs_review` empty. Validator PASS.**
-**Bridge review: 50 of 148 done. 25 approved entries still ship an unreviewed bridge (down from 44).**
+**Bridge review: 75 of 148 done. ✅ ALL 64 approved entries now have a reviewed bridge — zero outstanding.**
 **All shipping fields are free of review commentary. `review.notes` keeps full provenance (internal, deliberate).**
 
 > **Ready to apply:** `puente-al-giorno-2026-07-26.zip` — 94 bank files, alternatives, candidates, both tools,
@@ -10,14 +10,16 @@ Rewritten 2026-07-26.
 
 ---
 
-## 1. In progress — the last 25 approved entries
-`bridge-review-approved.md`. Clearing these means every entry eligible for a carousel has a reviewed bridge.
-The 18 never-scoped ones were done 2026-07-26; 0033's empty directions were confirmed deliberate, not a gap.
+## 1. ✅ Approved pool complete
+All 64 approved entries have a reviewed bridge. Done in three batches on 2026-07-26: 18 never-scoped, then 25
+tagged, plus the 7-entry narrow pass. 0033's empty directions were confirmed deliberate, not a gap.
 
-## 2. Then: 74 remaining `interference_risk` entries
-In `bridge-review.md`, already triaged. Mostly drafts, so a correction is still cheap.
+## 2. In progress — 49 remaining `interference_risk` entries
+`bridge-review.md`. All drafts, so corrections are cheap. All have both directions written — claims to check,
+no gaps to fill. Only one (0233) makes a dialect claim. **Also needs 99 source links verified** before any can
+be approved; bridge approval alone won't move them.
 
-## 3. Then: the 53-entry tagging blind spot
+## 3. Then: the tagging blind spot
 `shared_metaphor` or `cognate_pair` without `interference_risk` — never scoped into any pass. 31 of them are
 approved. The narrow pass proved the risk is real: all 7 entries checked had genuine calque failures nobody
 had written down, and one (0002, *cabra/capra*) turned out to be an unmarked false friend.

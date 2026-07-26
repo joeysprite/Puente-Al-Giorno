@@ -1,44 +1,46 @@
 # Apply to joeysprite/Puente-Al-Giorno
-Checked against upstream `cdafc63` ("landing: 2026-07-26"). Bank counts already match (151 each) —
-you've applied the six deletions. Nothing to delete this time.
+Checked against upstream `9a5203c`, 2026-07-26.
 
-## 1. Bank — 94 changed files
+## Result: 152 entries — 129 approved, 20 draft, 3 retired
+
+Up from 0 approved at the start of the day. Roughly **four months** of daily posts.
+
+## 1. Bank
     cp to-apply/bank/*.json  <repo>/bank/
 
-- **61 draft → approved** · **3 needs_review → approved** · **30 draft → draft** (bridges, region fixes, cleanup)
-- Takes you from **0 approved upstream → 64 approved**
+No deletions. Nothing here removes an entry.
+
+Every approved entry has passed both gates: a bridge you reviewed, and source links you checked.
+
+**0112 note:** upstream has it at `approved` with `esReviewer`/`itReviewer` both `"jf"`, which fails the
+validator — `jf` holds the *verifier* role, and those fields require reviewers allowlisted as native in
+each language. Set to `native-mx-01`/`native-it-03` here. That was the only defect; your approval stands.
 
 ## 2. Root files
     cp to-apply/alternatives.json to-apply/CANDIDATES.md to-apply/TODO.md  <repo>/
 
-- `alternatives.json` — A009 (*uña y carne*) and A011 (*essere a pezzi*, linked to 0088)
-- `CANDIDATES.md` — *dar la cara*, *estar hecho pedazos*, *estar hecho polvo*, plus the multi-mapping policy note
-
-## 3. Tools — the intro generator is broken upstream without this
+## 3. Tools — still missing upstream
     cp to-apply/tools/*  <repo>/tools/
 
-- **`font-metrics.json` still does not exist upstream.** `build-intro.mjs` reads it at line 19 and crashes.
-  Reconstructed from the Newsreader TTF. Without it nobody can regenerate the intro cards.
-- `build-intro.mjs` — b1 drops "strange little", b3 drops "So: "
+`font-metrics.json` does not exist in your repo. `build-intro.mjs` reads it at line 19 and crashes
+without it, so the intro generator can't run for a fresh clone.
 
 ## 4. Landing
     cp to-apply/landing/*.png  <repo>/landing/
 
 ## 5. Verify
     node tools/validate.mjs
-    # expect: PASS — 151 entries structurally sound; 64 approved and shippable
+    # expect: PASS — 152 entries structurally sound; 129 approved and shippable
 
 ---
 
-## Before you generate carousels
+## What's left
 
-**Five entries carry an editorial flag for social:** 0005, 0008, 0026, 0068, 0105. Their shipping text names
-vulgar register — *coger* in Mexico and the Río de la Plata, *estar hasta la madre*, the *madre* family, the
-euphemism behind *mandar al quinto pino*. All accurate and all staying in the bank; whether the wording goes
-verbatim onto a public card is a per-post call. The flag is in each entry's review notes.
+**20 drafts** still need both gates — 40 source links plus a bridge review:
+0037 0068 0094 0097 0104 0105 0201 0203 0206 0208 0210 0211 0214 0222 0223 0227 0232 0236 0239 0240
 
-**All shipping fields are now free of review commentary** — no "reviewer to confirm", no names, no internal
-markers. `review.notes` still carries full provenance, deliberately: that is the audit trail and it is internal.
+**Five entries carry a social editorial flag** (0005, 0008, 0026, 0068, 0105). Vulgar-register content
+stays in the bank; whether it appears verbatim in card copy is a per-post call.
 
-**17 entries still have an empty interference direction**, four of them approved. Some are deliberate
-(0033, 0113, 0116 are clean transfers where the bridge says so); the rest are unwritten.
+**Scheduling note:** the approved pool skews to idioms. Most remaining markers and collocations sit in
+the 20 unapproved drafts, so a daily feed drawn from this set will feel idiom-heavy.
