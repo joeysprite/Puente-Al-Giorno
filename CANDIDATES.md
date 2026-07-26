@@ -268,3 +268,23 @@ Sixth batch from the Spanish idioms book (2026-07-21; 5 banked as 0106-0109/0111
 | Quemarse las pestañas | studiare sodo / bruciarsi le ciglia? | burn eyelashes = burn midnight oil; check IT fixedness |
 
 REJECTED (editorial): none new, but 'quedarse para vestir santos' flagged for register review — dated and arguably sexist, decide before it ships.
+
+Pulled back from the bank (2026-07-24) — banked briefly as 0112, then withdrawn by the editor:
+
+| Spanish | Sketch of IT direction | Note |
+|---|---|---|
+| Dar la cara | metterci la faccia (drafted, withdrawn) / cerca altro | ⚑ ES side is SOLID: RAE, `cara`, two senses — "responder de los propios actos y afrontar sus consecuencias" and "adoptar una actitud comprometida y valiente, mientras otros se inhiben". Unrestricted/general, no dialect tag. IT side is the open question: *metterci la faccia* is Treccani-listed and shares the anatomy, but leans modern/public-facing (politics, business, staking your reputation) where the ES side is broader and older — the face-for-face match may be flattering the pairing. Look for an IT partner that carries the "answers for it while others hide" sense without the PR/media colouring. Candidates to test: *dare la faccia*, *assumersi le proprie responsabilità* (too plain?), *farsi avanti*, *non tirarsi indietro*. Keep ES side fixed; hunt the IT side. |
+
+Unmatched Spanish, freed from the dissolved 0009 (2026-07-24) — need Italian partners:
+
+| Spanish | Status | Note |
+|---|---|---|
+| Estar hecho pedazos | unmatched | Covers BOTH senses — bodily exhaustion and emotional devastation (Collins: "estoy hecho pedazos → I'm worn out"; also "mi corazón está hecho pedazos"). Mexican-current. Its natural Italian twin *essere a pezzi* is now parked against 0088 (A011), so pairing the two again would recreate the entry that was just dissolved — find a different IT partner, or leave it. Source: Collins, `pedazo`. Corpus tier, no RAE headword for the participle form. |
+| Estar hecho polvo | unmatched | Peninsular, EXHAUSTION ONLY — narrower than *hecho pedazos*, which is why it lost the anchor slot. RAE-sourced (dle.rae.es/polvo). Was 0009's original ES side, then briefly alternative A010 before 0009 dissolved. Mexican speakers front *estoy muerto* or *estoy hecho pedazos* instead. |
+
+Why 0009 was dissolved: its ES side kept being the wrong shape for its IT side. *Essere a pezzi* spans exhaustion and heartbreak; every Spanish candidate covered one half or collided with an existing entry (*tener el corazón hecho pedazos* is already 0088).
+
+POLICY, decided 2026-07-24: one expression MAY map to two or more others. Multiple pairings are legitimate provided each generates a valid bridge; review exists to confirm meaning and example, not to enforce one-to-one. Deferred in practice — keeping one pairing each for now.
+
+Consequence for this pair: *essere a pezzi* + *estar hecho pedazos* becomes a legitimate entry again whenever the policy is switched on, and does not need a different Italian partner found for it. Blocked only by the validator (see below), not by editorial judgement.
+

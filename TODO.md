@@ -1,169 +1,115 @@
-# TODO — un puente al giorno
+# Un puente al giorno — open items
+Rewritten 2026-07-24. Resolved items removed. Only live work below.
 
-The one file to open first. Updated whenever state changes; history lives in git.
-Last updated: 2026-07-18. THE REPO IS LIVE: https://github.com/joeysprite/Puente-Al-Giorno — public, CI green (validate on every push; daily 04:00 UTC rebuild armed). The repo is now the source of truth; this file's home is there.
+**Bank: 151 entries — 64 approved, 84 draft, 3 retired. `needs_review` is empty. Validator PASS.**
+**Bridge review: 31 entries done. 74 `interference_risk` entries remain, plus 53 in the tagging blind spot.**
+**Alternatives: A001–A009, A011.**
 
-## Where things stand
-
-| | |
-|---|---|
-| Bank | **97 entries: 90 active (0 approved), 3 needs-review within those, 3 retired formulas + calendar mockup v2** |
-| Composition (if all approved) | 23% easy-only / 77% high-value — **gate comfortable**; CEFR B1+B2 = 71% (policy ≥60%) |
-| Reviewers | **None.** `reviewers.json` holds placeholders only |
-| Sources human-verified | **0 of 97** (one web-verified by Claude: 0036 — not a sign-off) |
-| Scheduler / validator / desk / CI | Done, tested, boring — no work needed |
-| Landing page | 6 variants + privacy + 404 + match game + 94 OG cards; index = C, datebars live, fonts self-hosted |
-| Subscribers | 0 — form posts to a placeholder |
-| Renderer (the email itself) | Does not exist — deliberately gated behind first approvals |
-| Repo | **LIVE + public, CI green**: github.com/joeysprite/Puente-Al-Giorno |
-
-Scope decision (REVISED 2026-07-14): **the card teaches the axis, not the phrase.**
-An entry earns its slot by its bridge payload — idiom, collocation, or marker.
-Bare pairs restored (0018, 0027, 0042, 0055). Occasion-bound formulas (0070,
-0100, 0110) stay retired until the calendar. New type `marker` for particles
-and discourse items (ojalá/magari, o sea/cioè).
-
-Product thesis: the **bridge** (what carries across, what doesn't, the exact
-mistake) is the moat. A bilingual product keeps it; splitting into separate ES
-and IT products deletes it. The email is how the calendar gets written: 365
-entries, tested on readers, before anything prints.
+> ⚠️ **NONE OF THIS IS PUSHED.** Everything from 2026-07-23/24 lives in an ephemeral container plus the
+> outputs folder. Today took the bank from 0 approved to 64. If the container goes, that goes with it.
+> **This is the highest-value action available and it is not editorial work.**
 
 ---
 
-## Now (this week) — none of this is code
+## 1. Push (do this first)
 
-- [ ] **Recruit the Spanish (LatAm) reviewer.** Freelance translator/teacher,
-      ~$25–40/hr. First session: the 8 regional flags (0002, 0009, 0012, 0016,
-      0017, 0022, 0026 + the 0028 tortilla question). This tests whether the
-      review loop is economically survivable — the number that reprices
-      everything, best learned at entry 37, not 200.
-- [ ] **Recruit the Italian reviewer.** Second; the ES flags are sharper.
-- [ ] **Add both to `reviewers.json`** (real ids, real names). The allowlist is
-      the rule.
-- [x] **Repo pushed to GitHub (2026-07-17):** all 97 entries, tools, site, cards,
-      fonts, docs; both workflows created; CI ran twice, green. Future changes:
-      edit on GitHub or hand Claude files to update via the browser flow.
-- [ ] **Netlify + domain.** Import the repo, publish directory `landing/`,
-      then point a Namecheap domain (Joe to pick) — unblocks SITE_URL for the
-      share cards, canonical URL, and the Buttondown sender domain (SPF/DKIM).
-- [ ] **Wire the form.** Buttondown (double opt-in ON, tracking OFF), replace
-      `FORM_ACTION` in `tools/build-landing.mjs`, rebuild. **Test one signup and
-      confirm the `l1` answer actually lands as metadata** — it is the entire
-      research value of the form.
-- [ ] **Send the reviewers their worklists** — `reviewers/REVIEW-ES.md` and
-      `REVIEW-IT.md`, one per language, flagged entries first, five checks per
-      entry. Regenerate after any bank change: `node tools/build-review-lists.mjs`
-      (CI fails if stale).
-- [ ] **Keep the daily entry habit.** 0028 (frittata) is the brief: idioms that
-      *contain* traps. One a day → 365 in a year.
+Staged package is stale — it predates all 64 approvals, the 0009 dissolution, the region corrections,
+and A009/A011. Needs rebuilding before it's applied. Say the word.
 
-## Before the domain goes live
+Already upstream and identical: 0113–0117. Your `landing/index.html` and `match.html` are untouched by anything here.
 
-- [ ] **Waitlist copy.** The daily email cannot be sent yet (0 approved, no
-      renderer). "First issue when the bank is ready — you'll be first" is
-      honest and still measures demand. Do NOT promise a daily email today.
-- [x] **Privacy policy page drafted** (`landing/privacy.html`, linked from every
-      variant's fine print). Plain-language: three data items, consent basis,
-      double opt-in, no tracking, rights + AEPD/Garante named.
-- [ ] **Fill the policy placeholders before publishing:** controller legal name,
-      contact email, postal address, chosen email provider, home supervisory
-      authority — then delete the amber box. Not legal advice; have it checked.
-- [ ] **Keep the policy true:** double opt-in ON and tracking OFF at the email
-      provider; if analytics are added (Plausible/Fathom), update the policy
-      FIRST ("No analytics service currently receives anything" is a live claim).
-- [x] **Fonts self-hosted** (Fontsource woff2, latin subset, 360 KB in
-      `landing/fonts/` — deploy the folder alongside the pages). No visitor IP
-      leaves the host to load type; the desk uses system fonts.
-- [ ] **Analytics.** Plausible or Fathom (~$9/mo, no cookie banner). A landing
-      test with no conversion number teaches nothing.
-- [x] **OG/Twitter card + favicon.** (per-entry share cards in landing/cards/, generated by tools/build-cards.mjs; og:image follows the hero. Set your domain via --site or SITE_URL env when deploying.) ORIGINAL: Shared on WhatsApp the page is currently a
-      grey nothing; the word pair IS the marketing.
-- [x] **404 page** (`landing/404.html`, meter la pata / fare una figuraccia).
-      Netlify and GitHub Pages pick up a root 404.html automatically; other
-      hosts need it configured.
-- [x] **Practice page** (`landing/match.html`): match-the-pairs game, three modes
-      (ES↔meaning, IT↔meaning, ES↔IT counterparts), generated from the bank,
-      rebuilt by the daily workflow. Currently shows draft entries, same as the
-      landing showcase — revisit whether to filter to approved once approvals exist.
-- [ ] robots.txt, canonical URL.
-- [ ] **Dark mode.** Pages now declare `color-scheme: light`, which stops
-      dark-mode browsers auto-inverting into black-on-black — but dark-mode
-      users get a bright page. Proper fix: a `prefers-color-scheme: dark`
-      theme (flipped ink/paper, re-tuned carmine/laurel/amber, re-run the
-      contrast audit). ~an evening. Verify on a real device in dark mode,
-      and in in-app browsers (Instagram/X force-dark are the usual culprits).
+Two files the repo needs that it has never had:
+- **`tools/font-metrics.json`** — missing entirely; `build-intro.mjs` reads it at line 19 and crashes. Reconstructed from the Newsreader TTF. Nobody can run the intro generator until this lands.
+- **`tools/build-teaser.mjs`** — deliberately excluded so far: needs `@resvg/resvg-js` plus TTFs at `/tmp/cardfonts` converted from the shipped woff2, and that conversion step isn't checked in anywhere. Committing the script alone adds a second file nobody can run.
 
-## The grind (the actual year)
+---
 
-- [ ] **Verify every source URL** — a human opens the page, sets
-      `verifiedOn`/`verifiedBy`. 0 of 37 done.
-- [ ] **Resolve the 8 regional flags.** Hardest: 0026 (the natural MX
-      equivalent is vulgar — may end up badged Peninsular-only).
-- [ ] **Decide 0002** (fuori come un balcone): resolve or retire. The cautionary
-      entry does not ship as-is.
-- [ ] **Write toward the composition gate:** every new entry should carry a
-      trap. The gate enforces ≤33% easy-only / ≥50% high-value at approval.
-- [ ] **Approve in trap-first order** so the gate never fires.
-- [ ] **First approvals → flip landing from waitlist to live** once ~30 approved
-      and the renderer exists.
+## 2. Bridge review — the next real task
 
-## Artifacts for humans
-- [x] **Calendar mockup v2** (`calendar-mockup.pdf`): front/back tear-off leaf
-      (4.25×5.5in) — front carries the full card (both expressions, literals,
-      meanings, examples + translations, bilingual date); back carries the full
-      bridge and BOTH directional traps. Earlier "trim forces cuts" lesson was
-      an artifact of a single-sided assumption; real tear-offs have backs.
-      Presentation sheet shows both faces side by side.
+**131 of 151 entries carry at least one interference direction. Not one has ever been reviewed.**
+Both worklists were generated in `--simple` mode, which strips the bridge and traps. Reviewers have never
+seen the product's actual payload — the thing the cards teach.
 
-## Build queue (only after a reviewer exists)
+Three failures have already surfaced by accident, never by looking:
+- **0028** — the ES reviewer's own example used *voltear la tortilla* in the blame-shifting sense the bridge asserts is Italian-only. Approved on your overrule, flag preserved on the entry.
+- **0006** — tagged `register_differs` with both directions null; the question had been put to the reviewer and came back ticked, unanswered.
+- **0060** — the it→es trap was right but understated: *hacer el puente* isn't just article-wrong, it means the gymnastic backbend (DLE `puente` sense 9).
 
-- [ ] **The renderer.** Entry JSON → HTML email + plain text. `lang="es"/"it"`
-      on every expression (a screen reader in the wrong voice destroys the
-      content), no meaning carried by colour alone, footnote slot, L1-aware
-      interference line. Send to yourself daily via cron for a week before any
-      subscriber sees it.
-- [ ] **A1 question:** CEFR enum floor is A2. Decide whether A1 ever exists
-      (current lean: no).
-- [ ] Holiday shortlist for the events registry (Nochevieja, Reyes, Carnevale,
-      Semana Santa, Día de Muertos; decide the contested ones — 12 Oct, 25 Apr —
-      by hand). Ten minutes each; do it when the formulas return.
+Scope if you want the high-value tags only: `interference_risk` 87 · `preposition_differs` 42 · `false_friend` 28 · `register_differs` 23 · `auxiliary_trap` 7.
 
-## Parked — decided to think, not decided
-- **Landing ↔ calendar convergence.** Two candidate adoptions from the mockup:
-  (a) tear-off-style date treatment on the hero card (big day number, bilingual
-  weekday) — cheap, reversible; (b) an "endgame teaser" section showing the
-  calendar page ("365 pages, each tested here first") — cheap to build, but a
-  PUBLIC PROMISE of the calendar before anything is approved. Joe is thinking.
-  Neither blocks deploy; the page is coherent as-is.
+Build `--bridge` mode in `build-review-lists.mjs`: a third mode beside default and `--simple`, asking two
+questions per entry — *is this mistake real?* and *is it dialect-specific?* — showing the trap for the
+direction that reviewer produces, one question, nothing else.
 
-## Explicitly not now
+---
 
-WhatsApp (per-conversation billing loses at $20/yr). User accounts. Themed
-weeks. More scheduler features. Separate ES/IT products (deletes the moat).
-The tear-off calendar (needs 365 approved; the email writes it). English-free
-glosses (+50% review cost; wait for l1 signup data to justify it).
+## 3. Peninsular-bias sweep
 
-## Now (single next step)
+Three instances found, all by accident: **0112** (I narrowed *dar la cara* to `['es']` with no evidence — validator caught it), **0024** ("Castilian Spanish" with nothing behind it), **0026** (`regions: ['es']` directly contradicted by the reviewer calling it natural).
 
-- [ ] **Masthead word-spacing: eyeball the middle setting.** Sequence: char-split
-  bug (word gaps = letter gaps, wrong) → single space (23-32px, Joe: too tight)
-  → double NBSP (39-48px, Joe: too exaggerated) → NBSP+thin (31-40px, Joe: slightly wide) → CURRENT: NBSP+hair space, regenerated across all cards/social/brand, pending Joe eyeball + push. On next session: Joe eyeballs og-default; if good, sync + push
-  + redeploy; if not, adjust the replace() in the three build tools (one line
-  each) and regenerate. brand.json's letterspacing rule stands regardless.
+All three narrowed Spanish toward Peninsular by default. **Your audience default is Mexican, so this bias runs the wrong way.** Nobody has looked systematically — worth sweeping every entry with a Peninsular/Castilian label against the fact that the ES reviewer is Mexican and her clean pass is a Mexican attestation.
 
-## Standing decisions (so they don't get relitigated)
+Still carrying stale "Reviewer to confirm" instructions (both still draft, so no pass to close them with): **0210**, **0222**.
 
-- **One expression, one entry (2026-07-17):** each expression appears in exactly
-  one entry. Spaced-repetition siblings (same expression, different partner and
-  bridge) were adopted and then reverted the same day — explored, set aside, may
-  return once there is a compelling first case (frittata / ribaltare is the likely
-  candidate) AND a scheduler minimum-gap rule to keep siblings weeks apart.
-- **CEFR center of gravity is B1–B2 (2026-07-17):** A2 for freebies and pacing,
-  C1 sparingly. Validator reports the mix and warns under 60% B1+B2 — a signal,
-  not a gate. Applies to new entries AND to approval order.
+---
 
-- English is the gloss rail; `l1` picks the interference direction served.
-- Nothing ships unreviewed; the allowlist enforces it mechanically.
-- Overrides are the only hand-edit to the schedule; past dates are immutable.
-- Footnotes: humans write the durable half, the scheduler writes the dates.
-- Seasons are northern-hemisphere, knowingly.
+## 4. Entry-level decisions still open
+
+- **0071 / 0074** — headword change or example rewrite? Reviewer wrote *despilfarrado* over *manirroto*, and *se le van las cabras* over *tener pájaros en la cabeza*. The second reads as a different idiom. Both still draft.
+- **0056** *Al que madruga, Dios **le** ayuda* — Torres #19 gives Mexican *lo ayuda* (leísmo divergence). Held out of the first approval batch for this; still unresolved, still draft.
+- **0092** — approved as *la última gota que hace rebosar la copa*; Torres #63 gives *la gota que derramó el vaso*, closer to the Italian and more Mexican. Would need un-approving to change.
+- **0033** *Menos mal* — typed `idiom` but patterns with the markers around it (*O sea*, *Ojalá* are both `marker`). Approved as-is.
+- **0107 resurrection** — deleted whole, but the Spanish side (*ir por lana y volver trasquilado*) is real and Torres-attested (#61); only the Italian pairing was phantom. Queued in CANDIDATES.md.
+- **0024 bridge** — offered to rewrite around your line ("one keeps the fish in the water, the other takes it out"), never answered. Better than what's in the entry.
+
+---
+
+## 5. Policy items
+
+**Multi-mapping (decided 2026-07-24, unenforceable):** one expression may map to two or more others, provided
+each generates a valid bridge. **The validator forbids this** (line ~472, hard error on duplicate expressions).
+The code records it as a deliberate reversal: *"reverted 2026-07-17 to the strict rule; spaced-repetition
+siblings were explored and set aside — may return later."* Before re-enabling, recover *why* they were set
+aside — the outcome is in the repo, the reasoning isn't. Live consequence: *essere a pezzi* + *estar hecho
+pedazos* becomes bankable again the moment the rule relaxes.
+
+**Not idiom-only (decided 2026-07-24):** if a pairing generates a valid bridge it belongs, whatever its type.
+Closes the IT reviewer's 50 taxonomy objections as non-blocking. Verified: all 40 of the 0201–0240 block were
+already correctly typed `marker`/`collocation`, and every entry in the bank has a bridge note.
+
+**Dialect stance** — half-decided in practice (0025 swapped to Mexican, A009 archives the Castilian, `reviewers.json`
+has both slots). Never formally stated. The Peninsular-bias finding above makes this more urgent, not less.
+
+**Reviewer terms** — paid or credited, and who owns their contributions. Your own EDITOR note said settle this
+before the first correction arrives. Several have now arrived.
+
+---
+
+## 6. Remaining approval work
+
+84 drafts, **169 unverified source links**. The two batches done today (27 explicit + 28 implicit) were the
+entries reviewers had actually seen. Most of the remaining 84 were never sent to review at all.
+
+---
+
+## 7. Content pipeline
+
+**Torres, 100 Mexican Idioms** — 94 of 100 not in the bank. Citable for existence and meaning; examples written fresh.
+Twins spotted: *dormirse en sus laureles* / *dormire sugli allori* · *ahogarse en un vaso de agua* / *affogare in un bicchiere d'acqua* · *cuando el gato no está…* / *quando il gatto non c'è i topi ballano* · *tener la sangre fría* / *avere il sangue freddo* · *llorar lágrimas de cocodrilo* / *lacrime di coccodrillo* · *no todo lo que brilla es oro* / *non è tutto oro quel che luccica* · *aunque la mona se vista de seda* / *l'abito non fa il monaco*. Italian sides are Claude proposals, unverified.
+
+**MXPA subjunctive expressions** — 14 items from the ES reviewer. Reduplicative frame (V-subj + *lo que* + V-subj),
+which maps unevenly onto Italian — that unevenness is the useful part: near-twins (*sea como sea* / *sia come sia*),
+structural divergence (*pase lo que pase* → *qualunque cosa succeda*), total divergence (*aunque sea* → *almeno*, no subjunctive).
+
+**CANDIDATES.md holds** — *dar la cara* (ES solid, IT side to re-hunt) · *estar hecho pedazos* · *estar hecho polvo*.
+
+---
+
+## 8. Housekeeping
+
+- **`tools/brand.json`** — stale orphan, safe to delete; all seven generators read the root copy.
+- **Path drift** — `build-intro.mjs` writes to `landing/social/`, committed PNGs live in `landing/`.
+- **Teaser** — the changes you had queued for it were never made; we never got to them.
+- **Domain** — name settled in practice, domain not.
+- **Privacy blanks** — legal name, contact email, postal address.
+- **EDITOR worklist** — schema demos 0060/0090/0120 (all three now approved, keep/re-pair/drop still yours) · alternatives A001–A008 anchors all clean now · retired formulas 0070/0100/0110 · themed sequences yes/no.

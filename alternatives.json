@@ -160,6 +160,40 @@
       "statusBy": null,
       "statusOn": null,
       "notes": "Surfaced from the book 2026-07-21. Strong evidence that 0044's bridge is correct: Spanish HAS a real equivalent, so 'caído del cielo' really is a false friend rather than a rough match."
+    },
+    {
+      "id": "A009",
+      "anchor": "0025",
+      "keepSide": "it",
+      "alt": {
+        "lang": "es",
+        "text": "Ser uña y carne",
+        "literal": "to be fingernail and flesh",
+        "meaning": "To be inseparable friends."
+      },
+      "bridge": "The Castilian twin of the anchor's current Mexican pairing. Same meaning, different folk logic: carne reads nail and flesh as one body, fused by nature; mugre reads the grime that collects under the nail and won't scrub out, fused by accident and habit. Both outrank il cacio sui maccheroni's false-friend risk the same way — this is about which Spanish a learner needs, not a different bridge lesson.",
+      "walk": "0025's anchor was uña y carne until 2026-07-24, when it was replaced with uña y mugre to serve the Mexican-Spanish track. Archived here rather than dropped, so the Castilian form isn't lost — candidate for a dialect-toggle or regional-variant surfacing if the standing dialect-stance question resolves toward showing both.",
+      "status": "proposed",
+      "statusBy": null,
+      "statusOn": null,
+      "notes": "Displaced from bank/0025.json on 2026-07-24 when the anchor's ES side was swapped to the Mexican variant (uña y mugre) at Joe's direction. RAE-sourced (dle.rae.es/uña) from its time as the anchor. Preserved per alternatives.json's own REPLACEMENT lifecycle rule rather than deleted outright."
+    },
+    {
+      "id": "A011",
+      "anchor": "0088",
+      "keepSide": "es",
+      "alt": {
+        "lang": "it",
+        "text": "Essere a pezzi",
+        "literal": "to be in pieces",
+        "meaning": "To be shattered — worn out physically, or devastated emotionally."
+      },
+      "bridge": "0088 currently pairs 'tener el corazón hecho pedazos' with 'avere il cuore a pezzi' — both languages HAVE the named heart. 'Essere a pezzi' is the same image on the BE route with nothing named, and it is the broader Italian form: it covers bodily exhaustion as well as heartbreak, where the cuore version is heartbreak only. Offered as a future second IT side, not a replacement — 0088's existing pairing is a clean structural twin and should stay.",
+      "walk": "Freed 2026-07-24 when entry 0009 (estar hecho pedazos / essere a pezzi) was dissolved as a pairing. De Mauro-sourced from its time in that entry. Linked here so the expression is not lost and so the have/be contrast stays available if 0088 is ever expanded or split.",
+      "status": "proposed",
+      "statusBy": null,
+      "statusOn": null,
+      "notes": "Italian side of the dissolved 0009. Its Spanish counterparts went to CANDIDATES.md unmatched. 0088 itself deliberately untouched."
     }
   ]
 }
