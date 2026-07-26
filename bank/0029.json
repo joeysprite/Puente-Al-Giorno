@@ -21,8 +21,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/vez",
         "headword": "vez",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/volta1/",
         "headword": "volta",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -70,11 +70,11 @@
   "cefr": "A2",
   "difficulty": 1,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-14 (as 'Habia una vez / cera una volta'; forms normalised to 'Había' and 'C'era'). CLASSIFICATION: typed idiom, not formula — the schema defines formula as a fixed SOCIAL phrase tied to an occasion (buon anno), which is why formulas require pins. A narrative opener has no occasion; it is a fixed discourse idiom. Reviewer may overrule. | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: stripped review instruction. Factual content preserved; provenance stays in these notes, which are internal."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-26",
+    "notes": "Submitted by Joe 2026-07-14 (as 'Habia una vez / cera una volta'; forms normalised to 'Había' and 'C'era'). CLASSIFICATION: typed idiom, not formula — the schema defines formula as a fixed SOCIAL phrase tied to an occasion (buon anno), which is why formulas require pins. A narrative opener has no occasion; it is a fixed discourse idiom. Reviewer may overrule. | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: stripped review instruction. Factual content preserved; provenance stays in these notes, which are internal. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate."
   },
   "createdOn": "2026-07-14",
   "retiredReason": null,

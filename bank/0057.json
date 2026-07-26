@@ -22,8 +22,8 @@
         "authority": "Cervantes",
         "url": "https://cvc.cervantes.es/lengua/refranero/",
         "headword": "hierro",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -44,8 +44,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/ferro/",
         "headword": "ferro",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -72,11 +72,11 @@
   "cefr": "B2",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "From Joe's Italian proverb list 2026-07-18 (learner-site discovery; all glosses and examples authored fresh). ES counterpart chosen by Claude from recall — UNVERIFIED. Pairs with 0054 as a rhyme-inversion set — a themed two-day sequence."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-26",
+    "notes": "From Joe's Italian proverb list 2026-07-18 (learner-site discovery; all glosses and examples authored fresh). ES counterpart chosen by Claude from recall — UNVERIFIED. Pairs with 0054 as a rhyme-inversion set — a themed two-day sequence. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate."
   },
   "createdOn": "2026-07-18",
   "retiredReason": null

@@ -21,8 +21,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/hacer",
         "headword": "hacer",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/fa2/",
         "headword": "fa",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -69,11 +69,11 @@
   "cefr": "A2",
   "difficulty": 1,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-14. Word-order mirror is the payload."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-26",
+    "notes": "Submitted by Joe 2026-07-14. Word-order mirror is the payload. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate."
   },
   "createdOn": "2026-07-14",
   "retiredReason": null,

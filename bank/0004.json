@@ -21,8 +21,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/toalla",
         "headword": "toalla",
-        "verifiedOn": "2026-07-12",
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/gettare/",
         "headword": "gettare",
-        "verifiedOn": "2026-07-12",
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -70,11 +70,11 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Supersedes the schema-demo duplicate previously at id 0001; that file is removed. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: interference direction(s) written and approved by Joe (narrow pass). Entry had been tagged shared_metaphor/cognate_pair without interference_risk, which kept it outside every prior bridge pass despite carrying a real calque failure; interference_risk tag added."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-26",
+    "notes": "Supersedes the schema-demo duplicate previously at id 0001; that file is removed. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: interference direction(s) written and approved by Joe (narrow pass). Entry had been tagged shared_metaphor/cognate_pair without interference_risk, which kept it outside every prior bridge pass despite carrying a real calque failure; interference_risk tag added. | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate."
   },
   "createdOn": "2026-07-12",
   "retiredReason": null,

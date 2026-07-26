@@ -22,8 +22,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/querer",
         "headword": "querer",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -44,8 +44,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/volere/",
         "headword": "volere",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -76,11 +76,11 @@
   "cefr": "B1",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-20, flagged for Valentine's Day. Soft-pinned 12-14 Feb rather than hard-pinned to the 14th, so the scheduler can place it in the run-up without displacing anything. The register scales on BOTH sides are the payload and both need native calibration: how heavy te amo really feels in Mexico, and how sharply Italians hear ti voglio bene as non-romantic between partners. Do not ship this one on my say-so. | 2026-07-24: review meta-commentary removed from shipping fields — it.regionNote: stripped review instruction. Factual content preserved; provenance stays in these notes, which are internal. | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer should pick'). Factual content kept. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: interference direction sharpened by Joe (bridge review). Regional split between Spain and Latin America made explicit; the previous wording named Latin America only and left Spain implied."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-26",
+    "notes": "Submitted by Joe 2026-07-20, flagged for Valentine's Day. Soft-pinned 12-14 Feb rather than hard-pinned to the 14th, so the scheduler can place it in the run-up without displacing anything. The register scales on BOTH sides are the payload and both need native calibration: how heavy te amo really feels in Mexico, and how sharply Italians hear ti voglio bene as non-romantic between partners. Do not ship this one on my say-so. | 2026-07-24: review meta-commentary removed from shipping fields — it.regionNote: stripped review instruction. Factual content preserved; provenance stays in these notes, which are internal. | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer should pick'). Factual content kept. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: interference direction sharpened by Joe (bridge review). Regional split between Spain and Latin America made explicit; the previous wording named Latin America only and left Spain implied. | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate."
   },
   "createdOn": "2026-07-20",
   "retiredReason": null

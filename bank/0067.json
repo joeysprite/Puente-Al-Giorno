@@ -22,8 +22,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/imaginar",
         "headword": "imaginar",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -44,8 +44,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/figurarsi/",
         "headword": "figurarsi",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -72,11 +72,11 @@
   "cefr": "B2",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. The thanks-ritual asymmetry pairs nicely with 0039's crepi ritual — possible themed sequence on scripted replies. | 2026-07-24: Joe added an opening line to each interference direction — a compressed 'don't bring X' framing that states the swap before the explanation. Existing text kept beneath it unchanged. Status remains draft; sources still unverified."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-26",
+    "notes": "From Joe's Italian Matters marker list 2026-07-20 (discovery source only; all examples freshly authored). ES pairing by Claude, UNVERIFIED. The thanks-ritual asymmetry pairs nicely with 0039's crepi ritual — possible themed sequence on scripted replies. | 2026-07-24: Joe added an opening line to each interference direction — a compressed 'don't bring X' framing that states the swap before the explanation. Existing text kept beneath it unchanged. Status remains draft; sources still unverified. | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate."
   },
   "createdOn": "2026-07-20",
   "retiredReason": null

@@ -76,7 +76,7 @@
     "esReviewer": "native-mx-01",
     "itReviewer": "native-it-03",
     "reviewedOn": "2026-07-24",
-    "notes": "Submitted by Joe 2026-07-17. The morirse/morir figurative-literal split and the dal/di cause-preposition claim are Claude's analysis — both reviewers to confirm; the ES side especially (is bare 'muero de hambre' truly marked, or regionally fine?). | 2026-07-23: REVERTED to draft — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03."
+    "notes": "Submitted by Joe 2026-07-17. The morirse/morir figurative-literal split and the dal/di cause-preposition claim are Claude's analysis — both reviewers to confirm; the ES side especially (is bare 'muero de hambre' truly marked, or regionally fine?). | 2026-07-23: REVERTED to draft — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03. | 2026-07-26: bridge reviewed and approved by Joe. This completes the approved pool — every entry eligible for a carousel now has a bridge that has been read."
   },
   "createdOn": "2026-07-17",
   "retiredReason": null

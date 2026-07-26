@@ -22,8 +22,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/gota",
         "headword": "gota",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -44,8 +44,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/goccia/",
         "headword": "goccia",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -72,11 +72,11 @@
   "cefr": "A2",
   "difficulty": 1,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Freebie twin; the reflexive verbs are the small lesson. English's peas make a nice footnote. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: interference direction sharpened by Joe (bridge review). Pronoun-placement contrast added at Joe's direction. One refinement applied: the it→es half is much stronger than the es→it half and is written to carry the weight. 'Me parece' is a genuine meaning collision (it seems to me), whereas Italian 'somiglia a me' — the error the es→it half guards against — is grammatical Italian, just the emphatic stressed form rather than wrong. Stated as a placement preference on that side rather than an error."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-26",
+    "notes": "ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). IT counterpart from Claude's recall — UNVERIFIED. Freebie twin; the reflexive verbs are the small lesson. English's peas make a nice footnote. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: interference direction sharpened by Joe (bridge review). Pronoun-placement contrast added at Joe's direction. One refinement applied: the it→es half is much stronger than the es→it half and is written to carry the weight. 'Me parece' is a genuine meaning collision (it seems to me), whereas Italian 'somiglia a me' — the error the es→it half guards against — is grammatical Italian, just the emphatic stressed form rather than wrong. Stated as a placement preference on that side rather than an error. | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate."
   },
   "createdOn": "2026-07-21",
   "retiredReason": null

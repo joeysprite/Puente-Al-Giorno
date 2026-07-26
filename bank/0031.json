@@ -21,8 +21,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/ojal%C3%A1",
         "headword": "ojalá",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/magari/",
         "headword": "magari",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -70,11 +70,11 @@
   "cefr": "B1",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-14. Etymology pair (Arabic vs Greek) is a card-front gift. Exclamative 'Magari!' = 'I wish!' worth a reviewer check as third sense."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-26",
+    "notes": "Submitted by Joe 2026-07-14. Etymology pair (Arabic vs Greek) is a card-front gift. Exclamative 'Magari!' = 'I wish!' worth a reviewer check as third sense. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate."
   },
   "createdOn": "2026-07-14",
   "retiredReason": null,

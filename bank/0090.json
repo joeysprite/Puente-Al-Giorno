@@ -13,7 +13,7 @@
     "esReviewer": "native-mx-01",
     "itReviewer": "native-it-03",
     "reviewedOn": "2026-07-24",
-    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending. | 2026-07-23: REVERTED to needs_review — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03."
+    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending. | 2026-07-23: REVERTED to needs_review — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03. | 2026-07-26: bridge reviewed and approved by Joe. This completes the approved pool — every entry eligible for a carousel now has a bridge that has been read."
   },
   "id": "0090",
   "type": "idiom",

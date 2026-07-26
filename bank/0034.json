@@ -21,8 +21,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/acabar",
         "headword": "acabar",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "authority": "Treccani",
         "url": "https://www.treccani.it/vocabolario/appena/",
         "headword": "appena",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -71,11 +71,11 @@
   "cefr": "B1",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Submitted by Joe 2026-07-14. appena/apenas false friend flagged in it→es; three traps in one card. Masculine 'arrivato' in headword — reviewer to confirm we surface agreement (arrivata) in the rendered card."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-26",
+    "notes": "Submitted by Joe 2026-07-14. appena/apenas false friend flagged in it→es; three traps in one card. Masculine 'arrivato' in headword — reviewer to confirm we surface agreement (arrivata) in the rendered card. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate."
   },
   "createdOn": "2026-07-14",
   "retiredReason": null,
