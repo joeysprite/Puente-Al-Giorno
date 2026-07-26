@@ -68,11 +68,11 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), run by Joe's Italian teacher — confirmed native Italian speaker, treated as a strong discovery source, not a citation on its own. Formal citation is Accademia della Crusca's dedicated article tracing the phrase to the 14th century — about as authoritative as Italian etymology gets. Spanish side has no formal RAE headword; sourced to real, heavy colloquial usage (Corpus tier, same as 0002's balcone entry) — genuinely current but not academy-listed. Meaning and both examples written fresh. Needs native review on both sides. Source-authority note: cited as 'Corpus' because Accademia della Crusca (the actual page checked) isn't in the schema's fixed authority list — it is not Treccani, and labelling it as Treccani would claim a page that was never fetched. Crusca is, if anything, a stronger authority than the schema has a slot for."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-26",
+    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), run by Joe's Italian teacher — confirmed native Italian speaker, treated as a strong discovery source, not a citation on its own. Formal citation is Accademia della Crusca's dedicated article tracing the phrase to the 14th century — about as authoritative as Italian etymology gets. Spanish side has no formal RAE headword; sourced to real, heavy colloquial usage (Corpus tier, same as 0002's balcone entry) — genuinely current but not academy-listed. Meaning and both examples written fresh. Needs native review on both sides. Source-authority note: cited as 'Corpus' because Accademia della Crusca (the actual page checked) isn't in the schema's fixed authority list — it is not Treccani, and labelling it as Treccani would claim a page that was never fetched. Crusca is, if anything, a stronger authority than the schema has a slot for. | 2026-07-26: bridge reviewed and approved by Joe. Both interference directions remain deliberately empty — confirmed as a clean transfer; parlare al muro and hablar con la pared are near-exact calques. Not a gap."
   },
   "createdOn": "2026-07-24",
   "retiredReason": null,

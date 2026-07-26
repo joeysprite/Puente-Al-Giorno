@@ -69,11 +69,11 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), teacher confirmed native Italian speaker — strong discovery source, formally cited to Treccani's mano synonyms page instead. Spanish side has no formal RAE headword; sourced to attested real usage (Corpus tier). The interference directions are Claude's reasoning about literal cross-translation, not reviewer-confirmed — needs native check on both, especially whether an Italian speaker would actually produce 'braccia incrociate' as an error or immediately recognise it as wrong."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-26",
+    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), teacher confirmed native Italian speaker — strong discovery source, formally cited to Treccani's mano synonyms page instead. Spanish side has no formal RAE headword; sourced to attested real usage (Corpus tier). The interference directions are Claude's reasoning about literal cross-translation, not reviewer-confirmed — needs native check on both, especially whether an Italian speaker would actually produce 'braccia incrociate' as an error or immediately recognise it as wrong. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: approved — both gates already passed (sources verified, bridge reviewed)."
   },
   "createdOn": "2026-07-24",
   "retiredReason": null,

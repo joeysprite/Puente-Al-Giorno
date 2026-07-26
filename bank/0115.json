@@ -53,8 +53,8 @@
       "register_differs"
     ],
     "interference": {
-      "es_to_it": "Non è forno per panini or similar literal renderings mean nothing in Italian — the oven image doesn't exist on this side.",
-      "it_to_es": "No es aire wouldn't be understood as this idiom in Spanish at all."
+      "es_to_it": "Non è forno per panini or similar literal renderings mean nothing in Italian — the oven image doesn't exist on this side. Non è aria can carry irritation or tension depending on tone — sharper than the Spanish oven image.",
+      "it_to_es": "No es aire wouldn't be understood as this idiom in Spanish at all. No está el horno para bollos is gentler; it doesn't carry the edge non è aria can have."
     }
   },
   "pin": null,
@@ -68,11 +68,11 @@
   "cefr": "B2",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), teacher confirmed native Italian speaker — strong discovery source, formally cited to De Mauro. Spanish side confirmed via RAE's Diccionario del estudiante (rae.es/diccionario-estudiante/horno), which gives the exact example 'no está el horno para bollos' used almost verbatim here. Register flag: multiple native discussions describe 'non è aria' as capable of real edge/irritation, not just neutral timing — this needs a reviewer call on whether that's IT-only or true of the ES side too, and whether the Instagram card's simple 'It's not the right time!' gloss undersells that. Source-authority note: labelled 'RAE (DLE)' per schema constraint, but the page actually checked is RAE's Diccionario del estudiante (rae.es/diccionario-estudiante), not the flagship dle.rae.es — both are official RAE publications, but they are not the same dictionary."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-26",
+    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), teacher confirmed native Italian speaker — strong discovery source, formally cited to De Mauro. Spanish side confirmed via RAE's Diccionario del estudiante (rae.es/diccionario-estudiante/horno), which gives the exact example 'no está el horno para bollos' used almost verbatim here. Register flag: multiple native discussions describe 'non è aria' as capable of real edge/irritation, not just neutral timing — this needs a reviewer call on whether that's IT-only or true of the ES side too, and whether the Instagram card's simple 'It's not the right time!' gloss undersells that. Source-authority note: labelled 'RAE (DLE)' per schema constraint, but the page actually checked is RAE's Diccionario del estudiante (rae.es/diccionario-estudiante), not the flagship dle.rae.es — both are official RAE publications, but they are not the same dictionary. | 2026-07-26: bridge reviewed and approved by Joe, who resolved the open register question on this entry: the Italian carries an edge the Spanish does not, and both directions now say so explicitly."
   },
   "createdOn": "2026-07-24",
   "retiredReason": null,

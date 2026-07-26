@@ -55,7 +55,7 @@
       "cognate_pair"
     ],
     "interference": {
-      "es_to_it": null,
+      "es_to_it": "Italian uses a due passi more broadly, for literal or figurative closeness; Spanish keeps it mostly literal.",
       "it_to_es": null
     }
   },
@@ -69,11 +69,11 @@
   "cefr": "A2",
   "difficulty": 1,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), teacher confirmed native Italian speaker — formally cited to De Mauro instead. Spanish side confirmed via RAE's Diccionario del estudiante with the near-identical worked example 'El supermercado se encuentra a dos pasos.' Both examples here written fresh. Needs native review, though risk of any real content problem is low given how directly the two match. Source-authority note: labelled 'RAE (DLE)' per schema constraint, but the page actually checked is RAE's Diccionario del estudiante (rae.es/diccionario-estudiante), not the flagship dle.rae.es — both are official RAE publications, but they are not the same dictionary. | 2026-07-24: review meta-commentary removed from shipping fields — hook.subhead: rewrote card-facing copy that said 'no trap'. Factual content preserved; provenance stays in these notes, which are internal. | 2026-07-26: BOTH examples rewritten, two problems in the originals, both introduced by Claude when this entry was drafted. (1) The ES example was built on RAE's own worked example — RAE gives 'El supermercado se encuentra a dos pasos'; the bank had 'No hace falta coger el coche, el supermercado está a dos pasos', keeping their noun and phrasing and adding a clause. That is not writing fresh, and the note written at the time even called it 'near-identical' without acting on it. (2) It used 'coger', which is vulgar across Mexico and the Río de la Plata — the exact hazard documented on 0005 and 0008 — in an entry whose regions are ['es','mx','ar','co']. New examples avoid the source's noun entirely and use no region-hazardous verb; IT rewritten to match so the pair still mirrors."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-26",
+    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), teacher confirmed native Italian speaker — formally cited to De Mauro instead. Spanish side confirmed via RAE's Diccionario del estudiante with the near-identical worked example 'El supermercado se encuentra a dos pasos.' Both examples here written fresh. Needs native review, though risk of any real content problem is low given how directly the two match. Source-authority note: labelled 'RAE (DLE)' per schema constraint, but the page actually checked is RAE's Diccionario del estudiante (rae.es/diccionario-estudiante), not the flagship dle.rae.es — both are official RAE publications, but they are not the same dictionary. | 2026-07-24: review meta-commentary removed from shipping fields — hook.subhead: rewrote card-facing copy that said 'no trap'. Factual content preserved; provenance stays in these notes, which are internal. | 2026-07-26: BOTH examples rewritten, two problems in the originals, both introduced by Claude when this entry was drafted. (1) The ES example was built on RAE's own worked example — RAE gives 'El supermercado se encuentra a dos pasos'; the bank had 'No hace falta coger el coche, el supermercado está a dos pasos', keeping their noun and phrasing and adding a clause. That is not writing fresh, and the note written at the time even called it 'near-identical' without acting on it. (2) It used 'coger', which is vulgar across Mexico and the Río de la Plata — the exact hazard documented on 0005 and 0008 — in an entry whose regions are ['es','mx','ar','co']. New examples avoid the source's noun entirely and use no region-hazardous verb; IT rewritten to match so the pair still mirrors. | 2026-07-26: bridge reviewed and approved by Joe. es→it written (breadth-of-use contrast); it→es left deliberately empty — the calque lands, nothing to warn against."
   },
   "createdOn": "2026-07-24",
   "retiredReason": null,

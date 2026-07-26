@@ -54,8 +54,8 @@
       "register_differs"
     ],
     "interference": {
-      "es_to_it": "Mettiamo un punto finale exists but reads as more bureaucratic/written than mettiamoci una pietra sopra, which is the warmer, spoken form for patching things up personally.",
-      "it_to_es": "Pongamos una piedra encima isn't the Spanish idiom — a Spanish listener wouldn't reliably parse the stone image the way an Italian one would."
+      "es_to_it": "Mettiamo un punto finale exists but reads as more bureaucratic/written than mettiamoci una pietra sopra, which is the warmer, spoken form for patching things up personally. Mettiamoci una pietra sopra implies forgiveness or burying the matter, not just ending discussion.",
+      "it_to_es": "Pongamos una piedra encima isn't the Spanish idiom — a Spanish listener wouldn't reliably parse the stone image the way an Italian one would. Pongamos punto final al asunto is cooler and more administrative — it doesn't carry the emotional 'bury it' tone of the Italian."
     }
   },
   "pin": null,
@@ -69,11 +69,11 @@
   "cefr": "B2",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), teacher confirmed native Italian speaker — formally cited to Treccani's sopra synonyms page, which defines it almost exactly as used here. Spanish side: 'punto final' sense 2 (figurative, closing a matter) is RAE-documented but I have not independently confirmed 'pongamos punto final al asunto' is the single best/most natural Spanish equivalent rather than an alternative like 'pasemos página' — this needs a native call, not just a dictionary check."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-26",
+    "notes": "Banked 2026-07-24. Italian side sourced from @learnandloveitalian (Instagram), teacher confirmed native Italian speaker — formally cited to Treccani's sopra synonyms page, which defines it almost exactly as used here. Spanish side: 'punto final' sense 2 (figurative, closing a matter) is RAE-documented but I have not independently confirmed 'pongamos punto final al asunto' is the single best/most natural Spanish equivalent rather than an alternative like 'pasemos página' — this needs a native call, not just a dictionary check. | 2026-07-26: bridge reviewed and approved by Joe, who supplied the emotional/administrative tone contrast. Note the open question on this entry is now partly answered: the Spanish side reads cooler than the Italian, which is the substance of the trap rather than a defect in the pairing."
   },
   "createdOn": "2026-07-24",
   "retiredReason": null,

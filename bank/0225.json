@@ -21,8 +21,8 @@
         "authority": "RAE (DLE)",
         "url": "https://dle.rae.es/cambio",
         "headword": "cambio",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -43,8 +43,8 @@
         "authority": "De Mauro",
         "url": "https://dizionario.internazionale.it/parola/compenso",
         "headword": "compenso",
-        "verifiedOn": null,
-        "verifiedBy": null
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
       }
     ]
   },
@@ -70,11 +70,11 @@
   "cefr": "B2",
   "difficulty": 3,
   "review": {
-    "status": "draft",
-    "esReviewer": null,
-    "itReviewer": null,
-    "reviewedOn": null,
-    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: stripped review instruction; es.regionNote: removed reviewer's name. Factual content preserved; provenance stays in these notes, which are internal. | 2026-07-24: further review instructions stripped from shipping fields (bridge.note) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer should pick'). Factual content kept. | 2026-07-24: regionNote restored as fact. The original carried the competing options but wrapped them in an uncertainty flag naming the reviewer; the options themselves are useful and are kept."
+    "status": "approved",
+    "esReviewer": "native-mx-01",
+    "itReviewer": "native-it-03",
+    "reviewedOn": "2026-07-26",
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: review meta-commentary removed from shipping fields — es.regionNote: stripped review instruction; es.regionNote: removed reviewer's name. Factual content preserved; provenance stays in these notes, which are internal. | 2026-07-24: further review instructions stripped from shipping fields (bridge.note) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer should pick'). Factual content kept. | 2026-07-24: regionNote restored as fact. The original carried the competing options but wrapped them in an uncertainty flag naming the reviewer; the options themselves are useful and are kept. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate."
   },
   "createdOn": "2026-07-16",
   "retiredReason": null,
