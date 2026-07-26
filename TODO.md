@@ -1,115 +1,111 @@
 # Un puente al giorno — open items
-Rewritten 2026-07-24. Resolved items removed. Only live work below.
+Rewritten 2026-07-26.
 
-**Bank: 151 entries — 64 approved, 84 draft, 3 retired. `needs_review` is empty. Validator PASS.**
-**Bridge review: 31 entries done. 74 `interference_risk` entries remain, plus 53 in the tagging blind spot.**
-**Alternatives: A001–A009, A011.**
+**Bank: 151 entries — 64 approved, 84 draft, 3 retired. `needs_review` empty. Validator PASS.**
+**Bridge review: 50 of 148 done. 25 approved entries still ship an unreviewed bridge (down from 44).**
+**All shipping fields are free of review commentary. `review.notes` keeps full provenance (internal, deliberate).**
 
-> ⚠️ **NONE OF THIS IS PUSHED.** Everything from 2026-07-23/24 lives in an ephemeral container plus the
-> outputs folder. Today took the bank from 0 approved to 64. If the container goes, that goes with it.
-> **This is the highest-value action available and it is not editorial work.**
-
----
-
-## 1. Push (do this first)
-
-Staged package is stale — it predates all 64 approvals, the 0009 dissolution, the region corrections,
-and A009/A011. Needs rebuilding before it's applied. Say the word.
-
-Already upstream and identical: 0113–0117. Your `landing/index.html` and `match.html` are untouched by anything here.
-
-Two files the repo needs that it has never had:
-- **`tools/font-metrics.json`** — missing entirely; `build-intro.mjs` reads it at line 19 and crashes. Reconstructed from the Newsreader TTF. Nobody can run the intro generator until this lands.
-- **`tools/build-teaser.mjs`** — deliberately excluded so far: needs `@resvg/resvg-js` plus TTFs at `/tmp/cardfonts` converted from the shipped woff2, and that conversion step isn't checked in anywhere. Committing the script alone adds a second file nobody can run.
+> **Ready to apply:** `puente-al-giorno-2026-07-26.zip` — 94 bank files, alternatives, candidates, both tools,
+> two PNGs. Checked against upstream `cdafc63`. Takes the repo 0 → 64 approved. No deletions needed.
 
 ---
 
-## 2. Bridge review — the next real task
+## 1. In progress — the last 25 approved entries
+`bridge-review-approved.md`. Clearing these means every entry eligible for a carousel has a reviewed bridge.
+The 18 never-scoped ones were done 2026-07-26; 0033's empty directions were confirmed deliberate, not a gap.
 
-**131 of 151 entries carry at least one interference direction. Not one has ever been reviewed.**
-Both worklists were generated in `--simple` mode, which strips the bridge and traps. Reviewers have never
-seen the product's actual payload — the thing the cards teach.
+## 2. Then: 74 remaining `interference_risk` entries
+In `bridge-review.md`, already triaged. Mostly drafts, so a correction is still cheap.
 
-Three failures have already surfaced by accident, never by looking:
-- **0028** — the ES reviewer's own example used *voltear la tortilla* in the blame-shifting sense the bridge asserts is Italian-only. Approved on your overrule, flag preserved on the entry.
-- **0006** — tagged `register_differs` with both directions null; the question had been put to the reviewer and came back ticked, unanswered.
-- **0060** — the it→es trap was right but understated: *hacer el puente* isn't just article-wrong, it means the gymnastic backbend (DLE `puente` sense 9).
-
-Scope if you want the high-value tags only: `interference_risk` 87 · `preposition_differs` 42 · `false_friend` 28 · `register_differs` 23 · `auxiliary_trap` 7.
-
-Build `--bridge` mode in `build-review-lists.mjs`: a third mode beside default and `--simple`, asking two
-questions per entry — *is this mistake real?* and *is it dialect-specific?* — showing the trap for the
-direction that reviewer produces, one question, nothing else.
+## 3. Then: the 53-entry tagging blind spot
+`shared_metaphor` or `cognate_pair` without `interference_risk` — never scoped into any pass. 31 of them are
+approved. The narrow pass proved the risk is real: all 7 entries checked had genuine calque failures nobody
+had written down, and one (0002, *cabra/capra*) turned out to be an unmarked false friend.
 
 ---
 
-## 3. Peninsular-bias sweep
-
-Three instances found, all by accident: **0112** (I narrowed *dar la cara* to `['es']` with no evidence — validator caught it), **0024** ("Castilian Spanish" with nothing behind it), **0026** (`regions: ['es']` directly contradicted by the reviewer calling it natural).
-
-All three narrowed Spanish toward Peninsular by default. **Your audience default is Mexican, so this bias runs the wrong way.** Nobody has looked systematically — worth sweeping every entry with a Peninsular/Castilian label against the fact that the ES reviewer is Mexican and her clean pass is a Mexican attestation.
-
-Still carrying stale "Reviewer to confirm" instructions (both still draft, so no pass to close them with): **0210**, **0222**.
+## 4. Source verification — 84 drafts, 169 links
+Nothing else can reach `approved` without this. The two batches done so far covered the entries reviewers had
+actually seen; most of the remaining 84 were never sent to review at all.
 
 ---
 
-## 4. Entry-level decisions still open
+## 5. Known-open decisions
 
-- **0071 / 0074** — headword change or example rewrite? Reviewer wrote *despilfarrado* over *manirroto*, and *se le van las cabras* over *tener pájaros en la cabeza*. The second reads as a different idiom. Both still draft.
-- **0056** *Al que madruga, Dios **le** ayuda* — Torres #19 gives Mexican *lo ayuda* (leísmo divergence). Held out of the first approval batch for this; still unresolved, still draft.
-- **0092** — approved as *la última gota que hace rebosar la copa*; Torres #63 gives *la gota que derramó el vaso*, closer to the Italian and more Mexican. Would need un-approving to change.
-- **0033** *Menos mal* — typed `idiom` but patterns with the markers around it (*O sea*, *Ojalá* are both `marker`). Approved as-is.
-- **0107 resurrection** — deleted whole, but the Spanish side (*ir por lana y volver trasquilado*) is real and Torres-attested (#61); only the Italian pairing was phantom. Queued in CANDIDATES.md.
-- **0024 bridge** — offered to rewrite around your line ("one keeps the fish in the water, the other takes it out"), never answered. Better than what's in the entry.
-
----
-
-## 5. Policy items
-
-**Multi-mapping (decided 2026-07-24, unenforceable):** one expression may map to two or more others, provided
-each generates a valid bridge. **The validator forbids this** (line ~472, hard error on duplicate expressions).
-The code records it as a deliberate reversal: *"reverted 2026-07-17 to the strict rule; spaced-repetition
-siblings were explored and set aside — may return later."* Before re-enabling, recover *why* they were set
-aside — the outcome is in the repo, the reasoning isn't. Live consequence: *essere a pezzi* + *estar hecho
-pedazos* becomes bankable again the moment the rule relaxes.
-
-**Not idiom-only (decided 2026-07-24):** if a pairing generates a valid bridge it belongs, whatever its type.
-Closes the IT reviewer's 50 taxonomy objections as non-blocking. Verified: all 40 of the 0201–0240 block were
-already correctly typed `marker`/`collocation`, and every entry in the bank has a bridge note.
-
-**Dialect stance** — half-decided in practice (0025 swapped to Mexican, A009 archives the Castilian, `reviewers.json`
-has both slots). Never formally stated. The Peninsular-bias finding above makes this more urgent, not less.
-
-**Reviewer terms** — paid or credited, and who owns their contributions. Your own EDITOR note said settle this
-before the first correction arrives. Several have now arrived.
+- **0071 / 0074** — headword change or example rewrite? Reviewer wrote *despilfarrado* over *manirroto*, and
+  *se le van las cabras* over *tener pájaros en la cabeza*. The second reads as a different idiom. Both draft.
+- **0056** *Al que madruga, Dios **le** ayuda* — Torres #19 gives Mexican *lo ayuda*. Held out of the first
+  approval batch for this; still unresolved.
+- **0092** — approved as *la última gota que hace rebosar la copa*; Torres #63 gives *la gota que derramó el
+  vaso*, closer to the Italian and more Mexican. Changing it means un-approving it.
+- **0033** *Menos mal* — typed `idiom` but patterns with the markers around it. Approved as-is.
+- **0107 resurrection** — Spanish side (*ir por lana y volver trasquilado*) is real and Torres-attested (#61);
+  only the Italian pairing was phantom. Queued in CANDIDATES.md.
+- **0024 bridge** — offered to rewrite around your line ("one keeps the fish in the water, the other takes it
+  out"), never answered. Better than what's in the entry.
+- **17 entries still missing a direction** — 0002 0004 0005 0008 0010 0011 0012 0033 0113 0116 0208 0211 0222
+  0227 0232 0239 0240. Several are deliberate (0033, 0113, 0116 are clean transfers). The rest are unwritten.
 
 ---
 
-## 6. Remaining approval work
+## 6. Structural problems worth fixing before they compound
 
-84 drafts, **169 unverified source links**. The two batches done today (27 explicit + 28 implicit) were the
-entries reviewers had actually seen. Most of the remaining 84 were never sent to review at all.
+**No reviewer for Argentina or Colombia.** The bank claims Argentine currency for 134 expressions and Colombian
+for 129. `reviewers.json` has `native-mx-01`, a slot for `native-es-02`, and `native-it-03` — nobody for either.
+55 of those entries are approved. Every regional claim in that set rests on nothing.
 
----
+**Peninsular bias in `regions`.** Four instances found by accident, never by looking: 0112, 0024, 0026, and the
+0018 dialect argument. All narrowed Spanish toward Peninsular by default, against a Mexican-default audience.
+Nobody has swept for it.
 
-## 7. Content pipeline
-
-**Torres, 100 Mexican Idioms** — 94 of 100 not in the bank. Citable for existence and meaning; examples written fresh.
-Twins spotted: *dormirse en sus laureles* / *dormire sugli allori* · *ahogarse en un vaso de agua* / *affogare in un bicchiere d'acqua* · *cuando el gato no está…* / *quando il gatto non c'è i topi ballano* · *tener la sangre fría* / *avere il sangue freddo* · *llorar lágrimas de cocodrilo* / *lacrime di coccodrillo* · *no todo lo que brilla es oro* / *non è tutto oro quel che luccica* · *aunque la mona se vista de seda* / *l'abito non fa il monaco*. Italian sides are Claude proposals, unverified.
-
-**MXPA subjunctive expressions** — 14 items from the ES reviewer. Reduplicative frame (V-subj + *lo que* + V-subj),
-which maps unevenly onto Italian — that unevenness is the useful part: near-twins (*sea como sea* / *sia come sia*),
-structural divergence (*pase lo que pase* → *qualunque cosa succeda*), total divergence (*aunque sea* → *almeno*, no subjunctive).
-
-**CANDIDATES.md holds** — *dar la cara* (ES solid, IT side to re-hunt) · *estar hecho pedazos* · *estar hecho polvo*.
+**Tags decide review scope, and tags were guesses.** An entry got `interference_risk` when it was written, before
+anyone looked for a trap — so the tag encoded an assumption and then hid everything it excluded. Sections 1–3
+above are all consequences of this.
 
 ---
 
-## 8. Housekeeping
+## 7. Policy
+
+**Multi-mapping (2026-07-24)** — one expression may map to two or more others if each generates a valid bridge.
+**Unenforceable: the validator rejects duplicates** (line ~472), a deliberate 2026-07-17 reversal recorded in
+the code as *"spaced-repetition siblings were explored and set aside — may return later."* Recover *why* before
+re-enabling. Live consequence: *essere a pezzi* + *estar hecho pedazos* becomes bankable the moment it relaxes.
+
+**Not idiom-only (2026-07-24)** — if a pairing generates a valid bridge it belongs, whatever its type. Closes the
+IT reviewer's 50 taxonomy objections. Verified: all 40 of the 0201–0240 block were already correctly typed.
+
+**Vulgarity: bank vs. socials (2026-07-26)** — accurate register warnings stay in the bank; whether they appear
+verbatim in public copy is a per-post editorial call. Flagged on **0005, 0008, 0026, 0068, 0105**.
+
+**Dialect stance** — half-decided in practice (0025 Mexican, A009 archives the Castilian). Never formally stated.
+
+**Reviewer terms** — paid or credited, and who owns contributions. Several corrections have now arrived.
+
+---
+
+## 8. Content pipeline
+
+**Torres, 100 Mexican Idioms** — 94 of 100 not banked. Twins spotted: *dormirse en sus laureles* / *dormire sugli
+allori* · *ahogarse en un vaso de agua* / *affogare in un bicchiere d'acqua* · *cuando el gato no está…* /
+*quando il gatto non c'è i topi ballano* · *tener la sangre fría* / *avere il sangue freddo* · *llorar lágrimas
+de cocodrilo* / *lacrime di coccodrillo* · *no todo lo que brilla es oro* / *non è tutto oro quel che luccica*.
+
+**MXPA subjunctive** — 14 items from the ES reviewer. The uneven mapping onto Italian is the useful part.
+
+**CANDIDATES.md** — *dar la cara* (ES solid, IT to re-hunt) · *estar hecho pedazos* · *estar hecho polvo*.
+
+**A standing note may be worth it for *coger*** — vulgar across Mexico and the Río de la Plata, so it recurs
+anywhere Italian *prendere* maps onto Spanish. Currently repeated per entry (0005, 0008).
+
+---
+
+## 9. Housekeeping
 
 - **`tools/brand.json`** — stale orphan, safe to delete; all seven generators read the root copy.
 - **Path drift** — `build-intro.mjs` writes to `landing/social/`, committed PNGs live in `landing/`.
-- **Teaser** — the changes you had queued for it were never made; we never got to them.
-- **Domain** — name settled in practice, domain not.
-- **Privacy blanks** — legal name, contact email, postal address.
-- **EDITOR worklist** — schema demos 0060/0090/0120 (all three now approved, keep/re-pair/drop still yours) · alternatives A001–A008 anchors all clean now · retired formulas 0070/0100/0110 · themed sequences yes/no.
+- **`build-teaser.mjs`** — still not in the repo: needs `@resvg/resvg-js` and TTFs at `/tmp/cardfonts` converted
+  from the shipped woff2, and that conversion isn't checked in. Committing the script alone adds a dead file.
+- **Teaser** — the changes you had queued were never made.
+- **Domain** · **privacy blanks** (legal name, contact email, postal address).
+- **EDITOR worklist** — schema demos 0060/0090/0120 · alternatives A001–A008 · retired formulas 0070/0100/0110 ·
+  themed sequences yes/no.
