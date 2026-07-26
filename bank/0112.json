@@ -1,0 +1,82 @@
+{
+  "id": "0112",
+  "type": "idiom",
+  "cue": "How do you say someone answered for it themselves instead of hiding?",
+  "es": {
+    "text": "Dar la cara",
+    "literal": "to give the face",
+    "meaning": "To answer for what you have done and take the consequences rather than hide.",
+    "example": "Cuando salió el error, nadie quiso dar la cara.",
+    "exampleTranslation": "When the mistake came out, nobody was willing to front up.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://www.rae.es/diccionario-estudiante/cara",
+        "headword": "cara",
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
+      }
+    ]
+  },
+  "it": {
+    "text": "Pagare di persona",
+    "literal": "to pay in person",
+    "meaning": "To take on yourself all the responsibility and consequences of what you have done.",
+    "example": "Ha pagato di persona per la sua leggerezza.",
+    "exampleTranslation": "He answered for his own carelessness himself.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/persona/",
+        "headword": "persona",
+        "verifiedOn": "2026-07-26",
+        "verifiedBy": "jf"
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish shows the face; Italian pays the bill. Same act — you do not send a substitute — reached by two different metaphors, and the definitions land almost on top of each other: RAE has dar la cara as answering for your own acts and facing the consequences, Treccani has pagare di persona as taking on yourself all the responsibility and consequences of your actions. There is a buried joke in the Italian: persona comes from the Latin for a theatrical mask, so the face is in there after all — one language wears it on the surface, the other has it fossilised in the etymology.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Two traps. First, 'dare la faccia' is not Italian — the face imagery does not survive the crossing at all, so the whole phrase has to be rebuilt. Second, and easier to get wrong: it is pagare DI persona. 'In persona' exists but means in the flesh, not substituted by anyone else — è intervenuto l'ambasciatore in persona. Swap the preposition and you have said the wrong thing.",
+      "it_to_es": "No payment metaphor crosses: 'pagar de persona' is nothing in Spanish. And note what dar la cara can do that pagare di persona cannot — dar la cara POR alguien means to stand up for someone else. Italian needs garantire per qualcuno or mettere la mano sul fuoco for that."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "responsibility",
+    "blame"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "approved",
+    "esReviewer": "jf",
+    "itReviewer": "jf",
+    "reviewedOn": "2026-07-26",
+    "notes": "Drafted by Claude 2026-07-25, replacing an earlier draft of this id that paired dar la cara with 'metterci la faccia' — rejected by Joe on naturalness. Italian side re-sourced from scratch. SOURCES NOT HUMAN-VERIFIED — read out of search results, so verifiedOn/verifiedBy stay null on both sides. Treccani glosses pagare di persona under the `persona` headword as assuming or undergoing all the responsibilities and consequences of one's own actions, with the examples 'siamo stati gli unici ad aver pagato di persona' and 'ha pagato di persona per la sua leggerezza' — the second is used here. ALTERNATIVES CONSIDERED AND SET ASIDE: 'uscire allo scoperto' (real and common, but its centre of gravity is revealing something concealed — going public, coming out — not answering for what you did); 'farsi avanti' (fixed but broader, closer to volunteering or coming forward as a witness); 'assumersi le proprie responsabilità' (accurate, no imagery, would be a collocation not an idiom). FOR THE ITALIAN REVIEWER: (1) Does pagare di persona read as dated or literary to you? It is the one thing I could not judge — Treccani's examples have a slightly formal ring. (2) Is the di/in preposition contrast a real learner error or one I have manufactured? The whole first interference note rests on it. FOR THE SPANISH REVIEWER: regions set pan-regional on RAE's authority — trim if it is not live in MX. ID: reclaims 0112, which this expression already carried; nothing named 0112 exists in the repo, so confirm against the local working copy before merge. CLUSTER NOTE: Spanish sends cara to a different Italian word each time — testa in 0003, viso in the queued buon viso a cattivo gioco, and now nothing at all here. Candidate for a recurring bridge thread on faccia/viso/volto."
+  },
+  "createdOn": "2026-07-25",
+  "retiredReason": null
+}
