@@ -86,7 +86,7 @@ const render=(svg)=>new Resvg(svg,{fitTo:{mode:"width",value:W},font:{fontFiles,
 mkdirSync(join(ROOT,"landing","social"),{recursive:true});
 // Variant B: the caption's voice — warmer, first-person, less declarative.
 function b1(){
-  let o=centreLines("Two languages I love, and the strange little gaps between them.","Newsreader",62,false,C.ink,300,400);
+  let o=centreLines("Two languages I love, and the gaps between them.","Newsreader",62,false,C.ink,300,400);
   o+=`<text x="${MID}" y="790" text-anchor="middle" font-family="IBM Plex Sans" font-size="30" fill="${C.ink2}">Spanish and Italian look like siblings…</text>`;
   return o;
 }
@@ -104,7 +104,7 @@ function b2(){
   return o;
 }
 function b3(){
-  let o=centreLines("So: one pair a day, and the exact place speakers of each slip up in the other.","Newsreader",56,false,C.ink,250,380);
+  let o=centreLines("One pair a day, and the exact place speakers of each slip up in the other.","Newsreader",56,false,C.ink,250,380);
   o+=`<text x="${MID}" y="720" text-anchor="middle" font-family="Newsreader" font-style="italic" font-size="30" fill="${C.ink3}">Clearly I've got a screw loose.</text>`;
   o+=`<text x="${MID}" y="762" text-anchor="middle" font-family="Newsreader" font-style="italic" font-size="30" fill="${C.ink3}">(Or, if you ask an Italian, I'm missing a Friday.)</text>`;
   return o;
