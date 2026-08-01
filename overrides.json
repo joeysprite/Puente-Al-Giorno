@@ -6,6 +6,13 @@
     "letting the pinned entry vanish silently."
   ],
   "overrides": {
-    "2026-07-19": { "id": "0055", "reason": "World Cup final — force the bench/panchina entry" }
+    "2026-07-19": {
+      "id": "0055",
+      "reason": "World Cup final — force the bench/panchina entry"
+    },
+    "2026-08-10": {
+      "id": "0034",
+      "reason": "Launch day. First post of Un puente al giorno — acabo de llegar / sono appena arrivato."
+    }
   }
 }

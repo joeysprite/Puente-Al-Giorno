@@ -1,46 +1,73 @@
 # Apply to joeysprite/Puente-Al-Giorno
-Checked against upstream `9a5203c`, 2026-07-26.
+Checked against upstream `main` (87 commits, `landing: 2026-07-30`), 2026-08-01.
 
-## Result: 152 entries — 129 approved, 20 draft, 3 retired
+## Packaging convention
 
-Up from 0 approved at the start of the day. Roughly **four months** of daily posts.
+**Every upload bundle is a zip that mirrors the repo directory structure**, paths relative to repo root.
+Unzip it and drag the top-level folders onto the repo in the GitHub web UI; paths match, so files land where
+they belong. No `to-apply/` wrapper, no manual `cp` step.
 
-## 1. Bank
-    cp to-apply/bank/*.json  <repo>/bank/
+Consequence worth remembering: **drag-and-drop only adds and overwrites. It cannot delete.** Anything that
+needs removing has to be deleted in the web UI by hand.
 
-No deletions. Nothing here removes an entry.
+## Result: 152 entries — 129 approved, 20 draft, 3 retired. Validator PASS.
 
-Every approved entry has passed both gates: a bridge you reviewed, and source links you checked.
+## 1. Assets — 82 new PNGs
+    landing/cards/    41 files, 1200x630
+    landing/social/   41 files, 1080x1080
 
-**0112 note:** upstream has it at `approved` with `esReviewer`/`itReviewer` both `"jf"`, which fails the
-validator — `jf` holds the *verifier* role, and those fields require reviewers allowlisted as native in
-each language. Set to `native-mx-01`/`native-it-03` here. That was the only defect; your approval stands.
+Closes the asset gap: every approved entry now has both. **All 82 are new files — nothing is overwritten.**
+Committed assets were deliberately left alone; regenerating one yields a visually identical but not
+byte-identical PNG, and churning 88 files for an invisible diff is not worth it.
 
-## 2. Root files
-    cp to-apply/alternatives.json to-apply/CANDIDATES.md to-apply/TODO.md  <repo>/
+## 2. Calendar
+    bank/0060.json    ferragosto -> us_labor_day
+    events.json       adds us_labor_day (nth_weekday, first Monday of September, window 3 before)
+    overrides.json    2026-08-10 -> 0034 (launch day)
 
-## 3. Tools — still missing upstream
-    cp to-apply/tools/*  <repo>/tools/
+0060 *hacer puente / fare il ponte* now lands 2026-09-07. Scheduler invariants verified for 2026, 2027,
+2028 and 2030.
 
-`font-metrics.json` does not exist in your repo. `build-intro.mjs` reads it at line 19 and crashes
-without it, so the intro generator can't run for a fresh clone.
+**Launch day.** 0034 *acabo de llegar / sono appena arrivato* is forced onto 2026-08-10. It displaces
+*quien fue a Sevilla* cleanly to the 11th and cascades the rest of c2 by a day. One wrinkle: 0034 still
+comes round naturally on 2026-09-11, so the launch pair repeats 32 days later. Left as is — flag if that
+should be suppressed.
 
-## 4. Landing
-    cp to-apply/landing/*.png  <repo>/landing/
+**This leaves Ferragosto vacant** — 15 August falls to plain rotation, five days after launch. See TODO §10
+for the three options and why none was picked.
+
+## 3. Reviewer worklists
+    reviewers/REVIEW-ES.md
+    reviewers/REVIEW-IT.md
+
+**Not optional.** `validate.yml` runs `build-review-lists.mjs --check` on every push, and these were stale —
+last generated 2026-07-22, before the approval wave. Pushing without them fails CI. The diff is large because
+it absorbs every status change since that date, not just 0060.
+
+## 4. Log
+    TODO.md           adds §10 — this session
 
 ## 5. Verify
-    node tools/validate.mjs
+    node tools/validate.mjs bank reviewers.json events.json
+    node tools/build-review-lists.mjs --check
     # expect: PASS — 152 entries structurally sound; 129 approved and shippable
+    #         Reviewer lists are current.
 
 ---
 
-## What's left
+## Not in this bundle
+
+**Delete by hand in the web UI:** `landing/cards/` and `landing/social/` each hold `0009`, `0027`, `0042`,
+which have no bank entry. A zip cannot remove them.
+
+**Ferragosto replacement** — undecided. 0075 attaches cleanly; 0080 fits better thematically but carries
+`season: summer`, which the validator forbids alongside an event link; or 0060 can multi-link back onto
+`ferragosto` alongside `us_labor_day`, with a note per link.
+
+**Launch opener** — decided: **0034** *acabo de llegar / sono appena arrivato*, forced via `overrides.json`
+for 2026-08-10. See §2 below.
 
 **20 drafts** still need both gates — 40 source links plus a bridge review:
 0037 0068 0094 0097 0104 0105 0201 0203 0206 0208 0210 0211 0214 0222 0223 0227 0232 0236 0239 0240
 
-**Five entries carry a social editorial flag** (0005, 0008, 0026, 0068, 0105). Vulgar-register content
-stays in the bank; whether it appears verbatim in card copy is a per-post call.
-
-**Scheduling note:** the approved pool skews to idioms. Most remaining markers and collocations sit in
-the 20 unapproved drafts, so a daily feed drawn from this set will feel idiom-heavy.
+At 129 approved the pool runs roughly four months of daily posts, to early December.

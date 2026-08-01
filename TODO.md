@@ -111,3 +111,58 @@ anywhere Italian *prendere* maps onto Spanish. Currently repeated per entry (000
 - **Domain** · **privacy blanks** (legal name, contact email, postal address).
 - **EDITOR worklist** — schema demos 0060/0090/0120 · alternatives A001–A008 · retired formulas 0070/0100/0110 ·
   themed sequences yes/no.
+
+---
+
+## 10. Session 2026-08-01 — asset backfill and calendar
+
+**Asset gap closed.** All 129 approved entries now have both a 1200×630 share card and a 1080×1080 social
+card. 82 PNGs were missing (0064–0117, less 0080/0090/0120) and have been generated. Only new files —
+no committed asset was overwritten. Regenerating an existing card produces a visually identical but not
+byte-identical PNG (the italic line differs slightly; likely a variable-font instance detail in the
+woff2→TTF conversion), so existing assets were deliberately left alone.
+
+**woff2 → TTF conversion, previously unchecked-in.** `build-cards.mjs` and `build-social.mjs` need real
+TTFs at `/tmp/cardfonts`. Recipe, from a clean clone:
+
+    pip install fonttools brotli
+    python3 -c "
+    from fontTools.ttLib import TTFont
+    m={'newsreader-latin-opsz-normal.woff2':'Newsreader.ttf',
+       'newsreader-latin-opsz-italic.woff2':'NewsreaderItalic.ttf',
+       'ibm-plex-mono-latin-400-normal.woff2':'PlexMono.ttf',
+       'ibm-plex-sans-latin-500-normal.woff2':'PlexSans.ttf'}
+    for s,d in m.items():
+        f=TTFont('landing/fonts/'+s); f.flavor=None; f.save('/tmp/cardfonts/'+d)"
+
+**0060 reassigned to US Labor Day.** `events.json` gains `us_labor_day` (nth_weekday, first Monday of
+September, window 3 before). 0060 now lands 2026-09-07. Validator PASS, scheduler invariants hold for
+2026/2027/2028/2030.
+
+**⚠ Ferragosto is now vacant.** With 0060 moved, 15 August falls to plain rotation — in 2026 that is
+0116 *tener el corazón hecho pedazos / avere il cuore a pezzi*, a broken-heart idiom on Italy's biggest
+summer holiday, five days after launch. Options:
+- **0075** *tener buen diente / essere una buona forchetta* — no `season`, no `pin`, attaches cleanly.
+- **0080** *tengo calor / ho caldo* — thematically the closest, but carries `season: summer`, and the
+  validator forbids an entry holding both `events` and a `season`. Taking it means dropping the season.
+- **Multi-link 0060** back onto `ferragosto` alongside `us_labor_day`. The registry explicitly supports
+  one entry serving several occasions; each link would need its own `note`.
+Undecided — left vacant rather than guessed.
+
+**Launch: 10 August 2026 (Monday). Opener is 0034** *acabo de llegar / sono appena arrivato* — Joe's pick,
+written into `overrides.json`. Apt for a first post, and the divergence is the product's thesis in miniature:
+Spanish builds a periphrasis (*acabar de* + infinitive), Italian drops *appena* into the passato prossimo.
+Approved, B1, both assets already committed, no pin/season/event conflicts.
+
+There is no launch-date slot in the repo and none was invented — `schedule.mjs` takes `--from`/`--to` at
+runtime and `daily-landing.yml` just builds "today". The override is the whole mechanism.
+
+*Wrinkle:* 0034 also comes round naturally on 2026-09-11, so the launch pair repeats 32 days later. The
+scheduler does not dedupe overrides against rotation. Tolerable, but suppressible with a second override
+if it grates.
+
+*Posting is manual on Instagram for now* — the override governs the site's determinism, not the feed.
+
+**Orphan assets.** `landing/cards/` and `landing/social/` each still hold 0009, 0027 and 0042, which have
+no bank entry. A drag-and-drop upload only adds and overwrites, so these must be deleted in the GitHub web
+UI directly.

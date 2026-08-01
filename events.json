@@ -155,6 +155,19 @@
         "before": 0,
         "after": 0
       }
+    },
+    "us_labor_day": {
+      "name": "Labor Day (US)",
+      "country": "us",
+      "recurrence": "nth_weekday",
+      "month": 9,
+      "weekday": 1,
+      "nth": 1,
+      "window": {
+        "before": 3,
+        "after": 0
+      },
+      "note": "First Monday of September. The long weekend is the hook: a three-day break bridged onto the weekend, which is what hacer puente / fare il ponte names. Distinct from 1 May, which Spain, Mexico and Italy all observe."
     }
   }
 }
