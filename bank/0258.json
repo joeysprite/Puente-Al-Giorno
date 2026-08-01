@@ -1,0 +1,84 @@
+{
+  "id": "0258",
+  "type": "marker",
+  "cue": "How do you say what a shame?",
+  "es": {
+    "text": "Qué lástima",
+    "literal": "what pity",
+    "meaning": "What a shame; that's a pity.",
+    "example": "¿Se canceló el viaje? Qué lástima, llevabas meses planeándolo.",
+    "exampleTranslation": "The trip got cancelled? What a shame — you'd been planning it for months.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/l%C3%A1stima",
+        "headword": "lástima",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Che peccato",
+    "literal": "what a sin",
+    "meaning": "What a shame; that's a pity.",
+    "example": "Che peccato, l'ultimo treno è appena partito.",
+    "exampleTranslation": "What a shame — the last train has just gone.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/peccato/",
+        "headword": "peccato",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Italy calls a missed train a sin. The word is peccato, the same one used for the theological article, drained of all weight and handed to the smallest disappointments — and Spanish has that word too, pecado, but would never use it this way. Spanish reaches for pity instead: lástima. The pairing looks like it should be the cognate, and the cognate is exactly the wrong door. There is a second door that also fails, and it is the more useful one: qué pena, the phrase a learner is most likely to pick up as an alternative, does not carry the same meaning everywhere in the Spanish-speaking world.",
+    "tags": [
+      "false_friend",
+      "interference_risk",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "The obvious cognate is a trap in reverse — 'qué pecado' is not the Spanish for this and will be heard literally, as a moral judgement. Spanish wants lástima.",
+      "it_to_es": "Reach for lástima, not pena. 'Qué pena' looks like a safe synonym and is not: across the Spanish-speaking world it can land as what a shame, as I'm sorry / excuse me, or as how embarrassing, and which reading comes first varies by place and by context. Usage is not uniform even within a single country, so the point is not to memorise a map — it is that qué pena is unreliable across borders where qué lástima is not. For pity as an emotion rather than a reaction, Italian uses pietà or compassione, not peccato."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "disappointment",
+    "religion",
+    "discourse"
+  ],
+  "cefr": "A2",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 3 (CANDIDATES.md Top picks 30); revised same day on Joe's direction. SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. ES SIDE CHANGED FROM THE CANDIDATE ROW: CANDIDATES.md offered 'qué pena / qué lástima' as alternates; lástima is the anchor because it travels reliably and 'qué pena' does not. REGIONAL CLAIMS DELIBERATELY KEPT NON-SPECIFIC per standing editorial principle (see REVIEW_PROCESS.md): sources do converge on 'qué pena' reading as sorry/excuse me in Colombia and leaning toward embarrassment in Mexico, but pinning one reading to one country overstates what anyone can know — usage varies within countries, by register, by generation and by context. The bridge therefore says the phrase is unreliable across borders WITHOUT mapping reading to country. If a reviewer wants to name specific regional facts they are welcome to, and their name goes on it. ONWARD: 'qué pena' as a pan-Hispanic false friend is arguably a stronger entry than this one — logged for Joe, not decided. ES REVIEWER: does the non-specific framing match your experience, or is it too vague to be useful to a learner?"
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

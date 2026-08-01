@@ -1,0 +1,82 @@
+{
+  "id": "0280",
+  "type": "marker",
+  "cue": "How do you say same here in one word?",
+  "es": {
+    "text": "Ídem",
+    "literal": "the same",
+    "meaning": "Likewise; ditto — the same applies to me or to this.",
+    "example": "—Yo pedí el pescado. —Ídem.",
+    "exampleTranslation": "—I ordered the fish. —Same.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/%C3%ADdem",
+        "headword": "ídem",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Idem",
+    "literal": "the same",
+    "meaning": "Likewise; same here.",
+    "example": "—Io ho preso il pesce. —Idem.",
+    "exampleTranslation": "—I had the fish. —Same.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/idem/",
+        "headword": "idem",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "One Latin word, borrowed whole by both languages and left almost untouched — which is rare enough to be worth pointing at, since most of what Spanish and Italian share arrived by inheritance and got worn down differently on the way. Here the only thing either language did to it was spelling: Spanish added an accent because its own stress rules demanded one, ídem, while Italian left it bare. Same word, same job, one diacritic of difference.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Drop the accent. Italian writes idem, and Italian does not use written accents on this kind of borrowed word.",
+      "it_to_es": "Spanish requires the accent — ídem — because the word is stressed on the first syllable and ends in -m, which Spanish orthography marks. Writing 'idem' in Spanish is a spelling error, not a variant."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "agreement",
+    "discourse"
+  ],
+  "cefr": "B1",
+  "difficulty": 1,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 7 (CANDIDATES.md Freebies 23, from the @italianario tier-C Instagram set). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. THE REGISTER QUESTION FROM THE CANDIDATE ROW IS STILL OPEN AND MATTERS: the row asked whether Spanish 'ídem' reads bookish or jokey where Italian 'idem' is ordinary casual speech. I have set BOTH to colloquial/neutral, which assumes they match — if they do not, this becomes a register_differs entry and the bridge needs rewriting around that instead of the accent. ES REVIEWER, this is the deciding question: would you actually say 'ídem' out loud in conversation in MX, or does it belong to writing and to jokes? IT REVIEWER: same for Italian, and confirm the source card's framing that 'idem' is the natural spoken upgrade over 'anche io'. DIFFICULTY SET TO 1 and the entry's only trap is an accent mark — this is close to the floor of what earns a bank slot, and if the register question resolves as 'they match', consider whether it is worth shipping at all."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

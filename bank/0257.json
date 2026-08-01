@@ -1,0 +1,83 @@
+{
+  "id": "0257",
+  "type": "collocation",
+  "cue": "How do you say wherever you end up, something stays true?",
+  "es": {
+    "text": "A donde quiera que vayas",
+    "literal": "to where it may want that you go",
+    "meaning": "Wherever you go; in whatever place you find yourself.",
+    "example": "A donde quiera que vayas, vas a encontrar a alguien que te recuerde a casa.",
+    "exampleTranslation": "Wherever you go, you'll find someone who reminds you of home.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/querer",
+        "headword": "querer",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Ovunque tu vada",
+    "literal": "wherever you may go",
+    "meaning": "Wherever you go; in whatever place you find yourself.",
+    "example": "Ovunque tu vada, porta con te questa abitudine.",
+    "exampleTranslation": "Wherever you go, take this habit with you.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/ovunque/",
+        "headword": "ovunque",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages send the verb into the subjunctive and both mean exactly the same thing, so the lesson is not in the meaning — it is in what each language has to spell out. Spanish builds a small machine to get there: a donde + quiera + que + vayas, four words of scaffolding, and the ending on vayas already says who is going. Italian needs one word, ovunque — but then it needs a pronoun Spanish can leave out, because Italian's subjunctive vada is identical for I, you and he. Drop the tu and nobody knows whose journey it is.",
+    "tags": [
+      "interference_risk",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": "Keep the pronoun. Spanish drops subject pronouns as a matter of course and the habit is hard to break, but 'ovunque vada' leaves the person ambiguous — Italian wants 'ovunque TU vada'. And do not rebuild the Spanish scaffolding: there is no Italian equivalent of the quiera que frame.",
+      "it_to_es": "Spanish does not need the pronoun and adding it sounds heavy — 'a donde quiera que tú vayas' is possible but marked. Note the spelling too: 'adondequiera que vayas' written as one word is also correct, which surprises learners who have only seen it split."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "place",
+    "subjunctive",
+    "farewell"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 3 (CANDIDATES.md Top picks 22). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. TYPE: drafted first as `formula`, rejected by the validator — `formula` in this schema requires a pin/pinWindow/event link, i.e. it means an occasion-bound greeting, not any fixed phrase. Corrected to `collocation`. This also settles a scope worry worth recording: 0070/0100/0110 were retired for being `formula`, but they were CALENDAR greetings (new year, mother's day). This entry is a fixed subordinate frame with a slot, so it is not the retired type and the v1 scope exclusion does not apply to it. ES REVIEWER: is the one-word spelling 'adondequiera' the MX preference? IT REVIEWER: confirm the obligatory 'tu' — the entire bridge rests on it, and if Italians routinely drop it in speech the entry needs rewriting."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

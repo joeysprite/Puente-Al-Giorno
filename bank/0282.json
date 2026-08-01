@@ -1,0 +1,82 @@
+{
+  "id": "0282",
+  "type": "idiom",
+  "cue": "How do you say someone got a stiff gathering going?",
+  "es": {
+    "text": "Romper el hielo",
+    "literal": "to break the ice",
+    "meaning": "To ease the initial awkwardness between people.",
+    "example": "Nadie hablaba hasta que ella contó lo del perro y rompió el hielo.",
+    "exampleTranslation": "Nobody was talking until she told the story about the dog and broke the ice.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/hielo",
+        "headword": "hielo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Rompere il ghiaccio",
+    "literal": "to break the ice",
+    "meaning": "To ease the initial awkwardness between people.",
+    "example": "Nessuno parlava finché lei non ha raccontato quella storia del cane e ha rotto il ghiaccio.",
+    "exampleTranslation": "Nobody was talking until she told that story about the dog and broke the ice.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/ghiaccio/",
+        "headword": "ghiaccio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Verb for verb, article for article, this is the same sentence twice. Nothing changes at the border — not the preposition, not the number, not the register. That is worth one entry's worth of saying plainly, because a learner who has met a dozen idioms that almost match will hesitate over this one too, and the useful information is that there is nothing to hesitate about.",
+    "tags": [
+      "cognate_pair",
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": "Nothing to correct. The only thing to notice is the past participle, which is irregular in Italian: ha ROTTO il ghiaccio, not 'ha romputo'.",
+      "it_to_es": "Nothing to correct. Spanish's participle is also irregular in the same place: ha ROTO el hielo, not 'ha rompido'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "socialising",
+    "ice"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 8 (CANDIDATES.md Freebies 7). NO TRAP EXISTS AND THE ENTRY SAYS SO. Two hunts — the batch-wide freebie audit and a second dedicated pass before drafting — found nothing: no preposition, article, number, register or valence divergence. The only content I could honestly add is that both languages happen to have an irregular participle for 'break', which is a real parallel but is not an interference point. THIS IS A CONFIDENCE-BUILDER, in the same family as 0244 and 0274, and Joe should decide whether the bank ships it at all rather than approving it as a normal entry. It carries two EASY tags and difficulty 1, so it counts fully against the 33% easy-only ceiling while teaching the least of anything drafted so far. My recommendation: hold it back unless the product wants a deliberate 'you already know this one' slot."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

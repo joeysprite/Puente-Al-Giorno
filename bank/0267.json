@@ -1,0 +1,82 @@
+{
+  "id": "0267",
+  "type": "idiom",
+  "cue": "How do you say someone panics over nothing?",
+  "es": {
+    "text": "Ahogarse en un vaso de agua",
+    "literal": "to drown oneself in a glass of water",
+    "meaning": "To be overwhelmed by a trivial problem.",
+    "example": "Es un correo, no te ahogues en un vaso de agua.",
+    "exampleTranslation": "It's one email — don't make a crisis out of nothing.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/ahogar",
+        "headword": "ahogar",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Affogare in un bicchier d'acqua",
+    "literal": "to drown in a glass of water",
+    "meaning": "To be overwhelmed by a trivial problem.",
+    "example": "È una mail, non affogare in un bicchier d'acqua.",
+    "exampleTranslation": "It's one email — don't make a crisis out of nothing.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/affogare/",
+        "headword": "affogare",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Identical picture, three small things wrong with the crossing. The glass is a false friend — Spanish vaso, Italian bicchiere, because an Italian vaso holds flowers. Spanish drowns you reflexively, ahogarSE, doing it to yourself; Italian just drowns, affogare, no pronoun. And Italian clips the noun inside the phrase: bicchier d'acqua, not bicchiere d'acqua, an apocopation that only happens because the word is leaning on what follows it.",
+    "tags": [
+      "false_friend",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Three at once. No reflexive — 'affogarsi in un bicchier d'acqua' is wrong, Italian says affogare. The glass is a bicchiere, never a vaso. And keep the clipped form, bicchier d'acqua; the full bicchiere sounds heavy inside the idiom even though it is the correct word on its own.",
+      "it_to_es": "Spanish needs the reflexive back — ahogarSE — and the glass is a vaso. Spanish does not clip: it is un vaso de agua, in full. SEE ALSO 0265 and 0266, where the same vaso/bicchiere false friend appears in the half-full/half-empty pair."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "overreaction",
+    "water"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 5 (CANDIDATES.md Freebies 6). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. CAME IN AS 'exact twin — freebie' (FluentU) and the audit found three separate traps in it, which is the clearest evidence so far that the tier-C freebie rows were never actually examined. THE APOCOPATION CLAIM NEEDS CONFIRMING: I assert 'bicchier d'acqua' is the fixed form and full 'bicchiere d'acqua' sounds heavy inside the idiom. IT REVIEWER, is that right, or are both equally current? If both are fine, cut the third trap and keep the other two. See cluster saturation warning on 0265."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

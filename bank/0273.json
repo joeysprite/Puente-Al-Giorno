@@ -1,0 +1,81 @@
+{
+  "id": "0273",
+  "type": "idiom",
+  "cue": "How do you say someone is moving with exaggerated care?",
+  "es": {
+    "text": "Andar pisando huevos",
+    "literal": "to walk stepping on eggs",
+    "meaning": "To move maddeningly slowly; also, to proceed with excessive caution.",
+    "example": "Vamos a llegar tardísimo, el taxista anda pisando huevos.",
+    "exampleTranslation": "We're going to be so late — the driver is crawling along.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es"
+    ],
+    "regionNote": "Reviewer to confirm the region list and which sense dominates where.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/huevo",
+        "headword": "huevo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Camminare sulle uova",
+    "literal": "to walk on eggs",
+    "meaning": "To proceed with great delicacy around something sensitive.",
+    "example": "Con lui bisogna camminare sulle uova: qualsiasi cosa dici la prende male.",
+    "exampleTranslation": "You have to tread carefully with him — he takes everything the wrong way.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/uovo/",
+        "headword": "uovo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same eggs underfoot, and the two languages take different lessons from them. Italian keeps the fear: you are walking on something that breaks, so you are delicate, and what you are being delicate about is usually a person's feelings. Spanish keeps the speed: whatever the reason, you are barely moving, and the phrase is most often an accusation shouted at a slow driver. One is about care, the other about pace, and the picture supports both.",
+    "tags": [
+      "false_friend",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Do not use it about slowness. 'Cammina sulle uova' says he is being delicate, not that he is dawdling — for a crawling driver Italian says 'va a passo d'uomo' or 'va piano come una lumaca'.",
+      "it_to_es": "The delicacy sense exists in Spanish but competes with the speed sense, and the speed sense often wins the listener. To be unambiguous about treading carefully around someone, Spanish has 'andar con pies de plomo'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "caution",
+    "speed",
+    "food"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 6 (CANDIDATES.md Freebies 4). CAME IN AS 'near twin, eggs both sides' AND MAY NOT BE A PAIR AT ALL — this is the entry most likely in this batch to be dissolved rather than approved. The audit flagged ES=slowness / IT=caution; I have drafted it as a genuine divergence, on the 0028 (frittata) model where near-identical imagery hides a real split. BUT: if the reviewers say the two senses barely overlap, this is not a pairing, it is two expressions that happen to share an image, and it belongs in Risk or dissolved entirely. ES REVIEWER, THIS IS THE DECIDING QUESTION: in MX, does 'andar pisando huevos' mean slow, careful, or both, and which comes first to your ear? I have listed both senses in es.meaning on the assumption of both; if it is slowness only, the entry has no bridge. IT REVIEWER: can 'camminare sulle uova' ever mean slowly? SOURCES NOT HUMAN-VERIFIED and RAE may file this under `huevo` sub-senses or not at all — check."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

@@ -1,0 +1,82 @@
+{
+  "id": "0261",
+  "type": "idiom",
+  "cue": "How do you describe a room gone completely silent?",
+  "es": {
+    "text": "No oír ni el vuelo de una mosca",
+    "literal": "not to hear even the flight of a fly",
+    "meaning": "For a place to be completely silent.",
+    "example": "Cuando entró el director no se oía ni el vuelo de una mosca.",
+    "exampleTranslation": "When the head walked in you could have heard a pin drop.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/mosca",
+        "headword": "mosca",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Sentire volare una mosca",
+    "literal": "to hear a fly fly",
+    "meaning": "For a place to be completely silent — used in the negative frame 'si sentirebbe volare una mosca'.",
+    "example": "In aula si sarebbe sentito volare una mosca.",
+    "exampleTranslation": "You could have heard a pin drop in that lecture hall.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/mosca/",
+        "headword": "mosca",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages measure silence with the same fly, and then point the sentence in opposite directions. Spanish says you could NOT hear it — no se oía ni el vuelo de una mosca, a negative, with the fly as the smallest thing there was to miss. Italian says you COULD — si sentirebbe volare una mosca, a conditional, with the fly as the smallest thing that would still register. Same insect, same room, and the logic runs backwards between them.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Do not carry the negation over. 'Non si sentiva volare una mosca' inverts the Italian idiom into something odd; Italian frames it positively and conditionally — si sentirebbe / si sarebbe sentito volare una mosca. Note the verb too: Italian hears the fly FLY (volare, an infinitive), where Spanish hears its FLIGHT (el vuelo, a noun).",
+      "it_to_es": "Spanish requires the negative and the noun: no se oía ni el VUELO de una mosca. 'Se oiría volar una mosca' is comprehensible but is not the fixed Spanish form, and dropping the 'ni' loses the emphasis the idiom depends on."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "silence",
+    "animals"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 4 (CANDIDATES.md Top picks 36). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened; both should carry the phrase under `mosca`/`mosca`. THE POLARITY CLAIM IS THE ENTRY AND IT NEEDS CHECKING. I have framed Italian as positive-conditional (si sentirebbe volare una mosca) against Spanish negative (no se oía ni el vuelo). If Italian also commonly takes the negative — 'non si sentiva volare una mosca' — then the central contrast collapses and this becomes a near-twin with only the volare/vuelo word-class difference left. IT REVIEWER, this is the question that decides the entry. Also confirm the citation form: I have used the bare infinitive phrase as `it.text` since the idiom only ever appears inside a frame; if the entry should instead cite the full conditional, say so. FOURTH mosca/fly entry in the bank or queue (cf. 0084, 0085) — check saturation before scheduling."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

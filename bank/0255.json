@@ -1,0 +1,82 @@
+{
+  "id": "0255",
+  "type": "idiom",
+  "cue": "How do you say someone looks down on everyone?",
+  "es": {
+    "text": "Creerse la última Coca-Cola del desierto",
+    "literal": "to believe oneself the last Coca-Cola in the desert",
+    "meaning": "To think far too highly of oneself; to act as though one were irreplaceable.",
+    "example": "Desde que lo ascendieron se cree la última Coca-Cola del desierto.",
+    "exampleTranslation": "Since the promotion he thinks he's God's gift.",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "mx",
+      "co",
+      "ar"
+    ],
+    "regionNote": "Latin American; not current in Spain, where 'tener muchos humos' or 'creerse el ombligo del mundo' do the same work. Reviewer to confirm the country list.",
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://context.reverso.net/traduccion/espanol-italiano/la+%C3%BAltima+Coca-Cola+del+desierto",
+        "headword": "la última Coca-Cola del desierto",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere la puzza sotto il naso",
+    "literal": "to have the stink under one's nose",
+    "meaning": "To be snobbish and disdainful, treating others as beneath one.",
+    "example": "È bravissima, ma ha una puzza sotto il naso che allontana tutti.",
+    "exampleTranslation": "She's very good at the job, but she's so stuck-up that people keep their distance.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/puzza/",
+        "headword": "puzza",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Two kinds of arrogance, and they are not aimed the same way. The Italian points outward: something in the room smells, and it is you — a face permanently wrinkled at other people. The Spanish points inward: a bottle of Coca-Cola in a desert, the most wanted thing for miles, and the joke is that you have decided you are it. One is contempt for everyone else, the other is an inflated sense of yourself. They overlap in practice — the snob usually thinks well of himself — but the axis is different, and the imagery is honest about which.",
+    "tags": [
+      "interference_risk",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "The Coca-Cola does not travel: it is Latin American and lands nowhere in Italy. And note the aim — puzza sotto il naso is about how you treat OTHERS, so it fits someone cold and superior rather than someone merely vain. For pure self-regard Italian says 'se la tira' or 'si crede chissà chi'.",
+      "it_to_es": "'Tener el olor bajo la nariz' is nothing in Spanish. Watch the register too: the Coca-Cola phrase is jokey and informal and would be out of place in an exam or a formal complaint, where puzza sotto il naso sits comfortably in ordinary speech. The closer structural match in Spanish is 'tener muchos humos'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "arrogance",
+    "smell",
+    "character"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 3 (CANDIDATES.md Top picks 20). SOURCES NOT HUMAN-VERIFIED, and the ES source is weak — Reverso is a corpus aggregator, not a dictionary, and no RAE/CVC citation exists for a phrase this informal and this recent. If the entry is kept, the ES side needs either a Mexican dictionary citation (see the standing authority-gap note on 0243) or acceptance that Corpus is the best available tier. AXIS MISMATCH IS THE ENTRY'S POINT but also its risk: IT = disdain for others, ES = inflated self-regard. If the reviewers judge the gap too wide, CANDIDATES.md logs 'tener humos' as the structurally closer ES alternate (verb + noun, same shape as avere la puzza). ES REVIEWER: (1) regions set mx/co/ar — trim or extend. (2) Is this current or does it read as dated slang? IT REVIEWER: does 'puzza sotto il naso' ever describe simple vanity, or is it always directed at others?"
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

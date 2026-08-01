@@ -1,0 +1,82 @@
+{
+  "id": "0260",
+  "type": "marker",
+  "cue": "How do you check whether someone actually means it?",
+  "es": {
+    "text": "¿En serio?",
+    "literal": "in serious?",
+    "meaning": "Really? Are you serious?",
+    "example": "¿Te vas a vivir a Oaxaca? ¿En serio?",
+    "exampleTranslation": "You're moving to Oaxaca? Really?",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/serio",
+        "headword": "serio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Sul serio",
+    "literal": "on the serious",
+    "meaning": "Seriously; for real — as a question, really?, and as an adverb, in earnest.",
+    "example": "Hai dato le dimissioni? Sul serio?",
+    "exampleTranslation": "You resigned? Seriously?",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/serio/",
+        "headword": "serio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same adjective, same job, different preposition holding it up: Spanish stands it in seriousness, Italian on it. The two behave the same as a one-word challenge across a table, but Italian's phrase does a second shift Spanish does not follow — sul serio also works as a plain adverb meaning in earnest, attached to a verb: dirlo sul serio, to mean it. Spanish needs a different construction for that job.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The preposition changes and there is no logic to lean on: it is SUL serio, not 'in serio'. And the Italian goes further than the Spanish question — 'lo dico sul serio' means I mean it, a use where Spanish switches to 'lo digo en serio' or 'va en serio'.",
+      "it_to_es": "Spanish takes EN serio. Watch the article too: Italian has one baked in (su + il = sul), Spanish has none."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "discourse",
+    "disbelief"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 4 (CANDIDATES.md Top picks 32). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened; confirm both dictionaries carry the locution rather than just the adjective. LOW DIFFICULTY BY DESIGN: this is an A2 preposition contrast, deliberately near the easy end. The bank caps easy-only entries at 33%, but this one carries preposition_differs (a high-value tag), so it counts toward the floor rather than the ceiling — flagging in case that feels like gaming the metric. IT REVIEWER: is bare 'sul serio?' as a standalone question as natural as 'davvero?' or does davvero dominate? If davvero is the default reaction word, the ES anchor may be better paired with davvero and this entry rewritten around the adverbial use instead."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

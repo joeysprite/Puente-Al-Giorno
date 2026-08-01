@@ -1,0 +1,82 @@
+{
+  "id": "0278",
+  "type": "idiom",
+  "cue": "How do you say someone put the wrong person in charge?",
+  "es": {
+    "text": "Encomendar las ovejas al lobo",
+    "literal": "to entrust the sheep to the wolf",
+    "meaning": "To put something in the care of the very person likely to destroy it.",
+    "example": "Lo pusieron a auditar la cuenta que él mismo abrió: encomendar las ovejas al lobo.",
+    "exampleTranslation": "They had him audit the account he opened himself — putting the fox in charge of the henhouse.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/",
+        "headword": "encomendar las ovejas al lobo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Dare le pecore in custodia al lupo",
+    "literal": "to give the sheep into the wolf's keeping",
+    "meaning": "To put something in the care of the very person likely to destroy it.",
+    "example": "Gli hanno affidato la cassa: dare le pecore in custodia al lupo.",
+    "exampleTranslation": "They put him in charge of the till — the fox minding the henhouse.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/lupo/",
+        "headword": "lupo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same sheep, same wolf, and a difference in how much machinery each language needs to say entrust. Spanish has a single verb for it, encomendar, and the sentence is done. Italian builds it out of parts — dare in custodia, give into keeping — three words where Spanish uses one, which is the reverse of the usual direction between these two languages. Both are also quietly resisting English, which abandoned the sheep entirely and put a fox in charge of a henhouse.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Raccomandare le pecore al lupo' does not work — raccomandare is a false friend here, meaning to recommend or to entrust in a much weaker sense. Italian needs the periphrasis: dare in custodia, or affidare.",
+      "it_to_es": "Spanish compresses. 'Dar las ovejas en custodia al lobo' is understandable but heavy; the fixed form uses encomendar, a verb Italian has no single equivalent for."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "misplaced_trust",
+    "animals"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 7 (CANDIDATES.md Freebies 3). SOURCES WEAK ON BOTH SIDES — ES is a bare refranero root URL, IT is a `lupo` headword that may not carry this specific phrasing. THE ITALIAN FORM IS THE MAIN RISK: 'dare le pecore in custodia al lupo' came from the candidate row and I could not confirm it is the standard Italian phrasing. Italians may more naturally say 'affidare le pecore al lupo' or use a different animal frame entirely. IT REVIEWER, THIS DECIDES THE ENTRY: is the phrase as given idiomatic, and if not, what is? If the Italian side needs replacing, the whole encomendar/dare-in-custodia contrast that the bridge rests on may disappear. FIFTH wolf entry across bank and queue (cf. 0039, 0079, and two queued) — saturation check before scheduling."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

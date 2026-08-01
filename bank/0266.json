@@ -1,0 +1,82 @@
+{
+  "id": "0266",
+  "type": "idiom",
+  "cue": "How do you say someone always sees the downside?",
+  "es": {
+    "text": "Ver el vaso medio vacío",
+    "literal": "to see the glass half empty",
+    "meaning": "To take the pessimistic view of a situation.",
+    "example": "Nos aprobaron el presupuesto y él ya ve el vaso medio vacío pensando en el año que viene.",
+    "exampleTranslation": "Our budget got approved and he's already seeing the glass half empty, worrying about next year.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/vaso",
+        "headword": "vaso",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Vedere il bicchiere mezzo vuoto",
+    "literal": "to see the glass half empty",
+    "meaning": "To take the pessimistic view of a situation.",
+    "example": "Gli hanno offerto il posto e vede già il bicchiere mezzo vuoto per via del trasferimento.",
+    "exampleTranslation": "They offered him the job and he's already seeing the glass half empty because of the move.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/bicchiere/",
+        "headword": "bicchiere",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The other half of the same glass, and the same false friend guarding it. Spanish sees a vaso medio vacío; Italian a bicchiere mezzo vuoto — because Italian's vaso holds flowers, not water. Worth noticing that both languages built the pessimist and the optimist from one image and one adjective swap, which is not obvious: a language could easily have had an idiom for one and nothing for the other.",
+    "tags": [
+      "false_friend",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Same trap as its optimist twin: the glass is a bicchiere, never a vaso. Watch the adjective too — Italian vuoto, not 'vacuo', which exists in Italian but means vacuous in the abstract sense.",
+      "it_to_es": "Spanish takes vacío and the glass is a vaso. SEE ALSO 0265, the optimist's version, and 0267, where the same vaso/bicchiere false friend appears inside a different idiom."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "pessimism",
+    "perception"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 5 (CANDIDATES.md Freebies 21, second half). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. SIBLING OF 0265; the candidate row listed both polarities together and the one-expression-one-entry norm says two entries, so this is the split. THE vuoto/vacuo NOTE IS MINE AND UNVERIFIED — I claim Italian 'vacuo' exists but is abstract-only. IT REVIEWER, confirm or cut. See the cluster saturation warning on 0265: three drafted entries now share drinking-glass vocabulary."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

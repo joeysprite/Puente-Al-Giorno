@@ -1,0 +1,83 @@
+{
+  "id": "0281",
+  "type": "idiom",
+  "cue": "How do you describe the flutter of nerves before something big?",
+  "es": {
+    "text": "Tener mariposas en el estómago",
+    "literal": "to have butterflies in the stomach",
+    "meaning": "To feel a nervous flutter, usually from excitement or attraction.",
+    "example": "Cada vez que la ve tiene mariposas en el estómago.",
+    "exampleTranslation": "He gets butterflies every time he sees her.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/mariposa",
+        "headword": "mariposa",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere le farfalle nello stomaco",
+    "literal": "to have the butterflies in the stomach",
+    "meaning": "To feel a nervous flutter, usually from excitement or attraction.",
+    "example": "Ogni volta che la vede ha le farfalle nello stomaco.",
+    "exampleTranslation": "He gets butterflies every time he sees her.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/farfalla/",
+        "headword": "farfalla",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "These two match because neither of them invented it. Butterflies in the stomach is an English expression that both languages took in during the last century, which is why the images line up perfectly where older shared idioms usually differ by a word or an animal. That makes this a useful thing to notice rather than a coincidence to admire: when two Romance idioms agree exactly, a recent English original is often the reason. What each language did do is its own grammar — Italian takes the definite article, LE farfalle, and folds the preposition into it, NELLO stomaco; Spanish does neither.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Italian wants the article Spanish leaves out — ho LE farfalle nello stomaco — and contracts in + lo into nello, because stomaco takes lo rather than il. 'In il stomaco' is doubly wrong.",
+      "it_to_es": "Spanish drops the article and keeps the preposition separate: mariposas EN EL estómago, not 'las mariposas'. And Spanish marks the stress — estómago — where Italian does not."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "nerves",
+    "love",
+    "animals"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 7 (CANDIDATES.md Freebies 17). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened, and both may lack the locution since it is recent. THE ENGLISH-BORROWING CLAIM IS THE BRIDGE AND IT IS UNVERIFIED: I assert both sides are 20th-century calques of the English phrase rather than parallel native developments. It is very likely right — the perfection of the match is itself the evidence — but it is an etymological claim stated as fact to subscribers, so it needs a source or a reviewer's confirmation before approval, not just plausibility. If either language turns out to have an older independent attestation, the whole bridge is wrong. EDITORIAL: this entry is the clearest test case for whether the bank is willing to say 'this pair is easy because it is borrowed' out loud. 0279 (luce in fondo al tunnel) has the same provenance issue and I did NOT put it in the learner-facing bridge there — the two should be handled the same way once Joe decides which."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

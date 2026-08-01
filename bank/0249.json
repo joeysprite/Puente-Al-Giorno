@@ -1,0 +1,57 @@
+{
+  "id": "0249",
+  "type": "idiom",
+  "cue": "How do you say someone is tough and hard to get past?",
+  "es": {
+    "text": "Ser un hueso duro de roer",
+    "literal": "to be a bone hard to gnaw",
+    "meaning": "To be tough — a person or problem that resists being dealt with easily.",
+    "example": "El portero rival es un hueso duro de roer.",
+    "exampleTranslation": "Their keeper is a tough nut to crack.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": ["mx", "es", "ar", "co"],
+    "regionNote": null,
+    "sources": [
+      { "authority": "RAE (DLE)", "url": "https://dle.rae.es/hueso", "headword": "hueso", "verifiedOn": null, "verifiedBy": null }
+    ]
+  },
+  "it": {
+    "text": "Essere un osso duro",
+    "literal": "to be a hard bone",
+    "meaning": "To be tough — a person or obstacle that does not give way easily.",
+    "example": "In trattativa è un osso duro: non concede niente.",
+    "exampleTranslation": "He's tough in a negotiation — gives away nothing.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": ["it"],
+    "regionNote": null,
+    "sources": [
+      { "authority": "Treccani", "url": "https://www.treccani.it/vocabolario/osso/", "headword": "osso", "verifiedOn": null, "verifiedBy": null }
+    ]
+  },
+  "bridge": {
+    "note": "The same bone, and one language keeps chewing. Italian stops at the object: un osso duro, a hard bone, and leaves you to infer why that is a problem. Spanish finishes the thought out loud — duro DE ROER, hard TO GNAW — naming the failed attempt as part of the phrase. It is a small difference in where each language thinks the idiom ends, and it is the whole of the trap: the Spanish tail has no Italian counterpart to translate, and the Italian brevity sounds unfinished in Spanish.",
+    "tags": ["shared_metaphor", "interference_risk"],
+    "interference": {
+      "es_to_it": "Do not carry the tail across. 'Un osso duro da rodere' is not the Italian idiom — it stops at duro, and adding the gnawing clause marks the phrase as translated.",
+      "it_to_es": "Spanish sounds truncated without it. 'Es un hueso duro' alone is understood but incomplete; the fixed form runs to de roer. Note also that Spanish hueso carries an unrelated sense — a difficult teacher or subject, 'esa materia es un hueso' — which Italian osso does not share."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": ["difficulty", "character"],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 1. SOURCES NOT HUMAN-VERIFIED; both URLs constructed from the standard headword pattern, not opened — check both. REPLACES/SUPERSEDES a candidate row: CANDIDATES.md Risk 2 pairs 'dar en un hueso' with 'trovare un osso duro', i.e. the ENCOUNTER form on both sides, and was already flagged there as a meaning mismatch. This entry uses the BE form (ser/essere) describing a person's or obstacle's character, which fits far more tightly. Recommend Risk 2 be dropped or given a genuinely encounter-specific pairing, not left as a near-duplicate of this. FOR THE SPANISH REVIEWER: (1) Is 'de roer' genuinely obligatory in MX, or is bare 'es un hueso duro' equally idiomatic there? The second interference note depends on this. (2) Is the teacher/subject sense of 'hueso' current in MX or Peninsular-only? FOR THE ITALIAN REVIEWER: confirm 'osso duro da rodere' really is non-idiomatic — I have asserted it and cannot verify from sources. EXAMPLES ARE ORIGINAL."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

@@ -1,0 +1,82 @@
+{
+  "id": "0284",
+  "type": "proverb",
+  "cue": "How do you tell someone to stop forcing it and let it develop?",
+  "es": {
+    "text": "Dar tiempo al tiempo",
+    "literal": "to give time to time",
+    "meaning": "To let matters take their course instead of forcing them.",
+    "example": "No la presiones con la respuesta; hay que dar tiempo al tiempo.",
+    "exampleTranslation": "Don't push her for an answer — you have to let it take its course.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/tiempo",
+        "headword": "tiempo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Dare tempo al tempo",
+    "literal": "to give time to time",
+    "meaning": "To let matters take their course instead of forcing them.",
+    "example": "Non insistere per una risposta; bisogna dare tempo al tempo.",
+    "exampleTranslation": "Don't push for an answer — you have to let it take its course.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/tempo1/",
+        "headword": "tempo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Four words, four matches, no divergence at all in the infinitive. The trap appears only when Italian puts it in the imperative, which is how the phrase is most often heard: dai tempo al tempo. That dai is one of the busiest strings in Italian — the imperative of dare, the contraction of da + i, and the standalone interjection meaning come on — and a Spanish speaker meeting it inside a proverb has no way to know which one is being used.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The imperative is dai, not 'da' — and it is not the preposition. Spanish's own imperative is da tiempo al tiempo, one letter short of the Italian, which makes the Italian look like a typo rather than a different word.",
+      "it_to_es": "Spanish has no equivalent of the dai ambiguity: its imperative is simply da. Watch the noun instead — Spanish tiempo covers both time and weather, exactly as Italian tempo does, so this pair is safe where the neighbouring vocabulary is not."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "patience",
+    "time"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 8 (CANDIDATES.md Freebies 15). CAME IN MARKED 'NO TRAP FOUND — word-for-word identical'; a second pass found the dai ambiguity, which only appears in the imperative. THAT MEANS THE ENTRY'S CONTENT IS NOT IN ITS OWN CITATION FORM — it.text is the infinitive 'dare tempo al tempo' but the trap lives in 'dai tempo al tempo'. Either the citation form should change to the imperative (which is how the phrase is usually heard) or the bridge is teaching something adjacent to the entry. IT REVIEWER, please advise which form should be the headword. If you say the infinitive is correct as the citation, this entry probably drops back to trap-free and should be treated like 0282. SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

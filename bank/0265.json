@@ -1,0 +1,82 @@
+{
+  "id": "0265",
+  "type": "idiom",
+  "cue": "How do you say someone always looks on the bright side?",
+  "es": {
+    "text": "Ver el vaso medio lleno",
+    "literal": "to see the glass half full",
+    "meaning": "To take the optimistic view of a situation.",
+    "example": "Perdimos el cliente, pero ella ve el vaso medio lleno: dice que aprendimos más en tres meses que en dos años.",
+    "exampleTranslation": "We lost the client, but she sees the glass half full — she says we learned more in three months than in two years.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/vaso",
+        "headword": "vaso",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Vedere il bicchiere mezzo pieno",
+    "literal": "to see the glass half full",
+    "meaning": "To take the optimistic view of a situation.",
+    "example": "Ha perso il treno e vede il bicchiere mezzo pieno: dice che così visita il museo.",
+    "exampleTranslation": "He missed his train and sees the glass half full — says now he gets to visit the museum.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/bicchiere/",
+        "headword": "bicchiere",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same glass, the same half, the same optimism — and a false friend sitting in the middle of it. Spanish holds a vaso. Italian has that word too, vaso, and it means a vase or a jar: something you put flowers or preserves in, not something you drink from. Italian's drinking glass is a bicchiere. So the one word a Spanish speaker would never think to check is the one word that has to change.",
+    "tags": [
+      "false_friend",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Il vaso mezzo pieno' describes a half-full flower vase. Italian needs bicchiere. This is worth learning beyond the idiom: Spanish vaso and Italian vaso are false friends everywhere, not just here.",
+      "it_to_es": "Spanish does not use a bicchiere-shaped word at all here — the glass is a vaso, and 'copa' would move it to a wine glass. SEE ALSO 0266, the pessimist's version of this entry, and 0267, which puts the same false friend inside a different idiom."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "optimism",
+    "perception"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 5 (CANDIDATES.md Freebies 21, first half). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened; both dictionaries may carry the phrase under the adjective rather than the noun. CAME IN AS A NO-TRAP FREEBIE and was upgraded by the freebie audit: the vaso/bicchiere false friend is real and was not noticed when the row was first logged. SIBLING: 0266 is the mezzo vuoto version, drafted alongside this one; the two share an image and should not be scheduled near each other. CLUSTER SATURATION WARNING: 0265, 0266 and 0267 all turn on drinking-glass vocabulary and the same vaso false friend appears in all three. That is either a deliberate mini-series or too much of one word — Joe to decide before any of them ship. IT REVIEWER: is the optimist form as common as the pessimist form, or is mezzo vuoto the one people actually say?"
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

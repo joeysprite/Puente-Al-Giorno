@@ -1,0 +1,83 @@
+{
+  "id": "0272",
+  "type": "idiom",
+  "cue": "How do you say something is someone's signature piece?",
+  "es": {
+    "text": "Caballo de batalla",
+    "literal": "battle horse",
+    "meaning": "A signature piece or mainstay — and also the crux of a dispute.",
+    "example": "Esa aria es su caballo de batalla; la canta en cada recital.",
+    "exampleTranslation": "That aria is her signature piece — she sings it at every recital.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/caballo",
+        "headword": "caballo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Cavallo di battaglia",
+    "literal": "battle horse",
+    "meaning": "A signature piece; the thing someone does best and returns to.",
+    "example": "Quella scena comica è il suo cavallo di battaglia da vent'anni.",
+    "exampleTranslation": "That comic bit has been his signature routine for twenty years.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/cavallo/",
+        "headword": "cavallo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same horse, and Spanish rides it one place further. Both languages use it for the reliable showpiece — the aria the soprano always sings, the routine the comedian always returns to. Spanish then uses the identical phrase for something quite different: the sticking point in an argument, the issue a negotiation keeps snagging on. The overlap is total in one direction and partial in the other, which is the worst shape a false friend can take, because nothing ever sounds wrong.",
+    "tags": [
+      "false_friend",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The dispute sense does not cross. 'Il cavallo di battaglia del negoziato' will be heard as the negotiation's strong point, not its sticking point — close to the opposite of what a Spanish speaker means. For the crux of a disagreement Italian says 'il nodo' or 'il punto controverso'.",
+      "it_to_es": "Safe in this direction for the showpiece sense, but be ready for the second reading: a Spanish speaker saying 'ese es el caballo de batalla' may be naming the problem, not the strength, and only the context will tell you which."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "skill",
+    "conflict",
+    "animals"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 6 (CANDIDATES.md Freebies 14). CAME IN AS 'exact twin incl. the horse — freebie'; the audit flagged asymmetric polysemy and this entry is built on it. SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened, and this entry needs them more than most: the whole bridge is the claim that RAE carries a 'crux of a dispute' sense under `caballo` that Treccani does not carry under `cavallo`. VERIFY BOTH DICTIONARY ENTRIES DIRECTLY before approval; if Italian turns out to have the dispute sense too, this is a plain twin and the false_friend tag is wrong. IT REVIEWER: can 'cavallo di battaglia' ever name the contested point in an argument? ES REVIEWER: is the dispute sense current in MX or more Peninsular? Both senses are set pan-regional on the ES side pending your answer."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

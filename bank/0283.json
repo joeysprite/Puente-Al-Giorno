@@ -1,0 +1,83 @@
+{
+  "id": "0283",
+  "type": "proverb",
+  "cue": "How do you say it's bound to happen a third time?",
+  "es": {
+    "text": "No hay dos sin tres",
+    "literal": "there is no two without three",
+    "meaning": "Things that have happened twice tend to happen a third time.",
+    "example": "Se le cayó el vaso otra vez. No hay dos sin tres, ya verás.",
+    "exampleTranslation": "He's dropped the glass again. These things come in threes, you'll see.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/",
+        "headword": "no hay dos sin tres",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Non c'è due senza tre",
+    "literal": "there is no two without three",
+    "meaning": "Things that have happened twice tend to happen a third time.",
+    "example": "Ha fatto cadere il bicchiere un'altra volta. Non c'è due senza tre, vedrai.",
+    "exampleTranslation": "He's dropped the glass again. These things come in threes, you'll see.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/tre/",
+        "headword": "tre",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Word for word the same superstition, and the two words that differ are the two most ordinary in either language. Spanish says there is with hay; Italian with c'è. Both were built the same way and then hidden: Spanish hay is the old ha welded to y, a worn-down descendant of Latin ibi, there — and Italian c'è is è with ci in front of it, another particle meaning there. Two languages independently decided that saying something exists required first pointing at a place, and then buried the pointing inside a word nobody stops to unpack.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Italian negates with a separate word and keeps the particle: NON C'È due senza tre. There is no Italian verb that behaves like hay, so the habit of reaching for one word has to be broken here.",
+      "it_to_es": "Spanish fuses it all into hay and needs no ci: NO HAY dos sin tres. Note that the Spanish is impersonal and invariable — it never becomes 'no hayan' or agrees with dos."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "superstition",
+    "numbers",
+    "fate"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 8 (CANDIDATES.md Freebies 11). CAME IN MARKED 'NO TRAP FOUND' by the freebie audit; a second pass found the hay/c'è existential contrast, which is real and is the entry. SOURCES WEAK: ES is a bare refranero root URL again (see 0251, 0277 — this defect now affects three entries and should be fixed as a batch), IT is a `tre` headword that may not carry the proverb. THE ETYMOLOGY IN THE BRIDGE IS STATED AS FACT TO SUBSCRIBERS AND IS UNVERIFIED: hay < ha + y (< Latin ibi), and ci as a locative particle. Both are, to my knowledge, standard historical linguistics rather than folk etymology, but I have not sourced either this session and the bridge asserts them plainly. VERIFY BEFORE APPROVAL or soften the claim to describe the synchronic structure without the history. Both reviewers: does the parallel read as illuminating or as a grammar lecture interrupting a proverb?"
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

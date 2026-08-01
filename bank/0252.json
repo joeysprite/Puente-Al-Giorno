@@ -1,0 +1,83 @@
+{
+  "id": "0252",
+  "type": "idiom",
+  "cue": "How do you describe a ferocious, howling wind?",
+  "es": {
+    "text": "Un viento de mil demonios",
+    "literal": "a wind of a thousand demons",
+    "meaning": "A violent, howling wind.",
+    "example": "Salimos del refugio con un viento de mil demonios que casi nos tira.",
+    "exampleTranslation": "We left the shelter in a howling wind that nearly knocked us over.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/demonio",
+        "headword": "demonio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Un vento del diavolo",
+    "literal": "a wind of the devil",
+    "meaning": "A violent, howling wind.",
+    "example": "Sul molo tirava un vento del diavolo e nessuno riusciva a tenere l'ombrello aperto.",
+    "exampleTranslation": "There was a howling wind on the pier and nobody could keep an umbrella up.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/diavolo/",
+        "headword": "diavolo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages blame the weather on hell, and then disagree about how many devils it takes. Spanish summons a crowd — mil demonios, a thousand of them, indefinite and swarming. Italian names one, with the definite article: del diavolo, the devil, singular and specific, as though there were only ever the one and this is his work.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Do not import the crowd. 'Un vento di mille diavoli' is not the Italian form; it is del diavolo, one devil, definite article. Italian uses del diavolo as a general intensifier well beyond wind — un freddo del diavolo, una fatica del diavolo — so the pattern is worth learning as a frame, not just as a weather phrase.",
+      "it_to_es": "Spanish needs the plural and the number: de mil demonios. 'Un viento del diablo' is understandable but is not the fixed expression, and Spanish prefers demonios to diablos in this frame."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "weather",
+    "intensity",
+    "religion"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 2 (CANDIDATES.md Top picks 12). SOURCES NOT HUMAN-VERIFIED — both are standard headword URLs, not opened. Both dictionaries should carry the intensifier frame under `demonio` / `diavolo` respectively, but confirm the specific wind collocation is attested rather than just the general pattern. FOR THE IT REVIEWER: is 'un vento del diavolo' actually idiomatic, or is the more natural form 'un vento della malora' / 'un ventaccio'? This is the one thing that would sink the entry. FOR THE ES REVIEWER: 'de mil demonios' also attaches to frío, ruido, humor — if the frame is productive in MX the same way, say so and the bridge can lean on the parallel frames rather than on wind alone."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

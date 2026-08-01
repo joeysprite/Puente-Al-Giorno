@@ -1,0 +1,83 @@
+{
+  "id": "0256",
+  "type": "marker",
+  "cue": "How do you brush past the details and move on?",
+  "es": {
+    "text": "Como sea",
+    "literal": "however it may be",
+    "meaning": "Anyway; whatever — used to wave away details. Also: by any means necessary.",
+    "example": "Como sea, ya vámonos que se hace tarde.",
+    "exampleTranslation": "Anyway, let's go, it's getting late.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/ser",
+        "headword": "ser",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Comunque sia",
+    "literal": "however it may be",
+    "meaning": "In any case; be that as it may.",
+    "example": "Comunque sia, la decisione è già stata presa.",
+    "exampleTranslation": "In any case, the decision has already been made.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/comunque",
+        "headword": "comunque",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same shrug, but Spanish carries a second job that Italian never took on. Both wave away what came before — anyway, in any case, let's move. Spanish then reuses the identical two words to mean the opposite of a shrug: consíguelo como sea is get it by any means necessary, no shrug about it, and only the context tells you which one you are hearing. Italian keeps the two apart: comunque sia concedes, and 'a ogni costo' insists.",
+    "tags": [
+      "interference_risk",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "Do not carry the second sense across. 'Comunque sia' cannot mean by any means necessary — for that Italian needs 'a ogni costo' or 'costi quel che costi'. Register also steps up: comunque sia is neutral enough for an essay, where 'como sea' is casual speech.",
+      "it_to_es": "'Como sea' is ambiguous in a way comunque sia is not, so in writing Spanish often prefers 'en todo caso' or 'de cualquier modo' when only the concessive reading is wanted. SEE ALSO 0253 (sea como sea / sia come sia), the sibling pair — same subjunctive frame, different force."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "discourse",
+    "concession",
+    "subjunctive"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 3 (CANDIDATES.md Top picks 21). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened; the locution may sit under a sub-entry. SIBLING ENTRY: 0253 pairs 'sea como sea' with 'sia come sia' and rests on a claimed force difference (determination vs concession) that is flagged there as unverified. This entry and 0253 must be reviewed TOGETHER — if the reviewers reject the 0253 reading, the framing here probably needs adjusting too, and the scheduler should keep the two apart regardless. ES REVIEWER: is the 'by any means necessary' sense of 'como sea' as live in MX as the 'anyway' sense? The whole first interference note depends on both being current. IT REVIEWER: register set standard/ok_in_exam against the Spanish colloquial/neutral — confirm comunque sia really is exam-safe."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

@@ -1,0 +1,80 @@
+{
+  "id": "0251",
+  "type": "idiom",
+  "cue": "How do you say someone is doing something completely pointless?",
+  "es": {
+    "text": "Echar agua al mar",
+    "literal": "to throw water into the sea",
+    "meaning": "To do something entirely pointless, adding to what is already abundant.",
+    "example": "Explicarle las reglas otra vez es echar agua al mar: hace lo que quiere de todos modos.",
+    "exampleTranslation": "Explaining the rules to him again is pointless — he does as he likes regardless.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es"
+    ],
+    "regionNote": "Wider LatAm currency plausible but unverified — reviewer to extend or trim.",
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://cvc.cervantes.es/lengua/refranero/",
+        "headword": "echar agua al mar",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Portare acqua al mare",
+    "literal": "to carry water to the sea",
+    "meaning": "To do something entirely pointless, adding to what is already abundant.",
+    "example": "Regalargli un'altra cravatta è come portare acqua al mare: ne ha già un cassetto pieno.",
+    "exampleTranslation": "Giving him another tie is pointless — he already has a drawerful.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://sapere.virgilio.it/modi-di-dire/portare-acqua-al-mare-2077",
+        "headword": "portare acqua al mare",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same futile errand, different verb doing the work. Spanish throws the water — echar, a quick disposal — while Italian carries it — portare, which makes the whole thing worse by adding the effort of the journey to the pointlessness of the arrival. Italian also keeps a bench of rival phrases for the same idea, portare vasi a Samo and portare coccodrilli in Egitto among them, where Spanish settles on the sea.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The verb does not cross. 'Gettare acqua al mare' or 'buttare acqua al mare' both read as literal descriptions of throwing water; the idiom takes portare. Note also that Italian may reach for portare vasi a Samo instead, which has no Spanish counterpart at all.",
+      "it_to_es": "Spanish does not carry the water, it throws it: echar agua al mar. 'Llevar agua al mar' is comprehensible but is not the fixed form."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "futility",
+    "water"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 2 (CANDIDATES.md Top picks 11). SOURCES ARE THE WEAK POINT OF THIS ENTRY AND BOTH NEED REPLACING BEFORE APPROVAL. Neither side has a dictionary-grade citation: the IT source is a modi-di-dire site (Virgilio Sapere), which is tier-C by our own standard, and the ES source is a bare Cervantes refranero root URL, not a ficha — I could not confirm a specific ficha exists for 'echar agua al mar'. The phrase is attested in Italian across several independent listings, so existence is not in doubt; the citation quality is. ACTION: find a Treccani or De Mauro headword for the IT side and an RAE/CVC ficha for the ES side, or downgrade this entry out of the Top picks. FOR THE ES REVIEWER: is 'echar agua al mar' live in MX, and is it more usually 'echar agua al mar' or 'llevar agua al mar'? regions is set conservatively to mx+es pending your answer."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

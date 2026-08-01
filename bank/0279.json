@@ -1,0 +1,82 @@
+{
+  "id": "0279",
+  "type": "idiom",
+  "cue": "How do you say the end of a hard stretch is finally in sight?",
+  "es": {
+    "text": "Ver la luz al final del túnel",
+    "literal": "to see the light at the end of the tunnel",
+    "meaning": "To begin to see the end of a long difficulty.",
+    "example": "Después de tres años de obra, por fin vemos la luz al final del túnel.",
+    "exampleTranslation": "After three years of building work, we can finally see the light at the end of the tunnel.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/t%C3%BAnel",
+        "headword": "túnel",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Vedere la luce in fondo al tunnel",
+    "literal": "to see the light at the bottom of the tunnel",
+    "meaning": "To begin to see the end of a long difficulty.",
+    "example": "Dopo tre anni di lavori, finalmente vediamo la luce in fondo al tunnel.",
+    "exampleTranslation": "After three years of building work, we can finally see the light at the end of the tunnel.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/tunnel/",
+        "headword": "tunnel",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same tunnel, same light, and Italian measures the distance differently. Spanish goes to the END of it — al final del túnel — while Italian goes to the BOTTOM — in fondo al tunnel — using a word for depth to describe a horizontal stretch, as though the far end of a corridor were the bottom of a well. The other difference is on the page: Spanish has naturalised the loanword with an accent and a Spanish plural, túnel and túneles, where Italian left it English and unchanging, il tunnel, i tunnel.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Alla fine del tunnel' is comprehensible and is not the idiom — Italian says in fondo al. That in fondo a is worth taking away on its own: it is Italian's ordinary way of saying at the far end of something, from a corridor to a page. And do not add the accent: it is tunnel, invariable, never 'túnnel' or a plural 'tunnels'.",
+      "it_to_es": "Spanish needs the accent and the Spanish plural — túnel, túneles — and reaches the end with al final del, not with a word for depth."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "hope",
+    "endurance"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 7 (CANDIDATES.md Freebies 22). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened; both are loanword entries and may not carry the figurative locution at all, in which case both sides need recitation. PROVENANCE NOTE THE REVIEWERS SHOULD WEIGH: this is almost certainly a shared modern borrowing rather than parallel native development — both languages took a railway image into political and journalistic use in roughly the same period, and the Italian keeps the English spelling. Same category as 0281 (farfalle nello stomaco). If the bank wants to be straight with subscribers, the bridge should probably say so rather than implying independent invention; I have left that out of the learner-facing note pending Joe's call on how much etymology belongs there. Register is journalistic on both sides rather than folk-proverbial — confirm ok_in_exam is right."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

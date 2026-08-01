@@ -1,0 +1,83 @@
+{
+  "id": "0287",
+  "type": "idiom",
+  "cue": "How do you say you'd help but you're not allowed to?",
+  "es": {
+    "text": "Tener las manos atadas",
+    "literal": "to have one's hands tied",
+    "meaning": "To be unable to act because of rules or circumstances outside one's control.",
+    "example": "Me gustaría aprobarlo, pero con este reglamento tengo las manos atadas.",
+    "exampleTranslation": "I'd like to approve it, but under these rules my hands are tied.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/mano",
+        "headword": "mano",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere le mani legate",
+    "literal": "to have one's hands tied",
+    "meaning": "To be unable to act because of rules or circumstances outside one's control.",
+    "example": "Vorrei approvarlo, ma con questo regolamento ho le mani legate.",
+    "exampleTranslation": "I'd like to approve it, but under these rules my hands are tied.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/mano/",
+        "headword": "mano",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same helplessness, same tied hands — and the hands themselves are the interesting part. Both languages inherited a word that misbehaves in exactly the same way: mano looks masculine, ends in -o, and is feminine in both. Then they part company on how to make it plural. Italian changes the ending to match the gender, le mani. Spanish leaves the ending alone and lets the article do the work, las manos — a feminine noun in a masculine-looking plural, which Spanish simply tolerates.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The plural is mani, not 'mano' or 'manos' — Italian shifts it to a form that looks like a masculine plural but takes le. Learn the pair together: la mano, le mani. The participle is legate, agreeing with that feminine plural.",
+      "it_to_es": "Spanish keeps the -o all the way through: las manos, and the participle agrees as atadas. The mismatch between the masculine-looking ending and the feminine article is permanent in Spanish and never gets tidied up."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "powerlessness",
+    "body",
+    "rules"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 8 (CANDIDATES.md Freebies 20). CAME IN MARKED 'NO TRAP FOUND — avere/tener, legate/atadas, parallel throughout'. Second pass found the mano/mani vs mano/manos divergence, a shared irregularity that resolves differently in each language. That is genuine and teachable, but note it is a VOCABULARY point riding inside an idiom rather than an idiom point — the phrase itself really is parallel. Joe may reasonably judge that this makes it a grammar entry in disguise. SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. Duplicate check: CANDIDATES.md listed 'Avere le mani legate' twice, once in the second IT-reviewer batch and once in Freebies 20; this entry closes both. REGISTRY.md should stop showing it as multi-mapped after regeneration — confirm."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

@@ -1,0 +1,57 @@
+{
+  "id": "0247",
+  "type": "idiom",
+  "cue": "How do you say you'll do something quickly, on the fly?",
+  "es": {
+    "text": "Al vuelo",
+    "literal": "at the flight",
+    "meaning": "Instantly, in mid-air — most often of catching an idea or a hint the moment it is offered.",
+    "example": "No hizo falta explicárselo dos veces: lo cogió al vuelo.",
+    "exampleTranslation": "Nobody had to explain it twice — she picked it up straight away.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": ["mx", "es", "ar", "co"],
+    "regionNote": null,
+    "sources": [
+      { "authority": "RAE (DLE)", "url": "https://dle.rae.es/vuelo", "headword": "vuelo", "verifiedOn": null, "verifiedBy": null }
+    ]
+  },
+  "it": {
+    "text": "Fare una cosa al volo",
+    "literal": "to do a thing at the flight",
+    "meaning": "To do something quickly and without preparation — on the fly, in passing.",
+    "example": "Passo al volo in farmacia e ti raggiungo.",
+    "exampleTranslation": "I'll nip into the pharmacy and catch you up.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": ["it"],
+    "regionNote": null,
+    "sources": [
+      { "authority": "Treccani", "url": "https://www.treccani.it/vocabolario/volo/", "headword": "volo", "verifiedOn": null, "verifiedBy": null }
+    ]
+  },
+  "bridge": {
+    "note": "Identical words, identical image, and the target quietly narrows as you cross. Both languages picture something caught in mid-air before it lands. Italian lets you catch anything that way — an errand, a phone call, a task done in passing. Spanish aims almost entirely at one kind of object: an idea, a hint, an explanation. Coger algo al vuelo is about being quick on the uptake, not quick on your feet. The phrase survives the crossing; what it can be said about does not.",
+    "tags": ["cognate_pair", "false_friend", "interference_risk"],
+    "interference": {
+      "es_to_it": "Italian will take a far wider range of objects than Spanish habit suggests. 'Lo faccio al volo' about an errand, a repair, a quick trip — all natural in Italian, all outside the usual Spanish target.",
+      "it_to_es": "This is the direction that misfires. Say 'lo hago al vuelo' about fixing a shelf and a Spanish speaker hears something closer to 'I'll grasp it quickly' — a claim about comprehension, not about speed of work. For doing a task fast, Spanish reaches elsewhere: rápido, en un momento, de pasada."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": ["speed", "comprehension"],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 1. SOURCES NOT HUMAN-VERIFIED, and both URLs were constructed from the standard headword pattern rather than opened — check both before verifying. THE ENTRY RESTS ENTIRELY ON THE SCOPE CLAIM and that claim needs the reviewers more than most: my reading is that Spanish 'al vuelo' is overwhelmingly cognitive (coger/captar algo al vuelo = to be quick on the uptake) while Italian 'al volo' is general-purpose. If the Spanish is in fact used freely for physical tasks too, this is a plain freebie with no lesson in it and should be demoted. FOR THE SPANISH REVIEWER: would 'lo hago al vuelo' about a physical errand sound natural to you, or odd? That single question decides whether this entry survives. FOR THE ITALIAN REVIEWER: register set colloquial/neutral on the IT side — does 'al volo' carry any informality, or is it neutral enough for an exam? NOTE ON ENTRY TEXT: the ES side is given as the bare adverbial 'al vuelo' rather than a full verb phrase, since it attaches to several verbs (coger, captar, pillar); confirm that is the right citation form. EXAMPLES ARE ORIGINAL."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

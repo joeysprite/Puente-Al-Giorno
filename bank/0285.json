@@ -1,0 +1,82 @@
+{
+  "id": "0285",
+  "type": "idiom",
+  "cue": "How do you say something keeps happening constantly?",
+  "es": {
+    "text": "Cada dos por tres",
+    "literal": "every two by three",
+    "meaning": "Constantly; far too often.",
+    "example": "Se le olvidan las llaves cada dos por tres.",
+    "exampleTranslation": "He forgets his keys every five minutes.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/dos",
+        "headword": "dos",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Ogni due per tre",
+    "literal": "every two by three",
+    "meaning": "Constantly; far too often.",
+    "example": "Si dimentica le chiavi ogni due per tre.",
+    "exampleTranslation": "He forgets his keys every five minutes.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/due/",
+        "headword": "due",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages count to three the same nonsensical way, and neither can explain it — the arithmetic means nothing in either, which is part of why it survives. What differs is the quantifier at the front. Spanish cada is a plain distributive and takes plural numbers without complaint. Italian ogni is normally rigid about the singular — ogni giorno, ogni volta, never 'ogni giorni' — and then makes an exception here, letting due through. The phrase breaks its own language's rule and is fixed enough that nobody minds.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The quantifier is ogni, not 'cada' — Italian has no cognate of cada at all. And do not correct the number to the singular on the assumption that ogni demands it: ogni due per tre is fixed, and 'ogni uno per tre' is not a repair.",
+      "it_to_es": "Spanish takes cada. The preposition is the easy half — Italian per, Spanish por, straightforward cognates — so the quantifier is the only thing carrying risk."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "frequency",
+    "numbers"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 8 (CANDIDATES.md Freebies 16). CAME IN MARKED 'NO TRAP FOUND in form; only hook is the origin claim'. I have deliberately NOT used that origin claim — the candidate row said the Spanish came first, and I could not source it, so it is absent from the bridge rather than asserted. WEAKEST ENTRY OF THE BATCH: what content it has is the ogni-plus-plural anomaly, and THAT IS MY OWN GRAMMATICAL OBSERVATION, UNSOURCED. IT REVIEWER, this decides the entry: is 'ogni' genuinely singular-only elsewhere, making this phrase an exception worth pointing at, or does ogni take plurals freely enough that there is nothing anomalous here? If the latter, this entry has no content and belongs with 0282 in the confidence-builder pile. SOURCES NOT HUMAN-VERIFIED and both are number headwords that may well not carry the locution — check."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

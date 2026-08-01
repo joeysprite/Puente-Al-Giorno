@@ -1,0 +1,83 @@
+{
+  "id": "0262",
+  "type": "idiom",
+  "cue": "How do you say someone cleans up a mess that isn't theirs?",
+  "es": {
+    "text": "Sacar las castañas del fuego",
+    "literal": "to take the chestnuts out of the fire",
+    "meaning": "To sort out a difficult situation, typically one someone else created.",
+    "example": "Siempre acabo yo sacándole las castañas del fuego a mi hermano.",
+    "exampleTranslation": "I always end up pulling my brother's chestnuts out of the fire.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/casta%C3%B1a",
+        "headword": "castaña",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Togliere le castagne dal fuoco",
+    "literal": "to take the chestnuts out of the fire",
+    "meaning": "To sort out a difficult situation for someone else, at one's own cost.",
+    "example": "Tocca sempre a me togliere le castagne dal fuoco agli altri.",
+    "exampleTranslation": "It's always me pulling everyone else's chestnuts out of the fire.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/castagna/",
+        "headword": "castagna",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Word for word the same fire and the same chestnuts, descended from the same fable — the monkey who uses the cat's paw to rake the nuts out, so that one animal takes the burn and the other eats. Two things move across the border, both small. The verb changes hands: Spanish takes them OUT (sacar), Italian takes them AWAY (togliere). And Spanish will happily use the phrase for rescuing yourself, where Italian keeps the fable's shape more tightly — someone else eats the chestnuts.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Sacare le castagne' is not Italian — the verb is togliere (or, less often, cavare). The indirect object is also worth watching: Italian marks who benefits with a, togliere le castagne dal fuoco A QUALCUNO, exactly as Spanish does with a.",
+      "it_to_es": "Spanish uses sacar and is looser about who is being rescued — 'sacar las castañas del fuego' can describe getting yourself out of trouble, a reading Italian speakers may not expect."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "rescue",
+    "blame",
+    "food"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 4 (CANDIDATES.md Top picks 37). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. FLAGGED AS A FREEBIE IN CANDIDATES ('near-exact twin incl. chestnuts') and the freebie audit's standard applies: is the verb swap (sacar/togliere) plus the possible self-rescue asymmetry enough of a trap to earn an entry, or is this a confidence-builder? I lean earn-it, on the verb alone — but the self-rescue claim is MINE AND UNVERIFIED and it is doing half the work. ES REVIEWER: can 'sacar las castañas del fuego' describe getting YOURSELF out of trouble, or is it always for someone else? IT REVIEWER: same question for togliere. If both are other-directed only, the entry drops to a single-verb contrast and should probably be reclassified with the trap-free freebies."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

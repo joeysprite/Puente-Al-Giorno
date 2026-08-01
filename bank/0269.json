@@ -1,0 +1,82 @@
+{
+  "id": "0269",
+  "type": "idiom",
+  "cue": "How do you say someone is completely out of their mind?",
+  "es": {
+    "text": "Loco de atar",
+    "literal": "mad for tying",
+    "meaning": "Completely mad; wildly irrational.",
+    "example": "Quiere cruzar el país en bicicleta en enero: está loco de atar.",
+    "exampleTranslation": "He wants to cycle across the country in January — he's stark raving mad.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/loco",
+        "headword": "loco",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Matto da legare",
+    "literal": "mad for tying",
+    "meaning": "Completely mad; wildly irrational.",
+    "example": "Vuole attraversare il paese in bici a gennaio: è matto da legare.",
+    "exampleTranslation": "He wants to cycle across the country in January — he's stark raving mad.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/matto/",
+        "headword": "matto",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same grim old image on both sides — madness measured by whether you would have to be restrained — and one letter between them. Spanish says loco DE atar, Italian matto DA legare. Both prepositions descend from Latin de and ad respectively, and both phrases mean fit to be tied, but the languages picked different ones and neither will accept the other's.",
+    "tags": [
+      "cognate_pair",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": "It is DA legare, not 'di legare'. Italian's da carries this fit-for sense in a whole family of expressions — roba da matti, da non credere, un film da vedere — so learning it here pays elsewhere. The adjective is matto, not 'loco' or 'pazzo da legare' (pazzo is a synonym but the fixed phrase takes matto).",
+      "it_to_es": "Spanish takes DE: loco de atar. 'Loco para atar' is not the form. Note also the verb — Spanish atar against Italian legare, which are not cognates of each other despite the phrases being otherwise parallel."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "madness",
+    "restraint"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 5 (CANDIDATES.md Freebies 13). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. SATURATION CHECK REQUIRED BEFORE SCHEDULING: the bank already has 0002 (estar como una cabra / essere fuori come un balcone) and 0111 (faltarle un tornillo / mancare un venerdì) on madness, and CANDIDATES.md Risk 8 (tener un tornillo flojo / avere una rotella fuori posto) is a fourth. Four madness entries is past the point where each needs to earn its place — this one's claim is the preposition, which is real but small. Joe may prefer to bank this and drop one of the others. IT REVIEWER: is 'pazzo da legare' as common as 'matto da legare'? If pazzo dominates the it.text may be wrong. THE REGISTER CLAIM IS UNVERIFIED both sides — set colloquial/neutral by feel; if either is harsher than that (this is, after all, an image about restraining the mentally ill), say so, since the product should probably not ship a slur."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

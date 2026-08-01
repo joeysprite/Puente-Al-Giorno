@@ -1,0 +1,83 @@
+{
+  "id": "0268",
+  "type": "idiom",
+  "cue": "How do you say someone destroyed the thing that was making them money?",
+  "es": {
+    "text": "Matar la gallina de los huevos de oro",
+    "literal": "to kill the hen of the golden eggs",
+    "meaning": "To ruin a reliable source of benefit through greed or short-sightedness.",
+    "example": "Subieron tanto los precios que mataron la gallina de los huevos de oro.",
+    "exampleTranslation": "They raised prices so far that they killed the golden goose.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/gallina",
+        "headword": "gallina",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Uccidere la gallina dalle uova d'oro",
+    "literal": "to kill the hen of the golden eggs",
+    "meaning": "To ruin a reliable source of benefit through greed or short-sightedness.",
+    "example": "Hanno riempito il festival di sponsor e ucciso la gallina dalle uova d'oro.",
+    "exampleTranslation": "They packed the festival with sponsors and killed the golden goose.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/gallina/",
+        "headword": "gallina",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same Aesop fable, same hen, and both languages agree it is a hen — which is worth saying, because English is the one that wandered off and made it a goose. The crossing is a grammar lesson in miniature. Spanish links the eggs with a plain DE. Italian uses DALLE, from-the, as though the eggs came out of her rather than belonged to her. And that dalle drags along one of Italian's strangest nouns: uovo is masculine in the singular and feminine in the plural, so 'le uova' looks wrong to anyone who has just learned the word.",
+    "tags": [
+      "cognate_pair",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": "'Della gallina di uova d'oro' collapses two things at once. Italian wants dalle uova d'oro — the preposition is da, and uovo goes feminine in the plural, so it is LE uova, not 'i uovi'. The verb also differs: Italian uccidere, where Spanish matar.",
+      "it_to_es": "Spanish links with a bare de: la gallina DE los huevos de oro. And huevo is regular in Spanish — los huevos, masculine throughout — so the Italian irregularity has nothing to transfer to."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "greed",
+    "animals",
+    "short_sightedness"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 5 (CANDIDATES.md Freebies 8). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. Candidate row came from spanishexpress.co.uk, a Peninsular-focused tier-C source; the phrase is unremarkable and pan-Hispanic, but ES REVIEWER should confirm MX currency and whether 'matar' or 'sacrificar' is more usual. IT REVIEWER: is 'dalle uova d'oro' the standard form, or is 'dalle uova d'oro' competing with 'dalle uova d'oro' variants such as 'che faceva le uova d'oro'? The preposition claim carries the entry's high-value tag, so it needs to be right."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

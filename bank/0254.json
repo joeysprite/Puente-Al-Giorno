@@ -1,0 +1,81 @@
+{
+  "id": "0254",
+  "type": "idiom",
+  "cue": "How do you say someone is really good at what they do?",
+  "es": {
+    "text": "Ser un hacha",
+    "literal": "to be an axe",
+    "meaning": "To be extremely good at a particular activity.",
+    "example": "Pídele a ella que revise los números: es un hacha con las hojas de cálculo.",
+    "exampleTranslation": "Ask her to check the figures — she's brilliant with spreadsheets.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es"
+    ],
+    "regionNote": "Attested in Spain and Mexico; may read as traditional next to newer slang. Reviewer to confirm currency.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/hacha",
+        "headword": "hacha",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Essere in gamba",
+    "literal": "to be in leg",
+    "meaning": "To be capable, sharp and dependable — as a person, not only at one task.",
+    "example": "Il ragazzo nuovo è in gamba: in due settimane ha imparato tutto il reparto.",
+    "exampleTranslation": "The new lad is sharp — he learned the whole department in a fortnight.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/gamba/",
+        "headword": "gamba",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish sharpens you into a tool; Italian stands you upright. Un hacha is an axe — praise aimed at a skill, and it wants a domain to point at: an axe at maths, an axe at spreadsheets. In gamba is a whole person on their own two legs, capable and sound, and needs no object at all. The Italian also does something the Spanish never does: it says goodbye. Sta' in gamba is a farewell, take care of yourself — and no Spanish speaker would guess that an axe could do the same job.",
+    "tags": [
+      "interference_risk",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "Do not look for the tool. 'Essere un'ascia' means nothing in Italian. And note the widening: in gamba praises the person, not the skill, so it does not want 'in gamba con i numeri' the way Spanish wants 'un hacha con los números' — for a specific talent Italian says 'è bravo con i numeri' or 'è un mago dei numeri'.",
+      "it_to_es": "Spanish narrows. Ser un hacha nearly always names the field it applies to, and it never works as a farewell — the Italian 'sta' in gamba' at the end of a message has no Spanish equivalent in this family; Spanish would use 'cuídate'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "competence",
+    "tools",
+    "body"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 2 (CANDIDATES.md Top picks 18). SOURCES NOT HUMAN-VERIFIED — standard headword URLs, not opened. RAE should carry 'ser un hacha' under `hacha`; Treccani should carry 'in gamba' under `gamba`. SCOPE MISMATCH IS DELIBERATE AND IS THE ENTRY'S POINT, but it is also the entry's weakness: ser un hacha is domain-bound, essere in gamba is person-general, so they are not clean equivalents. If the reviewers judge the gap too wide to call a pairing, the alternates logged in CANDIDATES.md are 'ser un crack' and 'estar espabilado' for the general-competence sense. ES REVIEWER: (1) is 'ser un hacha' current in MX or does it read dated next to 'ser un crack'/'ser una fiera'? A WordReference thread flagged it as traditional. (2) regions set to mx+es only, pending your call. IT REVIEWER: is the farewell use 'sta' in gamba' still live, or generational? It carries the second interference note."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "0274",
+  "type": "idiom",
+  "cue": "How do you say someone brought up exactly the painful thing?",
+  "es": {
+    "text": "Meter el dedo en la llaga",
+    "literal": "to put one's finger in the wound",
+    "meaning": "To touch deliberately on the most painful or awkward point.",
+    "example": "Preguntó por el divorcio delante de todos: metió el dedo en la llaga.",
+    "exampleTranslation": "He asked about the divorce in front of everyone — he went straight for the sore spot.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/llaga",
+        "headword": "llaga",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Mettere il dito nella piaga",
+    "literal": "to put one's finger in the wound",
+    "meaning": "To touch deliberately on the most painful or awkward point.",
+    "example": "Ha chiesto del divorzio davanti a tutti: ha messo il dito nella piaga.",
+    "exampleTranslation": "He asked about the divorce in front of everyone — he went straight for the sore spot.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/piaga/",
+        "headword": "piaga",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "This one is identical on both sides, and unusually the identity is the lesson rather than a shortcut. Both descend from the same scene — Thomas, told the risen Christ has appeared, saying he will not believe until he puts his finger into the wound — so the phrase did not arrive in each language separately and converge by luck. It was already there, in the book both cultures read. Worth knowing that other languages did not all inherit it the same way: French twists a knife in the wound instead.",
+    "tags": [
+      "cognate_pair",
+      "shared_metaphor"
+    ],
+    "interference": {
+      "es_to_it": "Almost nothing to trip on. Watch only the noun: Italian piaga against Spanish llaga — both from Latin plaga, but Spanish turned the initial pl- into ll-, a regular sound change that shows up across the vocabulary (pluvia/lluvia, plenus/lleno). Learning it here makes several other words predictable.",
+      "it_to_es": "Same in reverse: the Italian pi- corresponds to Spanish ll- in this family of words. The construction, the article and the preposition all match, so the sound change is the only thing to carry across."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "tactlessness",
+    "religion",
+    "body"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 6 (CANDIDATES.md Freebies 19). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. THIS IS A DIFFERENT KIND OF ENTRY AND JOE SHOULD DECIDE WHETHER THE BANK WANTS IT: there is no learner error here. The freebie audit found no form trap, and the bridge instead teaches shared ancestry (John 20) plus a regular pl-/ll- sound correspondence. That makes it a confidence-and-pattern entry rather than a trap entry, in the same family as 0244. Legitimate, arguably valuable — the sound change genuinely predicts other vocabulary — but it should be counted against whatever cap exists on non-trap entries rather than passed off as a normal one. Tagged cognate_pair + shared_metaphor, both EASY tags, so it counts toward the 33% easy-only ceiling. THE MX VARIANT 'poner el dedo en la llaga' is attested and may be the more common form there — ES REVIEWER, if so the es.text should probably change."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

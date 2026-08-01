@@ -1,0 +1,83 @@
+{
+  "id": "0264",
+  "type": "collocation",
+  "cue": "How do you say you're stepping out for some fresh air?",
+  "es": {
+    "text": "Tomar una bocanada de aire",
+    "literal": "to take a mouthful of air",
+    "meaning": "To take a deep breath of air; by extension, to step out for a break.",
+    "example": "Salió al patio a tomar una bocanada de aire antes de seguir estudiando.",
+    "exampleTranslation": "He stepped out into the yard for a breath of air before going back to studying.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/bocanada",
+        "headword": "bocanada",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Prendere una boccata d'aria",
+    "literal": "to take a mouthful of air",
+    "meaning": "To go out briefly for fresh air.",
+    "example": "Esco un attimo a prendere una boccata d'aria.",
+    "exampleTranslation": "I'm popping out for a breath of fresh air.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/boccata/",
+        "headword": "boccata",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages measure air by the mouthful, and both built the word the same way — boccata from bocca, bocanada from boca. The verb is where they part, and it is the ordinary Spanish trap in miniature: Spanish TAKES with tomar, Italian with prendere, and the two verbs are not interchangeable across the border even though both languages own both. In Italian the phrase has also drifted from the breath to the errand — prendere una boccata d'aria usually means going outside at all, whether or not you breathe deeply once you get there.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Watch the verb and the elision. Italian takes with prendere — 'tomare' does not exist — and writes boccata D'ARIA with the apostrophe, not 'di aria'. Note also that the Italian is usually about going out, so it pairs with uscire: esco a prendere una boccata d'aria.",
+      "it_to_es": "'Prender una bocanada' is not idiomatic Spanish; the verb is tomar. And bocanada is more literally about the breath itself — Spanish will often add the destination or the purpose (salir a tomar el aire, salir a tomar una bocanada de aire fresco) where Italian lets the phrase carry the whole errand."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "rest",
+    "air",
+    "body"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 4 (CANDIDATES.md Top picks 39). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. TYPE SET TO `collocation` rather than `idiom`: both sides are close to literal (you really are taking air), and the figurative stretch is small. If reviewers think the Italian's drift toward 'go outside' is figurative enough, it could be `idiom`. THE DRIFT CLAIM IS UNVERIFIED — I state that Italian's phrase is about the errand more than the breath. IT REVIEWER, confirm; the second half of the bridge and the it_to_es note both rest on it. ES REVIEWER: is 'tomar una bocanada de aire' natural in MX, or is 'tomar aire' / 'salir a tomar el aire' the everyday form with bocanada reading slightly literary? If the latter, the ES anchor may be wrong."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

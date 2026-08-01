@@ -1,0 +1,57 @@
+{
+  "id": "0245",
+  "type": "idiom",
+  "cue": "How do you say someone is completely overjoyed?",
+  "es": {
+    "text": "Estar en el séptimo cielo",
+    "literal": "to be in the seventh sky",
+    "meaning": "To be overjoyed — in a state of complete, floating happiness.",
+    "example": "Desde que le dieron la beca anda en el séptimo cielo.",
+    "exampleTranslation": "Since the scholarship came through he's been walking on air.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": ["mx", "es", "ar", "co"],
+    "regionNote": null,
+    "sources": [
+      { "authority": "RAE (DLE)", "url": "https://www.rae.es/diccionario-estudiante/cielo", "headword": "cielo", "verifiedOn": null, "verifiedBy": null }
+    ]
+  },
+  "it": {
+    "text": "Essere al settimo cielo",
+    "literal": "to be at the seventh sky",
+    "meaning": "To be overjoyed — lifted clean out of ordinary life by happiness.",
+    "example": "Quando ha saputo di essere stata presa, era al settimo cielo.",
+    "exampleTranslation": "When she heard she'd got in, she was over the moon.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": ["it"],
+    "regionNote": null,
+    "sources": [
+      { "authority": "Treccani", "url": "https://www.treccani.it/vocabolario/cielo_(Sinonimi-e-Contrari)/", "headword": "cielo", "verifiedOn": null, "verifiedBy": null }
+    ]
+  },
+  "bridge": {
+    "note": "One of the few idioms where both languages inherited the same sky and counted to the same number. Treccani files it under the Ptolemaic sense of cielo — each of the concentric celestial spheres — so the seventh is not a poetic exaggeration but a specific address in medieval cosmology, the highest sphere a person could reach. Spanish took the identical image from the identical source. And then, having agreed on everything else, the two languages disagree about one preposition.",
+    "tags": ["shared_metaphor", "preposition_differs", "interference_risk"],
+    "interference": {
+      "es_to_it": "Italian goes AL settimo cielo, not NEL. The Spanish 'en el' maps naturally onto 'nel' and that is the error: the Italian is fixed with a, giving al. You are AT the seventh sky, not IN it — as though it were a destination reached rather than a place occupied.",
+      "it_to_es": "Spanish takes EN el séptimo cielo, never 'al'. Also a register step: RAE marks this sense of cielo colloquial, so it sits a rung below the Italian, which is neutral enough for an exam."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": ["joy", "religion"],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 1 of the Top-picks drafting run. SOURCES NOT HUMAN-VERIFIED — both URLs appeared in search results and were read from the returned snippet, not opened by a person; verifiedOn/verifiedBy null on both sides. RAE's Diccionario del estudiante carries this under `cielo` as a colloquial locution meaning an extremely pleasant place or situation. Treccani's `cielo` entry lists 'essere al settimo cielo' under sense 3, the Ptolemaic/Dantean celestial spheres. FOR THE ITALIAN REVIEWER: is 'nel settimo cielo' ever heard, or is 'al' genuinely the only form? The whole bridge rests on that being fixed. FOR THE SPANISH REVIEWER: RAE marks it coloq. — does that match your ear in MX, or is it more neutral there than the dictionary suggests? Register is currently set colloquial/neutral on ES against standard/ok_in_exam on IT, and that asymmetry is doing work in the second interference note. EXAMPLES ARE ORIGINAL, not taken from either dictionary."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

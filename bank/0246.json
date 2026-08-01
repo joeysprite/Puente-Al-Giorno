@@ -1,0 +1,57 @@
+{
+  "id": "0246",
+  "type": "idiom",
+  "cue": "How do you say something will happen whether you like it or not?",
+  "es": {
+    "text": "Quieras o no",
+    "literal": "whether you may want to or not",
+    "meaning": "Whether you like it or not — regardless of anyone's preference.",
+    "example": "Quieras o no, mañana hay que levantarse temprano.",
+    "exampleTranslation": "Like it or not, we're up early tomorrow.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": ["mx", "es", "ar", "co"],
+    "regionNote": null,
+    "sources": [
+      { "authority": "RAE (DLE)", "url": "https://dle.rae.es/querer", "headword": "querer", "verifiedOn": null, "verifiedBy": null }
+    ]
+  },
+  "it": {
+    "text": "Volente o nolente",
+    "literal": "willing or unwilling",
+    "meaning": "Whether one likes it or not; with or without consent.",
+    "example": "Volente o nolente, il modulo va firmato entro venerdì.",
+    "exampleTranslation": "Like it or not, the form has to be signed by Friday.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": ["it"],
+    "regionNote": null,
+    "sources": [
+      { "authority": "Treccani", "url": "https://www.treccani.it/vocabolario/nolente/", "headword": "nolente", "verifiedOn": null, "verifiedBy": null }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish conjugates; Italian embalms. The Spanish is a live subjunctive doing ordinary work — quieras, second person, from querer, a verb in daily use — and it inflects for whoever you are talking to. The Italian is a fossil. Nolente comes from the Latin nolle, to be unwilling, and it survives in modern Italian nowhere except inside this phrase: there is no verb nolere, no other form, nothing to conjugate. Two languages saying the same thing, one with a working tool and the other with a museum piece it never learned to put down.",
+    "tags": ["interference_risk", "register_differs"],
+    "interference": {
+      "es_to_it": "Do not try to inflect it. A Spanish speaker, feeling the subjunctive underneath quieras, reaches for something that agrees with the subject — but volente o nolente never changes, whoever it applies to. There is no 'volenti o nolenti' agreement to reach for in the fixed adverbial phrase, and no verb to build on: nolente exists only here.",
+      "it_to_es": "Spanish demands the agreement Italian refuses. 'Quieras o no' is second-person singular; talking about someone else it becomes quiera o no, about a group quieran o no. Carrying the Italian's invariance across produces a form that is simply not conjugated for its subject."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": ["obligation", "grammar"],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 1. SOURCES NOT HUMAN-VERIFIED and WEAKER THAN USUAL — flagging honestly: earlier research this session confirmed 'volente o nolente' in Treccani and the Accademia della Crusca, but I did not record the exact URL and the one cited here (treccani.it/vocabolario/nolente/) was constructed from the standard headword pattern, not opened. Same for the RAE `querer` URL on the Spanish side. BOTH NEED CHECKING before verification, and if either 404s, substitute rather than assume. The linguistic claim itself — that nolente is a fossilised Latin present participle surviving only in this phrase — is well attested and is the entry's whole value. FOR THE ITALIAN REVIEWER: (1) does the plural 'volenti o nolenti' occur as an agreeing adjective phrase (e.g. 'volenti o nolenti, siamo qui'), which would soften the invariance claim in the first interference note? (2) Register — does it read slightly formal or bookish next to plainer options like 'che tu voglia o no'? FOR THE SPANISH REVIEWER: is 'quieras o no' the MX-current form, or is 'quieras o no quieras' more usual? EXAMPLES ARE ORIGINAL."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

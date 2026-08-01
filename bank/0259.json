@@ -1,0 +1,83 @@
+{
+  "id": "0259",
+  "type": "marker",
+  "cue": "How do you say maybe, it's possible?",
+  "es": {
+    "text": "Puede ser",
+    "literal": "it can be",
+    "meaning": "Maybe; that's possible.",
+    "example": "¿Crees que llegue a tiempo? —Puede ser, si sale ya.",
+    "exampleTranslation": "Do you think she'll make it? —Maybe, if she leaves now.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/poder",
+        "headword": "poder",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Può darsi",
+    "literal": "it can give itself",
+    "meaning": "Maybe; that's possible.",
+    "example": "Pensi che arrivi in tempo? —Può darsi, se parte adesso.",
+    "exampleTranslation": "Do you think she'll make it? —Maybe, if she leaves now.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/dare/",
+        "headword": "dare",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish says it can be. Italian says it can give itself — a reflexive with no one to reflect on, a leftover of an older impersonal construction that nobody parses any more and everybody says. The two words do identical work in conversation and share not one word between them, which is why the Spanish speaker's instinct, reaching for the verb that means the same as ser, produces something Italian speakers understand and do not say.",
+    "tags": [
+      "false_friend",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Può essere' is grammatical Italian and is not the idiom — as a standalone reply it sounds like a literal translation. The fixed answer is 'può darsi', and the darsi is not optional. When a clause follows, it takes the subjunctive: può darsi che VENGA, not che viene.",
+      "it_to_es": "'Puede darse' exists in Spanish but means something narrower — a situation may arise — and does not work as a bare reply. Spanish wants 'puede ser'. The subjunctive behaves in parallel, though: puede ser que VENGA."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "possibility",
+    "discourse",
+    "subjunctive"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 3 (CANDIDATES.md Top picks 31). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened; 'può darsi' should sit under `dare` in Treccani but confirm, and RAE may not carry 'puede ser' as a locution at all, in which case the ES side needs a different citation or a corpus source. IT REVIEWER: (1) is 'può essere' genuinely non-idiomatic as a standalone reply, or just less common? The first interference note depends on it. (2) Is the subjunctive after 'può darsi che' obligatory in speech, or is the indicative tolerated? ES REVIEWER: does MX prefer 'puede ser', 'a lo mejor', or 'quizás' in this slot? If 'puede ser' is markedly less frequent in MX the entry may need a different anchor."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

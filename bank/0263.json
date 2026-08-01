@@ -1,0 +1,82 @@
+{
+  "id": "0263",
+  "type": "idiom",
+  "cue": "How do you say you're rushing and can't stop?",
+  "es": {
+    "text": "Ir volando",
+    "literal": "to go flying",
+    "meaning": "To go somewhere or do something in great haste.",
+    "example": "Me voy volando que se me hace tarde para la junta.",
+    "exampleTranslation": "I'm dashing off, I'm going to be late for the meeting.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/volar",
+        "headword": "volar",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Essere di corsa",
+    "literal": "to be of running",
+    "meaning": "To be in a hurry.",
+    "example": "Scusa, sono di corsa: ne parliamo domani?",
+    "exampleTranslation": "Sorry, I'm in a rush — can we talk tomorrow?",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/corsa/",
+        "headword": "corsa",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages turn haste into motion, and then disagree about how fast and what kind. Spanish leaves the ground — volando, flying — and stays a verb of going, so it describes the journey. Italian stays on foot — di corsa, at a run — and hangs it on essere, so it describes a state you are in: not I am running anywhere in particular, but I am a person in a hurry right now. One is how you travel, the other is what you currently are.",
+    "tags": [
+      "interference_risk",
+      "auxiliary_trap"
+    ],
+    "interference": {
+      "es_to_it": "Do not fly. 'Andare volando' is not the Italian idiom; Italian runs, and it uses essere rather than a verb of motion — sono di corsa, not 'vado di corsa' when you mean I'm in a hurry generally. (Vado di corsa exists and means I'm going in a hurry, which is narrower.)",
+      "it_to_es": "'Estar de carrera' means nothing in Spanish. Spanish flies and keeps the verb of motion: ir/irse volando. To describe the state rather than the trip, Spanish switches construction entirely — 'tengo prisa', or in Mexico 'llevo prisa'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "haste",
+    "motion"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 4 (CANDIDATES.md Top picks 38). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened; RAE should carry 'volando' as an adverbial sense under `volar`, Treccani 'di corsa' under `corsa`. THE ESSERE/VADO DISTINCTION IN THE FIRST INTERFERENCE NOTE IS MINE AND UNVERIFIED — I claim 'sono di corsa' is the state and 'vado di corsa' is narrower. IT REVIEWER, please confirm or correct; if both are freely interchangeable, that note should be cut and the auxiliary_trap tag removed with it. ES REVIEWER: 'tengo prisa' vs MX 'llevo prisa' — is the llevar form the MX default? Named in the second interference note without a source."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

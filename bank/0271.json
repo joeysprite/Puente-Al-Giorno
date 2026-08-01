@@ -1,0 +1,83 @@
+{
+  "id": "0271",
+  "type": "idiom",
+  "cue": "How do you say trouble keeps landing on the same person?",
+  "es": {
+    "text": "Llueve sobre mojado",
+    "literal": "it rains on wet ground",
+    "meaning": "Fresh trouble arrives on top of trouble already there.",
+    "example": "Le rechazaron el préstamo y ahora esto: llueve sobre mojado.",
+    "exampleTranslation": "His loan was refused and now this — when it rains, it pours.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/llover",
+        "headword": "llover",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Piove sul bagnato",
+    "literal": "it rains on wet ground",
+    "meaning": "More of the same lands on someone who already has plenty of it — bad OR good.",
+    "example": "Ha ereditato la casa e adesso anche la promozione: piove sul bagnato.",
+    "exampleTranslation": "He inherited the house and now the promotion too — them that has, gets.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/piovere/",
+        "headword": "piovere",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Identical words, identical weather, and Italian can point them either way. Treccani glosses piove sul bagnato as applying to fortune OR adversity — to pleasant or unpleasant things landing on someone who already has enough of them — so an Italian can say it about a man who inherits a house and then wins a promotion. Spanish reads the same rain as bad news only. The image gives no clue: the Italian sentence is complete and cheerful, and a Spanish speaker hears condolences.",
+    "tags": [
+      "false_friend",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "You can use it for good news in Italian, and Italians will. If you only ever deploy it as sympathy you will misread the half of its uses that are congratulation — or worse, offer sympathy to someone who has just been lucky.",
+      "it_to_es": "Do not carry the positive sense into Spanish. 'Llueve sobre mojado' about a run of good fortune will read as sarcasm or as a mistake; for that Spanish reaches for a different idea entirely, such as 'a quien Dios se la dé, san Pedro se la bendiga' or plain 'la suerte llama a la suerte'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "misfortune",
+    "weather",
+    "luck"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 6 (CANDIDATES.md Freebies 12). CAME IN AS 'exact twin, freebie' AND IS NOT ONE — the freebie audit flagged a possible valence split and the check confirmed it on the Italian side. IT SOURCE IS UNUSUALLY GOOD FOR THIS BATCH: Treccani's `piovere` entry carries the locution explicitly as bivalent ('a proposito di fortuna o avversità, di eventi piacevoli o spiacevoli che capitano a chi ne ha già abbastanza'). Still marked unverified because the page was read from a search snippet, not opened. Several independent Italian sources add that the negative reading is the older and more frequent one (Pascoli, and Passeroni 1743 before him), so the bivalence may be lopsided in practice — worth a frequency note if the reviewer confirms. THE SPANISH HALF OF THE CLAIM IS UNVERIFIED AND IS WHAT THE ENTRY RESTS ON: I assert 'llueve sobre mojado' is negative-only. ES REVIEWER, if Spanish is also bivalent, this entry collapses back to a freebie and should be re-sorted. This is a 0037-class valence entry if it holds."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

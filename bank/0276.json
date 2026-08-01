@@ -1,0 +1,83 @@
+{
+  "id": "0276",
+  "type": "idiom",
+  "cue": "How do you say someone spoke with complete openness?",
+  "es": {
+    "text": "Hablar con el corazón en la mano",
+    "literal": "to speak with the heart in one's hand",
+    "meaning": "To speak with complete frankness and sincerity.",
+    "example": "Te lo digo con el corazón en la mano: ese trabajo te está haciendo daño.",
+    "exampleTranslation": "I'm telling you honestly — that job is doing you harm.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/coraz%C3%B3n",
+        "headword": "corazón",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere il cuore in mano",
+    "literal": "to have one's heart in one's hand",
+    "meaning": "To be openly generous and warm-hearted; to hold nothing back.",
+    "example": "Ha il cuore in mano: se gli chiedi aiuto, arriva prima che tu finisca la frase.",
+    "exampleTranslation": "He'd give you the shirt off his back — ask him for help and he's there before you finish the sentence.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/cuore/",
+        "headword": "cuore",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same gesture — your heart held out where everyone can see it — and each language reads a different virtue in it. Spanish sees honesty: nothing hidden, so what you are told is the truth. Italian sees generosity: nothing withheld, so what you have is yours to take. Both are about holding nothing back; they disagree about what is being held back, information or kindness.",
+    "tags": [
+      "false_friend",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Do not use it to introduce a hard truth. 'Te lo dico col cuore in mano' will read as warmth rather than candour, so the frankness a Spanish speaker intends may not land at all. For speaking plainly Italian says 'a cuore aperto' or 'con franchezza'. Note also the contraction: con + il = col cuore in mano.",
+      "it_to_es": "Spanish will not hear generosity here. 'Tiene el corazón en la mano' describes someone being straight with you, not someone open-handed — for that Spanish says 'tener un corazón de oro' or 'ser muy dado'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "honesty",
+    "generosity",
+    "body"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 7 (CANDIDATES.md Freebies 1, which already flagged 'nuance check'). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. THE DIVERGENCE IS THE ENTRY AND IT IS UNVERIFIED. I have drafted ES=frankness against IT=generosity on the strength of the original candidate note plus my own reading, with no dictionary confirmation of either boundary. BOTH REVIEWERS: does your side carry the other's sense at all? If Italian 'col cuore in mano' can introduce a frank statement, or Spanish 'con el corazón en la mano' can describe a generous person, the divergence is softer than drafted and the false_friend tag is wrong. NOTE THE ASYMMETRIC CITATION FORMS: es.text is the speaking phrase (hablar con...), it.text is the having phrase (avere il cuore in mano), because that is how each language most naturally uses it. If reviewers prefer symmetric forms, use 'parlare col cuore in mano' — but confirm it is idiomatic first, since it may be a construction I built rather than one Italians say."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

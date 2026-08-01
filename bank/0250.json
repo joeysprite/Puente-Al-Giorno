@@ -1,0 +1,83 @@
+{
+  "id": "0250",
+  "type": "idiom",
+  "cue": "How do you say someone went red with embarrassment?",
+  "es": {
+    "text": "Ponerse rojo como un tomate",
+    "literal": "to put oneself red like a tomato",
+    "meaning": "To blush deeply, usually from embarrassment.",
+    "example": "Le preguntaron por su ex delante de todos y se puso rojo como un tomate.",
+    "exampleTranslation": "They asked him about his ex in front of everyone and he went bright red.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/tomate",
+        "headword": "tomate",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Diventare rosso come un peperone",
+    "literal": "to become red like a bell pepper",
+    "meaning": "To blush deeply, usually from embarrassment.",
+    "example": "Quando il professore ha letto il suo tema ad alta voce, è diventata rossa come un peperone.",
+    "exampleTranslation": "When the teacher read her essay out loud, she went bright red.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/peperone/",
+        "headword": "peperone",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same blush, ripened in two different vegetables. Spain reaches for the tomato, Italy for the bell pepper — and Italy is choosing the odder object, since a peperone is only sometimes red, where a tomato is red almost by definition. Underneath the produce sits a quieter split in the grammar: Spanish makes the blush something you do to yourself, ponerSE rojo, reflexive; Italian makes it something that happens to you, diventare rosso, with no pronoun at all.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Two errors, one word apart. The vegetable does not travel: 'rosso come un pomodoro' will be understood and is not what Italians say — the fixed form is peperone. And drop the reflexive: it is diventare rosso, never 'diventarsi rosso'.",
+      "it_to_es": "Spanish needs the pronoun back. 'Volverse rojo' or a bare 'ponerse' without the reflexive both miss; the idiom is ponerSE rojo como un tomate, and the tomato is obligatory."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "embarrassment",
+    "body",
+    "food"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 2 of the Top-picks drafting run (CANDIDATES.md Top picks 8). SOURCES NOT HUMAN-VERIFIED — both URLs follow the standard headword pattern for their dictionaries but were not opened; verifiedOn/verifiedBy null on both sides. Confirm RAE actually carries the simile under `tomate` (it may sit under `rojo` instead) and that Treccani's `peperone` entry includes the phrase. FOR THE ES REVIEWER: is 'rojo como un tomate' the MX default, or does MX prefer 'rojo como un jitomate'? That would be a genuine regional split worth recording. FOR THE IT REVIEWER: is 'rosso come un pomodoro' ever heard, or is peperone categorical? The whole first interference note depends on peperone being the only fixed form."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

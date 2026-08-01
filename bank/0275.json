@@ -1,0 +1,83 @@
+{
+  "id": "0275",
+  "type": "idiom",
+  "cue": "How do you say someone is thoroughly kind?",
+  "es": {
+    "text": "Ser un pedazo de pan",
+    "literal": "to be a piece of bread",
+    "meaning": "To be a thoroughly good-natured, harmless person.",
+    "example": "Su abuela es un pedazo de pan: no le ha dicho que no a nadie en su vida.",
+    "exampleTranslation": "His grandmother is an absolute sweetheart — she's never said no to anyone in her life.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/pan",
+        "headword": "pan",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Essere un pezzo di pane",
+    "literal": "to be a piece of bread",
+    "meaning": "To be a thoroughly good-natured, harmless person.",
+    "example": "Tua nonna è un pezzo di pane: non ha mai detto di no a nessuno.",
+    "exampleTranslation": "Your grandmother is an absolute sweetheart — she's never said no to anyone.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/pane/",
+        "headword": "pane",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Bread as a measure of harmlessness, in both languages, down to the same odd choice of a PIECE of it rather than a loaf — pezzo and pedazo, the same word twice. Italian keeps a second way of saying it that Spanish did not build: buono come il pane, good as bread, which turns the metaphor into a simile. Spanish only has the metaphor. So the two languages agree on the image and differ on how many grammatical shapes they let it take.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Both work in Italian, and they are not the same sentence: 'è un pezzo di pane' says he IS the bread, 'è buono come il pane' says he is LIKE it. A Spanish speaker who only knows the metaphor will not recognise the simile when it arrives.",
+      "it_to_es": "'Bueno como el pan' is not the Spanish idiom — Spanish keeps the metaphor only, ser un pedazo de pan. Note the article: Spanish takes UN pedazo, Italian UN pezzo, both indefinite, which is the easy half of this pair."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "kindness",
+    "food",
+    "character"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 6. RESOLVES A COLLISION FLAGGED BY REGISTRY.md: 'ser un pedazo de pan' was mapped to TWO Italian partners — 'essere un pezzo di pane' (CANDIDATES.md Risk 5) and 'buono come il pane' (Freebies 5). This entry takes pezzo di pane as the anchor because pezzo/pedazo are the same word and the same figure, and folds 'buono come il pane' into the bridge as the Italian-only simile variant rather than banking it separately. That closes both rows with one entry. If the multiple-pairings policy is ever switched on, 'buono come il pane' could be split out as its own entry against the same Spanish side. SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. IT REVIEWER: are the metaphor and simile forms genuinely both current, and does either dominate? The bridge and both interference notes rest on both being live."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

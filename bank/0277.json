@@ -1,0 +1,83 @@
+{
+  "id": "0277",
+  "type": "proverb",
+  "cue": "How do you say time will make it hurt less?",
+  "es": {
+    "text": "El tiempo lo cura todo",
+    "literal": "time cures it all",
+    "meaning": "Pain and difficulty fade with time.",
+    "example": "Ahora parece imposible, pero el tiempo lo cura todo.",
+    "exampleTranslation": "It feels impossible now, but time heals everything.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/",
+        "headword": "el tiempo lo cura todo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Il tempo guarisce tutte le ferite",
+    "literal": "time heals all wounds",
+    "meaning": "Pain and difficulty fade with time.",
+    "example": "Adesso sembra impossibile, ma il tempo guarisce tutte le ferite.",
+    "exampleTranslation": "It feels impossible now, but time heals all wounds.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/tempo1/",
+        "headword": "tempo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same consolation, and Italian says what is being healed. Spanish keeps it abstract — todo, everything, whatever it was — while Italian names the wounds, ferite, and so quietly narrows the promise: time is good for injuries, not for every kind of trouble. The Spanish also carries a piece of grammar that has no Italian equivalent: el tiempo LO cura todo, with a pronoun that duplicates the todo coming after it. Nothing is missing if you remove it, and no Spanish speaker would.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Italian does not double the object. 'Il tempo lo guarisce tutto' is wrong — there is no Italian counterpart to the Spanish redundant lo, and the fixed form names the wounds instead of gesturing at everything.",
+      "it_to_es": "Spanish needs the lo. 'El tiempo cura todo' is heard and is the weaker form; the proverb as fixed is 'el tiempo LO cura todo'. And Spanish does not name the wounds — 'el tiempo cura todas las heridas' exists as a calque but is not the traditional refrán."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "consolation",
+    "time",
+    "healing"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 7 (CANDIDATES.md Freebies 2). SOURCES ARE WEAK ON BOTH SIDES AND NEED REPLACING: the ES citation is a bare Cervantes refranero root URL, not a ficha (same defect as 0251), and the IT citation is a `tempo` headword that may not carry this proverb at all — Treccani may file it nowhere, since it is closer to a common saying than a lexicalised locution. VERIFY OR RESOURCE BEFORE APPROVAL. THE REDUNDANT-LO CLAIM IS THE ENTRY'S HIGH-VALUE CONTENT and I am fairly confident of it as grammar, but ES REVIEWER should confirm that 'el tiempo cura todo' without the lo genuinely sounds incomplete rather than merely less common. IT REVIEWER: is 'il tempo guarisce tutte le ferite' the standard Italian form, or is it itself a calque of the English 'time heals all wounds'? If it is a recent English import the bridge's framing changes substantially — cf. 0281, where that exact problem is the entry's subject."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

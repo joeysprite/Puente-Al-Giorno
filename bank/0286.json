@@ -1,0 +1,83 @@
+{
+  "id": "0286",
+  "type": "idiom",
+  "cue": "How do you describe fake grief?",
+  "es": {
+    "text": "Lágrimas de cocodrilo",
+    "literal": "crocodile tears",
+    "meaning": "Insincere grief, performed for effect.",
+    "example": "Lloró en la despedida, pero todos sabíamos que eran lágrimas de cocodrilo.",
+    "exampleTranslation": "He cried at the farewell, but we all knew they were crocodile tears.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/l%C3%A1grima",
+        "headword": "lágrima",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Lacrime di coccodrillo",
+    "literal": "crocodile tears",
+    "meaning": "Insincere grief, performed for effect.",
+    "example": "Ha pianto alla festa d'addio, ma erano lacrime di coccodrillo e lo sapevano tutti.",
+    "exampleTranslation": "He cried at the leaving party, but they were crocodile tears and everyone knew it.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/coccodrillo/",
+        "headword": "coccodrillo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same medieval slander against the same animal, inherited by both languages from the same bestiaries, and the whole difference is how many consonants each language kept. Spanish wore the word down to cocodrilo — one c, one l. Italian doubled what Spanish thinned: coccodrillo, with cc and ll. Neither is a spelling mistake for the other; they are two settled outcomes of the same Greek word, and the doubling is the single most reliable difference between Italian and Spanish vocabulary generally.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Double both: COCCODRILLO. Italian gemination is not decoration — it changes the length of the consonant when spoken, and a Spanish speaker who writes 'cocodrilo' has written a word Italian does not have. The same habit runs through the vocabulary: Spanish oficina against Italian ufficio, Spanish común against comune, Spanish atacar against attaccare.",
+      "it_to_es": "Spanish does not double: COCODRILO, one c and one l. Spanish has almost no geminate consonants at all, so the reflex to double will always be wrong going this direction — and note lacrime/lágrimas, where Spanish keeps a written accent Italian has no use for."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "insincerity",
+    "animals",
+    "emotion"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 8 (CANDIDATES.md Freebies 18). CAME IN MARKED 'NO TRAP FOUND — shared classical ancestor, parallel structure'. The second pass found the gemination contrast, and this is the strongest of the six trap-free freebies: coccodrillo/cocodrilo is a real spelling error learners make, and it opens onto a systematic difference between the two languages rather than being a one-off. The cross-language examples in the es_to_it note (oficina/ufficio, común/comune, atacar/attaccare) are mine and unsourced — reviewers should confirm they are apt before they ship, since a wrong example in a note about spelling would be unfortunate. SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. NOTE FOR SCHEDULING: if the bank ever wants a themed run on orthography, this entry is the natural anchor for it."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

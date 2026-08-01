@@ -1,0 +1,82 @@
+{
+  "id": "0270",
+  "type": "idiom",
+  "cue": "How do you say something is hopeless to look for?",
+  "es": {
+    "text": "Buscar una aguja en un pajar",
+    "literal": "to look for a needle in a haystack",
+    "meaning": "To search for something almost impossible to find.",
+    "example": "Encontrar ese archivo sin la fecha es buscar una aguja en un pajar.",
+    "exampleTranslation": "Finding that file without the date is looking for a needle in a haystack.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/aguja",
+        "headword": "aguja",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Cercare un ago nel pagliaio",
+    "literal": "to look for a needle in the haystack",
+    "meaning": "To search for something almost impossible to find.",
+    "example": "Trovare quel file senza la data è come cercare un ago nel pagliaio.",
+    "exampleTranslation": "Finding that file without the date is like looking for a needle in a haystack.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/ago/",
+        "headword": "ago",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Word for word the same hopeless search, and one article between them. Spanish looks in A haystack — en UN pajar, any haystack, one of many. Italian looks in THE haystack — nel pagliaio, definite, as though the haystack were already agreed on. Nothing in the meaning turns on it, which is exactly why it slips past: there is no logic to derive it from, only the habit of the language.",
+    "tags": [
+      "cognate_pair",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": "Italian contracts the preposition and the article into one word: NEL pagliaio. 'In un pagliaio' is grammatical and is not the idiom. Italian also usually introduces the whole thing with come — è come cercare un ago nel pagliaio.",
+      "it_to_es": "Spanish keeps them apart and indefinite: EN UN pajar. 'En el pajar' points at a specific haystack and breaks the image."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "futility",
+    "search"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 6 (CANDIDATES.md Freebies 9). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. HONEST WEIGHT ASSESSMENT: the entry's whole claim is one article. That is real and teachable but thin, and this is the lightest of the trap-bearing freebies. If the bank needs to shed easy entries to stay under the 33% easy-only ceiling, this is a candidate to cut before the others. IT REVIEWER: is 'in un pagliaio' genuinely never heard, or is it a tolerated variant? The entry has nothing left if it is tolerated."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

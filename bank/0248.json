@@ -1,0 +1,57 @@
+{
+  "id": "0248",
+  "type": "idiom",
+  "cue": "How do you say someone is bursting with excitement?",
+  "es": {
+    "text": "No caber en sí",
+    "literal": "not to fit inside oneself",
+    "meaning": "To be so full of an emotion — usually joy or pride — that you cannot contain it.",
+    "example": "No cabía en sí de orgullo cuando su hija subió al escenario.",
+    "exampleTranslation": "He was bursting with pride when his daughter walked on stage.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": ["mx", "es", "ar", "co"],
+    "regionNote": null,
+    "sources": [
+      { "authority": "RAE (DLE)", "url": "https://dle.rae.es/caber", "headword": "caber", "verifiedOn": null, "verifiedBy": null }
+    ]
+  },
+  "it": {
+    "text": "Non stare più nella pelle",
+    "literal": "not to stay in one's skin any longer",
+    "meaning": "To be unable to contain one's excitement or impatience.",
+    "example": "Non sta più nella pelle: parte per il Giappone domani.",
+    "exampleTranslation": "She can't sit still — she leaves for Japan tomorrow.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": ["it"],
+    "regionNote": null,
+    "sources": [
+      { "authority": "Treccani", "url": "https://www.treccani.it/vocabolario/pelle/", "headword": "pelle", "verifiedOn": null, "verifiedBy": null }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages put the same picture on the page — a person too full of feeling for the body holding them — and then choose different containers. Italian names the skin, an outer wall the feeling is pressing against. Spanish names nothing at all: you simply do not fit inside yourself, the container left unspecified and therefore total. And there is a live wire underneath, because Spanish DOES have a skin version of this phrase, and it means something else entirely.",
+    "tags": ["false_friend", "interference_risk"],
+    "interference": {
+      "es_to_it": "Spanish supplies no skin to carry over, so the whole Italian phrase has to be learned as a unit — and note it stays in the negative: non stare PIÙ nella pelle, with più. Dropping it produces something that reads as a plain statement about location rather than the idiom.",
+      "it_to_es": "This is the dangerous direction. Translating the skin literally gives 'no caber en el pellejo' — which is real Spanish and means being OVERWEIGHT, not being excited. An Italian speaker describing a thrilled friend would be calling them fat. The Spanish idiom drops the skin entirely: no caber EN SÍ, usually with de + the emotion (de gozo, de contento, de orgullo)."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": ["joy", "body"],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 1. SOURCES NOT HUMAN-VERIFIED; both URLs constructed from the standard headword pattern rather than opened — check both. The false-friend claim is the reason this entry exists and it came from real research earlier in the session: 'no caber en el pellejo' is attested (Collins among others) with the meaning of being overweight, e.g. 'esta camisa no te queda bien, no cabes en el pellejo'. FOR THE SPANISH REVIEWER: (1) Is that overweight sense live in MX, or is it Peninsular? If it is not current in Mexico the trap weakens considerably and the entry may not be worth banking. (2) Does 'no caber en sí' need the de + emotion tail to sound complete, or does it stand bare? FOR THE ITALIAN REVIEWER: is the 'più' obligatory? I have written the interference note as though it is. EXAMPLES ARE ORIGINAL."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

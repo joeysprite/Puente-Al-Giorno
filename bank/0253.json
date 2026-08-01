@@ -1,0 +1,83 @@
+{
+  "id": "0253",
+  "type": "marker",
+  "cue": "How do you say it doesn't matter how, it's happening either way?",
+  "es": {
+    "text": "Sea como sea",
+    "literal": "be it how it may be",
+    "meaning": "No matter what; one way or another.",
+    "example": "Sea como sea, el lunes entregamos.",
+    "exampleTranslation": "One way or another, we deliver on Monday.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/ser",
+        "headword": "ser",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Sia come sia",
+    "literal": "be it how it may be",
+    "meaning": "Be that as it may; in any case.",
+    "example": "Sia come sia, lunedì consegniamo.",
+    "exampleTranslation": "Be that as it may, we deliver on Monday.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/essere2/",
+        "headword": "essere",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Word for word the same construction, built from the same Latin bones: a subjunctive, the word for 'how', and the subjunctive again. What differs is where each one points. The Spanish looks forward and commits — whatever it takes, this is getting done. The Italian looks backward and concedes — fine, granted, let that be as it is, moving on. One is resolve, the other is a shrug, and the words give no hint which you have picked up.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The determination does not survive. Where Spanish 'sea como sea' means at any cost, Italian 'sia come sia' concedes a point rather than pressing one — closer to 'be that as it may'. For the Spanish sense of pushing through regardless, Italian wants 'a ogni costo' or 'costi quel che costi'.",
+      "it_to_es": "'Sea como sea' will not read as a concession in Spanish. To wave a point aside, Spanish uses 'en todo caso' or 'de cualquier modo'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "determination",
+    "discourse",
+    "subjunctive"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, batch 2 (CANDIDATES.md Top picks 16). SOURCES NOT HUMAN-VERIFIED; both are headword URLs for the verb, not opened — the locution may sit under a different headword in either dictionary, so check before approval. THE BRIDGE CLAIM IS THE RISK HERE AND IT IS UNVERIFIED. CANDIDATES.md logged this as a near-exact twin. In drafting it I formed the view that the two are NOT equivalent in force — ES = determination ('at any cost'), IT = concession ('be that as it may') — and the whole entry is built on that. I could not confirm it from sources this session. IT REVIEWER: is 'sia come sia' concessive to your ear, and would it be wrong for 'we're finishing this no matter what'? ES REVIEWER: same question in reverse. If you both say the two match in force, this entry loses its lesson and should be reclassified as a freebie or dropped — do not approve it on the strength of my reading alone. Also confirm frequency: I suspect Italian reaches for 'comunque sia' (banked separately as Top picks 21) more often than 'sia come sia', which would be a register/frequency note worth adding."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}
