@@ -38,8 +38,15 @@ function svg(e) {
     `<text x="${x}" y="${y}" text-anchor="${anchor}" font-family="Newsreader" font-style="italic" font-size="30" fill="${C.ink3}">${esc("\u201c"+t+"\u201d")}</text>`;
   const rows = Math.max(esL.length, itL.length);
   const seamB = top + 120 + rows*76;
+  // Content is laid out from a fixed `top`, so short entries used to leave the
+  // bottom of the square empty. Measure what the block actually occupies and
+  // shift it so the whitespace sits evenly above and below.
+  const contentTop = top - 150;          // the card rect
+  const contentBottom = seamB + 215;     // handle baseline + descender
+  const dy = Math.round((H - (contentBottom - contentTop)) / 2 - contentTop);
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <rect width="${W}" height="${H}" fill="${C.paper}"/>
+  <g transform="translate(0,${dy})">
   <rect x="50" y="${top-150}" width="${W-100}" height="${seamB-top+330}" fill="${C.card}" stroke="${C.rule}" stroke-width="2"/>
   <text x="${M}" y="${top-80}" text-anchor="middle" font-family="IBM Plex Mono" font-size="22" letter-spacing="6" fill="${C.ink3}">${esc(BRAND.name.toUpperCase()).replace(/ /g, "\u00a0\u200a")}</text>
   <line x1="${M}" y1="${top}" x2="${M}" y2="${seamB}" stroke="${C.rule}" stroke-width="2"/>
@@ -51,6 +58,7 @@ function svg(e) {
   ${lit(e.it.literal, M+40, "start", seamB+60)}
   <text x="${M}" y="${seamB+150}" text-anchor="middle" font-family="IBM Plex Sans" font-size="30" fill="${C.ink2}">${esc(BRAND.taglineShort)}</text>
   <text x="${M}" y="${seamB+205}" text-anchor="middle" font-family="IBM Plex Mono" font-size="22" letter-spacing="2" fill="${C.ink3}">@${esc(BRAND.social.handles.instagram)}</text>
+  </g>
 </svg>`;
 }
 
