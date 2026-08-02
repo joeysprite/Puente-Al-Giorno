@@ -1,0 +1,81 @@
+{
+  "id": "0241",
+  "type": "proverb",
+  "cue": "How do you say it's wiser to let an enemy leave than to corner them?",
+  "es": {
+    "text": "A enemigo que huye, puente de plata",
+    "literal": "to an enemy who flees, a bridge of silver",
+    "meaning": "Let a retreating adversary go — smooth their exit instead of chasing them down.",
+    "example": "Renunció él solo, así que no tuvimos que despedirlo: a enemigo que huye, puente de plata.",
+    "exampleTranslation": "He quit on his own, so we never had to fire him — let a retreating enemy go.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es"
+    ],
+    "regionNote": "Attested in Spain (Siglo de Oro sources onward) and current in Mexico. Wider LatAm currency (ar, co) is plausible but unverified — reviewer to extend or trim the list.",
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58062&Lng=0",
+        "headword": "ficha 58062",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "A nemico che fugge, ponti d'oro",
+    "literal": "to an enemy who flees, bridges of gold",
+    "meaning": "Ease the withdrawal of an adversary who is already leaving; a cornered opponent fights harder.",
+    "example": "Se vuole andarsene, lascialo andare: a nemico che fugge, ponti d'oro.",
+    "exampleTranslation": "If he wants out, let him go — build the retreating enemy a golden bridge.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/ponte/",
+        "headword": "ponte",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same proverb on both sides of the Mediterranean, descended from the same Latin advice about leaving a fleeing enemy his road — and the only word that moved is the metal. Spanish plates the bridge in silver, Italian in gold. Underneath that, a quieter split: Spanish builds the enemy one bridge, Italian builds him several.",
+    "tags": [
+      "shared_metaphor",
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The metal changes at the border. Italian pays in gold and in the plural — ponti d'oro. 'Ponte d'argento' will be understood and quietly filed as foreign.",
+      "it_to_es": "Spanish gives one bridge and it is silver: puente de plata, singular. 'Puente de oro' is not the proverb."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "conflict",
+    "negotiation"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-07-25. SOURCES NOT HUMAN-VERIFIED — both were read out of search results, not opened by a person, so verifiedOn/verifiedBy stay null on both sides. Treccani carries the Italian under the `ponte` headword and in its guerra-e-usi-militari proverb cluster; the Spanish has a full CVC Refranero ficha tracing it to Gonzalo Fernández de Córdoba with attestations back to Vallés 1549. QUESTIONS FOR REVIEWERS: (1) Register — both sides read formal to me, more newspaper column than conversation; if either is closer to `literary` or `dated`, say so, since formality is currently set ok_in_exam on both. (2) ES regions — is it live in AR/CO? (3) Is the plural obligatory in Italian, or does the singular 'ponte d'oro' also circulate? SCHEDULING NOTE: shares the ponte/puente headword with 0060 (hacer puente / fare il ponte) — keep them apart in the schedule, or run them deliberately as a pair. CROSS-REFERENCE: 0056 also has Italian reaching for gold where Spanish does not (il mattino ha l'oro in bocca); if a third turns up there may be an editorial thread worth naming."
+  },
+  "createdOn": "2026-07-25",
+  "retiredReason": null
+}

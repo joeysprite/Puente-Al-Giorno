@@ -1,0 +1,81 @@
+{
+  "id": "0244",
+  "type": "marker",
+  "cue": "How do you say something has been happening in the recent period?",
+  "es": {
+    "text": "Últimamente",
+    "literal": "lastly / in the last (time)",
+    "meaning": "In the period just before now; recently.",
+    "example": "Últimamente he estado muy ocupado.",
+    "exampleTranslation": "I've been really busy lately.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/%C3%BAltimamente",
+        "headword": "últimamente",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Ultimamente",
+    "literal": "lastly / in the last (time)",
+    "meaning": "In the period just before now; recently.",
+    "example": "Ultimamente sono stato molto occupato.",
+    "exampleTranslation": "I've been really busy lately.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/ultimamente/",
+        "headword": "ultimaménte",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The look of this pair screams false friend, and for once that instinct is wrong. Both words descend from the same Latin ultimus and made the identical trip in meaning: from 'at the end' to 'recently,' and both still carry a trace of the older sense. Treccani marks Italian's 'alla fine' reading explicitly archaic, sourced to Boccaccio. RAE still lists Spanish's 'por último' reading without an obsolescence tag, but its only attested example reads like a formal prize-ceremony script, not conversation — so the two languages appear to have parked the same dead sense at slightly different points on the same road. This is one of the few entries in the bank whose job is reassurance rather than warning: say it, it means what you think.",
+    "tags": [
+      "cognate_pair"
+    ],
+    "interference": {
+      "es_to_it": "No meaning trap. The only thing that moves is on paper: Spanish writes the tilde on último- because -mente adverbs keep the base adjective's own stress, giving the word two stress peaks (úl-ti-ma-MEN-te). Italian has one stress, on -MEN-te only, and never marks it with an accent — writing 'ùltimamente' or leaning on the first syllable when speaking is the tell.",
+      "it_to_es": "No meaning trap. Going the other way, the risk is dropping the tilde that Spanish orthography requires — 'ultimamente' without the accent is simply misspelled, not a stylistic choice, because the word is sobreesdrújula and Spanish marks those without exception."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "time",
+    "discourse"
+  ],
+  "cefr": "B1",
+  "difficulty": 1,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-07-27. SOURCES NOT HUMAN-VERIFIED — read out of search results, so verifiedOn/verifiedBy stay null on both sides. FOR THE SPANISH REVIEWER: is the 'por último' (finally) sense of últimamente ever actually heard in casual MX speech, or is it as dead in practice as it appears to be in Italian? I could only find one formal/ceremonial-register example. FOR THE ITALIAN REVIEWER: does 'ultimamente' carry any register weight relative to 'recentemente' or 'negli ultimi tempi' — is it the neutral everyday choice, or does it skew slightly more casual/spoken? DESIGN NOTE: difficulty set to 1 and no interference_risk tag, since the entry's value is confirming safety rather than flagging a trap — deliberately the opposite pattern from most of this bank. If that reads as out of place next to the trap-heavy entries, worth a call on whether 'safe cognate' entries need their own visual treatment downstream (cards, teasers) so users don't brace for a trick that isn't coming."
+  },
+  "createdOn": "2026-07-27",
+  "retiredReason": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "0242",
+  "type": "idiom",
+  "cue": "How do you say someone has what it takes?",
+  "es": {
+    "text": "Tener madera de",
+    "literal": "to have the wood of",
+    "meaning": "To have the natural aptitude for something — to be cut out for it.",
+    "example": "Desde joven demostró tener madera de científico.",
+    "exampleTranslation": "Even as a boy he showed he was cut out to be a scientist.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/madera",
+        "headword": "madera",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere i numeri",
+    "literal": "to have the numbers",
+    "meaning": "To have the qualities and credentials something calls for — for the figures to add up in your favour.",
+    "example": "Ha tutti i numeri per diventare un grande allenatore.",
+    "exampleTranslation": "He has everything it takes to become a great coach.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/numero_(Sinonimi-e-Contrari)/",
+        "headword": "numero",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Two ways of certifying a person before they have done anything. Italy audits you: the numbers are there, the figures add up, you meet the count — Treccani glosses it as what it takes to succeed, and lists it beside dote, pregio, requisito, titolo. Spain looks at the raw material instead: you are cut from the right timber, and madera goes back through Latin materia to mater, the source. One language checks the totals, the other checks the grain.",
+    "tags": [
+      "preposition_differs",
+      "register_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The verb is the trap, and Spanish primes you straight into it. Spanish hands out DAR for this whole family — dar la talla, dar la cara — so the reach for 'dare i numeri' is almost automatic, and in Italian that means to talk nonsense, to rave, to lose the plot. Treccani files it under delirare, farneticare, vaneggiare; De Mauro adds getting furious, and, older, the dead turning up in a dream to whisper lottery numbers. Say it of a job candidate and you have called them unhinged. Then the preposition: Italian takes per + infinitive, ha i numeri PER diventare — not the Spanish de + noun.",
+      "it_to_es": "'Tener los números' is nothing in Spanish. And madera needs its complement: tener madera DE + noun (madera de líder) or PARA + infinitive (madera para ser futbolista). Bare 'tiene madera' is possible but leaves the activity hanging on context. Note also the register step — RAE marks this sense colloquial, so it is a rung below avere i numeri, which is neutral enough for the exam."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "character",
+    "talent"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-07-25. SOURCES NOT HUMAN-VERIFIED — read out of search results, so verifiedOn/verifiedBy stay null on both sides. The Treccani citation is the Sinonimi-e-Contrari page for `numero`, sense 5, which glosses the plural use as what serves for success and gives 'avere tutti i numeri'; the same entry carries 'dare i numeri' as its opposite. RAE marks madera sense 4 as coloq. — hence register colloquial and formality neutral on the ES side against standard/ok_in_exam on the IT side. NOT PAIRED WITH dar la talla, which is already banked at 0120 against essere all'altezza; 0120 is about meeting a standard, this is about innate aptitude, and the two should not be scheduled close together. FOR THE ITALIAN REVIEWER: (1) Is 'avere i numeri' equally at home outside sport and politics, where most of the attestations sit? (2) Does the bare plural need 'tutti' to sound right — avere tutti i numeri vs avere i numeri? FOR THE SPANISH REVIEWER: (1) regions set pan-regional; a WordReference thread has Argentinians offering 'tener pasta de' as the local form, so confirm madera is the one that travels. (2) Is bare 'tiene madera' natural in MX without a following de/para? CROSS-REFERENCE: the dar/avere confusion here is the third entry to hinge on Spanish DAR going somewhere Italian will not follow — 0112 (dar la cara) and 0120 (dar la talla) are the others. Worth a recurring thread."
+  },
+  "createdOn": "2026-07-25",
+  "retiredReason": null
+}
