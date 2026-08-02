@@ -18,6 +18,10 @@ const argv = process.argv.slice(2);
 const arg = (n, d) => { const i = argv.indexOf(n); return i >= 0 ? argv[i + 1] : d; };
 const FONTS = resolve(arg("--fonts", "/tmp/cardfonts"));
 const STORY = arg("--format", "square") === "story";
+// --fit trims the canvas to the content instead of padding it out to a square.
+// Instagram needs 1:1; email does not, and a square wastes half the message on
+// empty paper.
+const FIT = argv.includes("--fit");
 const ONLY = arg("--only", null)?.split(",");
 
 const BRAND = JSON.parse(readFileSync(join(ROOT, "brand.json"), "utf8"));
@@ -30,7 +34,7 @@ const wrap = (t, max) => { const out=[]; let cur=""; for (const w of t.split(" "
   if (cur) out.push(cur); return out; };
 
 function svg(e) {
-  const W = 1080, H = STORY ? 1920 : 1080, M = W/2, top = STORY ? 420 : 200;
+  const W = 1080, M = W/2, top = STORY ? 420 : 200;
   const esL = wrap(e.es.text, 16), itL = wrap(e.it.text, 16);
   const block = (lines, x, anchor, color, y0) => lines.map((l,i) =>
     `<text x="${x}" y="${y0+i*76}" text-anchor="${anchor}" font-family="Newsreader" font-weight="500" font-size="64" fill="${color}">${esc(l)}</text>`).join("");
@@ -43,7 +47,11 @@ function svg(e) {
   // shift it so the whitespace sits evenly above and below.
   const contentTop = top - 150;          // the card rect
   const contentBottom = seamB + 215;     // handle baseline + descender
-  const dy = Math.round((H - (contentBottom - contentTop)) / 2 - contentTop);
+  const PAD = 50;                        // matches the horizontal inset
+  const H = FIT ? (contentBottom - contentTop) + PAD*2
+                : (STORY ? 1920 : 1080);
+  const dy = FIT ? PAD - contentTop
+                 : Math.round((H - (contentBottom - contentTop)) / 2 - contentTop);
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <rect width="${W}" height="${H}" fill="${C.paper}"/>
   <g transform="translate(0,${dy})">
@@ -63,7 +71,8 @@ function svg(e) {
 }
 
 const files = readdirSync(join(ROOT,"bank")).filter(f => f.endsWith(".json"));
-mkdirSync(join(ROOT,"landing","social"), { recursive:true });
+const OUTDIR = FIT ? join(ROOT,"landing","email-cards") : join(ROOT,"landing","social");
+mkdirSync(OUTDIR, { recursive:true });
 let n = 0;
 for (const f of files) {
   const e = JSON.parse(readFileSync(join(ROOT,"bank",f),"utf8"));
@@ -71,7 +80,8 @@ for (const f of files) {
   if (ONLY && !ONLY.includes(e.id)) continue;
   const png = new Resvg(svg(e), { fitTo:{mode:"width",value:1080},
     font:{ fontFiles, loadSystemFonts:false, defaultFontFamily:"Newsreader" } }).render().asPng();
-  writeFileSync(join(ROOT,"landing","social",`${e.id}${STORY?"-story":""}.png`), png);
+  writeFileSync(join(OUTDIR,`${e.id}${STORY?"-story":""}.png`), png);
   n++;
 }
-console.log(`landing/social/ \u2190 ${n} ${STORY?"story":"square"} cards (1080x${STORY?1920:1080})`);
+console.log(FIT ? `landing/email-cards/ \u2190 ${n} fitted cards (1080 wide, height varies)`
+                : `landing/social/ \u2190 ${n} ${STORY?"story":"square"} cards (1080x${STORY?1920:1080})`);
