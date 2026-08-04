@@ -29,17 +29,28 @@ const C = BRAND.color;
 const fontFiles = ["Newsreader.ttf","NewsreaderItalic.ttf","PlexMono.ttf","PlexSans.ttf"].map(f => join(FONTS, f));
 
 const esc = (s) => s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;");
-const wrap = (t, max) => { const out=[]; let cur=""; for (const w of t.split(" ")) {
-  if ((cur+" "+w).trim().length > max && cur) { out.push(cur); cur=w; } else cur=(cur+" "+w).trim(); }
+const METRICS = JSON.parse(readFileSync(join(ROOT, "tools", "font-metrics.json"), "utf8"));
+const tw = (s, f, z) => { const m = METRICS[f] ?? METRICS.Newsreader; let w = 0;
+  for (const c of s) w += (m[c] ?? m.n ?? 50); return w * z / 100; };
+// Wraps by measured pixel width, not character count — a fixed char limit
+// looks fine on average text but silently overflows on any line unlucky
+// enough to be full of wide glyphs (caps, w/m), which is exactly what broke
+// on "puedas hacer hoy" / "Chi ha tempo non".
+const wrapPx = (t, font, size, maxWidth) => { const out=[]; let cur="";
+  for (const w of t.split(" ")) {
+    const cand = (cur+" "+w).trim();
+    if (tw(cand, font, size) > maxWidth && cur) { out.push(cur); cur=w; }
+    else cur = cand;
+  }
   if (cur) out.push(cur); return out; };
 
 function svg(e) {
   const W = 1080, M = W/2, top = STORY ? 420 : 200;
-  const esL = wrap(e.es.text, 16), itL = wrap(e.it.text, 16);
+  const COL = 440; // usable width per column: seam-to-edge minus inset, with a small safety margin
+  const esL = wrapPx(e.es.text, "Newsreader", 64, COL), itL = wrapPx(e.it.text, "Newsreader", 64, COL);
   const block = (lines, x, anchor, color, y0) => lines.map((l,i) =>
     `<text x="${x}" y="${y0+i*76}" text-anchor="${anchor}" font-family="Newsreader" font-weight="500" font-size="64" fill="${color}">${esc(l)}</text>`).join("");
-  const LIT_MAX = 27; // chars/line at 30px in a half-width column — tuned against the longest glosses in the bank
-  const esLit = wrap(e.es.literal, LIT_MAX), itLit = wrap(e.it.literal, LIT_MAX);
+  const esLit = wrapPx(e.es.literal, "NewsreaderItalic", 30, COL), itLit = wrapPx(e.it.literal, "NewsreaderItalic", 30, COL);
   const litRows = Math.max(esLit.length, itLit.length);
   const lit = (lines, x, anchor, y0) => lines.map((l,i) =>
     `<text x="${x}" y="${y0+i*38}" text-anchor="${anchor}" font-family="Newsreader" font-style="italic" font-size="30" fill="${C.ink3}">${esc((i===0?"\u201c":"")+l+(i===lines.length-1?"\u201d":""))}</text>`).join("");
