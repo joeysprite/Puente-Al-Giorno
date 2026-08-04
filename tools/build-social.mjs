@@ -38,15 +38,19 @@ function svg(e) {
   const esL = wrap(e.es.text, 16), itL = wrap(e.it.text, 16);
   const block = (lines, x, anchor, color, y0) => lines.map((l,i) =>
     `<text x="${x}" y="${y0+i*76}" text-anchor="${anchor}" font-family="Newsreader" font-weight="500" font-size="64" fill="${color}">${esc(l)}</text>`).join("");
-  const lit = (t, x, anchor, y) =>
-    `<text x="${x}" y="${y}" text-anchor="${anchor}" font-family="Newsreader" font-style="italic" font-size="30" fill="${C.ink3}">${esc("\u201c"+t+"\u201d")}</text>`;
+  const LIT_MAX = 27; // chars/line at 30px in a half-width column — tuned against the longest glosses in the bank
+  const esLit = wrap(e.es.literal, LIT_MAX), itLit = wrap(e.it.literal, LIT_MAX);
+  const litRows = Math.max(esLit.length, itLit.length);
+  const lit = (lines, x, anchor, y0) => lines.map((l,i) =>
+    `<text x="${x}" y="${y0+i*38}" text-anchor="${anchor}" font-family="Newsreader" font-style="italic" font-size="30" fill="${C.ink3}">${esc((i===0?"\u201c":"")+l+(i===lines.length-1?"\u201d":""))}</text>`).join("");
   const rows = Math.max(esL.length, itL.length);
   const seamB = top + 120 + rows*76;
   // Content is laid out from a fixed `top`, so short entries used to leave the
   // bottom of the square empty. Measure what the block actually occupies and
   // shift it so the whitespace sits evenly above and below.
   const contentTop = top - 150;          // the card rect
-  const contentBottom = seamB + 215;     // handle baseline + descender
+  const litExtra = (litRows-1)*38;       // extra height the gloss needs beyond one line
+  const contentBottom = seamB + 215 + litExtra;     // handle baseline + descender
   const PAD = 50;                        // matches the horizontal inset
   const H = FIT ? (contentBottom - contentTop) + PAD*2
                 : (STORY ? 1920 : 1080);
@@ -55,17 +59,17 @@ function svg(e) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">
   <rect width="${W}" height="${H}" fill="${C.paper}"/>
   <g transform="translate(0,${dy})">
-  <rect x="50" y="${top-150}" width="${W-100}" height="${seamB-top+330}" fill="${C.card}" stroke="${C.rule}" stroke-width="2"/>
+  <rect x="50" y="${top-150}" width="${W-100}" height="${seamB-top+330+litExtra}" fill="${C.card}" stroke="${C.rule}" stroke-width="2"/>
   <text x="${M}" y="${top-80}" text-anchor="middle" font-family="IBM Plex Mono" font-size="22" letter-spacing="6" fill="${C.ink3}">${esc(BRAND.name.toUpperCase()).replace(/ /g, "\u00a0\u200a")}</text>
   <line x1="${M}" y1="${top}" x2="${M}" y2="${seamB}" stroke="${C.rule}" stroke-width="2"/>
   <text x="${M-40}" y="${top+50}" text-anchor="end" font-family="IBM Plex Mono" font-size="24" letter-spacing="4" fill="${C.es}">ESPA\u00d1OL</text>
   <text x="${M+40}" y="${top+50}" text-anchor="start" font-family="IBM Plex Mono" font-size="24" letter-spacing="4" fill="${C.it}">ITALIANO</text>
   ${block(esL, M-40, "end", C.es, top+140)}
   ${block(itL, M+40, "start", C.it, top+140)}
-  ${lit(e.es.literal, M-40, "end", seamB+60)}
-  ${lit(e.it.literal, M+40, "start", seamB+60)}
-  <text x="${M}" y="${seamB+150}" text-anchor="middle" font-family="IBM Plex Sans" font-size="30" fill="${C.ink2}">${esc(BRAND.taglineShort)}</text>
-  <text x="${M}" y="${seamB+205}" text-anchor="middle" font-family="IBM Plex Mono" font-size="22" letter-spacing="2" fill="${C.ink3}">@${esc(BRAND.social.handles.instagram)}</text>
+  ${lit(esLit, M-40, "end", seamB+60)}
+  ${lit(itLit, M+40, "start", seamB+60)}
+  <text x="${M}" y="${seamB+60+(litRows-1)*38+90}" text-anchor="middle" font-family="IBM Plex Sans" font-size="30" fill="${C.ink2}">${esc(BRAND.taglineShort)}</text>
+  <text x="${M}" y="${seamB+60+(litRows-1)*38+145}" text-anchor="middle" font-family="IBM Plex Mono" font-size="22" letter-spacing="2" fill="${C.ink3}">@${esc(BRAND.social.handles.instagram)}</text>
   </g>
 </svg>`;
 }
