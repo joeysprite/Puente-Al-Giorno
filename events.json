@@ -156,18 +156,17 @@
         "after": 0
       }
     },
-    "us_labor_day": {
-      "name": "Labor Day (US)",
-      "country": "us",
-      "recurrence": "nth_weekday",
-      "month": 9,
-      "weekday": 1,
-      "nth": 1,
+    "navidad_natale": {
+      "name": "Navidad / Natale",
+      "country": "",
+      "recurrence": "annual",
+      "month": 12,
+      "day": 25,
       "window": {
-        "before": 3,
-        "after": 0
+        "before": 5,
+        "after": 1
       },
-      "note": "First Monday of September. The long weekend is the hook: a three-day break bridged onto the weekend, which is what hacer puente / fare il ponte names. Distinct from 1 May, which Spain, Mexico and Italy all observe."
+      "note": "Shared by both calendars, unlike most events here. NOTE: Spanish 'Pascua(s)' can denote Christmas as well as Easter; Italian 'Pasqua' is Easter only. Do not assume an entry tagged to easter is safe to run at Christmas or vice versa."
     }
   }
 }

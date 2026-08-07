@@ -435,3 +435,85 @@ From the Italian reviewer's batches: *non vedere l'ora* is banked at 0040; *aver
 fra le nuvole* is banked at 0001 (the banked form uses *tra*, the reviewer's uses *fra* —
 free variants, not a different idiom). *Dare una mano* is banked at 0018. *Stare con le mani
 in mano* overlaps banked 0114 (same idiom, that entry is the negated imperative form).
+
+---
+
+## Seasonal / calendar candidates (2026-08-01)
+
+Raised by Joe: Christmas, Lent and Easter material. Two drafted this session — 0288
+(*estar como unas pascuas* / *essere contento come una Pasqua*) and 0289 (*más largo que
+un día sin pan* / *lungo come la quaresima*). The rows below are what turned up alongside
+them and are NOT drafted.
+
+**Scope warning that governs this whole section.** 0070, 0100 and 0110 — the bank's only
+three retired entries — are all holiday greetings, retired because `type: formula` is out
+of scope for v1 (see their `retiredReason`). *Feliz Navidad / Buon Natale*, *Felices
+Pascuas / Buona Pasqua* and *Feliz Nochebuena* are the same type and would be retired the
+same way. Everything below is deliberately an IDIOM that uses calendar vocabulary, not a
+greeting tied to a date. If the calendar product ever ships, the retired three come back
+and the greetings become draftable — not before.
+
+**The false friend sitting under all of it.** Spanish *Pascua(s)* covers Christmas as well
+as Easter; Italian *Pasqua* is Easter only (PONS gives *¡felices Pascuas!* → *buon
+Natale*). Recorded in `events.json` under the new `navidad_natale` event so the scheduler
+cannot quietly run an Easter-tagged entry at Christmas.
+
+| # | Expression A | Expression B / sketch | Source | Note |
+|---|---|---|---|---|
+| 1 | De Pascuas a Ramos | ogni morte di papa | Claude research | ES = from Easter to Palm Sunday, i.e. almost a full year apart, meaning very rarely. COLLIDES WITH BANKED 0041 (*cada muerte de obispo* / *ogni morte di papa*) — this would be a second Spanish expression against the same Italian. Blocked by the deferred multiple-pairings policy, not by quality. If that policy is switched on, this is a strong candidate: the ES imagery is calendar-based where 0041's is clerical. |
+| 2 | Natale con i tuoi, Pasqua con chi vuoi | (no ES twin found) | Claude research | Famous Italian proverb — Christmas with your family, Easter with whoever you like. No Spanish equivalent located; the Spanish-speaking world does not appear to draw the same contrast between the two feasts. Candidate for the Unmatched tier rather than a pairing. Would be a strong Christmas-window entry if a partner is ever found. |
+| 3 | Hacer la pascua a alguien | rompere le scatole a qualcuno | Claude research | ES = to mess someone about, ruin things for them (PONS glosses it as *stuzzicare*). Cheerful-sounding phrase with a hostile meaning — a good trap. IT side is a guess and *rompere le scatole* is already queued elsewhere; needs a better partner or the collision resolving. |
+| 4 | ¡Y santas pascuas! | punto e basta | Claude research | ES discourse marker closing an argument — and that's that. PONS pairs it with *punto e basta*. Register informal both sides. Unverified beyond PONS. |
+| 5 | Quando il padre fa carnevale, ai figlioli tocca far quaresima | (no ES twin found) | Treccani (`quaresima`) | Treccani marks this proverb as now rare — if the father is a spendthrift, the family pays for it. Recorded because it is well sourced, but flagged as DATED: the bank should not ship material a dictionary itself calls rare without a reviewer saying it is still heard. |
+| 6 | Flor de Pascua | stella di Natale | Claude research | Poinsettia. ES names it for Pascua, IT for Natale — the same plant filed under different feasts, which is the Pascua/Pasqua scope difference showing up in botany. Charming but it is a NOUN, not an idiom; would need a decision on whether the bank takes vocabulary pairs at all. |
+
+### "Boil the ocean" — not drafted, and probably not bankable (2026-08-01)
+
+Raised alongside "a watched pot never boils" (drafted as 0296). The two behave completely
+differently and the contrast is worth recording.
+
+*A watched pot never boils* is old folk material with independent roots in both target
+languages — Italian keeps the pot, Spanish reaches for *quien espera, desespera*.
+
+*Boil the ocean* is late-20th-century Anglophone management-consulting jargon meaning to
+attempt something impossibly broad. Neither Spanish nor Italian appears to have a native
+fixed expression for it; what exists in business speech is calqued from English or
+paraphrased ad hoc. **Not drafted, because the honest options are all bad:** invent a
+pairing, bank a calque as though it were idiomatic, or force it against a neighbour that
+does not mean the same thing.
+
+The nearest genuine relatives are about overreach rather than impossible scale, and they
+are ALREADY PAIRED WITH EACH OTHER in this file at L211 — *el que mucho abarca poco
+aprieta* / *chi troppo vuole nulla stringe*. Those two mean you will fail by taking on too
+much; *boil the ocean* means the task was never possible at any scale. Related, not
+equivalent, and that row should not be repurposed for this.
+
+Worth keeping as a data point for the source-tier question: English business idioms are a
+category where both languages tend to borrow rather than invent, so seeds from that
+register will keep producing calques. Compare 0281 (*farfalle nello stomaco*) and 0279
+(*luce in fondo al tunnel*), both flagged as shared borrowings from English, and the "my
+two cents" finding recorded on 0295.
+
+---
+
+## @learnandloveitalian monthly calendar carousel — 12 proverbs (2026-08-01)
+
+**Tier A source: the Italian reviewer's own account.** He is teaching these himself, which is
+the strongest non-dictionary evidence of currency the bank has. That weight applies to the
+ITALIAN side only — the Spanish partners and all bridges below are Claude's proposals and
+still need his and the ES reviewer's sign-off.
+
+**The set is structured as a calendar, one proverb per month.** That is directly useful if the
+tear-off calendar ships: it is a ready-made twelve-slot rotation from a native teacher, and
+the month assignments are his editorial judgement, not ours. Worth preserving the mapping even
+though the bank's own scheduler does not currently use it.
+
+Of the 12: **3 already banked** — *chi dorme non piglia pesci* (0051, May), *il mattino ha
+l'oro in bocca* (0056, November), *non c'è due senza tre* (0283, December, drafted earlier
+today). **2 already queued** — *meglio tardi che mai* (L308, February), *chi trova un amico
+trova un tesoro* (L113, August). **6 drafted this session** — March 0299, April 0300, July
+0301, June 0302, September 0303, October 0304.
+
+| # | Month | Italian | Spanish / sketch | Source | Note |
+|---|---|---|---|---|---|
+| 1 | Gennaio | Chi va piano, va sano e lontano | (ES side unresolved) | IT reviewer (own account) | THE ONE NOT DRAFTED. Nearest Spanish candidates are *poco a poco se va lejos* and *vísteme despacio que tengo prisa*, and they are not the same proverb: the first is about steady progress, the second is a witticism about haste defeating itself, and neither carries the Italian's three-part sano-e-lontano promise of arriving both safely AND far. Needs proper research rather than a forced pick. NOTE the collision risk with banked 0046 (*piano piano* / *despacito*) — same adverb, different expression, but they should not be scheduled near each other. |

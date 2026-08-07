@@ -1,6 +1,6 @@
 # Un puente al giorno — Bank
 
-**Last updated:** 2026-08-01 | **Total entries:** 199 | **Approved:** 129
+**Last updated:** 2026-08-06 | **Total entries:** 216 | **Approved:** 129
 
 _Regenerate with `node tools/build-bank.mjs` any time the bank changes. This file is generated — edit bank/*.json, not this._
 
@@ -11,9 +11,8 @@ _Regenerate with `node tools/build-bank.mjs` any time the bank changes. This fil
 | Status | Count |
 |--------|-------|
 | approved | 129 |
-| needs_review | 47 |
+| needs_review | 67 |
 | draft | 20 |
-| retired | 3 |
 
 ---
 
@@ -143,7 +142,7 @@ These are marked `approved` but their own `review.notes` field still contains la
 | 0067 | Imagínate | Figurati | marker | B2 | 3 | ✓ approved | courtesy, false_friend, rituals |
 | 0068 | ¡Madre mía! | Mamma mia! | marker | A2 | 1 | draft | exclamations, family, register |
 | 0069 | ¡Sepa! | Boh | marker | B1 | 2 | ✓ approved | ignorance, shrugs, subjunctive |
-| 0070 | ¡Viva México! | Viva l'Italia! | formula | A2 | 1 | retired | national, celebration |
+| 0070 | ¡Viva México! | Viva l'Italia! | formula | A2 | 1 | needs_review | national, celebration |
 | 0071 | Ser un manirroto | Avere le mani bucate | idiom | B2 | 3 | ✓ approved | money, hands, character |
 | 0072 | Estar con el agua al cuello | Avere l'acqua alla gola | idiom | B1 | 2 | ✓ approved | trouble, water, auxiliaries |
 | 0073 | No saber a qué carta quedarse | Non sapere che pesce prendere | idiom | B2 | 3 | ✓ approved | indecision, games, fishing |
@@ -171,7 +170,7 @@ These are marked `approved` but their own `review.notes` field still contains la
 | 0097 | Saber latín | Saperla lunga | idiom | B2 | 3 | draft | cunning, knowledge, education |
 | 0098 | Subirse a la parra | Uscire dai gangheri | idiom | B2 | 3 | ✓ approved | anger, height, objects |
 | 0099 | Dejar a uno en la estacada | Piantare in asso | idiom | B2 | 3 | ✓ approved | betrayal, abandonment, history |
-| 0100 | ¡Feliz año nuevo! | Buon anno! | formula | A2 | 1 | retired | greetings |
+| 0100 | ¡Feliz año nuevo! | Buon anno! | formula | A2 | 1 | needs_review | greetings |
 | 0101 | Parecerse como dos gotas de agua | Somigliarsi come due gocce d'acqua | idiom | A2 | 1 | ✓ approved | similarity, water, reflexives |
 | 0102 | Agua pasada no mueve molino | Acqua passata non macina più | idiom | B1 | 2 | ✓ approved | past, water, work |
 | 0103 | Ir todo viento en popa | Andare a gonfie vele | idiom | B2 | 3 | ✓ approved | success, sailing, wind |
@@ -180,7 +179,7 @@ These are marked `approved` but their own `review.notes` field still contains la
 | 0106 | Andar de Herodes a Pilato | Cadere dalla padella nella brace | idiom | B2 | 3 | ✓ approved | misfortune, religion, cooking |
 | 0108 | Cantar de plano | Vuotare il sacco | idiom | B2 | 3 | ✓ approved | confession, crime, secrets |
 | 0109 | Venir con músicas | Raccontare storie | idiom | B2 | 3 | ✓ approved | lies, music, excuses |
-| 0110 | ¡Feliz Día de la Madre! | Auguri, mamma! | formula | A2 | 2 | retired | greetings, family |
+| 0110 | ¡Feliz Día de la Madre! | Auguri, mamma! | formula | A2 | 2 | needs_review | greetings, family |
 | 0111 | Faltarle a uno un tornillo | Mancare un venerdì | idiom | B2 | 3 | ✓ approved | madness, machines, time |
 | 0112 | Dar la cara | Pagare di persona | idiom | B2 | 3 | ✓ approved | responsibility, blame |
 | 0113 | Hablar con la pared | È come parlare al muro | idiom | B1 | 2 | ✓ approved | communication |
@@ -276,6 +275,23 @@ These are marked `approved` but their own `review.notes` field still contains la
 | 0285 | Cada dos por tres | Ogni due per tre | idiom | B1 | 2 | needs_review | frequency, numbers |
 | 0286 | Lágrimas de cocodrilo | Lacrime di coccodrillo | idiom | B1 | 2 | needs_review | insincerity, animals, emotion |
 | 0287 | Tener las manos atadas | Avere le mani legate | idiom | B1 | 2 | needs_review | powerlessness, body, rules |
+| 0288 | Estar como unas pascuas | Essere contento come una Pasqua | idiom | B2 | 3 | needs_review | happiness, religion, calendar |
+| 0289 | Más largo que un día sin pan | Lungo come la quaresima | idiom | B2 | 3 | needs_review | tedium, time, food, religion |
+| 0290 | ¡Feliz Navidad! | Buon Natale! | formula | A2 | 1 | needs_review | greetings, calendar, religion |
+| 0291 | ¡Felices fiestas! | Buone feste! | formula | A2 | 1 | needs_review | greetings, calendar |
+| 0292 | Nochebuena | La vigilia di Natale | formula | B1 | 2 | needs_review | calendar, celebration, family |
+| 0293 | Que sea lo que Dios quiera | Che Dio ce la mandi buona | marker | B2 | 3 | needs_review | risk, religion, discourse |
+| 0294 | Por si sirve de algo | Per quel che vale | marker | B2 | 3 | needs_review | discourse, modesty, opinion |
+| 0295 | Meter la cuchara | Metterci il becco | idiom | B2 | 3 | needs_review | meddling, food, conversation |
+| 0296 | Quien espera, desespera | La pentola guardata non bolle mai | proverb | B2 | 3 | needs_review | patience, time, food |
+| 0297 | Para variar | Tanto per cambiare | marker | B1 | 2 | needs_review | irony, discourse, routine |
+| 0298 | Ciudad natal | Città natale | collocation | B1 | 2 | needs_review | origins, place, etymology |
+| 0299 | El hábito no hace al monje | L'abito non fa il monaco | proverb | B1 | 2 | needs_review | appearances, religion, judgement |
+| 0300 | No es oro todo lo que reluce | Non è tutto oro quel che luccica | proverb | B1 | 2 | needs_review | appearances, value, warning |
+| 0301 | Del dicho al hecho hay mucho trecho | Tra il dire e il fare c'è di mezzo il mare | proverb | B2 | 3 | needs_review | promises, action, water |
+| 0302 | La cabra siempre tira al monte | Il lupo perde il pelo ma non il vizio | proverb | B2 | 3 | needs_review | character, animals, change |
+| 0303 | Quien siembra vientos recoge tempestades | Chi semina vento raccoglie tempesta | proverb | B2 | 3 | needs_review | consequences, weather, farming |
+| 0304 | Querer es poder | Volere è potere | proverb | A2 | 1 | needs_review | determination, willpower |
 
 ---
 

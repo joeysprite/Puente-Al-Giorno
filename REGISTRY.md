@@ -1,6 +1,6 @@
 # Expression registry — master list
 
-**Generated** 2026-08-01 by `tools/build-registry.mjs`. Do not hand-edit.
+**Generated** 2026-08-06 by `tools/build-registry.mjs`. Do not hand-edit.
 
 One row per **expression**, not per pairing. CANDIDATES.md answers "what pairings are
 we considering"; this answers "what expressions do we know about, and what has each one
@@ -12,16 +12,15 @@ been matched to". Two things only this view makes visible:
 
 | Status | Count |
 |---|---|
-| banked | 388 |
-| candidate | 319 |
+| banked | 428 |
+| candidate | 328 |
 | rejected | 20 |
-| no-partner-found | 12 |
-| retired | 6 |
-| **total expressions** | **745** |
+| no-partner-found | 14 |
+| **total expressions** | **790** |
 
 ---
 
-## Mapped to more than one partner (19)
+## Mapped to more than one partner (20)
 
 Not errors. Each needs a decision: pick one, or bank both once the multiple-pairings
 policy is switched on.
@@ -42,13 +41,14 @@ policy is switched on.
 | No dejes para mañana lo que puedas hacer hoy | es | Chi ha tempo non aspetti tempo (0063) · Non rimandare a domani… |
 | No oír ni el vuelo de una mosca | es | Sentire volare una mosca (0261) · non sentire volare una mosca |
 | Non stare più nella pelle | it | No caber en sí (0248) · ✅ **DRAFTED 0248** — no caber en sí (de gozo/contento/alegría) |
+| Ogni morte di papa | it | Cada muerte de obispo (0041) · De Pascuas a Ramos |
 | Piantare in asso | it | Dejar a uno en la estacada (0099) · dejar plantado |
 | Prendere una boccata d'aria | it | Tomar una bocanada de aire (0264) · tomar una bocanada de aire (fresco) |
 | Quieras o no | es | Volente o nolente (0246) · ✅ **DRAFTED 0246** — Volente o nolente |
 | Ser un pedazo de pan | es | Essere un pezzo di pane (0275) · Buono come il pane |
 | Vuotare il sacco | it | Cantar de plano (0108) · Vaciar el costal |
 
-## No partner found (12)
+## No partner found (14)
 
 Searched, nothing found — as opposed to not yet looked at. Stop re-researching these
 unless there is a new reason to.
@@ -63,21 +63,28 @@ unless there is a new reason to.
 | Estar hecho polvo | es | Dissolved 0009 | Unmatched — one side has no known counterpart: Peninsular, EXHAUSTION ONLY — narrower than *hecho pe |
 | Hacer buenas migas con alguien | es | ES idioms book | Unmatched — one side has no known counterpart: crumbs; possible no-twin entry, needs reviewer |
 | Hai voluto la bicicletta? Pedala! | es | FluentU 40 | Unmatched — one side has no known counterpart: divergent |
+| Natale con i tuoi, Pasqua con chi vuoi | ? | Claude research | Seasonal / calendar candidates: Famous Italian proverb — Christmas with your family, Easter with who |
 | Nessuna nuova, buona nuova | ? | IT proverb list (Joe) | Unmatched — one side has no known counterpart: possible no-twin entry |
 | Non tutte le ciambelle riescono col buco | it | IT proverb list (Joe) | Unmatched — one side has no known counterpart: doughnut imagery is IT-only |
+| Quando il padre fa carnevale, ai figlioli tocca far quaresima | it | Treccani (`quaresima`) | Seasonal / calendar candidates: Treccani marks this proverb as now rare — if the father is a spendth |
 | Que no te digan, que no te cuenten | es | ES reviewer (3rd-party PDF) | Unmatched — one side has no known counterpart: No match found — Doesn't fit the "no matter what" fam |
 | Si te caes siete veces, levántate ocho | es | ES proverb list (Joe) | Unmatched — one side has no known counterpart: Japanese proverb naturalised into ES; needs an IT rev |
 
 ---
 
-## Full registry (745)
+## Full registry (790)
 
 | Expression | Lang | Status | Partner(s) | Source |
 |---|---|---|---|---|
 | ¡Ándale! | es | banked | Dai (0066) | bank/0066 |
+| ¡Felices fiestas! | es | banked | Buone feste! (0291) | bank/0291 |
+| ¡Feliz año nuevo! | es | banked | Buon anno! (0100) | bank/0100 |
+| ¡Feliz Día de la Madre! | es | banked | Auguri, mamma! (0110) | bank/0110 |
+| ¡Feliz Navidad! | es | banked | Buon Natale! (0290) | bank/0290 |
 | ¡Madre mía! | es | banked | Mamma mia! (0068) | bank/0068 |
 | ¡Mucha suerte! | es | banked | In bocca al lupo (0039) | bank/0039 |
 | ¡Sepa! | es | banked | Boh (0069) | bank/0069 |
+| ¡Viva México! | es | banked | Viva l'Italia! (0070) | bank/0070 |
 | ¿En serio? | es | banked | Sul serio (0260) | bank/0260, Italian Matters list |
 | A caballo regalado no le mires el diente | es | banked | A caval donato non si guarda in bocca (0016) | bank/0016 |
 | A cambio | es | banked | in compenso (0225) | bank/0225 |
@@ -118,6 +125,7 @@ unless there is a new reason to.
 | Andare a gonfie vele | it | banked | Ir todo viento en popa (0103) | bank/0103 |
 | Andare al sodo | it | banked | Ir al grano (0023) | bank/0023 |
 | Arrimar el ascua a su sardina | es | banked | Tirare l'acqua al proprio mulino (0081) | bank/0081 |
+| Auguri, mamma! | it | banked | ¡Feliz Día de la Madre! (0110) | bank/0110 |
 | Avere grilli per la testa | it | banked | Tener pájaros en la cabeza (0074) | bank/0074 |
 | Avere i numeri | it | banked | Tener madera de (0242) | bank/0242 |
 | Avere il cuore a pezzi | it | banked | Tener el corazón hecho pedazos (0088) | bank/0088 |
@@ -138,6 +146,9 @@ unless there is a new reason to.
 | Bien, pero no tan bien | es | banked | Bene ma non benissimo (0047) | bank/0047 |
 | Boh | it | banked | ¡Sepa! (0069) | bank/0069 |
 | Botar la llave | es | banked | Buttare via la chiave (0064) | bank/0064 |
+| Buon anno! | it | banked | ¡Feliz año nuevo! (0100) | bank/0100 |
+| Buon Natale! | it | banked | ¡Feliz Navidad! (0290) | bank/0290 |
+| Buone feste! | it | banked | ¡Felices fiestas! (0291) | bank/0291 |
 | Buscar una aguja en un pajar | es | banked | Cercare un ago nel pagliaio (0270) | bank/0270, europassitalian.com |
 | Buscarle tres pies al gato | es | banked | Cercare il pelo nell'uovo (0022) | bank/0022 |
 | Buttare via la chiave | it | banked | Botar la llave (0064) | bank/0064 |
@@ -155,12 +166,16 @@ unless there is a new reason to.
 | Cavallo di battaglia | it | banked | Caballo de batalla (0272) | bank/0272, storylearning.com |
 | Cercare il pelo nell'uovo | it | banked | Buscarle tres pies al gato (0022) | bank/0022 |
 | Cercare un ago nel pagliaio | it | banked | Buscar una aguja en un pajar (0270) | bank/0270, europassitalian.com |
+| Che Dio ce la mandi buona | it | banked | Que sea lo que Dios quiera (0293) | bank/0293 |
 | Che peccato | it | banked | Qué lástima (0258) · qué pena / qué lástima | bank/0258, Italian Matters list |
 | Chi dorme non piglia pesci | it | banked | Camarón que se duerme se lo lleva la corriente (0051) | bank/0051, europassitalian.com |
 | Chi ha tempo non aspetti tempo | it | banked | No dejes para mañana lo que puedas hacer hoy (0063) | bank/0063 |
 | Chi non risica non rosica | it | banked | El que no arriesga, no gana (0054) · Quien no se arriesga no pasa la mar | bank/0054, ES idioms book |
+| Chi semina vento raccoglie tempesta | it | banked | Quien siembra vientos recoge tempestades (0303) | bank/0303 |
 | Chi va a Roma perde la poltrona | it | banked | Quien fue a Sevilla perdió su silla (0048) | bank/0048 |
 | Cioè | it | banked | O sea (0032) | bank/0032 |
+| Città natale | it | banked | Ciudad natal (0298) | bank/0298 |
+| Ciudad natal | es | banked | Città natale (0298) | bank/0298 |
 | Cogliere nel segno | it | banked | Dar en el clavo (0008) | bank/0008 |
 | Como caído del cielo | es | banked | Cadere dalle nuvole (0044) | bank/0044 |
 | Como sea | es | banked | Comunque sia (0256) | bank/0256, ES reviewer (3rd-party PDF) |
@@ -201,6 +216,7 @@ unless there is a new reason to.
 | De prisa | es | banked | in fretta (0228) | bank/0228 |
 | De seguro | es | banked | di sicuro (0222) | bank/0222 |
 | Dejar a uno en la estacada | es | banked | Piantare in asso (0099) | bank/0099 |
+| Del dicho al hecho hay mucho trecho | es | banked | Tra il dire e il fare c'è di mezzo il mare (0301) | bank/0301 |
 | Despacito | es | banked | Piano piano (0046) | bank/0046 |
 | di conseguenza | it | banked | En consecuencia (0206) | bank/0206 |
 | di nascosto | it | banked | A escondidas (0220) | bank/0220 |
@@ -217,6 +233,7 @@ unless there is a new reason to.
 | Echar agua al mar | es | banked | Portare acqua al mare (0251) | bank/0251, ES idioms book |
 | Echar leña al fuego | es | banked | Gettare benzina sul fuoco (0011) | bank/0011 |
 | Echar una mano | es | banked | Dare una mano (0018) | bank/0018 |
+| El hábito no hace al monje | es | banked | L'abito non fa il monaco (0299) | bank/0299 |
 | El mundo es un pañuelo | es | banked | Il mondo è piccolo (0104) | bank/0104 |
 | El que no arriesga, no gana | es | banked | Chi non risica non rosica (0054) | bank/0054 |
 | El tiempo lo cura todo | es | banked | Il tempo guarisce tutte le ferite (0277) | bank/0277, ES proverb list (Joe) |
@@ -238,6 +255,7 @@ unless there is a new reason to.
 | Essere buio pesto | it | banked | Estar como boca de lobo (0079) | bank/0079 |
 | Essere come il cacio sui maccheroni | it | banked | Ser uña y mugre (0025) | bank/0025 |
 | Essere come il prezzemolo | it | banked | Estar hasta en la sopa (0091) | bank/0091, IT proverb list (Joe) |
+| Essere contento come una Pasqua | it | banked | Estar como unas pascuas (0288) | bank/0288 |
 | Essere di corsa | it | banked | Ir volando (0263) | bank/0263, IT reviewer (own material) |
 | Essere fuori come un balcone | it | banked | Estar como una cabra (0002) | bank/0002 |
 | Essere in gamba | it | banked | Ser un hacha (0254) | bank/0254, IT reviewer (own material) |
@@ -253,6 +271,7 @@ unless there is a new reason to.
 | Estar como boca de lobo | es | banked | Essere buio pesto (0079) | bank/0079 |
 | Estar como pez en el agua | es | banked | Essere un pesce fuor d'acqua (0024) | bank/0024 |
 | Estar como una cabra | es | banked | Essere fuori come un balcone (0002) | bank/0002 |
+| Estar como unas pascuas | es | banked | Essere contento come una Pasqua (0288) | bank/0288 |
 | Estar con el agua al cuello | es | banked | Avere l'acqua alla gola (0072) | bank/0072 |
 | Estar en el banquillo | es | banked | Essere in panchina (0055) | bank/0055 |
 | Estar en el séptimo cielo | es | banked | Essere al settimo cielo (0245) | bank/0245 |
@@ -281,6 +300,7 @@ unless there is a new reason to.
 | Ho caldo | it | banked | Tengo calor (0080) | bank/0080 |
 | Hoy por ti, mañana por mí | es | banked | Oggi a me, domani a te (0053) | bank/0053 |
 | Ídem | es | banked | — | bank/0280, italianario (IG, tier C) |
+| Il lupo perde il pelo ma non il vizio | it | banked | La cabra siempre tira al monte (0302) | bank/0302 |
 | Il mattino ha l'oro in bocca | it | banked | Al que madruga, Dios le ayuda (0056) | bank/0056 |
 | Il mondo è piccolo | it | banked | El mundo es un pañuelo (0104) | bank/0104 |
 | Il tempo guarisce tutte le ferite | it | banked | El tiempo lo cura todo (0277) | bank/0277, ES proverb list (Joe) |
@@ -297,13 +317,18 @@ unless there is a new reason to.
 | Ir al grano | es | banked | Andare al sodo (0023) | bank/0023 |
 | Ir todo viento en popa | es | banked | Andare a gonfie vele (0103) | bank/0103 |
 | Ir volando | es | banked | Essere di corsa (0263) | bank/0263, IT reviewer (own material) |
+| L'abito non fa il monaco | it | banked | El hábito no hace al monje (0299) | bank/0299 |
+| La cabra siempre tira al monte | es | banked | Il lupo perde il pelo ma non il vizio (0302) | bank/0302 |
 | La goccia che fa traboccare il vaso | it | banked | La última gota que hace rebosar la copa (0092) | bank/0092 |
+| La pentola guardata non bolle mai | it | banked | Quien espera, desespera (0296) | bank/0296 |
 | La última gota que hace rebosar la copa | es | banked | La goccia che fa traboccare il vaso (0092) | bank/0092 |
+| La vigilia di Natale | it | banked | Nochebuena (0292) | bank/0292 |
 | Lacrime di coccodrillo | it | banked | Lágrimas de cocodrilo (0286) | bank/0286, storylearning.com |
 | Lágrimas de cocodrilo | es | banked | Lacrime di coccodrillo (0286) | bank/0286, storylearning.com |
 | Llover a cántaros | es | banked | Piovere a catinelle (0014) | bank/0014 |
 | Llueve sobre mojado | es | banked | Piove sul bagnato (0271) | bank/0271, storylearning.com |
 | Loco de atar | es | banked | Matto da legare (0269) | bank/0269, storylearning.com |
+| Lungo come la quaresima | it | banked | Más largo que un día sin pan (0289) | bank/0289 |
 | Magari | it | banked | Ojalá (0031) | bank/0031 |
 | Mal comune, mezzo gaudio | it | banked | Mal de muchos, consuelo de tontos (0037) | bank/0037 |
 | Mal de muchos, consuelo de tontos | es | banked | Mal comune, mezzo gaudio (0037) | bank/0037 |
@@ -311,6 +336,7 @@ unless there is a new reason to.
 | Mancare un venerdì | it | banked | Faltarle a uno un tornillo (0111) | bank/0111 |
 | Mandar al quinto pino | es | banked | Mandare a quel paese (0105) | bank/0105 |
 | Mandare a quel paese | it | banked | Mandar al quinto pino (0105) | bank/0105 |
+| Más largo que un día sin pan | es | banked | Lungo come la quaresima (0289) | bank/0289 |
 | Más vale pájaro en mano que cien volando | es | banked | Meglio un uovo oggi che una gallina domani (0052) | bank/0052 |
 | Matar dos pájaros de un tiro | es | banked | Prendere due piccioni con una fava (0005) | bank/0005 |
 | Matar la gallina de los huevos de oro | es | banked | Uccidere la gallina dalle uova d'oro (0268) | bank/0268, spanishexpress.co.uk (Peninsular) |
@@ -320,7 +346,9 @@ unless there is a new reason to.
 | Meno male | it | banked | Menos mal (0033) | bank/0033 |
 | Menos mal | es | banked | Meno male (0033) | bank/0033 |
 | Meter el dedo en la llaga | es | banked | Mettere il dito nella piaga (0274) | bank/0274, IT reviewer (own material) |
+| Meter la cuchara | es | banked | Metterci il becco (0295) | bank/0295 |
 | Meter la pata | es | banked | Fare una figuraccia (0010) | bank/0010 |
+| Metterci il becco | it | banked | Meter la cuchara (0295) | bank/0295 |
 | Mettere il carro davanti ai buoi | it | banked | Empezar la casa por el tejado (0095) | bank/0095 |
 | Mettere il dito nella piaga | it | banked | Meter el dedo en la llaga (0274) | bank/0274, IT reviewer (own material) |
 | Mettere le carte in tavola | it | banked | Poner las cartas sobre la mesa (0019) | bank/0019 |
@@ -332,6 +360,7 @@ unless there is a new reason to.
 | Mucho ruido y pocas nueces | es | banked | Tutto fumo e niente arrosto (0059) | bank/0059 |
 | No caber en sí | es | banked | Non stare più nella pelle (0248) | bank/0248 |
 | No dejes para mañana lo que puedas hacer hoy | es | banked | Chi ha tempo non aspetti tempo (0063) · Non rimandare a domani… | bank/0063, IT proverb list (Joe) |
+| No es oro todo lo que reluce | es | banked | Non è tutto oro quel che luccica (0300) | bank/0300 |
 | No está el horno para bollos | es | banked | Non è aria (0115) | bank/0115 |
 | No hay dos sin tres | es | banked | Non c'è due senza tre (0283) | bank/0283, europassitalian.com |
 | No hay mal que por bien no venga | es | banked | Non tutti i mali vengono per nuocere (0062) | bank/0062 |
@@ -341,10 +370,12 @@ unless there is a new reason to.
 | No te quedes de brazos cruzados | es | banked | Non stare con le mani in mano (0114) | bank/0114 |
 | No tener pelos en la lengua | es | banked | Non avere peli sulla lingua (0007) | bank/0007 |
 | No ver la hora | es | banked | Non vedere l'ora (0040) | bank/0040 |
+| Nochebuena | es | banked | La vigilia di Natale (0292) | bank/0292 |
 | Non avere peli sulla lingua | it | banked | No tener pelos en la lengua (0007) | bank/0007 |
 | Non c'è due senza tre | it | banked | No hay dos sin tres (0283) | bank/0283, europassitalian.com |
 | Non chiudere occhio | it | banked | No pegar ojo (0017) | bank/0017 |
 | Non è aria | it | banked | No está el horno para bollos (0115) | bank/0115 |
+| Non è tutto oro quel che luccica | it | banked | No es oro todo lo que reluce (0300) | bank/0300 |
 | Non sapere che pesce prendere | it | banked | No saber a qué carta quedarse (0073) | bank/0073 |
 | Non stare con le mani in mano | it | banked | No te quedes de brazos cruzados (0114) | bank/0114 |
 | Non stare più nella pelle | it | banked | No caber en sí (0248) · ✅ **DRAFTED 0248** — no caber en sí (de gozo/contento/alegría) | bank/0248, IT reviewer (own material) |
@@ -353,12 +384,13 @@ unless there is a new reason to.
 | O sea | es | banked | Cioè (0032) | bank/0032 |
 | Oggi a me, domani a te | it | banked | Hoy por ti, mañana por mí (0053) | bank/0053 |
 | Ogni due per tre | it | banked | Cada dos por tres (0285) | bank/0285, storylearning.com |
-| Ogni morte di papa | it | banked | Cada muerte de obispo (0041) | bank/0041 |
+| Ogni morte di papa | it | banked | Cada muerte de obispo (0041) · De Pascuas a Ramos | bank/0041, Claude research |
 | Ojalá | es | banked | Magari (0031) | bank/0031 |
 | Ovunque tu vada | it | banked | A donde quiera que vayas (0257) | bank/0257, ES reviewer (3rd-party PDF) |
 | Pagar con la misma moneda | es | banked | Rendere pan per focaccia (0036) | bank/0036 |
 | Pagare di persona | it | banked | Dar la cara (0112) | bank/0112 |
 | Para nada | es | banked | per niente (0217) | bank/0217 |
+| Para variar | es | banked | Tanto per cambiare (0297) | bank/0297 |
 | Parecerse como dos gotas de agua | es | banked | Somigliarsi come due gocce d'acqua (0101) | bank/0101 |
 | per caso | it | banked | Por casualidad (0229) | bank/0229 |
 | per conto mio | it | banked | Por mi cuenta (0215) | bank/0215 |
@@ -367,6 +399,7 @@ unless there is a new reason to.
 | per lo meno | it | banked | Por lo menos (0214) | bank/0214 |
 | per niente | it | banked | Para nada (0217) | bank/0217 |
 | per quanto riguarda | it | banked | En cuanto a (0213) | bank/0213 |
+| Per quel che vale | it | banked | Por si sirve de algo (0294) | bank/0294 |
 | Piangere sul latte versato | it | banked | A lo hecho, pecho (0061) | bank/0061 |
 | Piano piano | it | banked | Despacito (0046) | bank/0046 |
 | Piantare in asso | it | banked | Dejar a uno en la estacada (0099) · dejar plantado | bank/0099, europassitalian.com |
@@ -384,6 +417,7 @@ unless there is a new reason to.
 | Por lo visto | es | banked | a quanto pare (0202) | bank/0202 |
 | Por mi cuenta | es | banked | per conto mio (0215) | bank/0215 |
 | Por otro lado | es | banked | dall'altro lato (0218) | bank/0218 |
+| Por si sirve de algo | es | banked | Per quel che vale (0294) | bank/0294 |
 | Por suerte | es | banked | per fortuna (0230) | bank/0230 |
 | Portare acqua al mare | it | banked | Echar agua al mar (0251) | bank/0251, ES idioms book |
 | Prendere due piccioni con una fava | it | banked | Matar dos pájaros de un tiro (0005) | bank/0005 |
@@ -393,8 +427,12 @@ unless there is a new reason to.
 | Può darsi | it | banked | Puede ser (0259) | bank/0259, Italian Matters list |
 | Quando gli asini voleranno | it | banked | Cuando las ranas críen pelo (0083) | bank/0083 |
 | Qué lástima | es | banked | Che peccato (0258) | bank/0258 |
+| Que sea lo que Dios quiera | es | banked | Che Dio ce la mandi buona (0293) | bank/0293 |
 | Quedarse de piedra | es | banked | Rimanere di sasso (0012) | bank/0012 |
+| Querer es poder | es | banked | Volere è potere (0304) | bank/0304 |
+| Quien espera, desespera | es | banked | La pentola guardata non bolle mai (0296) | bank/0296 |
 | Quien fue a Sevilla perdió su silla | es | banked | Chi va a Roma perde la poltrona (0048) | bank/0048 |
+| Quien siembra vientos recoge tempestades | es | banked | Chi semina vento raccoglie tempesta (0303) | bank/0303 |
 | Quieras o no | es | banked | Volente o nolente (0246) · ✅ **DRAFTED 0246** — Volente o nolente | bank/0246, ES reviewer (3rd-party PDF) |
 | Raccontare storie | it | banked | Venir con músicas (0109) | bank/0109 |
 | Rendere pan per focaccia | it | banked | Pagar con la misma moneda (0036) | bank/0036 |
@@ -425,6 +463,7 @@ unless there is a new reason to.
 | Subirse a la parra | es | banked | Uscire dai gangheri (0098) | bank/0098 |
 | Sul serio | it | banked | ¿En serio? (0260) | bank/0260, Italian Matters list |
 | Tagliare i panni addosso a qualcuno | it | banked | Cortarle un traje a uno (0094) | bank/0094 |
+| Tanto per cambiare | it | banked | Para variar (0297) | bank/0297 |
 | Te quiero | es | banked | Ti voglio bene (0077) | bank/0077 |
 | Tener buen diente | es | banked | Essere una buona forchetta (0075) | bank/0075 |
 | Tener dos dedos de frente | es | banked | Avere sale in zucca (0050) | bank/0050 |
@@ -444,6 +483,7 @@ unless there is a new reason to.
 | Togliere le castagne dal fuoco | it | banked | Sacar las castañas del fuego (0262) | bank/0262, ES idioms book |
 | Tomar el pelo | es | banked | Prendere in giro (0006) | bank/0006 |
 | Tomar una bocanada de aire | es | banked | Prendere una boccata d'aria (0264) | bank/0264 |
+| Tra il dire e il fare c'è di mezzo il mare | it | banked | Del dicho al hecho hay mucho trecho (0301) | bank/0301 |
 | Tra moglie e marito non mettere il dito | it | banked | Entre marido y mujer, nadie se debe meter (0058) | bank/0058 |
 | Tutto fumo e niente arrosto | it | banked | Mucho ruido y pocas nueces (0059) | bank/0059 |
 | Uccidere la gallina dalle uova d'oro | it | banked | Matar la gallina de los huevos de oro (0268) | bank/0268, spanishexpress.co.uk (Peninsular) |
@@ -460,11 +500,14 @@ unless there is a new reason to.
 | Ver el vaso medio lleno | es | banked | Vedere il bicchiere mezzo pieno (0265) | bank/0265 |
 | Ver el vaso medio vacío | es | banked | Vedere il bicchiere mezzo vuoto (0266) | bank/0266 |
 | Ver la luz al final del túnel | es | banked | Vedere la luce in fondo al tunnel (0279) | bank/0279, IT reviewer (own material) |
+| Viva l'Italia! | it | banked | ¡Viva México! (0070) | bank/0070 |
 | Volente o nolente | it | banked | Quieras o no (0246) | bank/0246 |
+| Volere è potere | it | banked | Querer es poder (0304) | bank/0304 |
 | Vuotare il sacco | it | banked | Cantar de plano (0108) · Vaciar el costal | bank/0108, ES idioms book |
 | ¡A otro perro con ese hueso! | es | candidate | a un altro cane con quest'osso? / racconta ad altri | ES idioms book |
 | ¡no manches! (MX) / ¡anda ya! | ? | candidate | Ma dai | Italian Matters list |
 | ¡Que tengas un buen día! | es | candidate | Buona giornata! | ES reviewer (3rd-party PDF) |
+| ¡Y santas pascuas! | es | candidate | punto e basta | Claude research |
 | ✅ **DRAFTED 0245** — estar en el séptimo cielo | es | candidate | Essere al settimo cielo | IT reviewer (own material) |
 | ✅ **DRAFTED 0246** — Volente o nolente | it | candidate | Quieras o no | ES reviewer (3rd-party PDF) |
 | ✅ **DRAFTED 0247** — hacer algo al vuelo | ? | candidate | Fare una cosa al volo | IT reviewer (own material) |
@@ -526,6 +569,7 @@ unless there is a new reason to.
 | chi più spende meno spende | es | candidate | Lo barato sale caro | ES proverb list (Joe) |
 | chi troppo vuole nulla stringe | it | candidate | El que mucho abarca poco aprieta | ES proverb list (Joe) |
 | Chi trova un amico, trova un tesoro | ? | candidate | quien encuentra un amigo, encuentra un tesoro | IT proverb list (Joe) |
+| Chi va piano, va sano e lontano | ? | candidate | Gennaio | (ES side unresolved) |
 | chuparse los dedos | ? | candidate | Leccarsi i baffi | storylearning.com |
 | Ci penso io | ? | candidate | yo me encargo | Italian Matters list |
 | Ci sta | ? | candidate | va / queda bien | Italian Matters list |
@@ -551,6 +595,7 @@ unless there is a new reason to.
 | Darle a uno una buena lejía | es | candidate | fare una lavata di capo | ES idioms book |
 | Darle perro a uno | ? | candidate | dare buca a qualcuno | ES idioms book |
 | de hecho / efectivamente | ? | candidate | Infatti | Italian Matters list |
+| De Pascuas a Ramos | ? | candidate | ogni morte di papa | Claude research |
 | de tal palo, tal astilla | ? | candidate | Tale madre tale figlia | FluentU 40 |
 | de todos modos / igual (AR) | ? | candidate | Comunque | Italian Matters list |
 | Decirle a alguien cuatro verdades | ? | candidate | dirne quattro a qualcuno | ES idioms book |
@@ -616,8 +661,11 @@ unless there is a new reason to.
 | Farfalle nello stomaco | ? | candidate | mariposas en el estómago | storylearning.com |
 | Farsene un baffo | ? | candidate | me importa un pepino/bledo | FluentU 40 |
 | Finché c'è vita, c'è speranza | it | candidate | mientras hay vida, hay esperanza | IT proverb list (Joe) |
+| Flor de Pascua | ? | candidate | stella di Natale | Claude research |
 | Fumarse una clase | ? | candidate | marinare la scuola / bigiare | ES idioms book |
+| Gennaio | ? | candidate | Chi va piano, va sano e lontano | (ES side unresolved) |
 | Haberle visto las orejas al lobo | es | candidate | scamparla bella | ES idioms book |
+| Hacer la pascua a alguien | es | candidate | rompere le scatole a qualcuno | Claude research |
 | hacer las cuentas de la lechera | es | candidate | Fare i conti senza l'oste | europassitalian.com |
 | hacer picadillo | es | candidate | Fare a polpette | storylearning.com |
 | Hacer su santa voluntad | es | candidate | fare il proprio comodo | ES idioms book |
@@ -701,6 +749,7 @@ unless there is a new reason to.
 | Prendere lucciole per lanterne | it | candidate | dar gato por liebre | storylearning.com |
 | prevenire è meglio che curare | it | candidate | Más vale prevenir que lamentar | ES proverb list (Joe) |
 | pues bien / así que | ? | candidate | Dunque | Italian Matters list |
+| punto e basta | it | candidate | ¡Y santas pascuas! | Claude research |
 | punto en boca | es | candidate | Acqua in bocca | europassitalian.com |
 | Qualunque cosa succeda | ? | candidate | Pase lo que pase | ES reviewer (3rd-party PDF) |
 | Qualunque cosa tu faccia | ? | candidate | Hagas lo que hagas | ES reviewer (3rd-party PDF) |
@@ -718,6 +767,7 @@ unless there is a new reason to.
 | Ride bene chi ride ultimo | ? | candidate | el que ríe último, ríe mejor | IT proverb list (Joe) |
 | rimanere zitella | it | candidate | Quedarse para vestir santos | ES idioms book |
 | Rompere le scatole | ? | candidate | dar lata (MX) / romper las pelotas (vulgar) | Instagram set (Joe) |
+| rompere le scatole a qualcuno | it | candidate | Hacer la pascua a alguien | Claude research |
 | Sacudir la mosca | ? | candidate | sganciare (la grana) | ES idioms book |
 | Sale in zucca | ? | candidate | dos dedos de frente | FluentU 40 |
 | salir de Guatemala y entrar en Guatepeor | ? | candidate | Passare dalla padella alla brace | europassitalian.com |
@@ -741,6 +791,7 @@ unless there is a new reason to.
 | spuntarla / avere la meglio | it | candidate | Llevarse el gato al agua | ES idioms book |
 | Stare sulle spine | ? | candidate | estar en ascuas | storylearning.com |
 | Stare sullo stomaco | ? | candidate | caerle gordo a alguien (MX) | storylearning.com |
+| stella di Natale | ? | candidate | Flor de Pascua | Claude research |
 | studiare sodo / bruciarsi le ciglia? | it | candidate | Quemarse las pestañas | ES idioms book |
 | sudar la gota gorda | ? | candidate | Sudare sette camicie | europassitalian.com |
 | Sudare sette camicie | ? | candidate | sudar la gota gorda | europassitalian.com |
@@ -789,16 +840,12 @@ unless there is a new reason to.
 | Estar hecho polvo | es | no-partner-found | — | Dissolved 0009 |
 | Hacer buenas migas con alguien | es | no-partner-found | — | ES idioms book |
 | Hai voluto la bicicletta? Pedala! | es | no-partner-found | — | FluentU 40 |
+| Natale con i tuoi, Pasqua con chi vuoi | ? | no-partner-found | — | Claude research |
 | Nessuna nuova, buona nuova | ? | no-partner-found | — | IT proverb list (Joe) |
 | Non tutte le ciambelle riescono col buco | it | no-partner-found | — | IT proverb list (Joe) |
+| Quando il padre fa carnevale, ai figlioli tocca far quaresima | it | no-partner-found | — | Treccani (`quaresima`) |
 | Que no te digan, que no te cuenten | es | no-partner-found | — | ES reviewer (3rd-party PDF) |
 | Si te caes siete veces, levántate ocho | es | no-partner-found | — | ES proverb list (Joe) |
-| ¡Feliz año nuevo! | es | retired | Buon anno! (0100) | bank/0100 |
-| ¡Feliz Día de la Madre! | es | retired | Auguri, mamma! (0110) | bank/0110 |
-| ¡Viva México! | es | retired | Viva l'Italia! (0070) | bank/0070 |
-| Auguri, mamma! | it | retired | ¡Feliz Día de la Madre! (0110) | bank/0110 |
-| Buon anno! | it | retired | ¡Feliz año nuevo! (0100) | bank/0100 |
-| Viva l'Italia! | it | retired | ¡Viva México! (0070) | bank/0070 |
 | Cane non mangia cane | it | rejected | perro no come perro / entre bueyes no hay cornadas | FluentU 40 |
 | Conosco i miei polli | ? | rejected | conozco a mis clásicos? / sé de qué pie cojea | FluentU 40 |
 | conozco a mis clásicos? / sé de qué pie cojea | ? | rejected | Conosco i miei polli | FluentU 40 |
