@@ -1,0 +1,83 @@
+{
+  "id": "0302",
+  "type": "proverb",
+  "cue": "How do you say someone will always revert to their nature?",
+  "es": {
+    "text": "La cabra siempre tira al monte",
+    "literal": "the goat always heads for the hills",
+    "meaning": "People revert to their true nature, however they have been trained or dressed up.",
+    "example": "Lo pusieron en dirección y a los dos meses volvía a saltarse las reglas: la cabra siempre tira al monte.",
+    "exampleTranslation": "They put him in management and within two months he was breaking the rules again — a leopard can't change its spots.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/cabra",
+        "headword": "cabra",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Il lupo perde il pelo ma non il vizio",
+    "literal": "the wolf loses its fur but not its vice",
+    "meaning": "People revert to their true nature, however they have been trained or dressed up.",
+    "example": "L'hanno messo a dirigere e dopo due mesi saltava di nuovo le regole: il lupo perde il pelo ma non il vizio.",
+    "exampleTranslation": "They put him in management and within two months he was breaking the rules again — a leopard can't change its spots.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/lupo/",
+        "headword": "lupo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Two animals and two different ways of making the point. Italian names the vice outright — the wolf sheds its coat but keeps il vizio — so the sentence carries its own explanation and the judgement is explicit. Spanish just points at a goat walking uphill and stops, leaving you to supply the rest: the animal is going where its nature sends it, and so will the person. One proverb argues; the other gestures.",
+    "tags": [
+      "interference_risk",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "Do not put a goat in it — Italian's animal here is the wolf, and 'la capra tira al monte' means nothing. Note also that Italian states the moral, so the sentence works without shared context in a way the Spanish does not.",
+      "it_to_es": "Spanish does not name the vice, and adding it flattens the proverb. The verb is worth learning too: tirar a means to tend toward or be drawn to, a sense a learner is unlikely to have met."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "character",
+    "animals",
+    "change"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01 from a 12-item monthly-calendar carousel by @learnandloveitalian — THE ITALIAN REVIEWER'S OWN ACCOUNT, so tier A on the Italian side: he is teaching these himself, which is the strongest non-dictionary evidence of currency. That does NOT extend to the Spanish sides or the bridges below, which are Claude's. SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. SIXTH WOLF ENTRY across bank and queue (0039, 0079, plus queued rows and 0278) — the wolf cluster is now large enough that this needs a saturation decision before scheduling, not just before approval. ES SIDE: 'la cabra siempre tira al monte' is the form I know; RAE may list it as 'la cabra tira al monte' without siempre — check and use whichever RAE gives. The claim that Spanish is elliptical where Italian is explicit is mine and is the bridge's spine; if a reviewer disagrees the entry needs rewriting around the animals alone."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

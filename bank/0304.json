@@ -1,0 +1,82 @@
+{
+  "id": "0304",
+  "type": "proverb",
+  "cue": "How do you say determination is enough to get it done?",
+  "es": {
+    "text": "Querer es poder",
+    "literal": "to want is to be able",
+    "meaning": "If you genuinely want something, you will find a way.",
+    "example": "Aprendió italiano a los sesenta: querer es poder.",
+    "exampleTranslation": "She learned Italian at sixty — where there's a will, there's a way.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/querer",
+        "headword": "querer",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Volere è potere",
+    "literal": "to want is to be able",
+    "meaning": "If you genuinely want something, you will find a way.",
+    "example": "Ha imparato l'italiano a sessant'anni: volere è potere.",
+    "exampleTranslation": "She learned Italian at sixty — where there's a will, there's a way.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/volere/",
+        "headword": "volere",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Three words on each side and every one of them lines up: two bare infinitives joined by is. What makes it worth a moment is what the verbs do elsewhere. Italian volere and Spanish querer both mean to want — but querer is also the ordinary Spanish verb for loving a person, te quiero, a job Italian hands to a different verb entirely. So the proverb is built from a word that, one sentence over, means something Italian would never use volere for.",
+    "tags": [
+      "cognate_pair",
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "Nothing goes wrong in the proverb itself. The warning is next door: do not carry querer's other life across. 'Ti voglio' does not mean I love you the way te quiero does — Italian needs ti voglio bene, and that pairing is banked separately at 0077.",
+      "it_to_es": "Same in reverse, and the reason a Spanish speaker's 'querer' feels wider than it looks. Note also that both languages use the bare infinitive as a noun here, with no article — Italian would often say IL volere in other contexts, but not in this proverb."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "determination",
+    "willpower"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01 from a 12-item monthly-calendar carousel by @learnandloveitalian — THE ITALIAN REVIEWER'S OWN ACCOUNT, so tier A on the Italian side: he is teaching these himself, which is the strongest non-dictionary evidence of currency. That does NOT extend to the Spanish sides or the bridges below, which are Claude's. SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. HONEST WEIGHT ASSESSMENT: the proverb itself is a perfect twin with NO trap — three cognate words in the same order. The bridge therefore points sideways, at querer's double life as the Spanish verb for loving people, which is genuinely useful but is not about this proverb. That makes it a confidence-builder with a cross-reference attached, in the family of 0244, 0274 and 0282. Difficulty 1, two tags, one of them EASY — counts against the 33% ceiling. Joe should decide whether it ships or whether the bank has enough of these already. CROSS-REFERENCE: 0077 (te quiero / ti voglio bene) carries the querer/volere distinction properly; keep the two apart in the schedule or run them deliberately as a pair."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

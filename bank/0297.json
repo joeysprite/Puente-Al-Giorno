@@ -1,0 +1,83 @@
+{
+  "id": "0297",
+  "type": "marker",
+  "cue": "How do you say 'for a change' when you mean 'same as always'?",
+  "es": {
+    "text": "Para variar",
+    "literal": "in order to vary",
+    "meaning": "For a change — and, said drily, exactly the opposite: as usual, of course.",
+    "example": "Llegó tarde, para variar.",
+    "exampleTranslation": "He turned up late, naturally.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/variar",
+        "headword": "variar",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Tanto per cambiare",
+    "literal": "just in order to change",
+    "meaning": "For a change — and, said drily, exactly the opposite: as usual, of course.",
+    "example": "È arrivato in ritardo, tanto per cambiare.",
+    "exampleTranslation": "He turned up late, naturally.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/cambiare_(Sinonimi-e-Contrari)/",
+        "headword": "cambiare",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages built the same small trapdoor and neither marks it. Said plainly, each means what it says: let's have fish tonight, for a change. Said flatly, each means the reverse — he was late, for a change — and the sentence now reports that he is always late. Treccani files the Italian under exactly that ironic reading, giving come al solito, come sempre as its synonyms, so the sarcasm is not a stretch of usage but the dictionary sense. Nothing in either phrase tells you which one you are hearing; the tone carries all of it.",
+    "tags": [
+      "false_friend",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Italian needs the tanto. 'Per cambiare' on its own reads as a plain statement of purpose — in order to change something — and loses the whole construction; the fixed form is tanto per cambiare, where tanto means merely or just and is what signals that the phrase is doing idiomatic work.",
+      "it_to_es": "Spanish drops the tanto entirely: para variar, two words. Do not build 'tanto para variar'. The shared risk runs in both directions and is worth naming for learners: hearing either phrase, you must decide from tone alone whether the speaker is being sincere or dry, and getting it backwards turns a complaint into a compliment or the reverse."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "irony",
+    "discourse",
+    "routine"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01. IT SIDE IS THE BEST-SOURCED HALF OF ANY ENTRY IN TODAY'S BATCH: Treccani's Sinonimi e Contrari under `cambiare` lists 'fam., tanto per cambiare ≈ come al solito, come sempre' — the ironic sense recorded as the dictionary sense, not merely as usage. Zanichelli's Aula di lingue corroborates with the same gloss and an almost identical example (ritardo). SOURCES STILL NOT HUMAN-VERIFIED — read from search snippets, not opened. ES SIDE IS THE WEAKER HALF: 'para variar' is unmistakably real and the ironic use is everyday, especially in MX, but I did not confirm that RAE records the ironic reading under `variar` — it may only give the literal sense, in which case the ES citation needs replacing or the asymmetry needs stating. ES REVIEWER: (1) does RAE or any Mexican dictionary record the ironic sense? (2) Is the dry reading as dominant in MX as I have assumed — the example sentence uses it — or is the sincere reading more common in ordinary speech? THE SHARED AMBIGUITY IS THE ENTRY'S REAL TEACHING POINT and it is unusual: most entries here warn about producing the wrong thing, this one warns about MIS-HEARING, which the carousel format may need to handle differently since there is no wrong output to show."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

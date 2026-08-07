@@ -1,0 +1,82 @@
+{
+  "id": "0295",
+  "type": "idiom",
+  "cue": "How do you say someone weighed in when nobody asked?",
+  "es": {
+    "text": "Meter la cuchara",
+    "literal": "to put the spoon in",
+    "meaning": "To weigh in on something that is not your business, with an opinion nobody asked for.",
+    "example": "Estábamos arreglándolo entre nosotros hasta que él metió la cuchara.",
+    "exampleTranslation": "We were sorting it out between ourselves until he stuck his oar in.",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "mx",
+      "co",
+      "ar"
+    ],
+    "regionNote": "Attested across Latin America; Spain more usually says 'meter baza'. Which form a given speaker reaches for varies by region and by context — reviewer to sharpen if they want it sharpened.",
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://www.jergasdehablahispana.org/index.php?pais=mx&palabra=meter+la+cuchara&tipobusqueda=3",
+        "headword": "meter {la/su} cuchara",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Metterci il becco",
+    "literal": "to put one's beak in",
+    "meaning": "To butt into a conversation or matter with an opinion nobody asked for.",
+    "example": "Stavamo sistemando la cosa tra noi finché lui non ci ha messo il becco.",
+    "exampleTranslation": "We were sorting it out between ourselves until he stuck his oar in.",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://context.reverso.net/traduzione/inglese-italiano/My+two+cents...+...",
+        "headword": "metterci il becco",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages catch the meddler in the act of eating. Spanish hands him a spoon and lets him dip it into a pot that was never his; Italian gives him a beak and has him peck at something already being dealt with. The instrument differs and the accusation is identical — you have put part of yourself into a matter that did not invite you. Note what neither language does: neither has a native way of offering an opinion humbly, the way English lowers its own contribution to two cents. In Spanish and Italian the ready-made phrases for weighing in are all accusations, aimed at someone else.",
+    "tags": [
+      "interference_risk",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "The clitic is obligatory and easy to drop: metterCI il becco, not 'mettere il becco'. Same pattern as metterci la faccia — Italian likes to anchor these with ci. And do not reach for the nose: 'ficcare il naso' is real Italian but means snooping and prying, going through someone's things, not speaking up uninvited. A native Spanish speaker asking Italians for the equivalent of meter la cuchara was offered ficcare il naso and rejected it for exactly this reason.",
+      "it_to_es": "'Meter el pico' is not the Spanish idiom. The utensil is a spoon, and the article moves — both meter LA cuchara and meter SU cuchara are heard. Regional caution: this is Latin-American-leaning, and a speaker in Spain may more naturally say 'meter baza'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "meddling",
+    "food",
+    "conversation"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01 from an English seed ('my two cents'), which did NOT produce the pair it looked like it would — see the finding below. COMPETING PAIRING ALREADY IN THE QUEUE: CANDIDATES.md L316 pairs 'meter la cuchara' with 'mettere lo zampino' (paw). I have used 'metterci il becco' instead because zampino leans toward having a hand in something, often covertly, while becco is specifically about speaking up uninvited, which is what the Spanish does. JOE TO DECIDE which survives; they should not both be banked against the same Spanish side while the multiple-pairings policy is off. THE 'MY TWO CENTS' FINDING, worth recording whatever happens to this entry: neither Spanish nor Italian has a native self-deprecating way to offer an opinion. Both simply calque the English — 'mis dos centavos', 'i miei due centesimi' — and Italian sources describe theirs explicitly as a forum borrowing from English. The native phrases in both languages (meter la cuchara, metterci il becco, meter baza, dire la mia) are aimed at someone ELSE and are critical. That asymmetry may be a better entry than this one, but it would be an entry about an absence, which the bank has no shape for yet (see the Unmatched tier question). SOURCES ARE CORPUS-GRADE ON BOTH SIDES AND BOTH NEED BETTER — RAE has 'meter alguien su cucharada' per a secondary source, so check RAE `cuchara`/`cucharada` directly; for Italian check Treccani `becco`. ES REVIEWER: regions set mx/co/ar and deliberately vague about which form dominates where, per the standing regional principle — sharpen it if you want, and your name goes on it. IT REVIEWER: is 'metterci il becco' as common as 'mettere bocca'? Reverso shows both."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

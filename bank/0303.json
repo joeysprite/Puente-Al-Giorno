@@ -1,0 +1,83 @@
+{
+  "id": "0303",
+  "type": "proverb",
+  "cue": "How do you say someone brought their troubles on themselves?",
+  "es": {
+    "text": "Quien siembra vientos recoge tempestades",
+    "literal": "whoever sows winds reaps storms",
+    "meaning": "Actions that stir up trouble come back multiplied.",
+    "example": "Pasó dos años enfrentando a los equipos y ahora nadie le contesta: quien siembra vientos recoge tempestades.",
+    "exampleTranslation": "He spent two years setting the teams against each other and now nobody answers him — you reap what you sow.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/",
+        "headword": "quien siembra vientos recoge tempestades",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Chi semina vento raccoglie tempesta",
+    "literal": "whoever sows wind reaps storm",
+    "meaning": "Actions that stir up trouble come back multiplied.",
+    "example": "Ha passato due anni a mettere le squadre una contro l'altra e adesso non gli risponde nessuno: chi semina vento raccoglie tempesta.",
+    "exampleTranslation": "He spent two years setting the teams against each other and now nobody answers him — you reap what you sow.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/seminare/",
+        "headword": "seminare",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same line, descended in both languages from the same verse in Hosea, and the only thing that moved is how much weather each language pluralises. Italian keeps both nouns bare and singular — vento, tempesta — treating them as substances rather than countable events. Spanish pluralises both, vientos and tempestades, so the Spanish speaker sows many winds and reaps many storms where the Italian sows wind and reaps storm.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Drop the plurals and drop the articles: chi semina VENTO raccoglie TEMPESTA, both bare and singular. Adding them — 'chi semina i venti' — is comprehensible and is not the proverb.",
+      "it_to_es": "Spanish takes both in the plural: vientos, tempestades. And the relative is quien, not 'chi' — a false friend worth naming, since Italian chi and Spanish quien do the same job while Spanish quien looks nothing like it."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "consequences",
+    "weather",
+    "farming"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01 from a 12-item monthly-calendar carousel by @learnandloveitalian — THE ITALIAN REVIEWER'S OWN ACCOUNT, so tier A on the Italian side: he is teaching these himself, which is the strongest non-dictionary evidence of currency. That does NOT extend to the Spanish sides or the bridges below, which are Claude's. SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. THE SINGULAR/PLURAL CONTRAST IS THE ENTRY and it is the kind of claim a corpus would settle quickly — both reviewers, is the number genuinely fixed on your side, or do variants circulate? If both languages tolerate both numbers, there is no trap here and this is a plain twin. Shared biblical origin (Hosea 8:7) is stated in the bridge as fact and is well known, but is not sourced in the entry. ES citation is another bare Refranero root URL."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

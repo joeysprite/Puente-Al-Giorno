@@ -1,0 +1,85 @@
+{
+  "id": "0291",
+  "type": "formula",
+  "cue": "How do you wish someone well across the whole holiday season?",
+  "es": {
+    "text": "¡Felices fiestas!",
+    "literal": "happy festivities",
+    "meaning": "Happy holidays — covering the whole late-December season rather than one day.",
+    "example": "Cerramos hasta el día 7. ¡Felices fiestas!",
+    "exampleTranslation": "We're closed until the 7th. Happy holidays!",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/fiesta",
+        "headword": "fiesta",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Buone feste!",
+    "literal": "good festivities",
+    "meaning": "Happy holidays — covering the whole late-December season rather than one day.",
+    "example": "Chiudiamo fino al 7. Buone feste!",
+    "exampleTranslation": "We're closed until the 7th. Happy holidays!",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/festa/",
+        "headword": "festa",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages pluralise the season and neither will accept the singular. Feste and fiestas are the same word from the same Latin root, and the plural is doing real work: it covers the whole stretch from Christmas to Epiphany rather than naming one day, which is exactly why shops and offices use it on the shutter. The adjective splits the way it always does between these two — Spanish felices, Italian buone.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Keep it plural and swap the adjective: BUONE FESTE. 'Buona festa' is a different thing — it wishes someone well at one specific celebration, a name day or a party, not across the season.",
+      "it_to_es": "Spanish also stays plural, felices fiestas, and takes feliz rather than a word for good. Note that Spanish fiesta carries 'party' more strongly than Italian festa does in this greeting, but the fixed plural phrase is unambiguously the holiday season."
+    }
+  },
+  "pin": null,
+  "pinWindow": {
+    "from": "12-20",
+    "to": "01-06"
+  },
+  "season": null,
+  "events": [],
+  "themes": [
+    "greetings",
+    "calendar"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, seasonal salutations batch. SEE 0290 FOR THE SCOPE REVERSAL NOTE — it applies to this entry equally. SOURCES NOT HUMAN-VERIFIED. Joe wrote 'buona festa' when requesting this; the standard seasonal greeting is the PLURAL 'buone feste', and the singular means something else — that difference is now the first interference note, so the request itself surfaced the trap. IT REVIEWER: confirm that 'buona festa' really does read as a single-occasion wish rather than as a seasonal greeting; the whole es_to_it note rests on it. PINWINDOW crosses the year boundary (12-20 to 01-06) — the scheduler should be checked against that, since a from-date later than the to-date may not be handled. Flagging as a possible tooling issue, not an entry problem. If it breaks, the window may need splitting into 12-20/12-31 and 01-01/01-06. PLACEMENT: drafted first with BOTH a pin and an events link; the validator rejects that combination — one placement mechanism only. Kept the pin/pinWindow and dropped the event link, because Christmas is a fixed annual date and needs no computation, where the events registry earns its keep on computed or irregular dates like Easter and the World Cup. The `navidad_natale` event added to events.json this session therefore has no entry pointing at it yet; it is still worth keeping for the Pascua/Pasqua scope warning recorded in its note, but Joe may prefer to drive these three from the event instead of pins, in which case the pins come out and the event links go back."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

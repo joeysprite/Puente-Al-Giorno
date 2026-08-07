@@ -1,0 +1,86 @@
+{
+  "id": "0292",
+  "type": "formula",
+  "cue": "How do you name Christmas Eve?",
+  "es": {
+    "text": "Nochebuena",
+    "literal": "good night",
+    "meaning": "Christmas Eve — and in much of the Spanish-speaking world, the main celebration itself.",
+    "example": "La cena de Nochebuena es en casa de mi tía.",
+    "exampleTranslation": "Christmas Eve dinner is at my aunt's.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/nochebuena",
+        "headword": "Nochebuena",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "La vigilia di Natale",
+    "literal": "the vigil of Christmas",
+    "meaning": "Christmas Eve.",
+    "example": "La cena della vigilia di Natale è a casa di mia zia.",
+    "exampleTranslation": "Christmas Eve dinner is at my aunt's.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/vigilia/",
+        "headword": "vigilia",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Spanish has a word for it and Italian has a description. Nochebuena is one noun, welded together out of noche and buena, and it names the evening as good in itself. Italian reaches instead for vigilia — a vigil, a waiting-up, a word that belongs to the church calendar and needs di Natale after it to say which vigil is meant. One language named the night; the other named the waiting.",
+    "tags": [
+      "false_friend",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "There is no Italian compound to reach for — 'la buonanotte' is the bedtime farewell, not Christmas Eve, and a Spanish speaker assembling 'notte buona' will be misheard. Italian needs vigilia, and needs the di Natale, because vigilia alone can precede any feast.",
+      "it_to_es": "Spanish welds it into one capitalised word, Nochebuena, and does not use a word for vigil here — 'la víspera de Navidad' exists and is correct but sounds like a calendar entry rather than the celebration. Note the weight difference too: in much of the Spanish-speaking world Nochebuena is the main event, with the 25th quieter, which is not the Italian pattern."
+    }
+  },
+  "pin": {
+    "month": 12,
+    "day": 24
+  },
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "calendar",
+    "celebration",
+    "family"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, seasonal salutations batch. SEE 0290 FOR THE SCOPE REVERSAL NOTE. TYPE IS ARGUABLE: this is a NOUN PAIR, not a greeting — 'Nochebuena' and 'la vigilia di Natale' name a day rather than wishing anyone anything. I have set formula because it is calendar-pinned and that is what the validator wants for a pinned entry, but if the bank draws a line between greetings and vocabulary, this falls on the vocabulary side and may not belong at all. Joe to decide. The greeting form would be 'Feliz Nochebuena' / 'Buona vigilia', which I did NOT use because 'buona vigilia' is not a natural Italian greeting as far as I can tell — IT REVIEWER, confirm. SOURCES NOT HUMAN-VERIFIED. THE CULTURAL WEIGHT CLAIM IS UNVERIFIED AND DELIBERATELY NON-SPECIFIC per the regional-variation principle: I say Nochebuena is the main event 'in much of the Spanish-speaking world' rather than naming countries. ES REVIEWER, if you want that sharpened to specific regions, your name goes on it. PLACEMENT: drafted first with BOTH a pin and an events link; the validator rejects that combination — one placement mechanism only. Kept the pin/pinWindow and dropped the event link, because Christmas is a fixed annual date and needs no computation, where the events registry earns its keep on computed or irregular dates like Easter and the World Cup. The `navidad_natale` event added to events.json this session therefore has no entry pointing at it yet; it is still worth keeping for the Pascua/Pasqua scope warning recorded in its note, but Joe may prefer to drive these three from the event instead of pins, in which case the pins come out and the event links go back."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

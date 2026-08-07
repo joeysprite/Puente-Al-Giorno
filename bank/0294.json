@@ -1,0 +1,83 @@
+{
+  "id": "0294",
+  "type": "marker",
+  "cue": "How do you offer an opinion while playing down its importance?",
+  "es": {
+    "text": "Por si sirve de algo",
+    "literal": "in case it serves for something",
+    "meaning": "Offered as a modest preface: this may not help, but here it is.",
+    "example": "Por si sirve de algo, yo hice el mismo trámite el año pasado y tardó tres semanas.",
+    "exampleTranslation": "For what it's worth, I did the same paperwork last year and it took three weeks.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english-spanish/for-what-it-s-worth",
+        "headword": "for what it's worth → por si sirve de algo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Per quel che vale",
+    "literal": "for what it is worth",
+    "meaning": "Offered as a modest preface: this may not count for much, but here it is.",
+    "example": "Per quel che vale, ho fatto la stessa pratica l'anno scorso e ci sono volute tre settimane.",
+    "exampleTranslation": "For what it's worth, I did the same paperwork last year and it took three weeks.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://it.bab.la/dizionario/italiano-inglese/per-quel-che-vale",
+        "headword": "per quel che vale",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both are the same small act of modesty — putting something on the table while pre-emptively lowering its price — and they lower it along different scales. Italian discounts the WORTH of the thing: per quel che vale, take it at whatever it is actually worth. Spanish discounts its USE: por si sirve de algo, in case it turns out to be good for anything. And Spanish adds a hedge Italian does not have — por SI, in case, a conditional, so the Spanish speaker is not even certain the remark will be wanted, where the Italian merely admits it may not be worth much.",
+    "tags": [
+      "false_friend",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Italian will not take the usefulness frame — 'nel caso serva a qualcosa' is grammatical but is not the marker, and it sounds like a genuine conditional rather than a set phrase. Use per quel che vale. Variants exist and are all fine: per quello che vale, per quanto possa valere.",
+      "it_to_es": "This is where the calque bites. 'Por lo que vale' and 'para lo que valga' are both attested in translation and both are flagged by native speakers as sounding odd or foreign in ordinary speech — the natural Spanish switches the metaphor from value to usefulness: por si sirve de algo. Related, and often better when the remark is a consolation rather than an opinion: 'si te sirve de consuelo'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "discourse",
+    "modesty",
+    "opinion"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01 from an English seed ('for what it's worth'), so both sides were found rather than given. AUTHORITY GAP — BOTH SIDES CITED AS `Corpus` AND BOTH DESERVE BETTER. The Spanish is dictionary-grade in substance: Cambridge's English-Spanish dictionary gives 'por si sirve de algo' as the translation of 'for what it's worth' outright, and bab.la's European Parliament corpus corroborates it in formal register. But Cambridge is not on the validator's AUTHORITIES allowlist (RAE, Treccani, De Mauro, Cervantes, Corpus), so it is filed as Corpus — the same gap flagged on 0243 for Mexican dictionaries. The Italian is corpus-only: heavily attested across bab.la's Parliament records and hundreds of Reverso subtitle pairs, but I found no Treccani or De Mauro headword. CHECK BOTH; if Treccani carries 'per quel che vale' under `valere`, use that instead. THE CALQUE CLAIM IS THE ENTRY'S BEST CONTENT AND RESTS ON A FORUM: 'por lo que valga' / 'para lo que valga' appear in translations but a WordReference native called the latter 'rarísimo'. ES REVIEWER, this is the deciding question — is the literal value-based calque genuinely odd in MX, or merely less common than 'por si sirve de algo'? If it is fine, the false_friend tag is wrong and this drops to a mild register note. NOTE ON REGISTER: both sides are attested in European Parliament speech, hence ok_in_exam on both — but they are also perfectly ordinary in conversation, which is unusual and worth confirming."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

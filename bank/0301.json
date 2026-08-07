@@ -1,0 +1,83 @@
+{
+  "id": "0301",
+  "type": "proverb",
+  "cue": "How do you say it's easier to promise than to deliver?",
+  "es": {
+    "text": "Del dicho al hecho hay mucho trecho",
+    "literal": "from the saying to the deed there is a long stretch",
+    "meaning": "Saying you will do something is a long way from doing it.",
+    "example": "Prometió reorganizar todo el departamento, pero del dicho al hecho hay mucho trecho.",
+    "exampleTranslation": "He promised to reorganise the whole department, but that's easier said than done.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/",
+        "headword": "del dicho al hecho hay mucho trecho",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Tra il dire e il fare c'è di mezzo il mare",
+    "literal": "between saying and doing there is the sea in between",
+    "meaning": "Saying you will do something is a long way from doing it.",
+    "example": "Ha promesso di riorganizzare tutto il reparto, ma tra il dire e il fare c'è di mezzo il mare.",
+    "exampleTranslation": "He promised to reorganise the whole department, but that's easier said than done.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/dire/",
+        "headword": "dire",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both proverbs measure the gap between promising and doing, and both make the measurement audible. Italian fills the gap with the sea — a whole Mediterranean between the word and the act — and rhymes fare with mare. Spanish fills it with trecho, a stretch of ground, and rhymes three times over: dicho, hecho, trecho, the sound closing like a lid. Neither language is content to state the point; each builds the distance into the noise the sentence makes.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Italian nominalises the verbs with articles — IL dire e IL fare, the saying and the doing — which Spanish does not do; Spanish uses the participle-derived nouns dicho and hecho instead. And there is no sea in the Spanish, so the image has to be rebuilt rather than translated.",
+      "it_to_es": "Do not carry the sea across: 'del decir al hacer hay un mar' is not the refrán, and losing the dicho/hecho/trecho rhyme loses the reason the Spanish is memorable."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "promises",
+    "action",
+    "water"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01 from a 12-item monthly-calendar carousel by @learnandloveitalian — THE ITALIAN REVIEWER'S OWN ACCOUNT, so tier A on the Italian side: he is teaching these himself, which is the strongest non-dictionary evidence of currency. That does NOT extend to the Spanish sides or the bridges below, which are Claude's. SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. STRONGEST ENTRY OF THIS BATCH — both sides are famous, both use sound deliberately, and the images diverge completely (sea vs stretch of ground). ES citation is a bare Refranero root URL, the recurring defect now affecting five entries (0251, 0277, 0283, 0296, this one) — worth fixing as one job. Treccani may not carry the IT proverb under `dire`; check."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

@@ -1,0 +1,86 @@
+{
+  "id": "0290",
+  "type": "formula",
+  "cue": "How do you wish someone a merry Christmas?",
+  "es": {
+    "text": "¡Feliz Navidad!",
+    "literal": "happy Nativity",
+    "meaning": "Merry Christmas.",
+    "example": "Nos vemos en enero. ¡Feliz Navidad a toda la familia!",
+    "exampleTranslation": "See you in January. Merry Christmas to all the family!",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/navidad",
+        "headword": "Navidad",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Buon Natale!",
+    "literal": "good Christmas",
+    "meaning": "Merry Christmas.",
+    "example": "Ci vediamo a gennaio. Buon Natale a tutta la famiglia!",
+    "exampleTranslation": "See you in January. Merry Christmas to all the family!",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/natale/",
+        "headword": "Natale",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The adjective is the whole lesson, and it is not a one-off. Spanish wishes you a HAPPY anything — feliz Navidad, feliz cumpleaños, feliz año — while Italian wishes you a GOOD one: buon Natale, buon compleanno, buon anno. Learn the pair here and it pays out across every greeting in the calendar. The nouns diverge further back than they look: Italian Natale comes from Latin natalis, the adjective meaning 'relating to birth', while Spanish Navidad comes from nativitatem, nativity. Cousins, not the same word — which is why Spanish still has a separate adjective natal for birth, and Italian does not.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Felice Natale' is not wrong Italian so much as not the greeting — Italians say buon Natale, and the reflex to reach for felice will mark you out every December. The same swap applies right down the list: buon compleanno, buon anno, buon viaggio, buona fortuna.",
+      "it_to_es": "Spanish takes feliz, not 'buena Navidad'. Note the noun too: Spanish Navidad is grammatically feminine and often plural in set phrases (felices Navidades), where Italian Natale is masculine singular and stays that way."
+    }
+  },
+  "pin": {
+    "month": 12,
+    "day": 25
+  },
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "greetings",
+    "calendar",
+    "religion"
+  ],
+  "cefr": "A2",
+  "difficulty": 1,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01 at Joe's request for seasonal salutations. SCOPE REVERSAL — READ BEFORE APPROVING: `type: formula` was declared out of scope for v1, which is why 0070, 0100 and 0110 are the bank's only retired entries. This entry is that same type. If formula is back in scope, THOSE THREE SHOULD BE RECOVERED IN THE SAME PASS — their retiredReason says 'RECOVER IMMEDIATELY if the tear-off calendar goes ahead' — because banking Feliz Navidad while ¡Feliz año nuevo! stays retired is incoherent. I have NOT unretired them; that is Joe's decision, not mine to make silently. SOURCES NOT HUMAN-VERIFIED. THE feliz/buon CONTRAST IS THE REAL CONTENT and is what makes this more than a vocabulary card — it is a productive pattern covering compleanno, anno, viaggio, fortuna. If Joe wants a themed run of greetings, this entry is the anchor and the others can cross-reference it rather than each re-teaching the same swap. ES REVIEWER: is 'felices Navidades' plural the MX default over singular 'feliz Navidad'? PLACEMENT: drafted first with BOTH a pin and an events link; the validator rejects that combination — one placement mechanism only. Kept the pin/pinWindow and dropped the event link, because Christmas is a fixed annual date and needs no computation, where the events registry earns its keep on computed or irregular dates like Easter and the World Cup. The `navidad_natale` event added to events.json this session therefore has no entry pointing at it yet; it is still worth keeping for the Pascua/Pasqua scope warning recorded in its note, but Joe may prefer to drive these three from the event instead of pins, in which case the pins come out and the event links go back. CORRECTED 2026-08-01: the bridge originally claimed both nouns come from the same Latin word natalis, with Spanish taking a plural form. That was wrong — Navidad descends from nativitatem (nativity), a different Latin word, while Natale descends from natalis. Caught because Joe asked about 'città natale' and the etymology had to be checked properly. See 0298, which is built on exactly this split."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "0298",
+  "type": "collocation",
+  "cue": "How do you say the town where someone was born?",
+  "es": {
+    "text": "Ciudad natal",
+    "literal": "natal city",
+    "meaning": "The city where someone was born.",
+    "example": "Volvió a su ciudad natal después de veinte años fuera.",
+    "exampleTranslation": "He went back to the city where he was born after twenty years away.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/natal",
+        "headword": "natal",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Città natale",
+    "literal": "natal city",
+    "meaning": "The city where someone was born.",
+    "example": "È tornato nella sua città natale dopo vent'anni.",
+    "exampleTranslation": "He went back to the city where he was born after twenty years away.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/natale1/",
+        "headword": "natale",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Two words that look identical and sit on different sides of a split. Latin natalis meant simply 'of birth', and Rome used it widely — a person's dies natalis was their birthday, but a city had one too, and the anniversary of Rome's founding was the Natalis Romae. Christianity narrowed the word onto one birth in particular. Spanish came out of that with two separate words: natal kept the old broad sense, and Navidad was built from a different Latin root, nativitatem. Italian came out with one word doing both jobs — natale for birth, Natale for Christmas — distinguished in writing only by a capital letter, and in speech not at all.",
+    "tags": [
+      "false_friend",
+      "cognate_pair"
+    ],
+    "interference": {
+      "es_to_it": "Nothing goes wrong in production — città natale is exactly parallel to ciudad natal. The trap is in reading: an Italian text with lowercase natale is not talking about Christmas, and the capital is the only thing separating the two senses on the page. Note also the gender: Italian città is feminine and natale does not change form for it, since it is one of the adjectives ending in -e.",
+      "it_to_es": "Spanish will not let you use its Christmas word this way — 'ciudad de Navidad' means nothing. The adjective is natal, a word Spanish kept specifically because it never merged the two senses. Both languages agree on one thing English does not: this names the city where you were BORN, not the one you grew up in, so it is narrower than 'hometown'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "origins",
+    "place",
+    "etymology"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01. ORIGIN OF THE ENTRY: Joe's Italian teacher glossed 'città natale' as 'Christmas town'; Joe thought 'birth town' was more accurate and asked. He was right, and the research confirms it — Latin natalis is the older, broader adjective ('relating to birth', from natus/nasci), applied in Rome to birthdays AND to city foundations (Natalis Romae, 21 April). The Christmas sense is a fourth-century narrowing, so the teacher's gloss reads the youngest meaning back onto the oldest. THIS ALSO CAUGHT AN ERROR IN 0290, corrected the same day: that entry claimed Navidad and Natale come from the same Latin word, which is false — Navidad is from nativitatem, Natale from natalis. TYPE is collocation, not idiom: nothing here is figurative. If the bank does not want vocabulary pairs, this does not belong — same question raised on 0292 (Nochebuena) and the 'flor de Pascua' candidate row. THE ENTRY'S VALUE IS ETYMOLOGICAL RATHER THAN INTERFERENCE-BASED, and the es_to_it note is honest that nothing goes wrong in production; the risk is only in reading. Joe to decide whether that clears the bar. SOURCES NOT HUMAN-VERIFIED, and the Treccani URL is a guess at the disambiguated headword (natale1 vs natale2) — CHECK IT, since Treccani almost certainly splits the adjective from the noun and the entry should cite the adjective. The etymology in the bridge is corroborated across several independent Italian sources and Wikipedia, but no single dictionary citation is attached to it — if the bridge is going to assert Roman usage as fact, it should rest on better than that."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

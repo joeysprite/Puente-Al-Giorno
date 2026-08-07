@@ -11,7 +11,7 @@
     "family"
   ],
   "createdOn": "2026-07-13",
-  "retiredReason": "Formula. Out of scope for v1 — RECOVER for a calendar.",
+  "retiredReason": null,
   "events": [
     {
       "key": "madre_mx",
@@ -87,10 +87,10 @@
     }
   },
   "review": {
-    "status": "retired",
+    "status": "needs_review",
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending."
+    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending. RECOVERED 2026-08-01 on Joe's decision, from retired to needs_review. The retiredReason was 'Formula. Out of scope for v1 — RECOVER for a calendar', and that condition is now met: the bank is deliberately building seasonal content (0288-0292 drafted the same day). NOTE WHAT RECOVERY DOES NOT FIX. The original review.notes on this entry read 'Authored as a schema demo; sources not human-verified; reviewer sign-off pending' — a QUALITY caveat that was never written into retiredReason and is untouched by the scope change. This entry was written to prove the schema worked, not because anyone judged it publishable. It therefore comes back at needs_review, on the same footing as 0290-0292, NOT at whatever status it held before. Before approval it needs: sources verified by a human, native reviewer sign-off, and an editorial read on whether the content is actually worth a subscriber's day."
   }
 }

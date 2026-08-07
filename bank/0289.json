@@ -1,0 +1,90 @@
+{
+  "id": "0289",
+  "type": "idiom",
+  "cue": "How do you say something dragged on unbearably?",
+  "es": {
+    "text": "Más largo que un día sin pan",
+    "literal": "longer than a day without bread",
+    "meaning": "Tediously long — of a thing, an occasion, or a person's height.",
+    "example": "La reunión fue más larga que un día sin pan.",
+    "exampleTranslation": "That meeting went on forever.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/pan",
+        "headword": "pan",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Lungo come la quaresima",
+    "literal": "long as Lent",
+    "meaning": "Tediously long; also of a slow person, or a very tall thin one.",
+    "example": "Il discorso è stato lungo come la quaresima.",
+    "exampleTranslation": "The speech dragged on forever.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/quaresima/",
+        "headword": "quaresima",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Two ways of measuring tedium, and each language reached for the deprivation it knew best. Italy counts the forty days of Lent — a stretch of time defined by what you are not allowed to have. Spain counts a single day without bread, which is shorter on the calendar and worse in the imagination. Both then do the same odd thing with the phrase: it stops being about time at all and starts describing people, the slow ones and the tall thin ones alike.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The bread does not travel — 'lungo come un giorno senza pane' is not Italian. And note the article: lungo come LA quaresima, definite, because there is only one Lent.",
+      "it_to_es": "Spanish takes the comparative with más — MÁS largo QUE, not 'largo como' — which is the harder half to remember, since Italian uses a plain simile with come. And the noun is indefinite: UN día sin pan."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [
+    {
+      "key": "easter",
+      "requiresEvent": false,
+      "note": "Lent is the run-up to Easter; the entry works year-round but sits naturally in the weeks before."
+    }
+  ],
+  "themes": [
+    "tedium",
+    "time",
+    "food",
+    "religion"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01, seasonal batch. THE ITALIAN SIDE IS WELL SOURCED: Treccani's `quaresima` entry carries 'lungo come la q.' explicitly, glossed as something long and tiresome, or a slow person, or a very tall thin one — the same three-way extension I have given the Spanish. SOURCES NOT HUMAN-VERIFIED nonetheless — read from a search snippet. THE SPANISH SIDE IS THE WEAK HALF: 'más largo que un día sin pan' is widely known but I did not confirm an RAE citation, and the claim that it extends to describing people the way the Italian does is MINE AND UNVERIFIED. ES REVIEWER, that parallel is half the bridge — does 'más largo que un día sin pan' describe a tall thin person in MX, or only a long event? If only events, the last sentence of the bridge needs cutting. NOTE ON PAIRING CHOICE: Italian's Lent phrase has no Spanish Lent equivalent I could find, so this is a divergent-imagery pairing rather than a calendar twin — which is the honest way to handle Lent, since Cuaresma and Quaresima are cognates that generate no idiom pair of their own."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

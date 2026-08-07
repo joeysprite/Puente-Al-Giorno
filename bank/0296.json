@@ -1,0 +1,83 @@
+{
+  "id": "0296",
+  "type": "proverb",
+  "cue": "How do you tell someone that waiting makes the wait longer?",
+  "es": {
+    "text": "Quien espera, desespera",
+    "literal": "whoever waits, despairs",
+    "meaning": "Waiting for something makes it feel as though it will never arrive.",
+    "example": "Deja de mirar el horno cada dos minutos: quien espera, desespera.",
+    "exampleTranslation": "Stop checking the oven every two minutes — a watched pot never boils.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/",
+        "headword": "quien espera, desespera",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "La pentola guardata non bolle mai",
+    "literal": "the watched pot never boils",
+    "meaning": "Waiting for something makes it feel as though it will never arrive.",
+    "example": "Smetti di controllare il forno ogni due minuti: la pentola guardata non bolle mai.",
+    "exampleTranslation": "Stop checking the oven every two minutes — a watched pot never boils.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://en.bab.la/dictionary/italian-english/pentola-guardata-non-bolle-mai",
+        "headword": "pentola guardata non bolle mai",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Two proverbs about the same impatience, and only one of them stays in the kitchen. Italian keeps the pot on the heat and lets the image carry the argument — watch it and it will not boil — a saying that came up into standard Italian from a Sicilian original, A pignata taliata 'un vugghi mai. Spanish throws the pot out and describes the feeling instead, then makes the words do the work: esperar and desesperar are the same verb one prefix apart, so waiting turns into despair by the addition of a syllable. One language shows you a saucepan; the other performs the collapse inside the vocabulary.",
+    "tags": [
+      "interference_risk",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "There is no wordplay to reach for in Italian — sperare and disperare exist, but the proverb does not use them. Italian names the pot, so a Spanish speaker has to learn a concrete image where their own language gave them an abstraction.",
+      "it_to_es": "Do not translate the pot. 'La olla vigilada nunca hierve' and 'un puchero vigilado nunca hierve' both turn up in translated books and subtitles, but they are renderings OF the English, not the Spanish proverb — the refrán drops the kitchen entirely. Use quien espera, desespera, which also appears in a longer form: quien espera desespera, y quien viene nunca llega."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "patience",
+    "time",
+    "food"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01 from an English seed ('a watched pot never boils'). ES→EN EQUIVALENCE IS WELL CORROBORATED: Tureng, Glosbe, diccionarios.com and a published Spanish survival-phrase dictionary all give 'quien/el que espera, desespera' as the translation of the English proverb. The ES citation here is nonetheless a bare Cervantes refranero ROOT url, not a ficha — the same defect as 0251, 0277 and 0283, now affecting four entries and worth fixing as one job. IT SIDE IS CORPUS-ONLY: bab.la carries it, and multiple Italian proverb sites gloss it consistently, but I found no Treccani or De Mauro headword. CHECK BOTH. THE SICILIAN ORIGIN IS STATED AS FACT IN THE BRIDGE AND IS SOURCED ONLY TO PROVERB SITES — several independently trace the standard Italian to 'A pignata taliata un vugghi mai', but that is not a dictionary-grade claim. IT REVIEWER: is the Sicilian derivation accepted, or folk etymology? If uncertain, the clause should be cut rather than softened. ALSO FOR THE IT REVIEWER: is this proverb actually current in standard Italian, or does it read as a regionalism or as a translation of the English? That is the question that decides the entry. SECOND SEED IN THE SAME REQUEST — 'boil the ocean' — was NOT drafted: see the note added to CANDIDATES.md."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

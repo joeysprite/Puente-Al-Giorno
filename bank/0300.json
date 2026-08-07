@@ -1,0 +1,83 @@
+{
+  "id": "0300",
+  "type": "proverb",
+  "cue": "How do you warn that something impressive may not be what it seems?",
+  "es": {
+    "text": "No es oro todo lo que reluce",
+    "literal": "not all that shines is gold",
+    "meaning": "Impressive appearances often hide something less valuable.",
+    "example": "El puesto pagaba bien pero no es oro todo lo que reluce: se fue a los tres meses.",
+    "exampleTranslation": "The job paid well, but all that glitters isn't gold — he left after three months.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/oro",
+        "headword": "oro",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Non è tutto oro quel che luccica",
+    "literal": "not all that glitters is gold",
+    "meaning": "Impressive appearances often hide something less valuable.",
+    "example": "Il posto pagava bene ma non è tutto oro quel che luccica: se n'è andato dopo tre mesi.",
+    "exampleTranslation": "The job paid well, but all that glitters isn't gold — he left after three months.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/oro/",
+        "headword": "oro",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same warning, inherited by both languages from the same medieval Latin, and the shine is described by two verbs that are not related to each other. Italian glitters with luccica, from luce, light. Spanish shines with reluce, a re- prefix on lucir — same Latin root, different build. The word order also swaps: Italian denies the gold first and names the shining last, Spanish names the gold first, so the two sentences arrive at the same conclusion from opposite ends.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Italian does not use a re- form here: it is luccica, not 'riluce'. And the frame is quel che, not 'tutto quello che' — the fixed proverb keeps it short.",
+      "it_to_es": "Spanish puts oro immediately after the verb — no es ORO todo lo que reluce — where a word-for-word crossing gives 'no es todo oro lo que reluce', which is understandable but is not the refrán."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "appearances",
+    "value",
+    "warning"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01 from a 12-item monthly-calendar carousel by @learnandloveitalian — THE ITALIAN REVIEWER'S OWN ACCOUNT, so tier A on the Italian side: he is teaching these himself, which is the strongest non-dictionary evidence of currency. That does NOT extend to the Spanish sides or the bridges below, which are Claude's. SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. THE WORD-ORDER CLAIM IS THE ENTRY'S ONLY REAL TRAP and it is mine — ES REVIEWER, is 'no es todo oro lo que reluce' actually wrong, or a tolerated variant? If tolerated, this drops to a near-twin freebie with only the luccica/reluce verb difference left, and should be re-sorted accordingly. Both dictionaries may file the proverb nowhere, in which case both citations need replacing with Refranero/corpus sources."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

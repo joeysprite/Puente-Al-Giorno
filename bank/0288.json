@@ -1,0 +1,89 @@
+{
+  "id": "0288",
+  "type": "idiom",
+  "cue": "How do you say someone is absolutely delighted?",
+  "es": {
+    "text": "Estar como unas pascuas",
+    "literal": "to be like some Easters",
+    "meaning": "To be thoroughly cheerful and pleased.",
+    "example": "Le dieron la plaza y lleva toda la semana como unas pascuas.",
+    "exampleTranslation": "He got the position and he's been walking on air all week.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Reviewer to confirm currency outside Spain — most attestations found are Peninsular.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/pascua",
+        "headword": "pascua",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Essere contento come una Pasqua",
+    "literal": "to be happy like an Easter",
+    "meaning": "To be thoroughly cheerful and pleased.",
+    "example": "Ha avuto il posto ed è contento come una Pasqua da una settimana.",
+    "exampleTranslation": "He got the position and he's been over the moon for a week.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/pasqua/",
+        "headword": "pasqua",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages measure happiness in Easters, and then count them differently. Italian holds up one — contento come UNA Pasqua. Spanish uses a plural that refers to no particular number of anything — como UNAS pascuas — and the plural is not optional. Behind that sits a bigger difference the phrase quietly depends on: Italian Pasqua means Easter and nothing else, while Spanish Pascua covers Christmas as well, so the Spanish word is naming a season of feasting in general rather than one Sunday in spring.",
+    "tags": [
+      "false_friend",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Do not pluralise: it is come una Pasqua, singular, and Italian also wants the adjective — contento come una Pasqua, not bare 'come una Pasqua'. More importantly, do not assume the word covers what the Spanish one covers: Italian Pasqua is Easter only, so 'auguri di Pasqua' in December is a mistake.",
+      "it_to_es": "Spanish needs the plural — como unas pascuas — and can drop the adjective entirely. And Spanish Pascua is wider than Italian Pasqua: 'felices Pascuas' is commonly a Christmas greeting, so the word alone does not tell you which feast is meant."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [
+    {
+      "key": "easter",
+      "requiresEvent": false,
+      "note": "Useful year-round — the phrase has nothing to do with the season in practice — but it earns its slot in Holy Week."
+    }
+  ],
+  "themes": [
+    "happiness",
+    "religion",
+    "calendar"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01 on Joe's request for Christmas/Lent/Easter material. SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. PAIRING IS DICTIONARY-BACKED: PONS lists 'estar como unas pascuas' and 'essere contento come una Pasqua' against each other directly, which is stronger evidence than most freebie rows had. ON THE REVIEWER QUESTION: Joe suggested seasonal entries would not need native sign-off because the holidays are common knowledge. The DATES are; these expressions are not, and this entry is the argument — the Pascua/Pasqua scope difference (ES covers Christmas too, IT does not) is a live false friend that no calendar tells you about, and the singular/plural split is a naturalness question only a native can settle. events:easter is set with requiresEvent:false so it stays in year-round rotation, which is also a judgement someone should check. ES REVIEWER: (1) is this live in MX or does it read Peninsular? Most attestations I found are from Spain, and regions is set pan-regional on assumption — trim it if wrong. (2) Is 'más contento que unas pascuas' the more common form than 'estar como unas pascuas'? Both are attested; I chose the shorter. IT REVIEWER: is 'contento come una Pasqua' current, or does it read old-fashioned? SCHEMA NOTE: drafted first with both season:'spring' and events:easter; the validator rejects that combination because the event window already places the entry. Season removed, event kept."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

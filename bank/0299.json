@@ -1,0 +1,83 @@
+{
+  "id": "0299",
+  "type": "proverb",
+  "cue": "How do you say appearances can deceive?",
+  "es": {
+    "text": "El hábito no hace al monje",
+    "literal": "the habit does not make the monk",
+    "meaning": "Outward appearance does not tell you what someone actually is.",
+    "example": "Llegó en chanclas y resultó ser el inversor principal: el hábito no hace al monje.",
+    "exampleTranslation": "He turned up in flip-flops and turned out to be the lead investor — you can't judge by appearances.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Cervantes",
+        "url": "https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58589",
+        "headword": "el hábito no hace al monje",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "L'abito non fa il monaco",
+    "literal": "the garment does not make the monk",
+    "meaning": "Outward appearance does not tell you what someone actually is.",
+    "example": "È arrivato in infradito ed era l'investitore principale: l'abito non fa il monaco.",
+    "exampleTranslation": "He turned up in flip-flops and he was the lead investor — you can't judge by appearances.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/abito/",
+        "headword": "abito",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Word for word the same monk, and the Spanish is carrying a second meaning the Italian cannot. Hábito in Spanish is both the robe and the custom — the thing you wear and the thing you always do — so the proverb quietly says twice over that neither your clothes nor your routines make you what you claim to be. Italian split those senses into two words, abito for the garment and abitudine for the habit, and kept only the cloth in the proverb.",
+    "tags": [
+      "false_friend",
+      "cognate_pair"
+    ],
+    "interference": {
+      "es_to_it": "Do not expect abito to mean a custom — Italian needs abitudine for that, and 'ho l'abito di svegliarmi presto' is wrong. Watch the capital too: monaco is a monk, but Monaco with a capital M is Munich, and also the Principality.",
+      "it_to_es": "Spanish hábito covers both senses, so a sentence about someone's hábitos is about their habits, not their wardrobe — context does all the work. Note the personal a as well: no hace AL monje, which Italian does not have."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "appearances",
+    "religion",
+    "judgement"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01 from a 12-item monthly-calendar carousel by @learnandloveitalian — THE ITALIAN REVIEWER'S OWN ACCOUNT, so tier A on the Italian side: he is teaching these himself, which is the strongest non-dictionary evidence of currency. That does NOT extend to the Spanish sides or the bridges below, which are Claude's. SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. The ES ficha number in the URL is a GUESS at the CVC Refranero pattern and almost certainly wrong — replace it with the real ficha or fall back to the root URL. The hábito/abito polysemy is the entry's content; IT REVIEWER, confirm abito really cannot mean a custom in modern Italian (it may survive in literary or archaic use, in which case the note needs softening)."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}
