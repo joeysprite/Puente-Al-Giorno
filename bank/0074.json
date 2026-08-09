@@ -50,7 +50,7 @@
     ]
   },
   "bridge": {
-    "note": "Both fill the head with small restless creatures, and the choice of creature is the whole difference. Spanish releases BIRDS — they fly off, romantic, headed somewhere. Italian releases CRICKETS — they jump and chirp and go nowhere, which is a sharper verdict: not dreaming, just noisy. Cross-reference 0001, where Spanish puts the whole person in the clouds instead.",
+    "note": "Both fill the head with small restless creatures, and the choice of creature is the whole difference. Spanish releases BIRDS — they fly off, romantic, headed somewhere. Italian releases CRICKETS — they jump and chirp and go nowhere, which is a sharper verdict: not dreaming, just noisy. Compare estar en las nubes, where Spanish puts the whole person in the clouds instead of filling their head with animals.",
     "tags": [
       "shared_metaphor",
       "interference_risk"
@@ -76,7 +76,7 @@
     "esReviewer": "native-mx-01",
     "itReviewer": "native-it-03",
     "reviewedOn": "2026-07-26",
-    "notes": "Discovered via an Instagram card set Joe shared 2026-07-20 (discovery only; all glosses and examples authored fresh). ES counterpart chosen by Claude from recall — UNVERIFIED. Bird-vs-cricket is a verdict difference, not just imagery. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: interference direction sharpened by Joe (bridge review). | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate."
+    "notes": "Discovered via an Instagram card set Joe shared 2026-07-20 (discovery only; all glosses and examples authored fresh). ES counterpart chosen by Claude from recall — UNVERIFIED. Bird-vs-cricket is a verdict difference, not just imagery. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: interference direction sharpened by Joe (bridge review). | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate. COPY FIX 2026-08-01: removed a bare bank ID from a learner-facing field (bridge/interference). Internal ids must never appear in shipping copy; cross-references now name the expression instead."
   },
   "createdOn": "2026-07-20",
   "retiredReason": null

@@ -1,0 +1,83 @@
+{
+  "id": "0306",
+  "type": "collocation",
+  "cue": "How do you say two people walked along holding hands?",
+  "es": {
+    "text": "De la mano",
+    "literal": "of the hand",
+    "meaning": "Hand in hand; holding hands, literally or figuratively.",
+    "example": "Salieron del cine de la mano, sin decir nada.",
+    "exampleTranslation": "They came out of the cinema hand in hand, saying nothing.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/mano",
+        "headword": "mano",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Mano nella mano",
+    "literal": "hand in the hand",
+    "meaning": "Hand in hand; holding hands, literally or figuratively.",
+    "example": "Sono usciti dal cinema mano nella mano, senza dire niente.",
+    "exampleTranslation": "They came out of the cinema hand in hand, saying nothing.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/mano/",
+        "headword": "mano",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Italian puts one hand inside the other — mano NELLA mano — and Spanish does not name the second hand at all, just says of the hand and lets you picture the rest. The reason this matters more than it looks is what sits next door. Both languages also have the phrase mano a mano, and it means something different in each: in Spanish it is a contest between two people, one against one, a term that came out of the bullring. In Italian it means gradually, as things go along. So the same three words describe a duel in one language and the passage of time in the other, and neither of them is holding hands.",
+    "tags": [
+      "false_friend",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Do not use mano a mano for a head-to-head contest — an Italian hears a mano a mano or man mano as meaning progressively, over time, and will wait for the rest of your sentence. For a one-on-one Italian says testa a testa or uno contro uno. Holding hands is mano nella mano, with the second mano spelled out.",
+      "it_to_es": "Do not use mano a mano to mean gradually — in Spanish it names a duel, and the sentence will be read as a confrontation. Spanish reaches for poco a poco instead. And for holding hands it is simply de la mano, with no second hand mentioned."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "affection",
+    "body",
+    "contest"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "THE mano a mano DIVERGENCE IS THE ENTRY and it is well corroborated: an Italian-language reference lists 'mano nella mano' as hand-in-hand and 'man mano che / a mano a mano che' as meaning progressively, and a separate discussion states plainly that in Italian the phrase has nothing to do with fighting. ES side: 'mano a mano' as a one-on-one contest is well established and the bullfighting origin is widely repeated — VERIFY the origin claim before it ships, since it is stated in the bridge as fact. IT REVIEWER: is 'mano a mano' (without the initial a, and without che) ever used in Italian for a confrontation, under English influence? If so the trap softens and the note needs qualifying. Drafted by Claude 2026-08-01 from a 19-item binomial set by @ines.tutoring — TIER C, an Instagram tutor who is NOT our Italian reviewer (@learnandloveitalian). Carries no reviewer weight. SOURCES NOT HUMAN-VERIFIED."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

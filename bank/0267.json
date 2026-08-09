@@ -57,7 +57,7 @@
     ],
     "interference": {
       "es_to_it": "Three at once. No reflexive — 'affogarsi in un bicchier d'acqua' is wrong, Italian says affogare. The glass is a bicchiere, never a vaso. And keep the clipped form, bicchier d'acqua; the full bicchiere sounds heavy inside the idiom even though it is the correct word on its own.",
-      "it_to_es": "Spanish needs the reflexive back — ahogarSE — and the glass is a vaso. Spanish does not clip: it is un vaso de agua, in full. SEE ALSO 0265 and 0266, where the same vaso/bicchiere false friend appears in the half-full/half-empty pair."
+      "it_to_es": "Spanish needs the reflexive back — ahogarSE — and the glass is a vaso. Spanish does not clip: it is un vaso de agua, in full. The same vaso/bicchiere false friend runs through the half-full and half-empty pair too."
     }
   },
   "pin": null,
@@ -75,7 +75,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Drafted by Claude 2026-08-01, batch 5 (CANDIDATES.md Freebies 6). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. CAME IN AS 'exact twin — freebie' (FluentU) and the audit found three separate traps in it, which is the clearest evidence so far that the tier-C freebie rows were never actually examined. THE APOCOPATION CLAIM NEEDS CONFIRMING: I assert 'bicchier d'acqua' is the fixed form and full 'bicchiere d'acqua' sounds heavy inside the idiom. IT REVIEWER, is that right, or are both equally current? If both are fine, cut the third trap and keep the other two. See cluster saturation warning on 0265."
+    "notes": "Drafted by Claude 2026-08-01, batch 5 (CANDIDATES.md Freebies 6). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. CAME IN AS 'exact twin — freebie' (FluentU) and the audit found three separate traps in it, which is the clearest evidence so far that the tier-C freebie rows were never actually examined. THE APOCOPATION CLAIM NEEDS CONFIRMING: I assert 'bicchier d'acqua' is the fixed form and full 'bicchiere d'acqua' sounds heavy inside the idiom. IT REVIEWER, is that right, or are both equally current? If both are fine, cut the third trap and keep the other two. See cluster saturation warning on 0265. COPY FIX 2026-08-01: removed a bare bank ID from a learner-facing field (bridge/interference). Internal ids must never appear in shipping copy; cross-references now name the expression instead."
   },
   "createdOn": "2026-08-01",
   "retiredReason": null

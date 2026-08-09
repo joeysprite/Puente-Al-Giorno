@@ -1,0 +1,83 @@
+{
+  "id": "0307",
+  "type": "collocation",
+  "cue": "How do you say something progressed one stage at a time?",
+  "es": {
+    "text": "Paso a paso",
+    "literal": "step to step",
+    "meaning": "Step by step; one stage at a time.",
+    "example": "Vamos paso a paso: primero el diagnóstico, luego el presupuesto.",
+    "exampleTranslation": "Let's go step by step — diagnosis first, then the quote.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/paso",
+        "headword": "paso",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Passo dopo passo",
+    "literal": "step after step",
+    "meaning": "Step by step; one stage at a time.",
+    "example": "Andiamo passo dopo passo: prima la diagnosi, poi il preventivo.",
+    "exampleTranslation": "Let's go step by step — diagnosis first, then the quote.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/passo1/",
+        "headword": "passo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages repeat the same noun twice and put a small word between the two copies — and they choose different small words. Spanish uses a, which points: step TO step, one reaching toward the next. Italian uses dopo, which sequences: step AFTER step, one following the other in time. Spanish draws the movement, Italian counts the order. The same choice shows up again with days: día a día against giorno dopo giorno.",
+    "tags": [
+      "preposition_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Italian sequences with dopo where Spanish points with a. 'Passo a passo' is understood and is not the usual form; the same goes for giorno dopo giorno, not 'giorno a giorno'. Italian keeps a for a few fixed pairs — faccia a faccia, fianco a fianco — so the rule is not absolute and the pairs have to be learned individually.",
+      "it_to_es": "Spanish uses a throughout this family: paso a paso, día a día, cara a cara, mano a mano. 'Paso después de paso' is not idiomatic. Spanish does have poco a poco for a gradual process, which is the nearest thing to Italian's own a mano a mano."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "process",
+    "gradual",
+    "time"
+  ],
+  "cefr": "A2",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "THE a/dopo CONNECTOR SPLIT IS THE ENTRY and it is the most systematic finding in this batch — it recurs across passo/giorno and is the kind of pattern that pays out beyond the single phrase. BUT I HAVE ALSO STATED ITS LIMIT IN THE BRIDGE (Italian keeps a for faccia a faccia and fianco a fianco) AND THAT LIMIT IS MY OWN OBSERVATION, UNSOURCED. IT REVIEWER, THIS DECIDES THE ENTRY: is there a rule governing which Italian binomials take a and which take dopo, or is it purely lexical? If there is a rule the bridge should state it; if it is lexical the entry should say so plainly rather than implying a pattern learners can generalise. Related banked entry uses the same repeated-noun frame — check for scheduling collision. A SECOND ENTRY IS AVAILABLE HERE (giorno dopo giorno / día a día) but would teach the identical point; recommend one or the other, not both. Drafted by Claude 2026-08-01 from a 19-item binomial set by @ines.tutoring — TIER C, an Instagram tutor who is NOT our Italian reviewer (@learnandloveitalian). Carries no reviewer weight. SOURCES NOT HUMAN-VERIFIED."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

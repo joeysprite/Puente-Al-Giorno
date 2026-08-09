@@ -1,0 +1,82 @@
+{
+  "id": "0305",
+  "type": "idiom",
+  "cue": "How do you say someone announced something everybody already knew?",
+  "es": {
+    "text": "Descubrir el agua tibia",
+    "literal": "to discover lukewarm water",
+    "meaning": "To present something long obvious as though it were a discovery.",
+    "example": "Nos explicó durante media hora que la gente compra más en diciembre. Descubrió el agua tibia.",
+    "exampleTranslation": "He spent half an hour explaining that people buy more in December. Stop the press.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "ar",
+      "co"
+    ],
+    "regionNote": "The water version is the Latin-American one. Elsewhere the image changes entirely — gunpowder, or the discovery of America — and which one a speaker reaches for varies by place and by generation. Reviewer to confirm the list.",
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://forum.wordreference.com/threads/inventar-la-p%C3%B3lvora.2354155/",
+        "headword": "descubrir el agua tibia",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Scoprire l'acqua calda",
+    "literal": "to discover hot water",
+    "meaning": "To present something long obvious as though it were a discovery.",
+    "example": "Ci ha spiegato per mezz'ora che a dicembre la gente compra di più. Ha scoperto l'acqua calda.",
+    "exampleTranslation": "He spent half an hour explaining that people buy more in December. Stop the press.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/acqua/",
+        "headword": "acqua",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Two languages mocking the same person — the one who announces at length what everyone in the room already knew — and both hand him a kettle. The joke is that hot water is not a discovery; it has been there since the first fire. What separates them is a single degree of temperature. Italian gives him water that is hot, calda. Spanish gives him water that is merely warm, tibia, which is somehow more withering: he has not even discovered anything hot.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The water heats up crossing the border. Italian fixes on calda — 'scoprire l'acqua tiepida' is comprehensible and is not the phrase. Note the verb pair too: scoprire and descubrir are the same word underneath, both built on covering and then un-covering.",
+      "it_to_es": "Do not heat it. Spanish fixes on tibia, and 'descubrir el agua caliente' misses the fixed form. Be ready for entirely different images elsewhere in the Spanish-speaking world, where the same mockery is aimed at someone discovering gunpowder or discovering America — the water is not universal."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "obviousness",
+    "water",
+    "mockery"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-01. THE ONE-WORD TEMPERATURE SPLIT IS THE ENTRY: IT calda (hot) vs ES tibia (lukewarm), everything else parallel. SOURCES ARE WEAK ON THE ES SIDE — the citation is a WordReference thread in which a native contrasts 'inventar la pólvora' (Spain) with 'acabas de inventar el hilo negro' and 'tú descubriste el agua tibia' as the forms used where they are. That is native testimony, not a dictionary. Check whether the AML Diccionario de Mexicanismos or DEM carries 'agua tibia' — the same Mexican-authority gap flagged on 0243 and 0295. IT side should be under Treccani `acqua`; not opened, so confirm. COMPETING ES PARTNER, and Joe should decide: 'descubrir/inventar el hilo negro' is at least as Mexican and possibly more common. I chose agua tibia because it produces a near-twin against the Italian and therefore a real one-word trap, where hilo negro would be a divergent-imagery entry instead. Both are defensible; the hilo negro version is logged in CANDIDATES.md rather than banked, so it is not lost. REGIONAL FRAMING kept deliberately non-specific per the standing principle — the note says the image changes elsewhere without mapping a phrase to a country, even though the source does name Spain. ES REVIEWER: sharpen it if you want, and your id carries it. FIFTH acqua/agua entry in the bank (0072, 0092, 0101, 0102 and this) — saturation check before scheduling."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}

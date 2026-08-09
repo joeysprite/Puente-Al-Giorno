@@ -49,13 +49,13 @@
     ]
   },
   "bridge": {
-    "note": "Italian counts occasions in turns (volte — cognate with Spanish vuelta, not vez), Spanish in veces. The same deep split as c'era una volta / había una vez, now in its everyday clothes. Cross-reference 0029.",
+    "note": "Italian counts occasions in turns (volte — cognate with Spanish vuelta, not vez), Spanish in veces. The same deep split as c'era una volta / había una vez, now in its everyday clothes.",
     "tags": [
       "preposition_differs",
       "interference_risk"
     ],
     "interference": {
-      "es_to_it": "The volta/vez split again (see 0029): occasions are TURNS in Italian. 'A vece' is not Italian — in vece drifted off to become invece.",
+      "es_to_it": "The volta/vez split again, the same one behind c'era una volta: occasions are TURNS in Italian. 'A vece' is not Italian — in vece drifted off to become invece.",
       "it_to_es": "'A vueltas' means something else entirely (struggling with something, Spain). Times are veces."
     }
   },
@@ -73,7 +73,7 @@
     "esReviewer": "native-mx-01",
     "itReviewer": "native-it-03",
     "reviewedOn": "2026-07-26",
-    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate."
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate. COPY FIX 2026-08-01: removed a bare bank ID from a learner-facing field (bridge/interference). Internal ids must never appear in shipping copy; cross-references now name the expression instead."
   },
   "createdOn": "2026-07-16",
   "retiredReason": null,

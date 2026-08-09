@@ -57,7 +57,7 @@
     ],
     "interference": {
       "es_to_it": "'Il vaso mezzo pieno' describes a half-full flower vase. Italian needs bicchiere. This is worth learning beyond the idiom: Spanish vaso and Italian vaso are false friends everywhere, not just here.",
-      "it_to_es": "Spanish does not use a bicchiere-shaped word at all here — the glass is a vaso, and 'copa' would move it to a wine glass. SEE ALSO 0266, the pessimist's version of this entry, and 0267, which puts the same false friend inside a different idiom."
+      "it_to_es": "Spanish does not use a bicchiere-shaped word at all here — the glass is a vaso, and 'copa' would move it to a wine glass. The same false friend is waiting in the pessimist's version, el vaso medio vacío, and in ahogarse en un vaso de agua."
     }
   },
   "pin": null,
@@ -75,7 +75,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Drafted by Claude 2026-08-01, batch 5 (CANDIDATES.md Freebies 21, first half). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened; both dictionaries may carry the phrase under the adjective rather than the noun. CAME IN AS A NO-TRAP FREEBIE and was upgraded by the freebie audit: the vaso/bicchiere false friend is real and was not noticed when the row was first logged. SIBLING: 0266 is the mezzo vuoto version, drafted alongside this one; the two share an image and should not be scheduled near each other. CLUSTER SATURATION WARNING: 0265, 0266 and 0267 all turn on drinking-glass vocabulary and the same vaso false friend appears in all three. That is either a deliberate mini-series or too much of one word — Joe to decide before any of them ship. IT REVIEWER: is the optimist form as common as the pessimist form, or is mezzo vuoto the one people actually say?"
+    "notes": "Drafted by Claude 2026-08-01, batch 5 (CANDIDATES.md Freebies 21, first half). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened; both dictionaries may carry the phrase under the adjective rather than the noun. CAME IN AS A NO-TRAP FREEBIE and was upgraded by the freebie audit: the vaso/bicchiere false friend is real and was not noticed when the row was first logged. SIBLING: 0266 is the mezzo vuoto version, drafted alongside this one; the two share an image and should not be scheduled near each other. CLUSTER SATURATION WARNING: 0265, 0266 and 0267 all turn on drinking-glass vocabulary and the same vaso false friend appears in all three. That is either a deliberate mini-series or too much of one word — Joe to decide before any of them ship. IT REVIEWER: is the optimist form as common as the pessimist form, or is mezzo vuoto the one people actually say? COPY FIX 2026-08-01: removed a bare bank ID from a learner-facing field (bridge/interference). Internal ids must never appear in shipping copy; cross-references now name the expression instead."
   },
   "createdOn": "2026-08-01",
   "retiredReason": null

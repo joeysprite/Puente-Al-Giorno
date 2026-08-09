@@ -1,0 +1,83 @@
+{
+  "id": "0308",
+  "type": "marker",
+  "cue": "How do you say it's bound to happen eventually?",
+  "es": {
+    "text": "Tarde o temprano",
+    "literal": "late or early",
+    "meaning": "Sooner or later; it will happen eventually.",
+    "example": "Tarde o temprano se va a saber quién filtró el documento.",
+    "exampleTranslation": "Sooner or later it'll come out who leaked the document.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/tarde",
+        "headword": "tarde",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Prima o poi",
+    "literal": "before or after",
+    "meaning": "Sooner or later; it will happen eventually.",
+    "example": "Prima o poi si saprà chi ha fatto uscire il documento.",
+    "exampleTranslation": "Sooner or later it'll come out who leaked the document.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/prima/",
+        "headword": "prima",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both phrases pair two opposite times and shrug at which one it will be. They pick opposite poles to name, and they name them in opposite orders. Italian measures from a fixed point and looks both ways — before or after. Spanish measures against the right moment and offers you two ways of missing it — late or early, with late coming first, which is the pessimist's order. English lands in a third place again with sooner or later, so none of the three quite agree.",
+    "tags": [
+      "interference_risk",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": "The words do not translate across. 'Tardi o presto' is not the Italian phrase — Italian says prima o poi, and it is fixed in that order. Note the poi: it means then or afterwards, not late.",
+      "it_to_es": "'Antes o después' exists in Spanish and is understood, but the set phrase is tarde o temprano — and the order matters, since 'temprano o tarde' is not what people say."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "time",
+    "inevitability",
+    "discourse"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "CLEAN CONTRAST: opposite poles named in opposite orders, with English a third variant again. THE CLAIM THAT 'antes o después' IS UNDERSTOOD BUT NOT THE SET PHRASE IS MINE — ES REVIEWER, is it a tolerated variant in MX or does it read as translated? The whole it_to_es note depends on it. IT REVIEWER: is 'prima o poi' genuinely fixed in that order, or does 'poi o prima' ever occur? Drafted by Claude 2026-08-01 from a 19-item binomial set by @ines.tutoring — TIER C, an Instagram tutor who is NOT our Italian reviewer (@learnandloveitalian). Carries no reviewer weight. SOURCES NOT HUMAN-VERIFIED."
+  },
+  "createdOn": "2026-08-01",
+  "retiredReason": null
+}
