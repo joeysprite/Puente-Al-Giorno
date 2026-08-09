@@ -494,26 +494,35 @@ register will keep producing calques. Compare 0281 (*farfalle nello stomaco*) an
 (*luce in fondo al tunnel*), both flagged as shared borrowings from English, and the "my
 two cents" finding recorded on 0295.
 
+| 2 | Descubrir / inventar el hilo negro | scoprire l'acqua calda | Claude research | The COMPETING Mexican partner for *scoprire l'acqua calda*, not banked. Banked instead as 0305 against *descubrir el agua tibia*, because that produces a near-twin with a single-word temperature trap (calda/tibia) where hilo negro would be a divergent-imagery entry. Both are defensible and hilo negro may well be the more common Mexican form — Tureng glosses it as "reinvent the wheel", and a WordReference native offers it and *agua tibia* side by side. If the reviewer says hilo negro dominates, 0305 should be re-anchored and this row promoted. Do not bank both while the multiple-pairings policy is off. |
+
 ---
 
-## @learnandloveitalian monthly calendar carousel — 12 proverbs (2026-08-01)
+## Binomial pairs — @ines.tutoring 19-item set (2026-08-01)
 
-**Tier A source: the Italian reviewer's own account.** He is teaching these himself, which is
-the strongest non-dictionary evidence of currency the bank has. That weight applies to the
-ITALIAN side only — the Spanish partners and all bridges below are Claude's proposals and
-still need his and the ES reviewer's sign-off.
+**Tier C.** @ines.tutoring is a verified Italian-tutor Instagram account and is NOT our Italian
+reviewer (@learnandloveitalian) — do not confuse them; this carries no reviewer weight.
 
-**The set is structured as a calendar, one proverb per month.** That is directly useful if the
-tear-off calendar ships: it is a ready-made twelve-slot rotation from a native teacher, and
-the month assignments are his editorial judgement, not ours. Worth preserving the mapping even
-though the bank's own scheduler does not currently use it.
+The set is one coherent type: X-and-Y frozen pairs. **3 drafted** — 0306 (*de la mano* /
+*mano nella mano*, carrying the *mano a mano* false friend), 0307 (*paso a paso* / *passo
+dopo passo*, the a/dopo connector split), 0308 (*tarde o temprano* / *prima o poi*). **1
+already banked** — *poco a poco* is 0236. The rest below are logged, not drafted.
 
-Of the 12: **3 already banked** — *chi dorme non piglia pesci* (0051, May), *il mattino ha
-l'oro in bocca* (0056, November), *non c'è due senza tre* (0283, December, drafted earlier
-today). **2 already queued** — *meglio tardi che mai* (L308, February), *chi trova un amico
-trova un tesoro* (L113, August). **6 drafted this session** — March 0299, April 0300, July
-0301, June 0302, September 0303, October 0304.
+**The one systematic finding worth chasing:** Italian sequences repeated-noun binomials with
+**dopo** where Spanish points with **a** — *passo dopo passo* / *paso a paso*, *giorno dopo
+giorno* / *día a día*. But Italian keeps *a* for *faccia a faccia* and *fianco a fianco*, so
+it is not a clean rule. Whether a rule exists at all is the open question logged on 0307 and
+it needs the Italian reviewer.
 
-| # | Month | Italian | Spanish / sketch | Source | Note |
-|---|---|---|---|---|---|
-| 1 | Gennaio | Chi va piano, va sano e lontano | (ES side unresolved) | IT reviewer (own account) | THE ONE NOT DRAFTED. Nearest Spanish candidates are *poco a poco se va lejos* and *vísteme despacio que tengo prisa*, and they are not the same proverb: the first is about steady progress, the second is a witticism about haste defeating itself, and neither carries the Italian's three-part sano-e-lontano promise of arriving both safely AND far. Needs proper research rather than a forced pick. NOTE the collision risk with banked 0046 (*piano piano* / *despacito*) — same adverb, different expression, but they should not be scheduled near each other. |
+| # | Italian | Spanish / sketch | Source | Note |
+|---|---|---|---|---|
+| 1 | Giorno dopo giorno | día a día | ines.tutoring (IG, tier C) | Same a/dopo split as 0307 and would teach the identical point — bank one or the other, not both. |
+| 2 | Faccia a faccia | cara a cara | ines.tutoring (IG, tier C) | Both take *a*, so no connector trap. The interest is lexical: Italian reaches for *faccia*, Spanish for *cara* — the same split already banked in *dar la cara* / *pagare di persona*, where Spanish's *cara* had no Italian home at all. Possible themed thread on faccia/viso/cara rather than a standalone entry. |
+| 3 | Fianco a fianco | codo con codo / hombro con hombro | ines.tutoring (IG, tier C) | Genuine divergent imagery: Italian uses the FLANK, Spanish the ELBOW or the SHOULDER. Neither Spanish option is a flank. Worth drafting properly — one of the better rows here. |
+| 4 | Testa a testa | mano a mano / cabeza a cabeza | ines.tutoring (IG, tier C) | CAUTION: the natural Spanish for a head-to-head is *mano a mano*, which collides directly with 0306's false friend — Spanish uses the HAND where Italian uses the HEAD, and Italian's *mano a mano* means gradually. Do not draft in isolation; it is the other half of 0306 and may belong inside that entry rather than beside it. |
+| 5 | Cuore a cuore | de corazón a corazón | ines.tutoring (IG, tier C) | Spanish adds prepositions Italian omits (*de … a*). Thin. |
+| 6 | Uno per uno | uno por uno | ines.tutoring (IG, tier C) | Exact twin, per/por cognates. Trap-free — treat like the confidence-builder set. |
+| 7 | Bene o male | bien o mal | ines.tutoring (IG, tier C) | POSSIBLE FALSE FRIEND, needs checking. Italian *bene o male* often means roughly, more or less, one way or another — not literally good-or-bad. If Spanish *bien o mal* stays literal, this is a Risk row, not a twin. Flagged, not drafted. |
+| 8 | Bianco e nero | blanco y negro | ines.tutoring (IG, tier C) | Both Romance languages put WHITE first; English inverts to black-and-white. No ES/IT trap, but a nice three-language aside if the format ever wants one. |
+| 9 | Avanti e indietro | de aquí para allá / adelante y atrás | ines.tutoring (IG, tier C) | Italian is forward-and-back; the common Spanish is a place-based *de aquí para allá*, here-to-there. Different axis — motion vs location. Needs research. |
+| 10 | Su e giù / qua e là / dentro e fuori / questo e quello / tutto o niente / ora o mai più | arriba y abajo / aquí y allá / dentro y fuera / esto y aquello / todo o nada / ahora o nunca | ines.tutoring (IG, tier C) | Six near-twins grouped because none has a trap worth an entry on its own. Only one detail stands out: Italian *ora o mai più* adds the *più* — now or never MORE — where Spanish stops at *ahora o nunca*. If any single row here is drafted, that is the one. |

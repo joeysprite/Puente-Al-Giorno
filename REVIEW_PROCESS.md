@@ -134,3 +134,34 @@ Stage 3 actually happening.
 Run `node tools/build-bank.mjs` any time and read the ⚑ section at the top
 of `BANK.md`. That count should trend toward zero as real review happens. If
 it's rising, entries are being promoted faster than they're being reviewed.
+
+---
+
+## Shipping-field hygiene
+
+`bridge.note`, `bridge.interference.*`, `cue`, and both sides' `meaning`, `example` and
+`exampleTranslation` are **learner-facing**. They appear on cards, in emails and on the
+site. They must never contain:
+
+- **Bank entry ids.** A subscriber has no idea what 0017 is. Cross-references are welcome
+  and often valuable — name the expression instead ("compare *estar en las nubes*"), never
+  the number. Audited 2026-08-01: 19 entries were leaking ids into bridge or interference
+  copy, some dating from the original authoring pass and five introduced the same day.
+  Re-run the check before any push:
+
+  ```
+  node -e "const fs=require('fs');const re=/\b0[0-9]{3}\b/;
+  for(const f of fs.readdirSync('bank').filter(x=>x.endsWith('.json'))){
+    const e=JSON.parse(fs.readFileSync('bank/'+f));
+    for(const v of [e.bridge.note,e.bridge.interference.es_to_it,e.bridge.interference.it_to_es,e.cue])
+      if(v&&re.test(v)) console.log(e.id);}"
+  ```
+
+- Reviewer names or ids, "PROPOSED", "reviewer to confirm", "TBC", or any other instruction
+  aimed at the team rather than the reader.
+- Process vocabulary — "banked", "queued", "this entry", "the bank" — which describes the
+  product's machinery rather than the language.
+
+Everything internal belongs in `review.notes`, which never ships. When a cross-reference is
+genuinely for the scheduler rather than the reader (keep these two apart, run them as a
+pair), it goes in `review.notes` and may use ids freely.

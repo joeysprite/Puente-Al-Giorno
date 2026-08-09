@@ -1,6 +1,6 @@
 # Expression registry — master list
 
-**Generated** 2026-08-06 by `tools/build-registry.mjs`. Do not hand-edit.
+**Generated** 2026-08-09 by `tools/build-registry.mjs`. Do not hand-edit.
 
 One row per **expression**, not per pairing. CANDIDATES.md answers "what pairings are
 we considering"; this answers "what expressions do we know about, and what has each one
@@ -12,15 +12,15 @@ been matched to". Two things only this view makes visible:
 
 | Status | Count |
 |---|---|
-| banked | 428 |
-| candidate | 328 |
+| banked | 436 |
+| candidate | 347 |
 | rejected | 20 |
 | no-partner-found | 14 |
-| **total expressions** | **790** |
+| **total expressions** | **817** |
 
 ---
 
-## Mapped to more than one partner (20)
+## Mapped to more than one partner (21)
 
 Not errors. Each needs a decision: pick one, or bank both once the multiple-pairings
 policy is switched on.
@@ -45,6 +45,7 @@ policy is switched on.
 | Piantare in asso | it | Dejar a uno en la estacada (0099) · dejar plantado |
 | Prendere una boccata d'aria | it | Tomar una bocanada de aire (0264) · tomar una bocanada de aire (fresco) |
 | Quieras o no | es | Volente o nolente (0246) · ✅ **DRAFTED 0246** — Volente o nolente |
+| Scoprire l'acqua calda | it | Descubrir el agua tibia (0305) · Descubrir / inventar el hilo negro |
 | Ser un pedazo de pan | es | Essere un pezzo di pane (0275) · Buono come il pane |
 | Vuotare il sacco | it | Cantar de plano (0108) · Vaciar el costal |
 
@@ -72,7 +73,7 @@ unless there is a new reason to.
 
 ---
 
-## Full registry (790)
+## Full registry (817)
 
 | Expression | Lang | Status | Partner(s) | Source |
 |---|---|---|---|---|
@@ -211,12 +212,14 @@ unless there is a new reason to.
 | De ahora en adelante | es | banked | d'ora in poi (0219) | bank/0219 |
 | De algún modo | es | banked | in qualche modo (0212) | bank/0212 |
 | De buenas a primeras | es | banked | Su due piedi (0076) | bank/0076 |
+| De la mano | es | banked | Mano nella mano (0306) | bank/0306 |
 | De memoria | es | banked | a memoria (0234) | bank/0234 |
 | De nuevo | es | banked | di nuovo (0239) | bank/0239 |
 | De prisa | es | banked | in fretta (0228) | bank/0228 |
 | De seguro | es | banked | di sicuro (0222) | bank/0222 |
 | Dejar a uno en la estacada | es | banked | Piantare in asso (0099) | bank/0099 |
 | Del dicho al hecho hay mucho trecho | es | banked | Tra il dire e il fare c'è di mezzo il mare (0301) | bank/0301 |
+| Descubrir el agua tibia | es | banked | Scoprire l'acqua calda (0305) | bank/0305 |
 | Despacito | es | banked | Piano piano (0046) | bank/0046 |
 | di conseguenza | it | banked | En consecuencia (0206) | bank/0206 |
 | di nascosto | it | banked | A escondidas (0220) | bank/0220 |
@@ -336,6 +339,7 @@ unless there is a new reason to.
 | Mancare un venerdì | it | banked | Faltarle a uno un tornillo (0111) | bank/0111 |
 | Mandar al quinto pino | es | banked | Mandare a quel paese (0105) | bank/0105 |
 | Mandare a quel paese | it | banked | Mandar al quinto pino (0105) | bank/0105 |
+| Mano nella mano | it | banked | De la mano (0306) | bank/0306 |
 | Más largo que un día sin pan | es | banked | Lungo come la quaresima (0289) | bank/0289 |
 | Más vale pájaro en mano que cien volando | es | banked | Meglio un uovo oggi che una gallina domani (0052) | bank/0052 |
 | Matar dos pájaros de un tiro | es | banked | Prendere due piccioni con una fava (0005) | bank/0005 |
@@ -392,6 +396,8 @@ unless there is a new reason to.
 | Para nada | es | banked | per niente (0217) | bank/0217 |
 | Para variar | es | banked | Tanto per cambiare (0297) | bank/0297 |
 | Parecerse como dos gotas de agua | es | banked | Somigliarsi come due gocce d'acqua (0101) | bank/0101 |
+| Paso a paso | es | banked | Passo dopo passo (0307) | bank/0307 |
+| Passo dopo passo | it | banked | Paso a paso (0307) | bank/0307 |
 | per caso | it | banked | Por casualidad (0229) | bank/0229 |
 | per conto mio | it | banked | Por mi cuenta (0215) | bank/0215 |
 | per fortuna | it | banked | Por suerte (0230) | bank/0230 |
@@ -423,6 +429,7 @@ unless there is a new reason to.
 | Prendere due piccioni con una fava | it | banked | Matar dos pájaros de un tiro (0005) | bank/0005 |
 | Prendere in giro | it | banked | Tomar el pelo (0006) | bank/0006 |
 | Prendere una boccata d'aria | it | banked | Tomar una bocanada de aire (0264) · tomar una bocanada de aire (fresco) | bank/0264, IT reviewer (own material) |
+| Prima o poi | it | banked | Tarde o temprano (0308) | bank/0308 |
 | Puede ser | es | banked | Può darsi (0259) | bank/0259, Italian Matters list |
 | Può darsi | it | banked | Puede ser (0259) | bank/0259, Italian Matters list |
 | Quando gli asini voleranno | it | banked | Cuando las ranas críen pelo (0083) | bank/0083 |
@@ -444,6 +451,7 @@ unless there is a new reason to.
 | Sacar las castañas del fuego | es | banked | Togliere le castagne dal fuoco (0262) | bank/0262, ES idioms book |
 | Saltare la mosca al naso | it | banked | Hinchársele las narices a alguien (0085) | bank/0085 |
 | Saperla lunga | it | banked | Saber latín (0097) | bank/0097 |
+| Scoprire l'acqua calda | it | banked | Descubrir el agua tibia (0305) · Descubrir / inventar el hilo negro | bank/0305, Claude research |
 | Sea como sea | es | banked | Sia come sia (0253) | bank/0253, ES reviewer (3rd-party PDF) |
 | Sentire volare una mosca | it | banked | No oír ni el vuelo de una mosca (0261) | bank/0261 |
 | Ser cuatro gatos | es | banked | Essere quattro gatti (0078) | bank/0078 |
@@ -464,6 +472,7 @@ unless there is a new reason to.
 | Sul serio | it | banked | ¿En serio? (0260) | bank/0260, Italian Matters list |
 | Tagliare i panni addosso a qualcuno | it | banked | Cortarle un traje a uno (0094) | bank/0094 |
 | Tanto per cambiare | it | banked | Para variar (0297) | bank/0297 |
+| Tarde o temprano | es | banked | Prima o poi (0308) | bank/0308 |
 | Te quiero | es | banked | Ti voglio bene (0077) | bank/0077 |
 | Tener buen diente | es | banked | Essere una buona forchetta (0075) | bank/0075 |
 | Tener dos dedos de frente | es | banked | Avere sale in zucca (0050) | bank/0050 |
@@ -532,8 +541,10 @@ unless there is a new reason to.
 | andare a letto con le galline | it | candidate | Acostarse con las gallinas | ES idioms book |
 | Andare tutto liscio | it | candidate | ir sobre ruedas / salir a pedir de boca | IT reviewer (own material) |
 | Aquello fue llegar y besar el santo | es | candidate | è stato un gioco da ragazzi | ES idioms book |
+| arriba y abajo / aquí y allá / dentro y fuera / esto y aquello / todo o nada / ahora o nunca | es | candidate | Su e giù / qua e là / dentro e fuori / questo e quello / tutto o niente / ora o mai più | ines.tutoring (IG, tier C) |
 | Attaccare il cappello | it | candidate | colgar los guantes/hábitos | FluentU 40 |
 | Aunque sea *(meaning "at least")* | ? | candidate | Almeno | ES reviewer (3rd-party PDF) |
+| Avanti e indietro | ? | candidate | de aquí para allá / adelante y atrás | ines.tutoring (IG, tier C) |
 | Avere fegato | it | candidate | tener agallas | europassitalian.com |
 | Avere il cuore in gola | it | candidate | con el corazón en la boca | storylearning.com |
 | Avere il morale a terra | it | candidate | tener la moral por los suelos | IT reviewer (own material) |
@@ -548,6 +559,10 @@ unless there is a new reason to.
 | avere una rotella fuori posto | ? | candidate | Tener un tornillo flojo | ES idioms book |
 | Bailar en la cuerda floja | es | candidate | camminare sul filo del rasoio | ES idioms book |
 | bajarse los pantalones | ? | candidate | Calare le brache | FluentU 40 |
+| Bene o male | ? | candidate | bien o mal | ines.tutoring (IG, tier C) |
+| Bianco e nero | ? | candidate | blanco y negro | ines.tutoring (IG, tier C) |
+| bien o mal | ? | candidate | Bene o male | ines.tutoring (IG, tier C) |
+| blanco y negro | ? | candidate | Bianco e nero | ines.tutoring (IG, tier C) |
 | brutto come la fame / il peccato | it | candidate | Más feo que el pecado | ES idioms book |
 | bueno / pues nada | es | candidate | Vabbè | Italian Matters list |
 | Buio pesto | ? | candidate | oscuro como boca de lobo | storylearning.com |
@@ -562,6 +577,7 @@ unless there is a new reason to.
 | Calare le brache | ? | candidate | bajarse los pantalones | FluentU 40 |
 | camminare sul filo del rasoio | it | candidate | Bailar en la cuerda floja | ES idioms book |
 | Capitare a fagiolo | ? | candidate | venir como anillo al dedo | europassitalian.com |
+| cara a cara | es | candidate | Faccia a faccia | ines.tutoring (IG, tier C) |
 | cerebro de chorlito / memoria de pollo? | ? | candidate | Cervello di gallina | FluentU 40 |
 | Cervello di gallina | ? | candidate | cerebro de chorlito / memoria de pollo? | FluentU 40 |
 | Che palle | it | candidate | qué hueva (MX) / qué palo (ES) | FluentU 40 |
@@ -569,10 +585,10 @@ unless there is a new reason to.
 | chi più spende meno spende | es | candidate | Lo barato sale caro | ES proverb list (Joe) |
 | chi troppo vuole nulla stringe | it | candidate | El que mucho abarca poco aprieta | ES proverb list (Joe) |
 | Chi trova un amico, trova un tesoro | ? | candidate | quien encuentra un amigo, encuentra un tesoro | IT proverb list (Joe) |
-| Chi va piano, va sano e lontano | ? | candidate | Gennaio | (ES side unresolved) |
 | chuparse los dedos | ? | candidate | Leccarsi i baffi | storylearning.com |
 | Ci penso io | ? | candidate | yo me encargo | Italian Matters list |
 | Ci sta | ? | candidate | va / queda bien | Italian Matters list |
+| codo con codo / hombro con hombro | ? | candidate | Fianco a fianco | ines.tutoring (IG, tier C) |
 | colgar los guantes/hábitos | es | candidate | Attaccare il cappello | FluentU 40 |
 | comandare / essere il capo | it | candidate | Cortar el bacalao | ES idioms book |
 | Comunque | ? | candidate | de todos modos / igual (AR) | Italian Matters list |
@@ -586,6 +602,7 @@ unless there is a new reason to.
 | Cortar los lazos | es | candidate | tagliare i ponti | ES idioms book |
 | Costi quel che costi | ? | candidate | Cueste lo que cueste | ES reviewer (3rd-party PDF) |
 | Cueste lo que cueste | ? | candidate | Costi quel che costi | ES reviewer (3rd-party PDF) |
+| Cuore a cuore | ? | candidate | de corazón a corazón | ines.tutoring (IG, tier C) |
 | Dai tempo al tempo | ? | candidate | dar tiempo al tiempo | storylearning.com |
 | Dar en un hueso | ? | candidate | trovare un osso duro | ES idioms book |
 | dar gato por liebre | es | candidate | Prendere lucciole per lanterne | storylearning.com |
@@ -594,14 +611,18 @@ unless there is a new reason to.
 | dare buca a qualcuno | ? | candidate | Darle perro a uno | ES idioms book |
 | Darle a uno una buena lejía | es | candidate | fare una lavata di capo | ES idioms book |
 | Darle perro a uno | ? | candidate | dare buca a qualcuno | ES idioms book |
+| de aquí para allá / adelante y atrás | ? | candidate | Avanti e indietro | ines.tutoring (IG, tier C) |
+| de corazón a corazón | ? | candidate | Cuore a cuore | ines.tutoring (IG, tier C) |
 | de hecho / efectivamente | ? | candidate | Infatti | Italian Matters list |
 | De Pascuas a Ramos | ? | candidate | ogni morte di papa | Claude research |
 | de tal palo, tal astilla | ? | candidate | Tale madre tale figlia | FluentU 40 |
 | de todos modos / igual (AR) | ? | candidate | Comunque | Italian Matters list |
 | Decirle a alguien cuatro verdades | ? | candidate | dirne quattro a qualcuno | ES idioms book |
 | dejar plantado | ? | candidate | Piantare in asso | europassitalian.com |
+| Descubrir / inventar el hilo negro | es | candidate | scoprire l'acqua calda | Claude research |
 | Descubrir el polvorín | es | candidate | scoprire gli altarini | ES idioms book |
 | Destornillarse de risa | ? | candidate | sbellicarsi dalle risa | ES idioms book |
+| día a día | ? | candidate | Giorno dopo giorno | ines.tutoring (IG, tier C) |
 | Dicano quel che dicano / dicano ciò che dicano | ? | candidate | Digan lo que digan | ES reviewer (3rd-party PDF) |
 | Digan lo que digan | ? | candidate | Dicano quel che dicano / dicano ciò che dicano | ES reviewer (3rd-party PDF) |
 | Dime con quién andas y te diré quién eres | es | candidate | dimmi con chi vai e ti dirò chi sei | ES proverb list (Joe) |
@@ -648,6 +669,7 @@ unless there is a new reason to.
 | estar muerto de cansancio | es | candidate | Essere stanco morto | italianario (IG, tier C) |
 | estar negro | es | candidate | Essere nero | IT reviewer (own material) |
 | estar/ponerse verde de envidia | ? | candidate | Essere verde d'invidia | IT reviewer (own material) |
+| Faccia a faccia | it | candidate | cara a cara | ines.tutoring (IG, tier C) |
 | Far venire il latte alle ginocchia | it | candidate | MX sacar de quicio / dar lata | IT proverb list (Joe) |
 | Fare a polpette | it | candidate | hacer picadillo | storylearning.com |
 | fare da solo / non spartire | it | candidate | No partir peras con nadie | ES idioms book |
@@ -660,10 +682,11 @@ unless there is a new reason to.
 | fare una lavata di capo | it | candidate | Darle a uno una buena lejía | ES idioms book |
 | Farfalle nello stomaco | ? | candidate | mariposas en el estómago | storylearning.com |
 | Farsene un baffo | ? | candidate | me importa un pepino/bledo | FluentU 40 |
+| Fianco a fianco | ? | candidate | codo con codo / hombro con hombro | ines.tutoring (IG, tier C) |
 | Finché c'è vita, c'è speranza | it | candidate | mientras hay vida, hay esperanza | IT proverb list (Joe) |
 | Flor de Pascua | ? | candidate | stella di Natale | Claude research |
 | Fumarse una clase | ? | candidate | marinare la scuola / bigiare | ES idioms book |
-| Gennaio | ? | candidate | Chi va piano, va sano e lontano | (ES side unresolved) |
+| Giorno dopo giorno | ? | candidate | día a día | ines.tutoring (IG, tier C) |
 | Haberle visto las orejas al lobo | es | candidate | scamparla bella | ES idioms book |
 | Hacer la pascua a alguien | es | candidate | rompere le scatole a qualcuno | Claude research |
 | hacer las cuentas de la lechera | es | candidate | Fare i conti senza l'oste | europassitalian.com |
@@ -694,6 +717,7 @@ unless there is a new reason to.
 | Llevarse el gato al agua | es | candidate | spuntarla / avere la meglio | ES idioms book |
 | Lo barato sale caro | it | candidate | chi più spende meno spende | ES proverb list (Joe) |
 | Ma dai | ? | candidate | ¡no manches! (MX) / ¡anda ya! | Italian Matters list |
+| mano a mano / cabeza a cabeza | ? | candidate | Testa a testa | ines.tutoring (IG, tier C) |
 | marinare la scuola / bigiare | ? | candidate | Fumarse una clase | ES idioms book |
 | mariposas en el estómago | ? | candidate | Farfalle nello stomaco | storylearning.com |
 | Más feo que el pecado | es | candidate | brutto come la fame / il peccato | ES idioms book |
@@ -793,6 +817,7 @@ unless there is a new reason to.
 | Stare sullo stomaco | ? | candidate | caerle gordo a alguien (MX) | storylearning.com |
 | stella di Natale | ? | candidate | Flor de Pascua | Claude research |
 | studiare sodo / bruciarsi le ciglia? | it | candidate | Quemarse las pestañas | ES idioms book |
+| Su e giù / qua e là / dentro e fuori / questo e quello / tutto o niente / ora o mai più | it | candidate | arriba y abajo / aquí y allá / dentro y fuera / esto y aquello / todo o nada / ahora o nunca | ines.tutoring (IG, tier C) |
 | sudar la gota gorda | ? | candidate | Sudare sette camicie | europassitalian.com |
 | Sudare sette camicie | ? | candidate | sudar la gota gorda | europassitalian.com |
 | tagliare i ponti | it | candidate | Cortar los lazos | ES idioms book |
@@ -809,6 +834,7 @@ unless there is a new reason to.
 | tener un hambre canina / de lobo | ? | candidate | Avere una fame da lupi | ines.tutoring (IG, tier C) |
 | Tener un tornillo flojo | ? | candidate | avere una rotella fuori posto | ES idioms book |
 | tener una venda en los ojos | es | candidate | Avere le fette di salame sugli occhi | Instagram set (Joe) |
+| Testa a testa | ? | candidate | mano a mano / cabeza a cabeza | ines.tutoring (IG, tier C) |
 | Ti sta a pennello | ? | candidate | te queda pintado / como anillo al dedo | FluentU 40 |
 | tienes razón | ? | candidate | Hai ragione | Italian Matters list |
 | Todos los santos tienen novena | es | candidate | verrà anche il tuo momento | ES idioms book |
@@ -818,6 +844,8 @@ unless there is a new reason to.
 | trovare un osso duro | ? | candidate | Dar en un hueso | ES idioms book |
 | un pez gordo | ? | candidate | Un pezzo grosso | FluentU 40 |
 | Un pezzo grosso | ? | candidate | un pez gordo | FluentU 40 |
+| Uno per uno | ? | candidate | uno por uno | ines.tutoring (IG, tier C) |
+| uno por uno | ? | candidate | Uno per uno | ines.tutoring (IG, tier C) |
 | va / queda bien | ? | candidate | Ci sta | Italian Matters list |
 | Vabbè | it | candidate | bueno / pues nada | Italian Matters list |
 | Vaciar el costal | es | candidate | vuotare il sacco | ES idioms book |

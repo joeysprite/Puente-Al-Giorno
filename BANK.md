@@ -1,6 +1,6 @@
 # Un puente al giorno — Bank
 
-**Last updated:** 2026-08-06 | **Total entries:** 216 | **Approved:** 129
+**Last updated:** 2026-08-09 | **Total entries:** 220 | **Approved:** 129
 
 _Regenerate with `node tools/build-bank.mjs` any time the bank changes. This file is generated — edit bank/*.json, not this._
 
@@ -11,7 +11,7 @@ _Regenerate with `node tools/build-bank.mjs` any time the bank changes. This fil
 | Status | Count |
 |--------|-------|
 | approved | 129 |
-| needs_review | 67 |
+| needs_review | 71 |
 | draft | 20 |
 
 ---
@@ -292,6 +292,10 @@ These are marked `approved` but their own `review.notes` field still contains la
 | 0302 | La cabra siempre tira al monte | Il lupo perde il pelo ma non il vizio | proverb | B2 | 3 | needs_review | character, animals, change |
 | 0303 | Quien siembra vientos recoge tempestades | Chi semina vento raccoglie tempesta | proverb | B2 | 3 | needs_review | consequences, weather, farming |
 | 0304 | Querer es poder | Volere è potere | proverb | A2 | 1 | needs_review | determination, willpower |
+| 0305 | Descubrir el agua tibia | Scoprire l'acqua calda | idiom | B2 | 3 | needs_review | obviousness, water, mockery |
+| 0306 | De la mano | Mano nella mano | collocation | B1 | 2 | needs_review | affection, body, contest |
+| 0307 | Paso a paso | Passo dopo passo | collocation | A2 | 2 | needs_review | process, gradual, time |
+| 0308 | Tarde o temprano | Prima o poi | marker | B1 | 2 | needs_review | time, inevitability, discourse |
 
 ---
 
