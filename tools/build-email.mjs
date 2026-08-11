@@ -64,12 +64,17 @@ const label = (text, colour) =>
   `<span style="font-family:${MONO};font-size:13px;letter-spacing:2px;text-transform:uppercase;color:${colour};">${esc(text)}</span>`;
 
 const side = (s, colour, langLabel) => `
-  <p style="margin:0 0 10px;">${label(langLabel, colour)}</p>
-  <p style="margin:0 0 8px;font-family:${SERIF};font-size:24px;line-height:1.3;color:${colour};">${esc(s.text)}</p>
-  <p style="margin:0 0 14px;font-family:${SERIF};font-style:italic;font-size:16px;line-height:1.45;color:${C.ink3};">&ldquo;${esc(s.literal)}&rdquo;</p>
-  <p style="margin:0 0 14px;font-family:${SANS};font-size:16px;line-height:1.55;color:${C.ink2};">${esc(s.meaning)}</p>
-  <p style="margin:0 0 4px;font-family:${SERIF};font-size:16px;line-height:1.55;color:${C.ink};">${esc(s.example)}</p>
-  <p style="margin:0;font-family:${SANS};font-size:15px;line-height:1.55;color:${C.ink3};">${esc(s.exampleTranslation)}</p>`;
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+    <td width="4" style="background:${colour};"></td>
+    <td style="padding:4px 0 4px 16px;">
+      <p style="margin:0 0 10px;">${label(langLabel, colour)}</p>
+      <p style="margin:0 0 8px;font-family:${SERIF};font-size:26px;line-height:1.3;color:${colour};">${esc(s.text)}</p>
+      <p style="margin:0 0 14px;font-family:${SERIF};font-style:italic;font-size:17px;line-height:1.45;color:${C.ink3};">&ldquo;${esc(s.literal)}&rdquo;</p>
+      <p style="margin:0 0 14px;font-family:${SANS};font-size:16px;line-height:1.55;color:${C.ink2};">${esc(s.meaning)}</p>
+      <p style="margin:0 0 4px;font-family:${SERIF};font-size:16px;line-height:1.55;color:${C.ink};">${esc(s.example)}</p>
+      <p style="margin:0;font-family:${SANS};font-size:15px;line-height:1.55;color:${C.ink3};">${esc(s.exampleTranslation)}</p>
+    </td>
+  </tr></table>`;
 
 const trap = (dir, text, colour) => `
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
@@ -97,15 +102,18 @@ function body(e) {
     <span style="font-family:${SANS};font-size:13px;color:${C.ink3};">${esc(e.cefr)}</span>
   </td></tr>
 
-  <!-- the seam: two columns, hairline between. A table border, not a CSS one,
-       so Outlook keeps it. -->
-  <tr><td style="background:${C.card};border:1px solid ${C.rule};padding:0;">
-    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
-      <td width="50%" valign="top" style="padding:26px 22px;border-right:1px solid ${C.rule};">${side(e.es, C.es, "Espa\u00f1ol")}
-      </td>
-      <td width="50%" valign="top" style="padding:26px 22px;">${side(e.it, C.it, "Italiano")}
-      </td>
-    </tr></table>
+  <!-- Stacked, not side-by-side: 50%-width table cells collapse to unusably
+       narrow columns on some Android mail clients (Gmail's app renders them
+       against the device width, not the 600px container), which wraps every
+       word onto its own line at this font size. The card above already shows
+       the two languages side by side and is immune to this, since it's a
+       fixed-width image, not reflowable text. -->
+  <tr><td style="background:${C.card};border:1px solid ${C.rule};padding:26px 22px;">
+    ${side(e.es, C.es, "Espa\u00f1ol")}
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+      <tr><td style="padding:22px 0;"><hr style="border:0;border-top:1px solid ${C.rule};margin:0;"></td></tr>
+    </table>
+    ${side(e.it, C.it, "Italiano")}
   </td></tr>
 
   <tr><td style="padding:30px 0 0;">
