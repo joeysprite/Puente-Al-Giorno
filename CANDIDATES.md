@@ -526,3 +526,143 @@ it needs the Italian reviewer.
 | 8 | Bianco e nero | blanco y negro | ines.tutoring (IG, tier C) | Both Romance languages put WHITE first; English inverts to black-and-white. No ES/IT trap, but a nice three-language aside if the format ever wants one. |
 | 9 | Avanti e indietro | de aquí para allá / adelante y atrás | ines.tutoring (IG, tier C) | Italian is forward-and-back; the common Spanish is a place-based *de aquí para allá*, here-to-there. Different axis — motion vs location. Needs research. |
 | 10 | Su e giù / qua e là / dentro e fuori / questo e quello / tutto o niente / ora o mai più | arriba y abajo / aquí y allá / dentro y fuera / esto y aquello / todo o nada / ahora o nunca | ines.tutoring (IG, tier C) | Six near-twins grouped because none has a trap worth an entry on its own. Only one detail stands out: Italian *ora o mai più* adds the *più* — now or never MORE — where Spanish stops at *ahora o nunca*. If any single row here is drafted, that is the one. |
+
+---
+
+## *Italian Idioms: Top 100* — Maria Consonni (book, 2026-08-09)
+
+**Source type: published book, tier B.** Photographed pages covering entries 1–40.
+
+**COPYRIGHT HANDLING — read before using this section.** The expressions themselves are folk
+material and not the author's property, so listing them is fine. Her per-idiom essays are her
+own prose and must not be reproduced, paraphrased closely, or mined for bridge notes or
+examples. Every origin story below that we might want to use has to be independently sourced
+before it goes anywhere near an entry — several of her etymologies (the Ernesto Nathan story
+for *trippa per gatti*, the Turin chocolatier for *figura del cioccolataio*, the Florentine
+comedian for *fare fiasco*) are the kind of colourful account that circulates widely and may
+or may not survive checking. Treat this as a DISCOVERY LIST ONLY. The standing no-copied-
+examples rule applies with extra force here.
+
+Of the ~34 legible expressions: **7 already banked** (*ogni morte di papa* 0041, *cercare il
+pelo nell'uovo* 0022, *avere la luna storta* 0093, *piantare in asso* 0099, *essere come il
+prezzemolo* 0091, *fette di salame sugli occhi* 0096 — note the book has *prosciutto* where
+the bank has *salame*, worth a reviewer check on which is standard, and *pezzo di pane* 0275).
+**4 already queued** (*occhio non vede cuore non duole* L210, *morto un papa se ne fa un
+altro* L281, *capitare a fagiolo* L304, *cervello di gallina* L288). The rest are new.
+
+| # | Italian | Spanish / sketch | Source | Note |
+|---|---|---|---|---|
+| 1 | Nella botte piccola c'è il vino buono | (ES side unresearched) | Consonni book (tier B) | Good things come in small packages — used self-deprecatingly about height. ES may have *en frasco pequeño está la buena esencia* / *el buen perfume se vende en frasco pequeño*. VERIFY INDEPENDENTLY. |
+| 2 | Non c'è trippa per gatti | (ES side unresearched) | Consonni book (tier B) | Nothing doing; no resources to spare. Distinctively Roman. No obvious ES twin — likely divergent or unmatched. |
+| 3 | Gallina vecchia fa buon brodo | (ES side unresearched) | Consonni book (tier B) | ES has a near-identical *gallina vieja hace buen caldo*. Probable freebie; check for the same age/experience framing and whether either side carries a sexist edge in current use before drafting. |
+| 4 | Fare la figura del cioccolataio | quedar a la altura de su zapatilla? | Consonni book (tier B) | Cuts across the existing *figuraccia* cluster (banked 0010, queued L186). Do NOT draft standalone — resolve the whole figura family first. |
+| 5 | Attaccati al tram! | ¡ajo y agua! / ¡arréglatelas! | Consonni book (tier B) | Dismissive refusal of help. Register is rude-ish both sides — confirm before shipping. |
+| 6 | Gridare ai quattro venti | pregonar a los cuatro vientos | Consonni book (tier B) | Likely near-twin, both with four winds. Check the verb: IT *gridare* (shout) vs ES *pregonar* (proclaim). |
+| 7 | Salvarsi in calcio d'angolo | (ES side unresearched) | Consonni book (tier B) | Football metaphor for a last-second escape. ES football idioms exist but may not use the corner kick — potential divergent-imagery entry. |
+| 8 | Spezzare una lancia a favore di qualcuno | romper una lanza por alguien | Consonni book (tier B) | ES has the same chivalric image. Probable near-twin; the preposition differs (*a favore di* vs *por*). |
+| 9 | Un pollo da spennare | (ES side unresearched) | Consonni book (tier B) | Someone easy to fleece. NOTE the book flags that IT *pollo* = naive/foolish where EN *chicken* = cowardly — that contrast is worth checking against Spanish, where *gallina* IS the coward. Possible three-way false friend, but VERIFY INDEPENDENTLY. |
+| 10 | Avere le orecchie che fischiano | (ES side unresearched) | Consonni book (tier B) | Ears ringing = being talked about. ES *me zumban los oídos* / *se me calientan las orejas* — check which carries the being-talked-about sense. |
+| 11 | Avere la coda di paglia | (ES side unresearched) | Consonni book (tier B) | Guilty conscience making you defensive. ES *tener rabo de paja* exists in some varieties — verify currency and region. |
+| 12 | Specchietto per le allodole | (ES side unresearched) | Consonni book (tier B) | A decoy, a lure. ES *canto de sirena* is the nearest but changes the myth entirely. |
+| 13 | Non si può avere la botte piena e la moglie ubriaca | no se puede estar en misa y repicando | Consonni book (tier B) | ⚑ EDITORIAL FLAG: the IT names a drunk wife, and the book itself notes it is now often considered sexist. The ES equivalent (*misa y repicando*, or *no se puede nadar y guardar la ropa*) carries no such content. If drafted, use a ES side that does not import the problem, and expect a register/appropriateness question at review. Compare the standing flag on *quedarse para vestir santos*. |
+| 14 | Se non è zuppa è pan bagnato | (ES side unresearched) | Consonni book (tier B) | Six of one, half a dozen of the other. ES *olivo y aceituno, todo es uno* or *lo mismo da*. |
+| 15 | Dare via qualcosa per un piatto di lenticchie | vender por un plato de lentejas | Consonni book (tier B) | Shared biblical origin (Esau). Probable near-twin — the kind of shared-ancestor entry 0274 already models. |
+| 16 | Trovare pane per i tuoi denti | (ES side unresearched) | Consonni book (tier B) | To meet your match. ES *encontrar la horma de su zapato* — shoe vs bread, genuine divergent imagery. Promising. |
+| 17 | Essere un pappa molle | (ES side unresearched) | Consonni book (tier B) | A spineless person. ES *ser un blandengue* / *un pusilánime*. |
+| 18 | Fare le nozze con i fichi secchi | (ES side unresearched) | Consonni book (tier B) | To attempt something on nothing. ES *hacer una fiesta con pan y agua*? Needs research. |
+| 19 | Sotto la pioggia fame, sotto la neve pane | (ES side unresearched) | Consonni book (tier B) | Farmers' weather proverb. ES *año de nieves, año de bienes* is the closest — both weather-as-harvest, different precipitation. Good candidate. |
+| 20 | Meglio mangiare pane e cipolla a casa tua che maccheroni a casa di altri | (ES side unresearched) | Consonni book (tier B) | ES *más vale pan con amor que gallina con dolor*, or *casa mía, por pobre que sea*. |
+| 21 | Far polpette di qualcuno | hacer picadillo a alguien | Consonni book (tier B) | Both grind an opponent into mince. Probable near-twin — check whether ES *picadillo* and IT *polpette* differ in what the meat becomes (mince vs meatballs). |
+| 22 | Tirare il pacco | dar plantón | Consonni book (tier B) | To stand someone up. ES *dar plantón* is well established; IT is more slang. Register check needed. |
+| 23 | A pisielle pavammo | — | Consonni book (tier B) | NEAPOLITAN DIALECT, not standard Italian. Out of scope unless the bank takes dialect — same question as *va a ciapà i ratt* below. |
+| 24 | Va a ciapà i ratt! | — | Consonni book (tier B) | MILANESE DIALECT. Same scope question. Both dialect entries are interesting but would need a policy decision first: the bank's IT side has so far been standard Italian throughout. |
+
+### Consonni book, entries 41–59 (second batch, 2026-08-09)
+
+Same tier-B source and **the same copyright handling applies** — expressions only, her prose
+and etymologies not to be reproduced or mined. Of 18 legible: **2 already banked** (*tirare
+l'acqua al proprio mulino* 0081, *l'abito non fa il monaco* drafted today as 0299), **2
+already queued** (*a buon intenditor poche parole* L109, *l'appetito vien mangiando* L114).
+14 new below.
+
+| # | Italian | Spanish / sketch | Source | Note |
+|---|---|---|---|---|
+| 25 | Uomo avvisato, mezzo salvato | hombre prevenido vale por dos | Consonni book (tier B) | **BEST OF THIS BATCH.** Both languages do arithmetic on a forewarned man and get different answers: Italian says he is HALF saved, Spanish says he is worth TWO. One measures what he keeps, the other what he becomes — a fraction against a multiple, on identical semantics. Verify both independently, then draft. |
+| 26 | Non dire gatto se non ce l'hai nel sacco | no vender la piel del oso antes de cazarlo | Consonni book (tier B) | Don't count your chickens. Italian holds a cat in a sack; Spanish sells a bear's skin. Both about premature celebration, completely different animal and transaction. Strong divergent imagery. NOTE the cat cluster — check saturation against banked 0078 and the queued cat rows. |
+| 27 | Le disgrazie non vengono mai sole | las desgracias nunca vienen solas | Consonni book (tier B) | Near-exact twin. Probable freebie; run the trap-hunt before drafting, since the last freebie audit found real traps in five of six rows that looked exactly this safe. Also check overlap with 0271 (*piove sul bagnato*), which covers adjacent ground. |
+| 28 | Il gioco non vale la candela | no vale la pena / el juego no vale la vela | Consonni book (tier B) | Spanish has BOTH a calque with the candle and a native form with *pena*. Which one a speaker reaches for is the entry — and the calque may be the trap, in the same shape as the *por lo que valga* finding on 0294. Worth research. |
+| 29 | Il diavolo fa le pentole ma non i coperchi | (ES side unresearched) | Consonni book (tier B) | Wrongdoing eventually shows. ES nearest is *la mentira tiene las patas cortas* (lies have short legs) — a completely different image for the same idea. Promising divergent pair if it holds. |
+| 30 | Chi ha il pane non ha i denti e chi ha i denti non ha il pane | (ES side unresearched) | Consonni book (tier B) | Those who have it can't enjoy it. Long, chiastic, memorable. Do NOT confuse with row 16 above (*trovare pane per i tuoi denti*) — same two nouns, unrelated meaning, and the lookup flagged them as near-collisions. |
+| 31 | Il buon marinaio si conosce al cattivo tempo | (ES side unresearched) | Consonni book (tier B) | Character shows under pressure. ES may use *en el peligro se conoce al amigo* or a sailing form — needs research. |
+| 32 | Rosso di sera, bel tempo si spera | cielo rojo al atardecer, buen tiempo va a haber | Consonni book (tier B) | Weather-lore rhyme; English has *red sky at night*. All three rhyme, which is the point — three languages independently building the same forecast into verse. Check the ES form, which I have only from memory. |
+| 33 | Far cuocere qualcuno nel suo brodo | dejar que se cueza en su propia salsa | Consonni book (tier B) | Let them stew. IT broth, ES sauce — small but real lexical divergence on an otherwise parallel image. |
+| 34 | Impara l'arte e mettila da parte | (ES side unresearched) | Consonni book (tier B) | Learn a skill, save it for later. Rhymes in Italian (arte/parte). ES equivalent unknown; if none rhymes, that asymmetry is the entry. |
+| 35 | Un padre campa cento figli e cento figli non campano un padre | (ES side unresearched) | Consonni book (tier B) | A father supports a hundred children; a hundred children can't support one father. Bleak, chiastic. ES may have a close parallel — research. |
+| 36 | A Santo vecchio non si accendono più candele | (ES side unresearched) | Consonni book (tier B) | Yesterday's powerful get forgotten. Joins the santo cluster already flagged in this file (currently 5 rows, all ES-side Catholic imagery — this is the first IT-side santo entry, which is worth noting for that thread). |
+| 37 | Chi aspetta, Dio l'assetta | (ES side unresearched) | Consonni book (tier B) | Patience is rewarded — and it DIRECTLY CONTRADICTS banked 0296 (*quien espera, desespera*, waiting makes it worse). Two proverbs, opposite advice, and 0296's Spanish half is the one Italian is arguing with. That is either a great entry or a scheduling hazard; do not run them near each other either way. |
+| 38 | Chi va piano va sano e va lontano | (ES side unresolved) | Consonni book (tier B) | DUPLICATE of the calendar-batch row above, now with more information: the book records the darker completion *chi va forte va alla morte*. That rhyming full form may make the ES pairing easier to find, since Spanish proverbs of this type also rhyme. Merge with the earlier row rather than logging twice. |
+
+### Consonni book, entries 60–79 (third batch, 2026-08-09)
+
+Same tier-B source, same copyright handling. **1 already banked** (*il mattino ha l'oro in
+bocca* 0056), **2 already queued** (*buon viso a cattivo gioco* L317, *Natale con i tuoi*
+L464 — already logged in the seasonal section as having no ES twin, and the book's account
+of it independently supports that).
+
+**⚑ THE BOOK PRINTS ONE OF THESE BACKWARDS.** Entry 61 appears as *"far buon **gioco** a
+cattivo **viso**"*, glossed as reacting well to a mean face. The established Italian proverb
+is *far buon **viso** a cattivo **gioco*** — put a good FACE on a bad GAME — which is what
+L317 already has, sourced separately. The book has swapped the two nouns and then written an
+explanation that fits the swap. **Do not take the book's form.** This is the clearest possible
+demonstration of why her prose can't be used as a source: a published, professionally set
+book has an error in the headword itself, and the surrounding explanation makes it look
+deliberate. Verify everything from this source independently.
+
+| # | Italian | Spanish / sketch | Source | Note |
+|---|---|---|---|---|
+| 39 | Del senno del poi son piene le fosse | a toro pasado, todos somos toreros | Consonni book (tier B) | **BEST OF THIS BATCH.** Hindsight is worthless. Italian buries it — the ditches are full of after-the-fact wisdom. Spanish stages it — once the bull has passed, we're all bullfighters. A grave against an arena, same contempt for the armchair expert. Also check *después de la guerra, todos generales*. Strong candidate. |
+| 40 | La sera leoni, la mattina conigli | (ES side unresearched) | Consonni book (tier B) | Lions at night, rabbits in the morning. Note IT *coniglio* = coward, which is a genuine three-way tangle worth checking: EN uses *chicken*, ES uses *gallina*, IT uses *coniglio* — three languages, three different frightened animals. That may be a better entry than the proverb itself. |
+| 41 | Non sputare nel piatto dove mangi | no escupas en el plato donde comes | Consonni book (tier B) | Probable near-twin. Run the trap-hunt — the freebie audit found real traps in five of six rows that looked this safe. |
+| 42 | La verità è nel vino | en el vino está la verdad | Consonni book (tier B) | Both from Latin *in vino veritas*, so shared-ancestor rather than parallel invention — the 0274 pattern. Check whether either language keeps the Latin more often than the vernacular. |
+| 43 | Una mezza bugia è una menzogna intera | (ES side unresearched) | Consonni book (tier B) | A half-lie is a whole lie. Note IT uses TWO different words for lie in one sentence (*bugia*, *menzogna*); Spanish has *mentira* and *embuste* but may not pair them this way. If Spanish can't make the same two-word move, that asymmetry is the entry. |
+| 44 | A lavar la testa all'asino si perde il ranno e il sapone | (ES side unresearched) | Consonni book (tier B) | Wasted effort on the unteachable. ES has a close relative in *lavar la cabeza al asno, perdimiento de jabón* — verify, since if it holds this is a near-twin with a shared donkey. |
+| 45 | Chi va a letto senza cena, tutta notte si dimena | (ES side unresearched) | Consonni book (tier B) | Rhymes (*cena*/*dimena*). ES *quien se acuesta sin cena, toda la noche pena* is almost certainly the twin AND ALSO RHYMES (*cena*/*pena*) — if confirmed, that is a rare case of two languages independently rhyming the same proverb, which is worth an entry on its own terms. |
+| 46 | A pagare e a morire si è sempre in tempo | (ES side unresearched) | Consonni book (tier B) | Never too late to pay or die. Bleakly funny. No obvious ES twin — research needed. |
+| 47 | L'Epifania tutte le feste porta via | (ES side unresearched) | Consonni book (tier B) | **SEASONAL — pins to 6 January.** Marks the end of the Christmas season, which is exactly the window 0291 (*buone feste*, 12-20 to 01-06) closes on. If the calendar product ships, this is the natural last page of that run. ES may have a Reyes equivalent; check. |
+| 48 | Chi pratica lo zoppo impara a zoppicare | dime con quién andas y te diré quién eres | Consonni book (tier B) | Bad company rubs off. ES's famous version is about telling who you are from your company — a different mechanism (diagnosis vs contagion) for the same worry. Good divergent pair if it holds. ⚑ REGISTER FLAG: the Italian's image is a disabled person and the book's own gloss leans on it. Handle carefully or skip. |
+| 49 | Si vive bene all'ombra del campanile | (ES side unresearched) | Consonni book (tier B) | Life is easy under powerful protection. Related to Italian *campanilismo* (parish-pump localism), a concept Spanish has no single word for — that gap may be the entry. |
+| 50 | Prima di parlare, taci | (ES side unresearched) | Consonni book (tier B) | Veneto. Think before speaking. ES *en boca cerrada no entran moscas* is the famous neighbour but says something different (silence protects you, not others). Check. |
+| 51 | Avere fortuna come un cane in chiesa | (ES side unresearched) | Consonni book (tier B) | Florentine, ironic — a dog in a church is unwelcome, so this means very UNlucky. The irony is the trap: a learner reads *fortuna* and gets it backwards. Promising. |
+| 52 | Rubando poco si va in galera, rubando tanto si fa carriera | (ES side unresearched) | Consonni book (tier B) | Venetian, rhyming (*galera*/*carriera*), cynical about scale of theft. Likely no clean ES twin; flag for the unmatched tier if research comes up empty. |
+| 53 | A Milano, anche i gelsi fanno l'uva / Fiorentini ciechi e Pisani traditori / Arno non cresce se Sieve non mesce | — | Consonni book (tier B) | THREE CITY-SPECIFIC ITEMS grouped: Milanese civic pride, a Florence–Pisa insult, and a Florentine river proverb. All depend on local geography or rivalry that a Mexican or Spanish learner has no access to, and the Pisa one is an ethnic slur between neighbouring cities. Recorded for completeness; recommend NOT drafting. |
+
+### Consonni book, entries 81–100 (final batch — book complete, 2026-08-09)
+
+Same tier-B source, same copyright handling. **1 already banked** — *cadere dalla padella
+alla brace* is 0106, where the bank has *nella brace* against the book's *alla brace*; both
+circulate, worth a reviewer note on which is standard. Everything else is new.
+
+**Book now fully logged (100/100 across four batches.)** Overall yield: roughly 20 already
+banked or queued, ~70 logged as candidates, a handful set aside as dialect or city-specific.
+The single most useful thing it produced was not an expression but the **error at entry 61**
+(*far buon gioco a cattivo viso*, printed with the nouns swapped) — concrete proof that a
+professionally published source still needs independent verification.
+
+| # | Italian | Spanish / sketch | Source | Note |
+|---|---|---|---|---|
+| 54 | Rimandare alle calende greche | remitir a las calendas griegas | Consonni book (tier B) | **STRONGEST OF THIS BATCH.** Both languages postpone something to a date that cannot exist — the Greeks had no calends, so the deadline is unreachable by construction. Shared Latin ancestry (attributed to Augustus), so a shared-ancestor entry in the 0274 mould, and the joke only lands if you know the Roman calendar, which makes the bridge do real work. |
+| 55 | Colosso coi piedi d'argilla | coloso con pies de barro | Consonni book (tier B) | Both from Daniel 2 — a shared biblical image. Check the material: IT *argilla* (clay) vs ES *barro* (clay/mud), which may be a genuine lexical split rather than free variation. |
+| 56 | Avere la pazienza di Giobbe | tener la paciencia de Job | Consonni book (tier B) | Shared biblical figure, near-exact. NOTE: L161 already queues a different patience proverb (*la pazienza è la virtù dei forti*) — check they don't crowd each other. |
+| 57 | Fare di tutta l'erba un fascio | meter todo en el mismo saco | Consonni book (tier B) | To lump everything together. Italian bundles GRASS, Spanish puts it in a SACK. Clean divergent imagery on identical meaning — good candidate. |
+| 58 | Diffondersi a macchia d'olio | extenderse como mancha de aceite | Consonni book (tier B) | Both spread like an oil stain — where English uses wildfire. A case where the two Romance languages agree and English is the outlier, which the bank has hit before (goose/hen, black-and-white). Probable near-twin; hunt for a trap. |
+| 59 | Alzare la cresta | subírsele los humos | Consonni book (tier B) | To get cocky. Italian raises a bird's crest; Spanish has smoke going to the head. Note *tener humos* is ALREADY logged as an alternate for 0255 (*puzza sotto il naso*) — resolve which Spanish expression anchors which Italian before drafting either. |
+| 60 | Tutti i nodi vengono al pettine | (ES side unresearched) | Consonni book (tier B) | Every knot reaches the comb — problems deferred still arrive. ES may use *todo se sabe* or *la verdad siempre sale a flote*; if neither has a physical image, the concreteness gap is the entry. |
+| 61 | Levarsi la sete col prosciutto | (ES side unresearched) | Consonni book (tier B) | To make a problem worse by the supposed cure — prosciutto is salty, so it deepens the thirst. Sharp, funny, and very Italian in its ingredient. ES equivalent unknown; possibly unmatched. |
+| 62 | Il figlio del gatto prende i topi | de tal palo, tal astilla | Consonni book (tier B) | COLLIDES with the queued *tale madre tale figlia* row (L276), which already pairs the same Spanish. Do not bank both against *de tal palo*; pick one, or wait for the multiple-pairings policy. |
+| 63 | Essere l'ago della bilancia | (ES side unresearched) | Consonni book (tier B) | The deciding factor. ES may have *inclinar la balanza*, but that is a verb phrase where the Italian names a person — a word-class difference worth checking. Note the near-collision with drafted 0270 (*ago nel pagliaio*), same noun, unrelated idiom. |
+| 64 | Ammainare le vele | (ES side unresearched) | Consonni book (tier B) | To furl sails, i.e. wind down. Direct opposite of banked 0103 (*andare a gonfie vele*). If both ship, they are a natural pair — but they must not run close together. |
+| 65 | Trovare terreno morbido | (ES side unresearched) | Consonni book (tier B) | To find easy going. Thin on its own; check whether ES has a soil metaphor at all. |
+| 66 | Ad ogni poeta manca un verso | (ES side unresearched) | Consonni book (tier B) | Nothing is ever quite finished. Elegant. Likely no ES twin — candidate for the unmatched tier. |
+| 67 | Fare il giro delle sette chiese | (ES side unresearched) | Consonni book (tier B) | To go round the houses. Rome-specific (a Holy Week pilgrimage), so the image needs explaining, but the meaning is universal and ES may have a saints-based parallel — the santo cluster is now large enough to be worth checking against. |
+| 68 | Essere un Bastian Contrario | llevar la contraria | Consonni book (tier B) | A habitual contrarian. Italian names a PERSON (a Piedmontese figure); Spanish describes the BEHAVIOUR. Same shape as the *gnorri* finding in 0243, where Italian invents a character and Spanish borrows a saint — possible recurring thread. |
+| 69 | Fare una frittata / Essere la fabbrica del Duomo / Fare un quarantotto / Ai tempi che Berta filava | — | Consonni book (tier B) | FOUR GROUPED, all needing a decision before research. *Fare una frittata* (make a mess) collides with banked 0028's *rivoltare la frittata* — same dish, different idiom, check saturation. The other three are locked to Italian specifics: the Duomo of Florence's build time, the revolutions of 1848, and a 13th-century legend. Same category as the city-specific group in the previous batch — recommend NOT drafting. |

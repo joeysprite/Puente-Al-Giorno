@@ -1,6 +1,6 @@
 # Expression registry — master list
 
-**Generated** 2026-08-09 by `tools/build-registry.mjs`. Do not hand-edit.
+**Generated** 2026-08-12 by `tools/build-registry.mjs`. Do not hand-edit.
 
 One row per **expression**, not per pairing. CANDIDATES.md answers "what pairings are
 we considering"; this answers "what expressions do we know about, and what has each one
@@ -12,15 +12,15 @@ been matched to". Two things only this view makes visible:
 
 | Status | Count |
 |---|---|
-| banked | 436 |
-| candidate | 347 |
+| banked | 438 |
+| candidate | 435 |
 | rejected | 20 |
-| no-partner-found | 14 |
-| **total expressions** | **817** |
+| no-partner-found | 19 |
+| **total expressions** | **912** |
 
 ---
 
-## Mapped to more than one partner (21)
+## Mapped to more than one partner (25)
 
 Not errors. Each needs a decision: pick one, or bank both once the multiple-pairings
 policy is switched on.
@@ -48,8 +48,12 @@ policy is switched on.
 | Scoprire l'acqua calda | it | Descubrir el agua tibia (0305) · Descubrir / inventar el hilo negro |
 | Ser un pedazo de pan | es | Essere un pezzo di pane (0275) · Buono come il pane |
 | Vuotare il sacco | it | Cantar de plano (0108) · Vaciar el costal |
+| (ES side unresearched) | es | Nella botte piccola c'è il vino buono · Non c'è trippa per gatti · Gallina vecchia fa buon brodo · Salvarsi in calcio d'angolo · Un pollo da spennare · Avere le orecchie che fischiano · Avere la coda di paglia · Specchietto per le allodole · Se non è zuppa è pan bagnato · Trovare pane per i tuoi denti · Essere un pappa molle · Fare le nozze con i fichi secchi · Sotto la pioggia fame, sotto la neve pane · Meglio mangiare pane e cipolla a casa tua che maccheroni a casa di altri · Il diavolo fa le pentole ma non i coperchi · Chi ha il pane non ha i denti e chi ha i denti non ha il pane · Il buon marinaio si conosce al cattivo tempo · Impara l'arte e mettila da parte · Un padre campa cento figli e cento figli non campano un padre · A Santo vecchio non si accendono più candele · Chi aspetta, Dio l'assetta · La sera leoni, la mattina conigli · Una mezza bugia è una menzogna intera · A lavar la testa all'asino si perde il ranno e il sapone · Chi va a letto senza cena, tutta notte si dimena · A pagare e a morire si è sempre in tempo · L'Epifania tutte le feste porta via · Si vive bene all'ombra del campanile · Prima di parlare, taci · Avere fortuna come un cane in chiesa · Rubando poco si va in galera, rubando tanto si fa carriera · Tutti i nodi vengono al pettine · Levarsi la sete col prosciutto · Essere l'ago della bilancia · Ammainare le vele · Trovare terreno morbido · Ad ogni poeta manca un verso · Fare il giro delle sette chiese |
+| de tal palo, tal astilla | ? | Tale madre tale figlia · Il figlio del gatto prende i topi |
+| Dime con quién andas y te diré quién eres | es | dimmi con chi vai e ti dirò chi sei · Chi pratica lo zoppo impara a zoppicare |
+| Quedar a la altura de su zapatilla | es | fare una figuraccia · Fare la figura del cioccolataio |
 
-## No partner found (14)
+## No partner found (19)
 
 Searched, nothing found — as opposed to not yet looked at. Stop re-researching these
 unless there is a new reason to.
@@ -58,10 +62,14 @@ unless there is a new reason to.
 |---|---|---|---|
 | ¡Dios quiera! | es | ES reviewer (3rd-party PDF) | Formula — out of scope for v1, do not draft: Overlaps existing entry — Sits on the same wish-particl |
 | ¡Que te vaya bien! | es | ES reviewer (3rd-party PDF) | Formula — out of scope for v1, do not draft: Weak match — Same family as the retired-formula questio |
+| A Milano, anche i gelsi fanno l'uva / Fiorentini ciechi e Pisani traditori / Arno non cresce se Sieve non mesce | it | Consonni book (tier B) | Consonni book, entries 60–79 (third batch, 2026-08-09): THREE CITY-SPECIFIC ITEMS grouped: Milanese  |
+| A pisielle pavammo | ? | Consonni book (tier B) | *Italian Idioms: Top 100* — Maria Consonni (book, 2026-08-09): NEAPOLITAN DIALECT, not standard Ital |
 | Chi fa da sé, fa per tre | es | IT proverb list (Joe) | Proverb twins with a small axis of difference: IT rhymes sé/tre and quantifies by three |
+| Chi va piano va sano e va lontano | ? | Consonni book (tier B) | Consonni book, entries 41–59 (second batch, 2026-08-09): DUPLICATE of the calendar-batch row above,  |
 | Essere in alto mare | it | IT reviewer (own material) | General — thin sourcing or unconfirmed Italian/Spanish side: The IT is well-known: far from finished |
 | Estar hecho pedazos | es | Dissolved 0009 | Unmatched — one side has no known counterpart: Covers BOTH senses — bodily exhaustion and emotional  |
 | Estar hecho polvo | es | Dissolved 0009 | Unmatched — one side has no known counterpart: Peninsular, EXHAUSTION ONLY — narrower than *hecho pe |
+| Fare una frittata / Essere la fabbrica del Duomo / Fare un quarantotto / Ai tempi che Berta filava | ? | Consonni book (tier B) | Consonni book, entries 81–100 (final batch — book complete, 2026-08-09): FOUR GROUPED, all needing a |
 | Hacer buenas migas con alguien | es | ES idioms book | Unmatched — one side has no known counterpart: crumbs; possible no-twin entry, needs reviewer |
 | Hai voluto la bicicletta? Pedala! | es | FluentU 40 | Unmatched — one side has no known counterpart: divergent |
 | Natale con i tuoi, Pasqua con chi vuoi | ? | Claude research | Seasonal / calendar candidates: Famous Italian proverb — Christmas with your family, Easter with who |
@@ -70,10 +78,11 @@ unless there is a new reason to.
 | Quando il padre fa carnevale, ai figlioli tocca far quaresima | it | Treccani (`quaresima`) | Seasonal / calendar candidates: Treccani marks this proverb as now rare — if the father is a spendth |
 | Que no te digan, que no te cuenten | es | ES reviewer (3rd-party PDF) | Unmatched — one side has no known counterpart: No match found — Doesn't fit the "no matter what" fam |
 | Si te caes siete veces, levántate ocho | es | ES proverb list (Joe) | Unmatched — one side has no known counterpart: Japanese proverb naturalised into ES; needs an IT rev |
+| Va a ciapà i ratt! | it | Consonni book (tier B) | *Italian Idioms: Top 100* — Maria Consonni (book, 2026-08-09): MILANESE DIALECT. Same scope question |
 
 ---
 
-## Full registry (817)
+## Full registry (912)
 
 | Expression | Lang | Status | Partner(s) | Source |
 |---|---|---|---|---|
@@ -322,6 +331,7 @@ unless there is a new reason to.
 | Ir volando | es | banked | Essere di corsa (0263) | bank/0263, IT reviewer (own material) |
 | L'abito non fa il monaco | it | banked | El hábito no hace al monje (0299) | bank/0299 |
 | La cabra siempre tira al monte | es | banked | Il lupo perde il pelo ma non il vizio (0302) | bank/0302 |
+| La gatta frettolosa fece i gattini ciechi | it | banked | Vísteme despacio que tengo prisa (0309) | bank/0309 |
 | La goccia che fa traboccare il vaso | it | banked | La última gota que hace rebosar la copa (0092) | bank/0092 |
 | La pentola guardata non bolle mai | it | banked | Quien espera, desespera (0296) | bank/0296 |
 | La última gota que hace rebosar la copa | es | banked | La goccia che fa traboccare il vaso (0092) | bank/0092 |
@@ -509,14 +519,17 @@ unless there is a new reason to.
 | Ver el vaso medio lleno | es | banked | Vedere il bicchiere mezzo pieno (0265) | bank/0265 |
 | Ver el vaso medio vacío | es | banked | Vedere il bicchiere mezzo vuoto (0266) | bank/0266 |
 | Ver la luz al final del túnel | es | banked | Vedere la luce in fondo al tunnel (0279) | bank/0279, IT reviewer (own material) |
+| Vísteme despacio que tengo prisa | es | banked | La gatta frettolosa fece i gattini ciechi (0309) | bank/0309 |
 | Viva l'Italia! | it | banked | ¡Viva México! (0070) | bank/0070 |
 | Volente o nolente | it | banked | Quieras o no (0246) | bank/0246 |
 | Volere è potere | it | banked | Querer es poder (0304) | bank/0304 |
 | Vuotare il sacco | it | banked | Cantar de plano (0108) · Vaciar el costal | bank/0108, ES idioms book |
 | ¡A otro perro con ese hueso! | es | candidate | a un altro cane con quest'osso? / racconta ad altri | ES idioms book |
+| ¡ajo y agua! / ¡arréglatelas! | ? | candidate | Attaccati al tram! | Consonni book (tier B) |
 | ¡no manches! (MX) / ¡anda ya! | ? | candidate | Ma dai | Italian Matters list |
 | ¡Que tengas un buen día! | es | candidate | Buona giornata! | ES reviewer (3rd-party PDF) |
 | ¡Y santas pascuas! | es | candidate | punto e basta | Claude research |
+| (ES side unresearched) | es | candidate | Nella botte piccola c'è il vino buono · Non c'è trippa per gatti · Gallina vecchia fa buon brodo · Salvarsi in calcio d'angolo · Un pollo da spennare · Avere le orecchie che fischiano · Avere la coda di paglia · Specchietto per le allodole · Se non è zuppa è pan bagnato · Trovare pane per i tuoi denti · Essere un pappa molle · Fare le nozze con i fichi secchi · Sotto la pioggia fame, sotto la neve pane · Meglio mangiare pane e cipolla a casa tua che maccheroni a casa di altri · Il diavolo fa le pentole ma non i coperchi · Chi ha il pane non ha i denti e chi ha i denti non ha il pane · Il buon marinaio si conosce al cattivo tempo · Impara l'arte e mettila da parte · Un padre campa cento figli e cento figli non campano un padre · A Santo vecchio non si accendono più candele · Chi aspetta, Dio l'assetta · La sera leoni, la mattina conigli · Una mezza bugia è una menzogna intera · A lavar la testa all'asino si perde il ranno e il sapone · Chi va a letto senza cena, tutta notte si dimena · A pagare e a morire si è sempre in tempo · L'Epifania tutte le feste porta via · Si vive bene all'ombra del campanile · Prima di parlare, taci · Avere fortuna come un cane in chiesa · Rubando poco si va in galera, rubando tanto si fa carriera · Tutti i nodi vengono al pettine · Levarsi la sete col prosciutto · Essere l'ago della bilancia · Ammainare le vele · Trovare terreno morbido · Ad ogni poeta manca un verso · Fare il giro delle sette chiese | Consonni book (tier B) |
 | ✅ **DRAFTED 0245** — estar en el séptimo cielo | es | candidate | Essere al settimo cielo | IT reviewer (own material) |
 | ✅ **DRAFTED 0246** — Volente o nolente | it | candidate | Quieras o no | ES reviewer (3rd-party PDF) |
 | ✅ **DRAFTED 0247** — hacer algo al vuelo | ? | candidate | Fare una cosa al volo | IT reviewer (own material) |
@@ -524,11 +537,16 @@ unless there is a new reason to.
 | ✅ **DRAFTED 0249** — ser un hueso duro de roer | ? | candidate | Essere un osso duro | IT reviewer (own material) |
 | a buon intenditor poche parole | ? | candidate | Al buen entendedor, pocas palabras | ES proverb list (Joe) |
 | a grandes males, grandes remedios | ? | candidate | A mali estremi, estremi rimedi | FluentU 40 |
+| A lavar la testa all'asino si perde il ranno e il sapone | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | A mali estremi, estremi rimedi | ? | candidate | a grandes males, grandes remedios | FluentU 40 |
+| A pagare e a morire si è sempre in tempo | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | a rey muerto, rey puesto | ? | candidate | Morto un papa se ne fa un altro | FluentU 40 |
+| A Santo vecchio non si accendono più candele | it | candidate | (ES side unresearched) | Consonni book (tier B) |
+| a toro pasado, todos somos toreros | ? | candidate | Del senno del poi son piene le fosse | Consonni book (tier B) |
 | a un altro cane con quest'osso? / racconta ad altri | it | candidate | ¡A otro perro con ese hueso! | ES idioms book |
 | Acostarse con las gallinas | es | candidate | andare a letto con le galline | ES idioms book |
 | Acqua in bocca | it | candidate | punto en boca | europassitalian.com |
+| Ad ogni poeta manca un verso | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | al ahí se va (MX) | es | candidate | Alla come viene, viene | FluentU 40 |
 | Al buen entendedor, pocas palabras | ? | candidate | a buon intenditor poche parole | ES proverb list (Joe) |
 | al mal tiempo, buena cara | ? | candidate | Buon viso a cattivo gioco | storylearning.com |
@@ -536,21 +554,28 @@ unless there is a new reason to.
 | Alla come viene, viene | it | candidate | al ahí se va (MX) | FluentU 40 |
 | Allora | ? | candidate | entonces / pues | Italian Matters list |
 | Almeno | ? | candidate | Aunque sea *(meaning "at least")* | ES reviewer (3rd-party PDF) |
+| Alzare la cresta | es | candidate | subírsele los humos | Consonni book (tier B) |
 | Alzarse con el santo y la limosna | es | candidate | fare man bassa / prendere cassa e baracca | ES idioms book |
 | Alzarsi col piede sbagliato | ? | candidate | levantarse con el pie izquierdo | europassitalian.com |
+| Ammainare le vele | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | andare a letto con le galline | it | candidate | Acostarse con las gallinas | ES idioms book |
 | Andare tutto liscio | it | candidate | ir sobre ruedas / salir a pedir de boca | IT reviewer (own material) |
 | Aquello fue llegar y besar el santo | es | candidate | è stato un gioco da ragazzi | ES idioms book |
 | arriba y abajo / aquí y allá / dentro y fuera / esto y aquello / todo o nada / ahora o nunca | es | candidate | Su e giù / qua e là / dentro e fuori / questo e quello / tutto o niente / ora o mai più | ines.tutoring (IG, tier C) |
 | Attaccare il cappello | it | candidate | colgar los guantes/hábitos | FluentU 40 |
+| Attaccati al tram! | ? | candidate | ¡ajo y agua! / ¡arréglatelas! | Consonni book (tier B) |
 | Aunque sea *(meaning "at least")* | ? | candidate | Almeno | ES reviewer (3rd-party PDF) |
 | Avanti e indietro | ? | candidate | de aquí para allá / adelante y atrás | ines.tutoring (IG, tier C) |
 | Avere fegato | it | candidate | tener agallas | europassitalian.com |
+| Avere fortuna come un cane in chiesa | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | Avere il cuore in gola | it | candidate | con el corazón en la boca | storylearning.com |
 | Avere il morale a terra | it | candidate | tener la moral por los suelos | IT reviewer (own material) |
+| Avere la coda di paglia | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
+| Avere la pazienza di Giobbe | ? | candidate | tener la paciencia de Job | Consonni book (tier B) |
 | avere la sfortuna alle calcagna | it | candidate | Tener el santo de espaldas | ES idioms book |
 | Avere le braccine corte | it | candidate | ser codo (MX!) / más agarrado que... | FluentU 40 |
 | Avere le mani di pasta frolla | it | candidate | ser un manazas (ES) / MX ? | IT proverb list (Joe) |
+| Avere le orecchie che fischiano | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | avere un certo non so che | it | candidate | Tener ángel | ES idioms book |
 | Avere un diavolo per capello | ? | candidate | echar chispas / estar hecho una furia | Instagram set (Joe) |
 | Avere una cotta | ? | candidate | estar clavado (MX) / estar flechado | storylearning.com |
@@ -581,15 +606,22 @@ unless there is a new reason to.
 | cerebro de chorlito / memoria de pollo? | ? | candidate | Cervello di gallina | FluentU 40 |
 | Cervello di gallina | ? | candidate | cerebro de chorlito / memoria de pollo? | FluentU 40 |
 | Che palle | it | candidate | qué hueva (MX) / qué palo (ES) | FluentU 40 |
+| Chi aspetta, Dio l'assetta | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
+| Chi ha il pane non ha i denti e chi ha i denti non ha il pane | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | Chi non fa, non falla | it | candidate | el que no hace, no yerra | IT proverb list (Joe) |
 | chi più spende meno spende | es | candidate | Lo barato sale caro | ES proverb list (Joe) |
+| Chi pratica lo zoppo impara a zoppicare | it | candidate | dime con quién andas y te diré quién eres | Consonni book (tier B) |
 | chi troppo vuole nulla stringe | it | candidate | El que mucho abarca poco aprieta | ES proverb list (Joe) |
 | Chi trova un amico, trova un tesoro | ? | candidate | quien encuentra un amigo, encuentra un tesoro | IT proverb list (Joe) |
+| Chi va a letto senza cena, tutta notte si dimena | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | chuparse los dedos | ? | candidate | Leccarsi i baffi | storylearning.com |
 | Ci penso io | ? | candidate | yo me encargo | Italian Matters list |
 | Ci sta | ? | candidate | va / queda bien | Italian Matters list |
+| cielo rojo al atardecer, buen tiempo va a haber | ? | candidate | Rosso di sera, bel tempo si spera | Consonni book (tier B) |
 | codo con codo / hombro con hombro | ? | candidate | Fianco a fianco | ines.tutoring (IG, tier C) |
 | colgar los guantes/hábitos | es | candidate | Attaccare il cappello | FluentU 40 |
+| coloso con pies de barro | es | candidate | Colosso coi piedi d'argilla | Consonni book (tier B) |
+| Colosso coi piedi d'argilla | it | candidate | coloso con pies de barro | Consonni book (tier B) |
 | comandare / essere il capo | it | candidate | Cortar el bacalao | ES idioms book |
 | Comunque | ? | candidate | de todos modos / igual (AR) | Italian Matters list |
 | con el corazón en la boca | es | candidate | Avere il cuore in gola | storylearning.com |
@@ -607,25 +639,30 @@ unless there is a new reason to.
 | Dar en un hueso | ? | candidate | trovare un osso duro | ES idioms book |
 | dar gato por liebre | es | candidate | Prendere lucciole per lanterne | storylearning.com |
 | dar lata (MX) / romper las pelotas (vulgar) | ? | candidate | Rompere le scatole | Instagram set (Joe) |
+| dar plantón | es | candidate | Tirare il pacco | Consonni book (tier B) |
 | dar una vuelta / dar un paseo | es | candidate | Fare due passi | IT reviewer (own material) |
 | dare buca a qualcuno | ? | candidate | Darle perro a uno | ES idioms book |
+| Dare via qualcosa per un piatto di lenticchie | ? | candidate | vender por un plato de lentejas | Consonni book (tier B) |
 | Darle a uno una buena lejía | es | candidate | fare una lavata di capo | ES idioms book |
 | Darle perro a uno | ? | candidate | dare buca a qualcuno | ES idioms book |
 | de aquí para allá / adelante y atrás | ? | candidate | Avanti e indietro | ines.tutoring (IG, tier C) |
 | de corazón a corazón | ? | candidate | Cuore a cuore | ines.tutoring (IG, tier C) |
 | de hecho / efectivamente | ? | candidate | Infatti | Italian Matters list |
 | De Pascuas a Ramos | ? | candidate | ogni morte di papa | Claude research |
-| de tal palo, tal astilla | ? | candidate | Tale madre tale figlia | FluentU 40 |
+| de tal palo, tal astilla | ? | candidate | Tale madre tale figlia · Il figlio del gatto prende i topi | FluentU 40, Consonni book (tier B) |
 | de todos modos / igual (AR) | ? | candidate | Comunque | Italian Matters list |
 | Decirle a alguien cuatro verdades | ? | candidate | dirne quattro a qualcuno | ES idioms book |
 | dejar plantado | ? | candidate | Piantare in asso | europassitalian.com |
+| dejar que se cueza en su propia salsa | es | candidate | Far cuocere qualcuno nel suo brodo | Consonni book (tier B) |
+| Del senno del poi son piene le fosse | ? | candidate | a toro pasado, todos somos toreros | Consonni book (tier B) |
 | Descubrir / inventar el hilo negro | es | candidate | scoprire l'acqua calda | Claude research |
 | Descubrir el polvorín | es | candidate | scoprire gli altarini | ES idioms book |
 | Destornillarse de risa | ? | candidate | sbellicarsi dalle risa | ES idioms book |
 | día a día | ? | candidate | Giorno dopo giorno | ines.tutoring (IG, tier C) |
 | Dicano quel che dicano / dicano ciò che dicano | ? | candidate | Digan lo que digan | ES reviewer (3rd-party PDF) |
+| Diffondersi a macchia d'olio | ? | candidate | extenderse como mancha de aceite | Consonni book (tier B) |
 | Digan lo que digan | ? | candidate | Dicano quel che dicano / dicano ciò che dicano | ES reviewer (3rd-party PDF) |
-| Dime con quién andas y te diré quién eres | es | candidate | dimmi con chi vai e ti dirò chi sei | ES proverb list (Joe) |
+| Dime con quién andas y te diré quién eres | es | candidate | dimmi con chi vai e ti dirò chi sei · Chi pratica lo zoppo impara a zoppicare | ES proverb list (Joe), Consonni book (tier B) |
 | dimmi con chi vai e ti dirò chi sei | it | candidate | Dime con quién andas y te diré quién eres | ES proverb list (Joe) |
 | dirne quattro a qualcuno | ? | candidate | Decirle a alguien cuatro verdades | ES idioms book |
 | doble rasero / dos varas de medir | es | candidate | Due pesi e due misure | storylearning.com |
@@ -641,6 +678,7 @@ unless there is a new reason to.
 | El que mucho abarca poco aprieta | es | candidate | chi troppo vuole nulla stringe | ES proverb list (Joe) |
 | el que no hace, no yerra | es | candidate | Chi non fa, non falla | IT proverb list (Joe) |
 | el que ríe último, ríe mejor | ? | candidate | Ride bene chi ride ultimo | IT proverb list (Joe) |
+| en el vino está la verdad | es | candidate | La verità è nel vino | Consonni book (tier B) |
 | en fin / total | ? | candidate | Insomma | Italian Matters list |
 | en un dos por tres | ? | candidate | In quattro e quattr'otto | europassitalian.com |
 | Ensartar perlas | ? | candidate | perdere tempo | ES idioms book |
@@ -653,9 +691,12 @@ unless there is a new reason to.
 | Essere giù di corda | it | candidate | estar de capa caída (tentative) | IT reviewer (own material) |
 | essere in ghingheri | it | candidate | Estar de veinticinco alfileres | ES idioms book |
 | essere in mezzo al guado / non sapere che pesce prendere | it | candidate | Estar entre dos aguas | ES idioms book |
+| Essere l'ago della bilancia | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | Essere nero | it | candidate | estar negro | IT reviewer (own material) |
 | Essere stanco morto | it | candidate | estar muerto de cansancio | italianario (IG, tier C) |
 | Essere sulla buona strada | it | candidate | ir por buen camino | IT reviewer (own material) |
+| Essere un Bastian Contrario | ? | candidate | llevar la contraria | Consonni book (tier B) |
+| Essere un pappa molle | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | Essere verde d'invidia | ? | candidate | estar/ponerse verde de envidia | IT reviewer (own material) |
 | estar clavado (MX) / estar flechado | ? | candidate | Avere una cotta | storylearning.com |
 | estar de buenas | ? | candidate | Sono preso bene | italianario (IG, tier C) |
@@ -669,13 +710,20 @@ unless there is a new reason to.
 | estar muerto de cansancio | es | candidate | Essere stanco morto | italianario (IG, tier C) |
 | estar negro | es | candidate | Essere nero | IT reviewer (own material) |
 | estar/ponerse verde de envidia | ? | candidate | Essere verde d'invidia | IT reviewer (own material) |
+| extenderse como mancha de aceite | ? | candidate | Diffondersi a macchia d'olio | Consonni book (tier B) |
 | Faccia a faccia | it | candidate | cara a cara | ines.tutoring (IG, tier C) |
+| Far cuocere qualcuno nel suo brodo | it | candidate | dejar que se cueza en su propia salsa | Consonni book (tier B) |
+| Far polpette di qualcuno | ? | candidate | hacer picadillo a alguien | Consonni book (tier B) |
 | Far venire il latte alle ginocchia | it | candidate | MX sacar de quicio / dar lata | IT proverb list (Joe) |
 | Fare a polpette | it | candidate | hacer picadillo | storylearning.com |
 | fare da solo / non spartire | it | candidate | No partir peras con nadie | ES idioms book |
+| Fare di tutta l'erba un fascio | ? | candidate | meter todo en el mismo saco | Consonni book (tier B) |
 | Fare due passi | it | candidate | dar una vuelta / dar un paseo | IT reviewer (own material) |
 | Fare i conti senza l'oste | it | candidate | hacer las cuentas de la lechera | europassitalian.com |
+| Fare il giro delle sette chiese | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | fare il proprio comodo | it | candidate | Hacer su santa voluntad | ES idioms book |
+| Fare la figura del cioccolataio | ? | candidate | quedar a la altura de su zapatilla? | Consonni book (tier B) |
+| Fare le nozze con i fichi secchi | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | fare man bassa / prendere cassa e baracca | it | candidate | Alzarse con el santo y la limosna | ES idioms book |
 | fare soldi a palate | it | candidate | Ponerse las botas | ES idioms book |
 | fare un pasticcio | it | candidate | Hacerse un lío | ES idioms book |
@@ -686,16 +734,25 @@ unless there is a new reason to.
 | Finché c'è vita, c'è speranza | it | candidate | mientras hay vida, hay esperanza | IT proverb list (Joe) |
 | Flor de Pascua | ? | candidate | stella di Natale | Claude research |
 | Fumarse una clase | ? | candidate | marinare la scuola / bigiare | ES idioms book |
+| Gallina vecchia fa buon brodo | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | Giorno dopo giorno | ? | candidate | día a día | ines.tutoring (IG, tier C) |
+| Gridare ai quattro venti | ? | candidate | pregonar a los cuatro vientos | Consonni book (tier B) |
 | Haberle visto las orejas al lobo | es | candidate | scamparla bella | ES idioms book |
 | Hacer la pascua a alguien | es | candidate | rompere le scatole a qualcuno | Claude research |
 | hacer las cuentas de la lechera | es | candidate | Fare i conti senza l'oste | europassitalian.com |
 | hacer picadillo | es | candidate | Fare a polpette | storylearning.com |
+| hacer picadillo a alguien | ? | candidate | Far polpette di qualcuno | Consonni book (tier B) |
 | Hacer su santa voluntad | es | candidate | fare il proprio comodo | ES idioms book |
 | Hacerse un lío | es | candidate | fare un pasticcio | ES idioms book |
 | Hagas lo que hagas | ? | candidate | Qualunque cosa tu faccia | ES reviewer (3rd-party PDF) |
 | Hai ragione | ? | candidate | tienes razón | Italian Matters list |
 | he aquí?? / ya está / aquí tienes | ? | candidate | Ecco | Italian Matters list |
+| hombre prevenido vale por dos | ? | candidate | Uomo avvisato, mezzo salvato | Consonni book (tier B) |
+| Il buon marinaio si conosce al cattivo tempo | it | candidate | (ES side unresearched) | Consonni book (tier B) |
+| Il diavolo fa le pentole ma non i coperchi | it | candidate | (ES side unresearched) | Consonni book (tier B) |
+| Il figlio del gatto prende i topi | ? | candidate | de tal palo, tal astilla | Consonni book (tier B) |
+| Il gioco non vale la candela | ? | candidate | no vale la pena / el juego no vale la vela | Consonni book (tier B) |
+| Impara l'arte e mettila da parte | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | In quattro e quattr'otto | ? | candidate | en un dos por tres | europassitalian.com |
 | Infatti | ? | candidate | de hecho / efectivamente | Italian Matters list |
 | Insomma | ? | candidate | en fin / total | Italian Matters list |
@@ -704,6 +761,7 @@ unless there is a new reason to.
 | L'amore è cieco | it | candidate | el amor es ciego | IT proverb list (Joe) |
 | l'amore vince tutto | ? | candidate | El amor todo lo puede | ES proverb list (Joe) |
 | L'appetito vien mangiando | ? | candidate | el apetito viene comiendo | IT proverb list (Joe) |
+| L'Epifania tutte le feste porta via | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | L'erba del vicino è sempre più verde | it | candidate | la hierba del vecino... / el pasto | FluentU 40 |
 | La curiosidad mató al gato | es | candidate | tanto va la gatta al lardo che ci lascia lo zampino | spanishexpress.co.uk (Peninsular) |
 | la hierba del vecino... / el pasto | es | candidate | L'erba del vicino è sempre più verde | FluentU 40 |
@@ -711,9 +769,15 @@ unless there is a new reason to.
 | la partita è ancora aperta | it | candidate | La pelota está aún en el tejado | ES idioms book |
 | La pazienza è la virtù dei forti | it | candidate | la paciencia es la madre de la ciencia | IT proverb list (Joe) |
 | La pelota está aún en el tejado | es | candidate | la partita è ancora aperta | ES idioms book |
+| La sera leoni, la mattina conigli | es | candidate | (ES side unresearched) | Consonni book (tier B) |
+| La verità è nel vino | it | candidate | en el vino está la verdad | Consonni book (tier B) |
 | Largar a otro el mochuelo | es | candidate | scaricare il barile | ES idioms book |
+| las desgracias nunca vienen solas | es | candidate | Le disgrazie non vengono mai sole | Consonni book (tier B) |
+| Le disgrazie non vengono mai sole | it | candidate | las desgracias nunca vienen solas | Consonni book (tier B) |
 | Leccarsi i baffi | ? | candidate | chuparse los dedos | storylearning.com |
 | levantarse con el pie izquierdo | ? | candidate | Alzarsi col piede sbagliato | europassitalian.com |
+| Levarsi la sete col prosciutto | es | candidate | (ES side unresearched) | Consonni book (tier B) |
+| llevar la contraria | ? | candidate | Essere un Bastian Contrario | Consonni book (tier B) |
 | Llevarse el gato al agua | es | candidate | spuntarla / avere la meglio | ES idioms book |
 | Lo barato sale caro | it | candidate | chi più spende meno spende | ES proverb list (Joe) |
 | Ma dai | ? | candidate | ¡no manches! (MX) / ¡anda ya! | Italian Matters list |
@@ -725,10 +789,12 @@ unless there is a new reason to.
 | Más vale prevenir que lamentar | es | candidate | prevenire è meglio che curare | ES proverb list (Joe) |
 | más vale tarde que nunca | es | candidate | Meglio tardi che mai | europassitalian.com |
 | me importa un pepino/bledo | ? | candidate | Farsene un baffo | FluentU 40 |
+| Meglio mangiare pane e cipolla a casa tua che maccheroni a casa di altri | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | Meglio tardi che mai | it | candidate | más vale tarde que nunca | europassitalian.com |
 | Meno male che | it | candidate | menos mal que | Italian Matters list |
 | menos mal que | es | candidate | Meno male che | Italian Matters list |
 | meter la cuchara (MX) | es | candidate | Mettere lo zampino | storylearning.com |
+| meter todo en el mismo saco | ? | candidate | Fare di tutta l'erba un fascio | Consonni book (tier B) |
 | metterci la faccia (drafted, withdrawn) / cerca altro | it | candidate | Dar la cara | Editor pullback |
 | Mettere i bastoni fra le ruote | it | candidate | poner palos en las ruedas | europassitalian.com |
 | Mettere lo zampino | it | candidate | meter la cuchara (MX) | storylearning.com |
@@ -737,18 +803,27 @@ unless there is a new reason to.
 | Minestra riscaldata | ? | candidate | recalentado (MX!) | FluentU 40 |
 | Morto un papa se ne fa un altro | ? | candidate | a rey muerto, rey puesto | FluentU 40 |
 | MX sacar de quicio / dar lata | es | candidate | Far venire il latte alle ginocchia | IT proverb list (Joe) |
+| Nella botte piccola c'è il vino buono | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | No es cosa del otro mundo | ? | candidate | non è niente di che / non è cosa dell'altro mondo | ES idioms book |
+| no escupas en el plato donde comes | es | candidate | Non sputare nel piatto dove mangi | Consonni book (tier B) |
 | no lo puedo creer / no inventes (MX) | es | candidate | Non ci credo | Italian Matters list |
 | No partir peras con nadie | es | candidate | fare da solo / non spartire | ES idioms book |
 | No poder ver a alguien ni en pintura | es | candidate | non poter vedere qualcuno nemmeno dipinto | ES idioms book |
 | No saber ni papa de | es | candidate | non capire un'acca | ES idioms book |
+| no se puede estar en misa y repicando | es | candidate | Non si può avere la botte piena e la moglie ubriaca | Consonni book (tier B) |
+| no vale la pena / el juego no vale la vela | ? | candidate | Il gioco non vale la candela | Consonni book (tier B) |
+| no vender la piel del oso antes de cazarlo | es | candidate | Non dire gatto se non ce l'hai nel sacco | Consonni book (tier B) |
 | No ver tres en un burro | ? | candidate | essere cieco come una talpa | spanishexpress.co.uk (Peninsular) |
+| Non c'è trippa per gatti | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | non capire un'acca | it | candidate | No saber ni papa de | ES idioms book |
 | Non ci credo | it | candidate | no lo puedo creer / no inventes (MX) | Italian Matters list |
+| Non dire gatto se non ce l'hai nel sacco | it | candidate | no vender la piel del oso antes de cazarlo | Consonni book (tier B) |
 | non è niente di che / non è cosa dell'altro mondo | ? | candidate | No es cosa del otro mundo | ES idioms book |
 | non poter vedere qualcuno nemmeno dipinto | it | candidate | No poder ver a alguien ni en pintura | ES idioms book |
 | Non rimandare a domani… | it | candidate | no dejes para mañana lo que puedas hacer hoy | IT proverb list (Joe) |
 | non sentire volare una mosca | it | candidate | No oír ni el vuelo de una mosca | ES idioms book |
+| Non si può avere la botte piena e la moglie ubriaca | it | candidate | no se puede estar en misa y repicando | Consonni book (tier B) |
+| Non sputare nel piatto dove mangi | it | candidate | no escupas en el plato donde comes | Consonni book (tier B) |
 | occhio non vede, cuore non duole | it | candidate | Ojos que no ven, corazón que no siente | ES proverb list (Joe) |
 | Ojos que no ven, corazón que no siente | es | candidate | occhio non vede, cuore non duole | ES proverb list (Joe) |
 | oscuro como boca de lobo | ? | candidate | Buio pesto | storylearning.com |
@@ -769,9 +844,11 @@ unless there is a new reason to.
 | ponerse blanco / quedarse blanco | ? | candidate | Sbiancare | IT reviewer (own material) |
 | Ponerse de jarras | ? | candidate | mettersi con le mani sui fianchi | ES idioms book |
 | Ponerse las botas | es | candidate | fare soldi a palate | ES idioms book |
+| pregonar a los cuatro vientos | ? | candidate | Gridare ai quattro venti | Consonni book (tier B) |
 | Prendere fischi per fiaschi | it | candidate | confundir la gimnasia con la magnesia | europassitalian.com |
 | Prendere lucciole per lanterne | it | candidate | dar gato por liebre | storylearning.com |
 | prevenire è meglio che curare | it | candidate | Más vale prevenir que lamentar | ES proverb list (Joe) |
+| Prima di parlare, taci | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | pues bien / así que | ? | candidate | Dunque | Italian Matters list |
 | punto e basta | it | candidate | ¡Y santas pascuas! | Claude research |
 | punto en boca | es | candidate | Acqua in bocca | europassitalian.com |
@@ -780,7 +857,7 @@ unless there is a new reason to.
 | qué hueva (MX) / qué palo (ES) | es | candidate | Che palle | FluentU 40 |
 | qué locura (MX) / increíble | ? | candidate | Pazzesco | Italian Matters list |
 | qué pena / qué lástima | es | candidate | Che peccato | Italian Matters list |
-| Quedar a la altura de su zapatilla | es | candidate | fare una figuraccia | ES idioms book |
+| Quedar a la altura de su zapatilla | es | candidate | fare una figuraccia · Fare la figura del cioccolataio | ES idioms book, Consonni book (tier B) |
 | Quedarse para vestir santos | es | candidate | rimanere zitella | ES idioms book |
 | Quemarse las pestañas | es | candidate | studiare sodo / bruciarsi le ciglia? | ES idioms book |
 | quien encuentra un amigo, encuentra un tesoro | ? | candidate | Chi trova un amico, trova un tesoro | IT proverb list (Joe) |
@@ -788,19 +865,26 @@ unless there is a new reason to.
 | quítate de en medio | es | candidate | Togliti dai piedi | FluentU 40 |
 | Raro come una mosca bianca | ? | candidate | más raro que un perro verde | FluentU 40 |
 | recalentado (MX!) | ? | candidate | Minestra riscaldata | FluentU 40 |
+| remitir a las calendas griegas | ? | candidate | Rimandare alle calende greche | Consonni book (tier B) |
 | Ride bene chi ride ultimo | ? | candidate | el que ríe último, ríe mejor | IT proverb list (Joe) |
+| Rimandare alle calende greche | ? | candidate | remitir a las calendas griegas | Consonni book (tier B) |
 | rimanere zitella | it | candidate | Quedarse para vestir santos | ES idioms book |
+| romper una lanza por alguien | ? | candidate | Spezzare una lancia a favore di qualcuno | Consonni book (tier B) |
 | Rompere le scatole | ? | candidate | dar lata (MX) / romper las pelotas (vulgar) | Instagram set (Joe) |
 | rompere le scatole a qualcuno | it | candidate | Hacer la pascua a alguien | Claude research |
+| Rosso di sera, bel tempo si spera | ? | candidate | cielo rojo al atardecer, buen tiempo va a haber | Consonni book (tier B) |
+| Rubando poco si va in galera, rubando tanto si fa carriera | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | Sacudir la mosca | ? | candidate | sganciare (la grana) | ES idioms book |
 | Sale in zucca | ? | candidate | dos dedos de frente | FluentU 40 |
 | salir de Guatemala y entrar en Guatepeor | ? | candidate | Passare dalla padella alla brace | europassitalian.com |
+| Salvarsi in calcio d'angolo | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | sbellicarsi dalle risa | ? | candidate | Destornillarse de risa | ES idioms book |
 | Sbiancare | ? | candidate | ponerse blanco / quedarse blanco | IT reviewer (own material) |
 | scalpitare | it | candidate | Tascar el freno | ES idioms book |
 | scamparla bella | it | candidate | Haberle visto las orejas al lobo | ES idioms book |
 | scaricare il barile | it | candidate | Largar a otro el mochuelo | ES idioms book |
 | scoprire gli altarini | it | candidate | Descubrir el polvorín | ES idioms book |
+| Se non è zuppa è pan bagnato | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | Sei un coniglio | ? | candidate | ser gallina | storylearning.com |
 | ser agua pasada | es | candidate | Essere acqua passata | IT reviewer (own material) |
 | ser campechano/a | ? | candidate | Essere alla mano | IT reviewer (own material) |
@@ -809,15 +893,20 @@ unless there is a new reason to.
 | ser gallina | ? | candidate | Sei un coniglio | storylearning.com |
 | ser un manazas (ES) / MX ? | es | candidate | Avere le mani di pasta frolla | IT proverb list (Joe) |
 | sganciare (la grana) | ? | candidate | Sacudir la mosca | ES idioms book |
+| Si vive bene all'ombra del campanile | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | Sono nei casini | ? | candidate | estar en un lío / MX estar en un pedo | italianario (IG, tier C) |
 | Sono preso bene | ? | candidate | estar de buenas | italianario (IG, tier C) |
+| Sotto la pioggia fame, sotto la neve pane | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | sparire nel nulla / ingoiato dalla terra | it | candidate | Tragarle a uno la tierra | ES idioms book |
+| Specchietto per le allodole | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
+| Spezzare una lancia a favore di qualcuno | ? | candidate | romper una lanza por alguien | Consonni book (tier B) |
 | spuntarla / avere la meglio | it | candidate | Llevarse el gato al agua | ES idioms book |
 | Stare sulle spine | ? | candidate | estar en ascuas | storylearning.com |
 | Stare sullo stomaco | ? | candidate | caerle gordo a alguien (MX) | storylearning.com |
 | stella di Natale | ? | candidate | Flor de Pascua | Claude research |
 | studiare sodo / bruciarsi le ciglia? | it | candidate | Quemarse las pestañas | ES idioms book |
 | Su e giù / qua e là / dentro e fuori / questo e quello / tutto o niente / ora o mai più | it | candidate | arriba y abajo / aquí y allá / dentro y fuera / esto y aquello / todo o nada / ahora o nunca | ines.tutoring (IG, tier C) |
+| subírsele los humos | it | candidate | Alzare la cresta | Consonni book (tier B) |
 | sudar la gota gorda | ? | candidate | Sudare sette camicie | europassitalian.com |
 | Sudare sette camicie | ? | candidate | sudar la gota gorda | europassitalian.com |
 | tagliare i ponti | it | candidate | Cortar los lazos | ES idioms book |
@@ -831,27 +920,37 @@ unless there is a new reason to.
 | Tener ángel | es | candidate | avere un certo non so che | ES idioms book |
 | Tener el santo de espaldas | es | candidate | avere la sfortuna alle calcagna | ES idioms book |
 | tener la moral por los suelos | es | candidate | Avere il morale a terra | IT reviewer (own material) |
+| tener la paciencia de Job | ? | candidate | Avere la pazienza di Giobbe | Consonni book (tier B) |
 | tener un hambre canina / de lobo | ? | candidate | Avere una fame da lupi | ines.tutoring (IG, tier C) |
 | Tener un tornillo flojo | ? | candidate | avere una rotella fuori posto | ES idioms book |
 | tener una venda en los ojos | es | candidate | Avere le fette di salame sugli occhi | Instagram set (Joe) |
 | Testa a testa | ? | candidate | mano a mano / cabeza a cabeza | ines.tutoring (IG, tier C) |
 | Ti sta a pennello | ? | candidate | te queda pintado / como anillo al dedo | FluentU 40 |
 | tienes razón | ? | candidate | Hai ragione | Italian Matters list |
+| Tirare il pacco | it | candidate | dar plantón | Consonni book (tier B) |
 | Todos los santos tienen novena | es | candidate | verrà anche il tuo momento | ES idioms book |
 | Togliti dai piedi | it | candidate | quítate de en medio | FluentU 40 |
 | tomar una bocanada de aire (fresco) | ? | candidate | Prendere una boccata d'aria | IT reviewer (own material) |
 | Tragarle a uno la tierra | es | candidate | sparire nel nulla / ingoiato dalla terra | ES idioms book |
+| Trovare pane per i tuoi denti | it | candidate | (ES side unresearched) | Consonni book (tier B) |
+| Trovare terreno morbido | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | trovare un osso duro | ? | candidate | Dar en un hueso | ES idioms book |
+| Tutti i nodi vengono al pettine | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
+| Un padre campa cento figli e cento figli non campano un padre | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | un pez gordo | ? | candidate | Un pezzo grosso | FluentU 40 |
 | Un pezzo grosso | ? | candidate | un pez gordo | FluentU 40 |
+| Un pollo da spennare | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
+| Una mezza bugia è una menzogna intera | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | Uno per uno | ? | candidate | uno por uno | ines.tutoring (IG, tier C) |
 | uno por uno | ? | candidate | Uno per uno | ines.tutoring (IG, tier C) |
+| Uomo avvisato, mezzo salvato | ? | candidate | hombre prevenido vale por dos | Consonni book (tier B) |
 | va / queda bien | ? | candidate | Ci sta | Italian Matters list |
 | Vabbè | it | candidate | bueno / pues nada | Italian Matters list |
 | Vaciar el costal | es | candidate | vuotare il sacco | ES idioms book |
 | Vai a farti benedire | ? | candidate | vete a freír espárragos | storylearning.com |
 | Vedere il bicchiere mezzo vuoto / mezzo pieno | it | candidate | ver el vaso medio vacío / medio lleno | IT reviewer (own material) |
 | Vedere tutto nero | ? | candidate | verlo todo negro | IT reviewer (own material) |
+| vender por un plato de lentejas | ? | candidate | Dare via qualcosa per un piatto di lenticchie | Consonni book (tier B) |
 | Venga lo que venga | ? | candidate | venga quel che venga *(tentative)* | ES reviewer (3rd-party PDF) |
 | venga quel che venga *(tentative)* | ? | candidate | Venga lo que venga | ES reviewer (3rd-party PDF) |
 | venir como anillo al dedo | ? | candidate | Capitare a fagiolo | europassitalian.com |
@@ -862,10 +961,14 @@ unless there is a new reason to.
 | yo me encargo | ? | candidate | Ci penso io | Italian Matters list |
 | ¡Dios quiera! | es | no-partner-found | — | ES reviewer (3rd-party PDF) |
 | ¡Que te vaya bien! | es | no-partner-found | — | ES reviewer (3rd-party PDF) |
+| A Milano, anche i gelsi fanno l'uva / Fiorentini ciechi e Pisani traditori / Arno non cresce se Sieve non mesce | it | no-partner-found | — | Consonni book (tier B) |
+| A pisielle pavammo | ? | no-partner-found | — | Consonni book (tier B) |
 | Chi fa da sé, fa per tre | es | no-partner-found | — | IT proverb list (Joe) |
+| Chi va piano va sano e va lontano | ? | no-partner-found | — | Consonni book (tier B) |
 | Essere in alto mare | it | no-partner-found | — | IT reviewer (own material) |
 | Estar hecho pedazos | es | no-partner-found | — | Dissolved 0009 |
 | Estar hecho polvo | es | no-partner-found | — | Dissolved 0009 |
+| Fare una frittata / Essere la fabbrica del Duomo / Fare un quarantotto / Ai tempi che Berta filava | ? | no-partner-found | — | Consonni book (tier B) |
 | Hacer buenas migas con alguien | es | no-partner-found | — | ES idioms book |
 | Hai voluto la bicicletta? Pedala! | es | no-partner-found | — | FluentU 40 |
 | Natale con i tuoi, Pasqua con chi vuoi | ? | no-partner-found | — | Claude research |
@@ -874,6 +977,7 @@ unless there is a new reason to.
 | Quando il padre fa carnevale, ai figlioli tocca far quaresima | it | no-partner-found | — | Treccani (`quaresima`) |
 | Que no te digan, que no te cuenten | es | no-partner-found | — | ES reviewer (3rd-party PDF) |
 | Si te caes siete veces, levántate ocho | es | no-partner-found | — | ES proverb list (Joe) |
+| Va a ciapà i ratt! | it | no-partner-found | — | Consonni book (tier B) |
 | Cane non mangia cane | it | rejected | perro no come perro / entre bueyes no hay cornadas | FluentU 40 |
 | Conosco i miei polli | ? | rejected | conozco a mis clásicos? / sé de qué pie cojea | FluentU 40 |
 | conozco a mis clásicos? / sé de qué pie cojea | ? | rejected | Conosco i miei polli | FluentU 40 |

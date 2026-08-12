@@ -1,6 +1,6 @@
 # Un puente al giorno — Bank
 
-**Last updated:** 2026-08-09 | **Total entries:** 220 | **Approved:** 129
+**Last updated:** 2026-08-12 | **Total entries:** 221 | **Approved:** 129
 
 _Regenerate with `node tools/build-bank.mjs` any time the bank changes. This file is generated — edit bank/*.json, not this._
 
@@ -11,12 +11,12 @@ _Regenerate with `node tools/build-bank.mjs` any time the bank changes. This fil
 | Status | Count |
 |--------|-------|
 | approved | 129 |
-| needs_review | 71 |
+| needs_review | 72 |
 | draft | 20 |
 
 ---
 
-## ⚑ 49 approved entries with an unresolved reviewer note
+## ⚑ 48 approved entries with an unresolved reviewer note
 
 These are marked `approved` but their own `review.notes` field still contains language like "reviewer to confirm/add/drop/check/verify" — an open question that does not read as answered. This is a mechanical text match, not a judgment call; it may be stale wording that was never cleaned up after a real review. Worth a look before treating these as fully settled.
 
@@ -28,7 +28,6 @@ These are marked `approved` but their own `review.notes` field still contains la
 - **0017** (No pegar ojo ↔ Non chiudere occhio)
 - **0022** (Buscarle tres pies al gato ↔ Cercare il pelo nell'uovo)
 - **0026** (Estar hasta las narices ↔ Averne fin sopra i capelli)
-- **0034** (Acabo de llegar ↔ Sono appena arrivato)
 - **0035** (Valer la pena ↔ Valere la pena)
 - **0038** (A ojo de buen cubero ↔ A occhio e croce)
 - **0039** (¡Mucha suerte! ↔ In bocca al lupo)
@@ -107,7 +106,7 @@ These are marked `approved` but their own `review.notes` field still contains la
 | 0031 | Ojalá | Magari | marker | B1 | 3 | ✓ approved | wishes, subjunctive |
 | 0032 | O sea | Cioè | marker | B1 | 2 | ✓ approved | discourse, speech |
 | 0033 | Menos mal | Meno male | idiom | A2 | 1 | ✓ approved | relief |
-| 0034 | Acabo de llegar | Sono appena arrivato | collocation | B1 | 3 | ✓ approved ⚑ | time, auxiliaries |
+| 0034 | Acabo de llegar | Sono appena arrivato | collocation | B1 | 3 | ✓ approved | time, auxiliaries |
 | 0035 | Valer la pena | Valere la pena | collocation | B1 | 2 | ✓ approved ⚑ | worth, effort |
 | 0036 | Pagar con la misma moneda | Rendere pan per focaccia | idiom | B2 | 3 | ✓ approved | revenge, fairness, food |
 | 0037 | Mal de muchos, consuelo de tontos | Mal comune, mezzo gaudio | proverb | B2 | 3 | draft | misfortune, culture |
@@ -296,6 +295,7 @@ These are marked `approved` but their own `review.notes` field still contains la
 | 0306 | De la mano | Mano nella mano | collocation | B1 | 2 | needs_review | affection, body, contest |
 | 0307 | Paso a paso | Passo dopo passo | collocation | A2 | 2 | needs_review | process, gradual, time |
 | 0308 | Tarde o temprano | Prima o poi | marker | B1 | 2 | needs_review | time, inevitability, discourse |
+| 0309 | Vísteme despacio que tengo prisa | La gatta frettolosa fece i gattini ciechi | proverb | B2 | 3 | needs_review | haste, patience, animals |
 
 ---
 
