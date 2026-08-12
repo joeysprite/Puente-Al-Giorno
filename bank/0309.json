@@ -1,0 +1,83 @@
+{
+  "id": "0309",
+  "type": "proverb",
+  "cue": "How do you tell someone that rushing will cost them?",
+  "es": {
+    "text": "Vísteme despacio que tengo prisa",
+    "literal": "dress me slowly, I'm in a hurry",
+    "meaning": "The more urgent something is, the more carefully it has to be done.",
+    "example": "No mandes el informe todavía. Vísteme despacio que tengo prisa.",
+    "exampleTranslation": "Don't send the report yet — more haste, less speed.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://www.carm.es/edu/pub/21087_2023/19_contenido.html",
+        "headword": "vísteme despacio que tengo prisa",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "La gatta frettolosa fece i gattini ciechi",
+    "literal": "the hurried cat made blind kittens",
+    "meaning": "The more urgent something is, the more carefully it has to be done.",
+    "example": "Non mandare ancora il report. La gatta frettolosa fece i gattini ciechi.",
+    "exampleTranslation": "Don't send the report yet — more haste, less speed.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/ricerca/frettolosa/Sinonimi_e_Contrari/",
+        "headword": "frettolosa (proverbi)",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The same warning, staged in two places that could hardly be further apart. Italian goes to the birth of a litter: hurry it and the kittens come out blind, a harm that is permanent and falls on someone other than the one who rushed. Spanish goes to a royal dressing room and puts the line in the mouth of the man being dressed — dress me slowly, I am in a hurry — so the rebuke is a paradox spoken by the person with the least patience in the room. One proverb shows you a consequence; the other lets you hear someone realise it out loud. Both descend from the same Latin advice to make haste slowly.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The Italian is fixed in the PAST — fece, not fa — even though it states a general truth. That is unusual for a proverb and easy to correct into the present by mistake; the present form circulates but the past is the citation form. Note also that gatta is feminine and specifically a female cat, because the image is of giving birth.",
+      "it_to_es": "The Spanish is an imperative addressed to someone else, so it does not describe a situation the way the Italian does — you cannot say it ABOUT a person who rushed, only TO someone who is rushing you, or as a wry quotation. For the descriptive sense Spanish reaches for 'las prisas nunca son buenas'."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "haste",
+    "patience",
+    "animals"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-09. IT SOURCE IS STRONG: Treccani lists this among the core proverb set under `frettolosa`, giving 'la gatta frettolosa (o presciolosa) fece i gattini ciechi'. Note the variant 'presciolosa' recorded there. Wiktionary gives 'chi va piano, va sano e va lontano' as a synonym, which MAY RESOLVE THE LONG-OPEN CANDIDATE ROW for that proverb — it has been logged twice (calendar batch and Consonni book) with no ES side found. If the two Italian proverbs are synonyms, the ES side offered here is a candidate for that row too; Joe to decide whether they become two entries or one. ES SOURCE IS WEAK — a Murcia regional-education refranero PDF, tier Corpus. The phrase is unquestionably current but deserves an RAE or CVC citation; several sources also attribute it variously to Fernando VII (via Pérez Galdós's Episodios Nacionales), Louis XI, Napoleon and Charles III, which is the signature of a folk attribution rather than a documented one — the bridge therefore does NOT name a king, only a royal dressing room. Both trace to Augustus's 'festina lente'. THE PAST-TENSE CLAIM IN THE FIRST INTERFERENCE NOTE IS THE ENTRY'S BEST CONTENT AND NEEDS CONFIRMING: I assert 'fece' is the citation form and 'fa' a circulating variant. IT REVIEWER, is that right, and is either markedly more common in speech? Sources here show both. FOURTH cat entry across bank and queue — saturation check before scheduling."
+  },
+  "createdOn": "2026-08-09",
+  "retiredReason": null
+}
