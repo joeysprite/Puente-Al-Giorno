@@ -63,18 +63,22 @@ const byId = new Map(bank.map((e) => [e.id, e]));
 const label = (text, colour) =>
   `<span style="font-family:${MONO};font-size:13px;letter-spacing:2px;text-transform:uppercase;color:${colour};">${esc(text)}</span>`;
 
+// Solid color header bar per language, name reversed in white — more of a
+// section divider than a mood tint. bgcolor set alongside the CSS background
+// since bgcolor is what Outlook actually honors on a td.
 const side = (s, colour, langLabel) => `
-  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
-    <td width="4" style="background:${colour};"></td>
-    <td style="padding:4px 0 4px 16px;">
-      <p style="margin:0 0 10px;">${label(langLabel, colour)}</p>
-      <p style="margin:0 0 8px;font-family:${SERIF};font-size:26px;line-height:1.3;color:${colour};">${esc(s.text)}</p>
-      <p style="margin:0 0 14px;font-family:${SERIF};font-style:italic;font-size:17px;line-height:1.45;color:${C.ink3};">&ldquo;${esc(s.literal)}&rdquo;</p>
-      <p style="margin:0 0 14px;font-family:${SANS};font-size:16px;line-height:1.55;color:${C.ink2};">${esc(s.meaning)}</p>
-      <p style="margin:0 0 4px;font-family:${SERIF};font-size:16px;line-height:1.55;color:${C.ink};">${esc(s.example)}</p>
-      <p style="margin:0;font-family:${SANS};font-size:15px;line-height:1.55;color:${C.ink3};">${esc(s.exampleTranslation)}</p>
-    </td>
-  </tr></table>`;
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid ${C.rule};border-top:0;">
+    <tr><td bgcolor="${colour}" style="background:${colour};padding:8px 16px;">
+      <span style="font-family:${MONO};font-size:12px;letter-spacing:2px;text-transform:uppercase;color:${C.paper};">${esc(langLabel)}</span>
+    </td></tr>
+    <tr><td style="padding:14px 16px 16px;">
+      <p style="margin:0 0 6px;font-family:${SERIF};font-size:27px;line-height:1.25;color:${colour};">${esc(s.text)}</p>
+      <p style="margin:0 0 10px;font-family:${SERIF};font-style:italic;font-size:16px;line-height:1.4;color:${C.ink3};">&ldquo;${esc(s.literal)}&rdquo;</p>
+      <p style="margin:0 0 10px;font-family:${SANS};font-size:16px;line-height:1.5;color:${C.ink2};">${esc(s.meaning)}</p>
+      <p style="margin:0 0 2px;font-family:${SERIF};font-size:16px;line-height:1.5;color:${C.ink};">${esc(s.example)}</p>
+      <p style="margin:0;font-family:${SANS};font-size:15px;line-height:1.5;color:${C.ink3};">${esc(s.exampleTranslation)}</p>
+    </td></tr>
+  </table>`;
 
 const trap = (dir, text, colour) => `
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
@@ -98,7 +102,7 @@ function body(e) {
          alt="${esc(e.es.text)} / ${esc(e.it.text)}"
          style="display:block;width:100%;max-width:600px;height:auto;border:1px solid ${C.rule};">
   </td></tr>
-  <tr><td align="center" style="padding:0 0 30px;">
+  <tr><td align="center" style="padding:0 0 24px;">
     <span style="font-family:${SANS};font-size:13px;color:${C.ink3};">${esc(e.cefr)}</span>
   </td></tr>
 
@@ -107,24 +111,22 @@ function body(e) {
        against the device width, not the 600px container), which wraps every
        word onto its own line at this font size. The card above already shows
        the two languages side by side and is immune to this, since it's a
-       fixed-width image, not reflowable text. -->
-  <tr><td style="background:${C.card};border:1px solid ${C.rule};padding:26px 22px;">
-    ${side(e.es, C.es, "Espa\u00f1ol")}
-    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-      <tr><td style="padding:22px 0;"><hr style="border:0;border-top:1px solid ${C.rule};margin:0;"></td></tr>
-    </table>
-    ${side(e.it, C.it, "Italiano")}
+       fixed-width image, not reflowable text. Each block is independently
+       tinted rather than sharing one outer card, so there's no big shared
+       hairline gap to pad out. -->
+  <tr><td>${side(e.es, C.es, "Espa\u00f1ol")}</td></tr>
+  <tr><td style="padding:10px 0 0;"></td></tr>
+  <tr><td>${side(e.it, C.it, "Italiano")}</td></tr>
+
+  <tr><td style="padding:20px 0 0;">
+    <p style="margin:0 0 8px;">${label("El puente \u00b7 Il ponte", C.amber)}</p>
+    <p style="margin:0;font-family:${SERIF};font-size:18px;line-height:1.5;color:${C.ink};">${esc(e.bridge.note)}</p>
   </td></tr>
 
-  <tr><td style="padding:30px 0 0;">
-    <p style="margin:0 0 10px;">${label("El puente \u00b7 Il ponte", C.amber)}</p>
-    <p style="margin:0;font-family:${SERIF};font-size:18px;line-height:1.6;color:${C.ink};">${esc(e.bridge.note)}</p>
-  </td></tr>
-
-  <tr><td style="padding:28px 0 0;">
-    <p style="margin:0 0 12px;">${label("La trampa \u00b7 La trappola", C.amber)}</p>
+  <tr><td style="padding:20px 0 0;">
+    <p style="margin:0 0 10px;">${label("La trampa \u00b7 La trappola", C.amber)}</p>
     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-      <tr><td style="padding:0 0 14px;">${trap("ES &rarr; IT", e.bridge.interference.es_to_it, C.es)}</td></tr>
+      <tr><td style="padding:0 0 10px;">${trap("ES &rarr; IT", e.bridge.interference.es_to_it, C.es)}</td></tr>
       <tr><td>${trap("IT &rarr; ES", e.bridge.interference.it_to_es, C.it)}</td></tr>
     </table>
   </td></tr>
