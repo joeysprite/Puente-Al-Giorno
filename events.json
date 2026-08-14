@@ -167,6 +167,18 @@
         "after": 1
       },
       "note": "Shared by both calendars, unlike most events here. NOTE: Spanish 'Pascua(s)' can denote Christmas as well as Easter; Italian 'Pasqua' is Easter only. Do not assume an entry tagged to easter is safe to run at Christmas or vice versa."
+    },
+    "us_labor_day": {
+      "name": "US Labor Day",
+      "country": "us",
+      "recurrence": "annual",
+      "month": 9,
+      "day": 7,
+      "window": {
+        "before": 0,
+        "after": 0
+      },
+      "note": "First Monday of September; encoded as Sep 7 for 2026. Falls on a different date each year — revisit when rolling the calendar forward."
     }
   }
 }
