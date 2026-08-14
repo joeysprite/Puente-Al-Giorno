@@ -1,6 +1,6 @@
 # Bank review queue
 
-**Generated** 2026-08-12 by `tools/build-review-queue.mjs`. Do not hand-edit.
+**Generated** 2026-08-14 by `tools/build-review-queue.mjs`. Do not hand-edit.
 
 BANK.md lists entries by id — a catalogue. This orders the same entries by **what
 needs your attention first**: risk of shipping something wrong, then whatever is
@@ -12,12 +12,12 @@ not listed — this is a work queue, not a catalogue.
 |---|---|
 | 1. Approved but not actually finished | 48 |
 | 2. Editorial and register calls | 6 |
-| 3. Rests on an unverified claim | 25 |
+| 3. Rests on an unverified claim | 26 |
 | 4. May not earn a slot | 4 |
-| 5. Drafted, awaiting review | 42 |
+| 5. Drafted, awaiting review | 43 |
 | 6. Early drafts | 18 |
 | 7. Nothing needed — approved and clean | 78 |
-| **total** | **221** |
+| **total** | **223** |
 
 ---
 
@@ -93,7 +93,7 @@ Nothing linguistically wrong. The question is whether the bank wants to publish 
 
 ---
 
-## 3. Rests on an unverified claim  (25)
+## 3. Rests on an unverified claim  (26)
 
 Each of these was drafted around a specific contrast that the drafter flagged as their own and unconfirmed. If the reviewer says no, the entry doesn't get corrected — it collapses. Cheapest possible review: one question each.
 
@@ -124,6 +124,7 @@ Each of these was drafted around a specific contrast that the drafter flagged as
 | 0306 | De la mano ↔ Mano nella mano | needs_review | 0/2 verified | THE mano a mano DIVERGENCE IS THE ENTRY and it is well corroborated: an Italian-language reference lists 'mano nella mano' as hand-in-hand and 'man mano che / a mano a mano che' as meaning progressive |
 | 0307 | Paso a paso ↔ Passo dopo passo | needs_review | 0/2 verified | THE a/dopo CONNECTOR SPLIT IS THE ENTRY and it is the most systematic finding in this batch — it recurs across passo/giorno and is the kind of pattern that pays out beyond the single phrase. |
 | 0309 | Vísteme despacio que tengo prisa ↔ La gatta frettolosa fece i gattini ciechi | needs_review | 0/2 verified | THE PAST-TENSE CLAIM IN THE FIRST INTERFERENCE NOTE IS THE ENTRY'S BEST CONTENT AND NEEDS CONFIRMING: I assert 'fece' is the citation form and 'fa' a circulating variant. |
+| 0310 | No entender ni papa ↔ Non capirci un tubo | needs_review | 0/2 verified | THE EUPHEMISM FINDING IS THE ENTRY'S BEST CONTENT AND ALSO ITS RISK. |
 
 ---
 
@@ -140,7 +141,7 @@ Real, correct, and possibly not worth a subscriber's day. Trap-free twins and vo
 
 ---
 
-## 5. Drafted, awaiting review  (42)
+## 5. Drafted, awaiting review  (43)
 
 Ordinary queue. Sources unverified and no native sign-off, but nothing specific is flagged as at risk.
 
@@ -188,6 +189,7 @@ Ordinary queue. Sources unverified and no native sign-off, but nothing specific 
 | 0301 | Del dicho al hecho hay mucho trecho ↔ Tra il dire e il fare c'è di mezzo il mare | needs_review | 0/2 verified | Drafted by Claude 2026-08-01 from a 12-item monthly-calendar carousel by @learnandloveitalian — THE ITALIAN REVIEWER'S OWN ACCOUNT, so tier A on the Italian side: he is teaching these himself, which i |
 | 0302 | La cabra siempre tira al monte ↔ Il lupo perde il pelo ma non il vizio | needs_review | 0/2 verified | Drafted by Claude 2026-08-01 from a 12-item monthly-calendar carousel by @learnandloveitalian — THE ITALIAN REVIEWER'S OWN ACCOUNT, so tier A on the Italian side: he is teaching these himself, which i |
 | 0308 | Tarde o temprano ↔ Prima o poi | needs_review | 0/2 verified | IT REVIEWER: is 'prima o poi' genuinely fixed in that order, or does 'poi o prima' ever occur? Drafted by Claude 2026-08-01 from a 19-item binomial set by @ines.tutoring — TIER C, an Instagram tutor w |
+| 0311 | Ser un agarrado ↔ Avere il braccino corto | needs_review | 0/2 verified | IT REVIEWER: confirm the diminutive is obligatory — the whole second half of the bridge rests on braccino rather than braccio being the fixed form. |
 
 ---
 

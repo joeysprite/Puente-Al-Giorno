@@ -1,6 +1,6 @@
 # Un puente al giorno — Bank
 
-**Last updated:** 2026-08-12 | **Total entries:** 221 | **Approved:** 129
+**Last updated:** 2026-08-14 | **Total entries:** 223 | **Approved:** 129
 
 _Regenerate with `node tools/build-bank.mjs` any time the bank changes. This file is generated — edit bank/*.json, not this._
 
@@ -11,7 +11,7 @@ _Regenerate with `node tools/build-bank.mjs` any time the bank changes. This fil
 | Status | Count |
 |--------|-------|
 | approved | 129 |
-| needs_review | 72 |
+| needs_review | 74 |
 | draft | 20 |
 
 ---
@@ -296,6 +296,8 @@ These are marked `approved` but their own `review.notes` field still contains la
 | 0307 | Paso a paso | Passo dopo passo | collocation | A2 | 2 | needs_review | process, gradual, time |
 | 0308 | Tarde o temprano | Prima o poi | marker | B1 | 2 | needs_review | time, inevitability, discourse |
 | 0309 | Vísteme despacio que tengo prisa | La gatta frettolosa fece i gattini ciechi | proverb | B2 | 3 | needs_review | haste, patience, animals |
+| 0310 | No entender ni papa | Non capirci un tubo | idiom | B1 | 2 | needs_review | incomprehension, food, euphemism |
+| 0311 | Ser un agarrado | Avere il braccino corto | idiom | B1 | 2 | needs_review | money, body, character |
 
 ---
 

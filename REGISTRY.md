@@ -1,6 +1,6 @@
 # Expression registry — master list
 
-**Generated** 2026-08-12 by `tools/build-registry.mjs`. Do not hand-edit.
+**Generated** 2026-08-14 by `tools/build-registry.mjs`. Do not hand-edit.
 
 One row per **expression**, not per pairing. CANDIDATES.md answers "what pairings are
 we considering"; this answers "what expressions do we know about, and what has each one
@@ -12,11 +12,11 @@ been matched to". Two things only this view makes visible:
 
 | Status | Count |
 |---|---|
-| banked | 438 |
+| banked | 442 |
 | candidate | 435 |
 | rejected | 20 |
 | no-partner-found | 19 |
-| **total expressions** | **912** |
+| **total expressions** | **916** |
 
 ---
 
@@ -82,7 +82,7 @@ unless there is a new reason to.
 
 ---
 
-## Full registry (912)
+## Full registry (916)
 
 | Expression | Lang | Status | Partner(s) | Source |
 |---|---|---|---|---|
@@ -138,6 +138,7 @@ unless there is a new reason to.
 | Auguri, mamma! | it | banked | ¡Feliz Día de la Madre! (0110) | bank/0110 |
 | Avere grilli per la testa | it | banked | Tener pájaros en la cabeza (0074) | bank/0074 |
 | Avere i numeri | it | banked | Tener madera de (0242) | bank/0242 |
+| Avere il braccino corto | it | banked | Ser un agarrado (0311) | bank/0311 |
 | Avere il cuore a pezzi | it | banked | Tener el corazón hecho pedazos (0088) | bank/0088 |
 | Avere il cuore in mano | it | banked | Hablar con el corazón en la mano (0276) | bank/0276 |
 | Avere l'acqua alla gola | it | banked | Estar con el agua al cuello (0072) | bank/0072 |
@@ -374,6 +375,7 @@ unless there is a new reason to.
 | Mucho ruido y pocas nueces | es | banked | Tutto fumo e niente arrosto (0059) | bank/0059 |
 | No caber en sí | es | banked | Non stare più nella pelle (0248) | bank/0248 |
 | No dejes para mañana lo que puedas hacer hoy | es | banked | Chi ha tempo non aspetti tempo (0063) · Non rimandare a domani… | bank/0063, IT proverb list (Joe) |
+| No entender ni papa | es | banked | Non capirci un tubo (0310) | bank/0310 |
 | No es oro todo lo que reluce | es | banked | Non è tutto oro quel che luccica (0300) | bank/0300 |
 | No está el horno para bollos | es | banked | Non è aria (0115) | bank/0115 |
 | No hay dos sin tres | es | banked | Non c'è due senza tre (0283) | bank/0283, europassitalian.com |
@@ -387,6 +389,7 @@ unless there is a new reason to.
 | Nochebuena | es | banked | La vigilia di Natale (0292) | bank/0292 |
 | Non avere peli sulla lingua | it | banked | No tener pelos en la lengua (0007) | bank/0007 |
 | Non c'è due senza tre | it | banked | No hay dos sin tres (0283) | bank/0283, europassitalian.com |
+| Non capirci un tubo | it | banked | No entender ni papa (0310) | bank/0310 |
 | Non chiudere occhio | it | banked | No pegar ojo (0017) | bank/0017 |
 | Non è aria | it | banked | No está el horno para bollos (0115) | bank/0115 |
 | Non è tutto oro quel che luccica | it | banked | No es oro todo lo que reluce (0300) | bank/0300 |
@@ -466,6 +469,7 @@ unless there is a new reason to.
 | Sentire volare una mosca | it | banked | No oír ni el vuelo de una mosca (0261) | bank/0261 |
 | Ser cuatro gatos | es | banked | Essere quattro gatti (0078) | bank/0078 |
 | Ser pan comido | es | banked | Essere un gioco da ragazzi (0013) | bank/0013 |
+| Ser un agarrado | es | banked | Avere il braccino corto (0311) | bank/0311 |
 | Ser un hacha | es | banked | Essere in gamba (0254) | bank/0254, IT reviewer (own material) |
 | Ser un hueso duro de roer | es | banked | Essere un osso duro (0249) | bank/0249 |
 | Ser un manirroto | es | banked | Avere le mani bucate (0071) | bank/0071 |
