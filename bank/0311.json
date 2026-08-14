@@ -1,0 +1,83 @@
+{
+  "id": "0311",
+  "type": "idiom",
+  "cue": "How do you say someone never puts their hand in their pocket?",
+  "es": {
+    "text": "Ser un agarrado",
+    "literal": "to be a clenched one",
+    "meaning": "To be mean with money; to avoid paying whenever possible.",
+    "example": "Nunca invita ni un café: es un agarrado.",
+    "exampleTranslation": "He's never once bought a coffee — he's tight-fisted.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Widely used; MX also has 'codo' for the same idea, which is arguably the better MX anchor — reviewer to decide.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/agarrado",
+        "headword": "agarrado",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere il braccino corto",
+    "literal": "to have the little arm short",
+    "meaning": "To be mean with money; to avoid reaching for one's wallet.",
+    "example": "Non offre mai niente: ha il braccino corto.",
+    "exampleTranslation": "He never gets a round in — his arms don't reach his pockets.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/braccio/",
+        "headword": "braccio",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Italian pictures the moment of not paying: the arm is too short to reach the pocket, so the wallet stays where it is. Spanish pictures the hand instead, closed and holding on — agarrado, from agarrar, to grip. One language shortens the reach, the other tightens the grip. Note what Italian does to the arm on the way: braccino, not braccio, a diminutive that makes the meanness small and faintly ridiculous rather than sinister.",
+    "tags": [
+      "interference_risk",
+      "register_differs"
+    ],
+    "interference": {
+      "es_to_it": "There is no Spanish equivalent of the diminutive doing this work — 'braccio corto' without the -ino is understood but loses the mockery, and the fixed form is braccino. Note also that Italian describes the behaviour with avere plus a body part, where Spanish labels the person with a bare adjective.",
+      "it_to_es": "'Tener el brazo corto' is not Spanish. The image swaps to the hand, and it names the person rather than the gesture: es un agarrado. Watch the regional layer too — Mexico has 'ser codo', elbow rather than hand, which is not the same body part and is not universal."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "money",
+    "body",
+    "character"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "ES ANCHOR IS THE OPEN QUESTION. I chose 'ser un agarrado' because it is pan-regional and RAE-listed, but MX's 'ser codo' is at least as common there and would give a THREE-WAY body-part contrast — Italian arm, Spanish hand, Mexican elbow — which is a better entry than the one I have drafted. ES REVIEWER, please decide the anchor; if codo wins, this entry should be re-drafted around it and the bridge rewritten. SATURATION: the bank already has 0071 (ser un manirroto / avere le mani bucate) on the OPPOSITE trait, overspending, and it also uses hands. These two are natural opposites and should not be scheduled near each other. IT REVIEWER: confirm the diminutive is obligatory — the whole second half of the bridge rests on braccino rather than braccio being the fixed form. Drafted by Claude 2026-08-14 from a @learnandloveitalian basic-vs-idiom carousel — TIER A on the Italian side (the reviewer's own account, he teaches these). That weight does NOT extend to the Spanish partner or the bridge, which are Claude's. SOURCES NOT HUMAN-VERIFIED."
+  },
+  "createdOn": "2026-08-14",
+  "retiredReason": null
+}

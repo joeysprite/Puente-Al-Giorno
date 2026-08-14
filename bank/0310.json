@@ -1,0 +1,83 @@
+{
+  "id": "0310",
+  "type": "idiom",
+  "cue": "How do you say you didn't follow any of that?",
+  "es": {
+    "text": "No entender ni papa",
+    "literal": "not to understand even a potato",
+    "meaning": "To understand nothing at all of what is being said.",
+    "example": "Me explicó el contrato dos veces y no entendí ni papa.",
+    "exampleTranslation": "He talked me through the contract twice and I didn't follow a word.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://argot_es.es-academic.com/4400/no_entender_ni_papa",
+        "headword": "no entender ni papa",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Non capirci un tubo",
+    "literal": "not to understand a pipe about it",
+    "meaning": "To understand nothing at all of what is being said.",
+    "example": "Mi ha spiegato il contratto due volte e non ci ho capito un tubo.",
+    "exampleTranslation": "He talked me through the contract twice and I didn't follow a word.",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "De Mauro",
+        "url": "https://dizionario.internazionale.it/parola/tubo",
+        "headword": "tubo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages measure total incomprehension against a small object, and pick objects that could hardly be less alike. Spanish reaches for a potato — and the same frame takes other fillers, ni jota, the letter J, the simplest stroke there is, so that not knowing it means knowing nothing. Italian reaches for a pipe, and the pipe is not innocent: De Mauro records tubo as a colloquial stand-in for nothing in negative sentences, but also, in another sense entirely, as a coarse word for the male anatomy. The tube is a polite substitution for something ruder, which is why the phrase sounds mild and is not quite.",
+    "tags": [
+      "register_differs",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The clitic is obligatory and easy to lose: non CI capisco un tubo, where ci points at the thing you are failing to understand. Drop it and the sentence reads as understanding no pipes. Register also steps down — tubo is a euphemism, so the Italian is a rung coarser than the Spanish and does not belong in an exam or a formal complaint.",
+      "it_to_es": "Spanish has no clitic to carry across: no entiendo ni papa, nothing between the verb and the noun. And note that the Spanish frame is productive where the Italian is fixed — ni papa, ni jota, ni pío all work, so the object can be swapped in a way tubo cannot."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "incomprehension",
+    "food",
+    "euphemism"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "THE EUPHEMISM FINDING IS THE ENTRY'S BEST CONTENT AND ALSO ITS RISK. De Mauro's `tubo` entry carries both the 'niente' sense (8, colloq.) and a separate vulgar/derogatory sense for male anatomy (7), and Italian usage sites describe tubo in this phrase as a 'formula parafonica' — a sound-alike substitution for a coarser word. I have therefore set it.formality to avoid_in_exam against the Spanish neutral. IT REVIEWER, THIS DECIDES THE REGISTER FIELDS: is 'non capirci un tubo' actually felt as coarse by speakers today, or has it bleached to the point of being unremarkable? If bleached, formality should match the Spanish and the euphemism belongs in the bridge as trivia rather than as a warning. ES REVIEWER: 'ni papa' is Peninsular-attested in the sources I found (Diccionario del Argot, corpus citations). Is it as live in MX, or does MX prefer 'ni maíz', 'ni jota', or a vulgar form? regions is set pan-regional on assumption — trim it. CROSS-REFERENCE, not for cards: CANDIDATES.md L182 flags 'rompere le scatole' as another euphemism-for-a-vulgarity pair; if that one is ever drafted, the two together could carry a themed note on how both languages soften the same kind of word. Drafted by Claude 2026-08-14 from a @learnandloveitalian basic-vs-idiom carousel — TIER A on the Italian side (the reviewer's own account, he teaches these). That weight does NOT extend to the Spanish partner or the bridge, which are Claude's. SOURCES NOT HUMAN-VERIFIED."
+  },
+  "createdOn": "2026-08-14",
+  "retiredReason": null
+}
