@@ -68,8 +68,8 @@ const label = (text, colour) =>
 // since bgcolor is what Outlook actually honors on a td.
 const side = (s, colour, langLabel) => `
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid ${C.rule};border-top:0;">
-    <tr><td bgcolor="${colour}" style="background:${colour};padding:8px 16px;">
-      <span style="font-family:${MONO};font-size:12px;letter-spacing:2px;text-transform:uppercase;color:${C.paper};">${esc(langLabel)}</span>
+    <tr><td bgcolor="${colour}" style="background:${colour};padding:9px 16px;">
+      <span style="font-family:${MONO};font-size:13px;font-weight:bold;letter-spacing:1.5px;text-transform:uppercase;color:${C.paper};">${esc(langLabel)}</span>
     </td></tr>
     <tr><td style="padding:14px 16px 16px;">
       <p style="margin:0 0 6px;font-family:${SERIF};font-size:27px;line-height:1.25;color:${colour};">${esc(s.text)}</p>
