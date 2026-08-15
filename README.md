@@ -1,73 +1,94 @@
-# Push bundle — 2026-08-14
+# Un puente al giorno
 
-Everything currently out of sync between this session and the repo. Folders
-mirror the repo root. 103 files.
+A daily Spanish–Italian expression pair, and the bridge between them: what
+carries across, what doesn't, and the specific mistake a speaker of one language
+makes in the other.
 
-## Config — closes two long-standing gaps
+Example — same kitchen image, different verdicts:
 
-**`overrides.json`** — the full Aug 10 – Sep 13 editorial calendar written in
-as overrides (36 entries, up from 2). Until now this calendar existed only in
-chat, so `schedule.mjs` proposed different entries for every date. Validated
-by running `buildYear()` against it: **all 35 dates reproduce the calendar
-exactly, zero mismatches.** Weekend pairs are written as two dates sharing one
-entry, so either day resolves correctly.
+| | |
+|---|---|
+| **Dar la vuelta a la tortilla** (ES) | to flip the omelette — to turn a situation around, often triumphantly |
+| **Rivoltare la frittata** (IT) | to flip the frittata — to spin a situation to dodge blame |
 
-**`events.json`** — adds a `us_labor_day` event (Sep 7, 2026).
+A Spanish speaker describing their team's comeback as *rivoltare la frittata* has
+just accused themselves of spin. That gap is the product.
 
-**`bank/0060.json`** — event tag corrected `ferragosto` → `us_labor_day`. The
-entry (*hacer puente / fare il ponte*) is placed on Labor Day in the calendar,
-but its tag was firing it on Aug 15. Flagged repeatedly across sessions;
-fixed here. Note the events schema is fixed month/day, so Labor Day is encoded
-as Sep 7 — correct for 2026 only, and noted in the event's own `note` field.
+**Who it's for:** intermediate learners — the plateau where beginner material is
+too easy, native material is too hard, and idiom is exactly what's missing. 84%
+of approved entries are CEFR B1–B2.
 
-## Bank — learner-facing text cleanup
+---
 
-Five entries whose `bridge.note` leaked internal references into text that
-renders on cards:
+## Status
 
-| Entry | Was | Now |
-|---|---|---|
-| 0078 | "The freakiest twin in the bank" | "A freakishly exact twin" |
-| 0098 | "the third temper idiom in the bank" | "Italian has more than one way to say it" |
-| 0113 | "one of the few genuine one-to-one calques in the bank" | "a genuine one-to-one calque, which is rarer than it sounds" |
-| 0211 | "The pair exists in the bank to say so out loud" | "Worth saying out loud, because not many are" |
-| 0244 | "one of the few entries in the bank whose job is reassurance" | "one of the rare pairs whose job is reassurance" |
+| | |
+|---|---|
+| Entries | 152 total · 129 approved · 20 draft · 3 retired |
+| Reviewed by | native Spanish (Mexican) and native Italian speakers |
+| Published | **nothing yet** — no Instagram posts, site is in waitlist mode, no email sent |
 
-Each keeps the original editorial point. 0078's fix was made twice before and
-lost to container resets without reaching the repo.
+---
 
-Verified after editing: no remaining `bank` self-references or raw entry IDs in
-any `bridge.note`; all bank JSON parses; `tools/validate.mjs` passes (221
-entries sound, 129 approved).
+## How it works
 
-## Tool
+Content lives as one JSON file per entry in `bank/`. Everything else is
+generated from it — the website, social cards, reviewer worklists, the schedule.
+There is no database and no server; generators write files, CI commits them, and
+Netlify serves them.
 
-**`tools/build-daily-carousel.mjs`** — the carousel generator. Has never been
-in the repo despite every batch depending on it.
+Two rules do most of the work:
+
+- **Nothing publishes without native sign-off.** An entry can only be `approved`
+  if a native speaker of each language is recorded against it, and reviewer ids
+  are checked against an allowlist in `reviewers.json`. This is enforced by
+  `validate.mjs`, not by memory.
+- **The day's entry is computed, not stored.** `schedule.mjs` maps a date to an
+  entry as a pure function, so the calendar can't develop gaps.
+
+## Quick start
+
+```bash
+npm install
+node tools/validate.mjs bank reviewers.json events.json   # must PASS
+node tools/schedule.mjs 2026 --check                       # scheduler invariants
+node tools/build-landing.mjs --today --waitlist            # rebuild the site
+```
+
+Card and image generators need font files, which are not in the repo (see
+`OPERATIONS.md`). Text, HTML, and validation work without them.
+
+## Layout
 
 ```
-node tools/build-daily-carousel.mjs --entry 0080 --date 2026-08-17
-node tools/build-daily-carousel.mjs --entry 0016 --date 2026-08-22 --end 2026-08-23
+bank/              one JSON file per entry — the source of truth
+tools/             generators and validators
+reviewers.json     allowlist of humans who may sign off
+landing/           the generated website
+alternatives.json  competing pairings under consideration
+CANDIDATES.md      sketched pairs not yet written up
 ```
 
-`--cover split` renders the previous 5-panel layout; `--datestyle`, `--end`,
-`--allow-draft`, `--out` also available.
+## Documentation
 
-## Cards
+| File | For |
+|---|---|
+| `OVERVIEW.md` | what this is and where it stands — start here |
+| `OPERATIONS.md` | services (Netlify, Buttondown, Instagram), runbook, known gaps |
+| `SCHEMA.md` | entry format, field by field |
+| `SCHEDULING.md` | how a date becomes an entry |
+| `HOW-IT-WORKS.md` | internal architecture |
+| `WHITEPAPER.md` | what native review caught in AI-drafted content, and what it means |
 
-**`landing/social/wk-*.png`** — 24 posts × 4 panels for Aug 17 – Sep 13, on
-the current template. All 96 checked for frame overflow; none.
+## A note on drafting
 
-## Not included / still open
+Entries are drafted with AI assistance and verified by paid native speakers.
+Published reference books and dictionaries are used to establish that an
+expression exists and what it means; whether it is *natural* is a judgment only a
+native reviewer makes. Examples are written fresh, never copied from sources.
 
-- **`tools/build-teaser.mjs` in the repo is the original.** Bilingual months,
-  `--end` weekend ranges and the parameterized launch line were lost in a
-  container reset. Standalone date cards and `--cover split` panel 1 will
-  render in the old single-language style until that work is redone.
-- Six entries have reviewer placeholders or unresolved region questions in
-  `es.regionNote` (0210, 0254, 0255, 0273, 0288, 0305). No generator renders
-  that field today, so nothing ships wrong — but it would if a future format
-  picks it up.
-- Aug 10–16 cards are not in this bundle; they were delivered earlier and are
-  unchanged except 0078's panel 4, which this bundle's bank fix would alter on
-  regeneration.
+What review actually caught is written up in `WHITEPAPER.md`. The short version:
+across 268 side-reviews, reviewers raised 29 objections. Three were expressions
+the Italian reviewer didn't recognize, one of which she doubted existed at all.
+The other 26 were real expressions presented too broadly — right in one country,
+register, or category, and labeled as general.
