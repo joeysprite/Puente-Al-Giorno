@@ -1,6 +1,6 @@
 # Expression registry — master list
 
-**Generated** 2026-08-14 by `tools/build-registry.mjs`. Do not hand-edit.
+**Generated** 2026-08-15 by `tools/build-registry.mjs`. Do not hand-edit.
 
 One row per **expression**, not per pairing. CANDIDATES.md answers "what pairings are
 we considering"; this answers "what expressions do we know about, and what has each one

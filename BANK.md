@@ -1,6 +1,6 @@
 # Un puente al giorno — Bank
 
-**Last updated:** 2026-08-14 | **Total entries:** 223 | **Approved:** 129
+**Last updated:** 2026-08-15 | **Total entries:** 223 | **Approved:** 129
 
 _Regenerate with `node tools/build-bank.mjs` any time the bank changes. This file is generated — edit bank/*.json, not this._
 

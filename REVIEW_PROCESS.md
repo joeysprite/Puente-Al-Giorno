@@ -143,6 +143,30 @@ it's rising, entries are being promoted faster than they're being reviewed.
 `exampleTranslation` are **learner-facing**. They appear on cards, in emails and on the
 site. They must never contain:
 
+- **Pointers to other cards.** No "see also", "compare X", "the sibling phrase Y",
+  "as in the entry about Z". A subscriber sees ONE card, in isolation, on a day they
+  did not choose. They cannot look up the card being referenced, may never receive it,
+  and may have seen it four months ago. A cross-reference is meaningless to them and
+  implies a reading order the product does not have. This applies to naming the other
+  expression as well as to citing its id — replacing "see 0017" with "see non chiudere
+  occhio" does not fix it. Keep the linguistic point and rephrase it to stand alone:
+  instead of "the same ne as in averne fin sopra i capelli", write "that ne is one of
+  Italian's hardest-working particles". Audited 2026-08-14: 14 entries were pointing at
+  other cards, several introduced the same day while removing bare ids. Re-run before
+  any push:
+
+  ```
+  node -e "const fs=require('fs');
+  const RE=/\b(see also|compare |cross-?referen|the sibling|neighbouring pair|banked at|another entry)/i;
+  for(const f of fs.readdirSync('bank').filter(x=>x.endsWith('.json'))){
+    const e=JSON.parse(fs.readFileSync('bank/'+f));
+    for(const v of [e.bridge.note,e.bridge.interference.es_to_it,e.bridge.interference.it_to_es])
+      if(v&&RE.test(v)) console.log(e.id);}"
+  ```
+
+  Genuine cross-references — scheduling collisions, saturation warnings, themed threads —
+  belong in `review.notes`, which never ships and may use ids freely.
+
 - **Bank entry ids.** A subscriber has no idea what 0017 is. Cross-references are welcome
   and often valuable — name the expression instead ("compare *estar en las nubes*"), never
   the number. Audited 2026-08-01: 19 entries were leaking ids into bridge or interference
