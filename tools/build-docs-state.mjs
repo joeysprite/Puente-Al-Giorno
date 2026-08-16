@@ -139,7 +139,7 @@ ${END}`;
 
 /* ---------- inject ---------- */
 
-const targets = ["OVERVIEW.md", "OPERATIONS.md"].filter(has);
+const targets = ["OVERVIEW.md", "OPERATIONS.md", "README.md"].filter(has);
 let stale = [];
 
 for (const file of targets) {
