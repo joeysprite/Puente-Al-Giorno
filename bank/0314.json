@@ -1,0 +1,72 @@
+{
+  "id": "0314",
+  "type": "formula",
+  "cue": "What's the parade the night before Three Kings' Day, and does Italy have an equivalent?",
+  "es": {
+    "text": "La cabalgata de Reyes",
+    "literal": "the ride/parade of the Kings",
+    "meaning": "The evening parade of January 5th in which the Three Kings appear in person — on floats, camels, or horseback — throwing sweets to the crowd along the route. It's the emotional peak of the whole season for children, who wake up to their gifts the next morning. First documented in Alcoy in 1866 (celebrated continuously since 1885), it spread across Spain through the early 20th century, reached Mexico in 1975 (Irapuato), and later Czechia and Poland.",
+    "example": "Toda la familia salió a ver la cabalgata la noche del 5 de enero.",
+    "exampleTranslation": "The whole family went out to watch the parade on the night of January 5th.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": ["mx", "es"],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/cabalgata",
+        "headword": "cabalgata",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Il corteo dei Magi",
+    "literal": "the procession of the Magi",
+    "meaning": "A single historic Epiphany procession unique to Milan, not a nationwide custom: costumed figures walk from the Duomo to the Basilica di Sant'Eustorgio, pausing to reenact the Magi's encounter with Herod, and ending with gifts laid before a living nativity scene. Documented since 1336, tied to the belief that Sant'Eustorgio once held the Magi's actual relics — mostly carried off to Cologne in the 12th century, with a fragment returned to Milan only in 1903. Most of Italy has no equivalent civic parade for January 6th; the day's popular figure elsewhere is la Befana, not a procession of Kings.",
+    "example": "Il 6 gennaio, il corteo dei Magi attraversa il centro di Milano fino a Sant'Eustorgio.",
+    "exampleTranslation": "On January 6th, the procession of the Magi crosses central Milan on its way to Sant'Eustorgio.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": ["it"],
+    "regionNote": "Specific to Milan. Most Italian cities have no equivalent Epiphany procession — unlike la cabalgata in Spain and Mexico, this is not a nationwide custom.",
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/corteo/",
+        "headword": "corteo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both trace back to the same Gospel scene and land in the same 24 hours of the calendar, but they are not the same kind of event, and treating them as equivalents undersells both. La cabalgata is modern and civic: first recorded in Alcoy in 1866, spread through Spain by the early 20th century, reached Mexico in 1975, and now happens in nearly every town of any size that speaks Spanish — it IS the mechanism of gift delivery, the night the Kings personally throw sweets to the crowd. Il corteo dei Magi is old and singular: a Milan-only procession documented since 1336, anchored to Sant'Eustorgio's centuries-old claim to have once held the Magi's actual relics, most of which the city lost to Cologne in the 12th century and only partly recovered in 1903. Its purpose is reenactment and veneration, not gift-giving — there is no equivalent in Turin, Rome, or Naples. A learner picturing 'the Italian cabalgata' is picturing something that, outside Milan, does not exist.",
+    "tags": ["interference_risk"],
+    "interference": {
+      "es_to_it": "A Spanish speaker expecting every Italian city to have its own cabalgata-equivalent on January 6th will find nothing outside Milan — and even the Milanese corteo doesn't hand out gifts; it's a historical pageant, not the vehicle for presents.",
+      "it_to_es": "An Italian used to the corteo as a single, centuries-old civic-religious event in one city will be surprised at how ordinary and near-universal cabalgatas are in Spain and Mexico: every town of any size runs one, organized as much by neighborhood associations and local businesses as by the church, existing specifically so the Kings can deliver presents in person."
+    }
+  },
+  "pin": null,
+  "pinWindow": {
+    "from": "01-05",
+    "to": "01-06"
+  },
+  "season": null,
+  "events": [],
+  "themes": ["calendar", "celebration", "religion"],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-15 at Joe's suggestion, as a companion to 0312 (Los Reyes Magos / La Befana) rather than a duplicate of it — 0312 covers who the day belongs to; this one covers the specific parade event, which is its own fixed collocation in Spanish ('vamos a ver la cabalgata') with no equivalent phrase on the Italian side. SOURCES NOT HUMAN-VERIFIED: RAE 'cabalgata' and Treccani 'corteo' are the general dictionary words, read via search, not opened by a person — note that RAE's own student dictionary entry for cabalgata names 'la víspera de Reyes Magos' directly in its definition, which is unusually on-the-nose confirmation for a general headword. THE HISTORICAL CLAIMS (Alcoy 1866/1885, Mexico 1975/Irapuato, Milan 1336, the Cologne relic theft and 1903 partial return) come from municipal, heritage-registry, and press sources, not from RAE or Treccani themselves — flagging clearly so no one mistakes secondary sourcing for dictionary sourcing. ES REVIEWER: confirm regions — cabalgatas are also established in Venezuela (1959) and elsewhere; I kept it to mx/es deliberately narrow rather than guess at the full list. IT REVIEWER: confirm the Milan-only claim holds — I looked for a comparable event elsewhere in Italy and found none, but this wants a native check, not just a search result. PLACEMENT: pinWindow 01-05..01-06 rather than a hard pin on either date, since the two halves of the pairing actually fall on different days (cabalgata = evening of the 5th, corteo = the 6th itself). Because 0312 already holds a hard pin on 01-06, expect the scheduler to resolve this one to the 5th in practice — deliberate, not a bug."
+  },
+  "createdOn": "2026-08-15",
+  "retiredReason": null
+}

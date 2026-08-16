@@ -1,0 +1,72 @@
+{
+  "id": "0313",
+  "type": "formula",
+  "cue": "What's the nightly ritual before Christmas in Mexico, and does Italy have anything like it?",
+  "es": {
+    "text": "Pedir posada",
+    "literal": "to ask for lodging",
+    "meaning": "To take part in the Mexican Advent ritual las posadas (16–24 December): each night a procession reenacts Mary and Joseph's search for shelter, going door to door and singing a call-and-response litany asking to be let in, until one house finally opens and the night's celebration begins.",
+    "example": "Cada noche del 16 al 24 de diciembre, los vecinos salen a pedir posada por la calle.",
+    "exampleTranslation": "Every night from the 16th to the 24th of December, the neighbors go out into the street to reenact the search for shelter.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": ["mx"],
+    "regionNote": "The word posada and the underlying Gospel story are understood everywhere Spanish is spoken, but the organized nine-night neighborhood ritual described here is strongly identified with Mexico — it is not a general Spain-wide practice, and its footprint elsewhere in Latin America is smaller and more private.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/posada",
+        "headword": "posada",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "La novena di Natale",
+    "literal": "the Christmas novena",
+    "meaning": "Nine days of prayer and song leading up to Christmas (16–24 December) — the same nine days, marking the nine months Jesus spent in Mary's womb. In its most visible form, especially in the South (Naples, Sicily, Abruzzo), it is carried by travelling zampognari — bagpipers — who play from house to house or in front of nativity scenes; further north it survives mainly as sung prayer inside church. There is no door-to-door 'ask and be turned away' dialogue: the Italian novena is a devotion performed, not a story reenacted.",
+    "example": "Durante la novena di Natale, gli zampognari suonano davanti al presepe.",
+    "exampleTranslation": "During the Christmas novena, the bagpipers play in front of the nativity scene.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": ["it"],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/novena/",
+        "headword": "novena",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same nine days, same reason for nine: Treccani's own encyclopedia entry traces the novena to nine days of prayer 'in memoria dei nove mesi passati da Gesù nel seno di Maria' — in memory of the nine months Jesus spent in Mary's womb — which is exactly the symbolism cited for the Mexican posadas' nine nights, each one standing for a month of the pregnancy. Same root, same math, different plot. Mexico built the nine days into a full participatory street drama: an assigned house each night, a sung dialogue between 'pilgrims' outside and 'innkeepers' inside who refuse them until the last verse, then a party and a piñata once the door opens. Italy kept the nine days as a devotion to be attended, not a scene to be acted out — prayer and music, most visibly zampognari playing outside a presepe, with no reenacted knocking or refusal. Neither is the 'original': the earliest documented posada, per Mexican archdiocesan sources, dates to 1587; the best-known Italian novena instance (Turin) is recorded from 1720 — but Treccani places the general nine-day devotional format back in the medieval period, common to Catholic practice on both sides of the Atlantic, so this is two branches of the same custom rather than one borrowed from the other.",
+    "tags": ["interference_risk"],
+    "interference": {
+      "es_to_it": "A Spanish speaker looking for Italy's version of las posadas — a full street procession going house to house asking to be let in — won't find one under that description. The nine days survive in Italy as prayer and music, most visibly zampognari playing outside a presepe, not as reenacted door-knocking.",
+      "it_to_es": "An Italian used to a quiet, largely musical novena will find the Mexican version far more theatrical and communal: a specific assigned house each night, a sung back-and-forth between the pilgrims and the household, and a piñata once the door finally opens — not just prayer, a small production."
+    }
+  },
+  "pin": null,
+  "pinWindow": {
+    "from": "12-16",
+    "to": "12-24"
+  },
+  "season": null,
+  "events": [],
+  "themes": ["calendar", "celebration", "religion", "family"],
+  "cefr": "B1",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-15 at Joe's suggestion (pair pedir posada with an appropriate Italian entry, if one exists). SOURCES NOT HUMAN-VERIFIED — RAE 'posada' and Treccani 'novena' read via search, not opened by a person. WHY THIS PAIRING AND NOT A LITERAL TRANSLATION: there is no Italian ritual matching the Mexican posada's door-to-door theater — I looked specifically for one (novena traditions, zampognari, presepe vivente) before settling on 'la novena di Natale' as the honest match: same nine days, same Mary's-nine-months symbolism per Treccani's own encyclopedia entry, same devotional root, but no reenacted dialogue on the Italian side. If Joe or a reviewer would rather NOT ship this pairing precisely because the traditions diverge this much, that's a legitimate call — flagging rather than deciding it myself. ES REVIEWER: confirm whether to widen regions beyond Mexico (Guatemala has posadas too, in smaller form) or keep the regionNote as the honest hedge. IT REVIEWER: confirm register — 'novena' may read slightly more formal/devotional than the colloquial energy of 'pedir posada,' and confirm whether zampognari is still the fairest example to lead with or whether it undersells how the tradition is actually experienced today, especially outside the South. PLACEMENT: pinWindow 12-16 to 12-24, same mechanism as 0077 (no year-boundary crossing, so the 0291 bug does not apply here). Because 0292 already holds a hard pin on 12-24 and 0290 on 12-25, the scheduler will place this somewhere in 12-16..12-23 in practice, not necessarily on the 24th — worth knowing, not a defect."
+  },
+  "createdOn": "2026-08-15",
+  "retiredReason": null
+}

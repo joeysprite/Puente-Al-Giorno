@@ -1,0 +1,72 @@
+{
+  "id": "0312",
+  "type": "formula",
+  "cue": "Who brings the gifts on the last night of the holidays?",
+  "es": {
+    "text": "Los Reyes Magos",
+    "literal": "the Magi Kings",
+    "meaning": "The Three Wise Men — Melchior, Caspar, and Balthasar — who in Spanish and Latin American tradition visit on the night of January 5th bearing gifts. January 6th is their day, and for many families it outweighs Christmas as the real gift-giving occasion.",
+    "example": "Los niños dejaron sus zapatos listos para los Reyes Magos.",
+    "exampleTranslation": "The children left their shoes ready for the Three Kings.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": ["mx", "es", "ar", "co"],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/rey",
+        "headword": "rey",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "La Befana",
+    "literal": "(a worn-down form of 'Epifania' itself)",
+    "meaning": "The folk personification of Epiphany (6 January): an old woman who flies on a broomstick and leaves sweets for good children and coal for bad ones on the night of the 5th–6th. The 6th is a national holiday — schools, offices, and many shops close, though supermarkets and malls in larger towns often stay open on reduced, Sunday-style hours.",
+    "example": "I bambini aspettano la Befana con la calza appesa al camino.",
+    "exampleTranslation": "The children wait for la Befana with their stocking hung by the fireplace.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": ["it"],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/befana/",
+        "headword": "befana",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same day, same reason on paper — both trace straight back to the Magi's visit to Bethlehem — but the folk face of January 6th is entirely different in each language. Spanish keeps the Kings themselves in the spotlight: a parade the evening before (la cabalgata), letters written to them by name, and children waiting up for Melchior, Gaspar, and Baltasar in person. Italian folklore swapped them out for someone else entirely: a witch-like old woman, la Befana, whose name is just 'Epifania' worn down by centuries of speech. Treccani calls her a ricordo dei re Magi — a memory of the Magi, not a translation of them — which is the whole trap in one phrase. Both traditions agree the day closes out the holidays rather than opening them: L'Epifania tutte le feste porta via, 'Epiphany carries off all the holidays,' is proverbial enough that Treccani prints it right inside the dictionary entry.",
+    "tags": ["interference_risk"],
+    "interference": {
+      "es_to_it": "A Spanish speaker who asks about 'i Re Magi' expecting the day's main character gets the theological answer, not the cultural one — the Magi are honored in name only on January 6th. The presents, the mischief, and the broomstick all belong to la Befana, a figure Spanish has nothing that maps onto.",
+      "it_to_es": "An Italian expecting a quiet, single overnight visitor will be caught off guard by the scale of the Spanish version: a nationwide evening parade with the Reyes appearing in person the night before, not just a stocking filled while everyone sleeps."
+    }
+  },
+  "pin": {
+    "month": 1,
+    "day": 6
+  },
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": ["calendar", "celebration", "religion"],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-15 at Joe's request, to fill Reyes/Epifania — previously fully dark, no entry anywhere in the bank referenced Reyes Magos, Epifania, or Befana. SOURCES NOT HUMAN-VERIFIED: RAE 'rey' entry (Rey Mago sense) and Treccani 'befana' entry were read via search, not opened and verified by a person. THE PROVERB IN THE BRIDGE ('Epifania tutte le feste porta via') is sourced directly from inside the Treccani 'epifania' dictionary entry, not a secondary source — genuinely proverb-grade and could earn its own entry someday. ES REVIEWER: confirm the capitalization convention and whether MX phrasing diverges from the ES example given. IT REVIEWER: confirm 'la Befana' register — Treccani marks it as the standard popular name, not dialectal, but wants a native check — and confirm whether asking about 'i Re Magi' on Jan 6 genuinely reads as a miss in practice; the interference claim is my inference from the dictionary entries, not attested usage. PLACEMENT: pin (month 1, day 6), matching the convention set by 0100/0290/0292 rather than driving it off the 'reyes' key already sitting unused in events.json — same open question left on those three: Joe may prefer moving this whole greetings batch onto events instead of pins."
+  },
+  "createdOn": "2026-08-15",
+  "retiredReason": null
+}
