@@ -2,12 +2,7 @@
   "pin": null,
   "pinWindow": null,
   "season": null,
-  "events": [
-    {
-      "key": "us_labor_day",
-      "requiresEvent": true
-    }
-  ],
+  "events": [],
   "themes": [
     "holidays",
     "work"
@@ -19,7 +14,7 @@
     "esReviewer": "native-mx-01",
     "itReviewer": "native-it-03",
     "reviewedOn": "2026-07-24",
-    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: ES example replaced with reviewer's own sentence (was: \"El jueves es fiesta, así que hacemos puente.\"); fresh English translation written. | 2026-07-24: it→es trap confirmed and sharpened. Joe flagged that 'hacer el puente' is not the holiday expression; verified against DLE 'puente', where sense 7 gives 'Hacer puente' (no article) for the vacation run, while sense 9 is the gymnastic exercise — which is what 'hacer el puente' actually denotes. The article does not merely mark the phrase as foreign; it switches it to a different meaning. Claude had wrongly doubted this trap; the doubt is withdrawn. | 2026-07-24: APPROVED. Sources confirmed by jf against source-checklist-3.md. Open questions on this entry were resolved by Joe the same day — see the preceding notes. | 2026-07-26: bridge reviewed and approved by Joe (editor-led bridge review — the batch of approved entries that carried no interference_risk tag and had therefore never been scoped into any earlier pass). Traps accepted as written. | 2026-08-14: event tag corrected ferragosto -> us-labor-day. The entry (hacer puente / fare il ponte) is placed on US Labor Day in the editorial calendar; the ferragosto tag was a leftover from an earlier plan and made schedule.mjs fire it on Aug 15."
+    "notes": "Authored as a schema demo; sources not human-verified; reviewer sign-off pending. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-24: ES example replaced with reviewer's own sentence (was: \"El jueves es fiesta, así que hacemos puente.\"); fresh English translation written. | 2026-07-24: it→es trap confirmed and sharpened. Joe flagged that 'hacer el puente' is not the holiday expression; verified against DLE 'puente', where sense 7 gives 'Hacer puente' (no article) for the vacation run, while sense 9 is the gymnastic exercise — which is what 'hacer el puente' actually denotes. The article does not merely mark the phrase as foreign; it switches it to a different meaning. Claude had wrongly doubted this trap; the doubt is withdrawn. | 2026-07-24: APPROVED. Sources confirmed by jf against source-checklist-3.md. Open questions on this entry were resolved by Joe the same day — see the preceding notes. | 2026-07-26: bridge reviewed and approved by Joe (editor-led bridge review — the batch of approved entries that carried no interference_risk tag and had therefore never been scoped into any earlier pass). Traps accepted as written. | 2026-08-14 (Joe): ferragosto event link REMOVED. The entry previously carried events:[{key:'ferragosto', requiresEvent:true}], which made it EVENT-EXCLUSIVE — the scheduler would only ever place it in the mid-August window. It is now in general rotation, schedulable any day. Rationale: hacer puente / fare il ponte is year-round vocabulary in both languages and locking it to one week wasted it. NOTE the event itself is untouched: 'ferragosto' remains registered in events.json (15 Aug, window -4/+1) and can be relinked to this or another entry later. Nothing else in the bank references it, so that event key is currently unused."
   },
   "id": "0060",
   "type": "idiom",

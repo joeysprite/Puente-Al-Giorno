@@ -49,13 +49,13 @@
     ]
   },
   "bridge": {
-    "note": "Italian counts cases one by one (ogni), Spanish takes them wholesale (todo) — the same quantifier mirror as con ogni probabilità / con toda probabilidad. Once you see the pattern, both entries teach each other.",
+    "note": "Italian counts cases one by one (ogni), Spanish takes them wholesale (todo) — the same quantifier mirror that shows up wherever the two languages have to choose between counting one by one and taking the whole.",
     "tags": [
       "preposition_differs",
       "interference_risk"
     ],
     "interference": {
-      "es_to_it": "The ogni/toda split again (see con ogni probabilità): 'in tutto caso' is not Italian.",
+      "es_to_it": "The ogni/toda split again: 'in tutto caso' is not Italian.",
       "it_to_es": "'En cada caso' means literally in each case — the marker is en todo caso."
     }
   },
@@ -74,7 +74,7 @@
     "esReviewer": "native-mx-01",
     "itReviewer": "native-it-03",
     "reviewedOn": "2026-07-26",
-    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate."
+    "notes": "From Joe's Italian teacher's prepositions crash course, 2026-07-16. ES pairing chosen by Claude, unverified — reviewer to confirm. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate. CROSS-REF FIX 2026-08-14 (pass 2): removed a pointer to another bank card from a learner-facing field. Caught by tools/audit-crossrefs.mjs, which checks every shipping field against every other entry's headwords — the earlier pass only matched connectives like 'see also' and missed bare mentions like this one. Linguistic point kept and rephrased to stand alone."
   },
   "createdOn": "2026-07-16",
   "retiredReason": null,

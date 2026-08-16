@@ -56,7 +56,7 @@
     ],
     "interference": {
       "es_to_it": "Using 'caduto dalle nuvole' for a godsend miscasts you as the shocked one; the welcome arrival is 'piovuto dal cielo'.",
-      "it_to_es": "Using 'caído del cielo' for astonishment fails — Spanish surprise falls elsewhere: 'quedarse de piedra', turning to stone rather than falling."
+      "it_to_es": "Using 'caído del cielo' for astonishment fails — Spanish does not describe astonishment as falling at all — it reaches for going rigid, turning to stone."
     }
   },
   "pin": null,
@@ -75,7 +75,7 @@
     "esReviewer": "native-mx-01",
     "itReviewer": "native-it-03",
     "reviewedOn": "2026-07-24",
-    "notes": "Discovered via FluentU list (Joe, 2026-07-16); all content authored fresh, ES pairing by Claude — verify. False-friend-inside-imagery, same class as 0028. Hook candidate. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-23: REVERTED to draft — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03. | 2026-07-26: bridge reviewed and approved by Joe (editor-led bridge review — the batch of approved entries that carried no interference_risk tag and had therefore never been scoped into any earlier pass). Traps accepted as written. COPY FIX 2026-08-01: removed a bare bank ID from a learner-facing field (bridge/interference). Internal ids must never appear in shipping copy; cross-references now name the expression instead."
+    "notes": "Discovered via FluentU list (Joe, 2026-07-16); all content authored fresh, ES pairing by Claude — verify. False-friend-inside-imagery, same class as 0028. Hook candidate. Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. Override freely. | 2026-07-23: REVERTED to draft — validator requires verifiedOn/verifiedBy on all sources before 'approved'; none of the 296 bank-wide source citations have ever been opened by a human. See TODO §3. | 2026-07-24: approved — sources confirmed by jf (Joe) against the sign-off checklist; esReviewer=native-mx-01, itReviewer=native-it-03. | 2026-07-26: bridge reviewed and approved by Joe (editor-led bridge review — the batch of approved entries that carried no interference_risk tag and had therefore never been scoped into any earlier pass). Traps accepted as written. COPY FIX 2026-08-01: removed a bare bank ID from a learner-facing field (bridge/interference). Internal ids must never appear in shipping copy; cross-references now name the expression instead. CROSS-REF FIX 2026-08-14 (pass 2): removed a pointer to another bank card from a learner-facing field. Caught by tools/audit-crossrefs.mjs, which checks every shipping field against every other entry's headwords — the earlier pass only matched connectives like 'see also' and missed bare mentions like this one. Linguistic point kept and rephrased to stand alone."
   },
   "createdOn": "2026-07-16",
   "retiredReason": null,

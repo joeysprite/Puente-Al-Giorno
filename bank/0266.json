@@ -57,7 +57,7 @@
     ],
     "interference": {
       "es_to_it": "Same trap as its optimist twin: the glass is a bicchiere, never a vaso. Watch the adjective too — Italian vuoto, not 'vacuo', which exists in Italian but means vacuous in the abstract sense.",
-      "it_to_es": "Spanish takes vacío and the glass is a vaso. The same vaso/bicchiere false friend is waiting in the optimist's version, el vaso medio lleno, and in ahogarse en un vaso de agua."
+      "it_to_es": "Spanish takes vacío and the glass is a vaso. The vaso/bicchiere trap is not confined to this phrase: it waits in every idiom either language builds on a drinking glass."
     }
   },
   "pin": null,
@@ -75,7 +75,7 @@
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
-    "notes": "Drafted by Claude 2026-08-01, batch 5 (CANDIDATES.md Freebies 21, second half). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. SIBLING OF 0265; the candidate row listed both polarities together and the one-expression-one-entry norm says two entries, so this is the split. THE vuoto/vacuo NOTE IS MINE AND UNVERIFIED — I claim Italian 'vacuo' exists but is abstract-only. IT REVIEWER, confirm or cut. See the cluster saturation warning on 0265: three drafted entries now share drinking-glass vocabulary. COPY FIX 2026-08-01: removed a bare bank ID from a learner-facing field (bridge/interference). Internal ids must never appear in shipping copy; cross-references now name the expression instead."
+    "notes": "Drafted by Claude 2026-08-01, batch 5 (CANDIDATES.md Freebies 21, second half). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. SIBLING OF 0265; the candidate row listed both polarities together and the one-expression-one-entry norm says two entries, so this is the split. THE vuoto/vacuo NOTE IS MINE AND UNVERIFIED — I claim Italian 'vacuo' exists but is abstract-only. IT REVIEWER, confirm or cut. See the cluster saturation warning on 0265: three drafted entries now share drinking-glass vocabulary. COPY FIX 2026-08-01: removed a bare bank ID from a learner-facing field (bridge/interference). Internal ids must never appear in shipping copy; cross-references now name the expression instead. CROSS-REF FIX 2026-08-14: removed a pointer to another bank card from a learner-facing field. Standing rule: bridges and traps must stand alone — a subscriber sees one card and has no access to the rest of the bank, so 'see also X' and 'compare Y' are meaningless to them and imply a reading order the product does not have. The linguistic point was kept and rephrased to stand on its own; genuine cross-references belong in review.notes, which never ships."
   },
   "createdOn": "2026-08-01",
   "retiredReason": null

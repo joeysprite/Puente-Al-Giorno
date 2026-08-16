@@ -50,7 +50,7 @@
     ]
   },
   "bridge": {
-    "note": "The same forge, and this time Spanish is the one showing off: candente/repente rhymes, so the refrán arrives as a couplet, while Italian states the smithing plainly with a subordinate clause. The exact inversion of chi non risica non rosica, where the rhyme sits on the Italian side. Neither language rhymes on principle — each just got lucky with different proverbs.",
+    "note": "The same forge, and this time Spanish is the one showing off: candente/repente rhymes, so the refrán arrives as a couplet, while Italian states the smithing plainly with a subordinate clause. The rhyme does not always fall on the same side: Italian sometimes carries it and Spanish states the point plainly, and sometimes the reverse. Neither language rhymes on principle — each just got lucky with different proverbs.",
     "tags": [
       "shared_metaphor",
       "interference_risk"
@@ -76,7 +76,7 @@
     "esReviewer": "native-mx-01",
     "itReviewer": "native-it-03",
     "reviewedOn": "2026-07-26",
-    "notes": "From Joe's Italian proverb list 2026-07-18 (learner-site discovery; all glosses and examples authored fresh). ES counterpart chosen by Claude from recall — UNVERIFIED. Pairs with 0054 as a rhyme-inversion set — a themed two-day sequence. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate."
+    "notes": "From Joe's Italian proverb list 2026-07-18 (learner-site discovery; all glosses and examples authored fresh). ES counterpart chosen by Claude from recall — UNVERIFIED. Pairs with 0054 as a rhyme-inversion set — a themed two-day sequence. | 2026-07-26: bridge reviewed and approved by Joe. Traps accepted as written. Entry remains draft — sources still unverified, which is a separate gate. | 2026-07-26: APPROVED — sources confirmed by jf against source-checklist.md. Bridge was already reviewed and approved; this closes the second gate. CROSS-REF FIX 2026-08-14 (pass 2): removed a pointer to another bank card from a learner-facing field. Caught by tools/audit-crossrefs.mjs, which checks every shipping field against every other entry's headwords — the earlier pass only matched connectives like 'see also' and missed bare mentions like this one. Linguistic point kept and rephrased to stand alone."
   },
   "createdOn": "2026-07-18",
   "retiredReason": null
