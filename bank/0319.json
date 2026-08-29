@@ -1,0 +1,82 @@
+{
+  "id": "0319",
+  "type": "idiom",
+  "cue": "How do you say something moves at a hell of a pace?",
+  "es": {
+    "text": "Ir como un tiro",
+    "literal": "to go like a shot",
+    "meaning": "To move or run extremely fast; to work flawlessly and at speed.",
+    "example": "Le cambiaron la batería y ahora el coche va como un tiro.",
+    "exampleTranslation": "They put a new battery in and now the car flies.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/tiro",
+        "headword": "tiro",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Andare come un treno",
+    "literal": "to go like a train",
+    "meaning": "To move or run extremely fast; to work flawlessly and at speed.",
+    "example": "Gli hanno cambiato la batteria e adesso la macchina va come un treno.",
+    "exampleTranslation": "They put a new battery in and now the car flies.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://context.reverso.net/translation/italian-english/va+come+un+treno",
+        "headword": "andare come un treno",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages pick something fast and compare you to it, and the choice dates them differently. Spanish reaches for a gunshot — un tiro, instant, over before you hear it, an image available in any century. Italian reaches for a train, which is fast only by the standards of the century that invented it, and which is not really about top speed at all: a train is fast because it does not stop. The Spanish measures the burst; the Italian measures the not-slowing-down.",
+    "tags": [
+      "shared_metaphor",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Andare come un tiro' is not Italian — the comparison is fixed on the train. Note also that the Italian carries a second life Spanish does not: said of a person, va come un treno can be admiring in a physical, sometimes coarse way, so it is not a neutral compliment about someone's efficiency.",
+      "it_to_es": "Spanish will not use the train — 'ir como un tren' exists in Spain but means something else again, describing someone as strikingly attractive rather than fast. For speed Spanish fires a shot, and for a person's efficiency it would reach elsewhere entirely."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "speed",
+    "machines"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-08-26 from a @learnandloveitalian basic-vs-idiom carousel — TIER A on the Italian side, not on the Spanish or the bridge. SOURCES NOT HUMAN-VERIFIED and the IT citation is Reverso (corpus, not dictionary) — check whether Treccani or De Mauro carries 'andare come un treno' under `treno`, and replace if so. THE TWO SECONDARY SENSES ARE THE RISK AND BOTH ARE MINE: I claim (a) Italian 'va come un treno' said of a person can be a coarse physical compliment, and (b) Spanish 'estar como un tren' means attractive, not fast. If (b) is right it is a genuine false friend and the entry should probably be rebuilt around it rather than around speed — 'como un tren' meaning attractive in Spanish while 'come un treno' means fast in Italian is a sharper trap than the tiro/treno imagery split. BOTH REVIEWERS: please confirm or correct, and if (b) holds, flag whether the ES form is 'estar como un tren' (Peninsular) and whether it is current in MX at all — the entry may need a different ES anchor for a Mexican audience."
+  },
+  "createdOn": "2026-08-26",
+  "retiredReason": null
+}
