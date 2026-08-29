@@ -1,6 +1,6 @@
 # Expression registry — master list
 
-**Generated** 2026-08-15 by `tools/build-registry.mjs`. Do not hand-edit.
+**Generated** 2026-08-28 by `tools/build-registry.mjs`. Do not hand-edit.
 
 One row per **expression**, not per pairing. CANDIDATES.md answers "what pairings are
 we considering"; this answers "what expressions do we know about, and what has each one
@@ -12,11 +12,11 @@ been matched to". Two things only this view makes visible:
 
 | Status | Count |
 |---|---|
-| banked | 442 |
+| banked | 450 |
 | candidate | 435 |
+| no-partner-found | 21 |
 | rejected | 20 |
-| no-partner-found | 19 |
-| **total expressions** | **916** |
+| **total expressions** | **926** |
 
 ---
 
@@ -53,7 +53,7 @@ policy is switched on.
 | Dime con quién andas y te diré quién eres | es | dimmi con chi vai e ti dirò chi sei · Chi pratica lo zoppo impara a zoppicare |
 | Quedar a la altura de su zapatilla | es | fare una figuraccia · Fare la figura del cioccolataio |
 
-## No partner found (19)
+## No partner found (21)
 
 Searched, nothing found — as opposed to not yet looked at. Stop re-researching these
 unless there is a new reason to.
@@ -64,6 +64,7 @@ unless there is a new reason to.
 | ¡Que te vaya bien! | es | ES reviewer (3rd-party PDF) | Formula — out of scope for v1, do not draft: Weak match — Same family as the retired-formula questio |
 | A Milano, anche i gelsi fanno l'uva / Fiorentini ciechi e Pisani traditori / Arno non cresce se Sieve non mesce | it | Consonni book (tier B) | Consonni book, entries 60–79 (third batch, 2026-08-09): THREE CITY-SPECIFIC ITEMS grouped: Milanese  |
 | A pisielle pavammo | ? | Consonni book (tier B) | *Italian Idioms: Top 100* — Maria Consonni (book, 2026-08-09): NEAPOLITAN DIALECT, not standard Ital |
+| Avere una marcia in più | it | IT reviewer (own account) | @learnandloveitalian basic-vs-idiom carousel, 2026-08-26: ⚑ THE CARD'S OWN GLOSS IS NARROW. It rende |
 | Chi fa da sé, fa per tre | es | IT proverb list (Joe) | Proverb twins with a small axis of difference: IT rhymes sé/tre and quantifies by three |
 | Chi va piano va sano e va lontano | ? | Consonni book (tier B) | Consonni book, entries 41–59 (second batch, 2026-08-09): DUPLICATE of the calendar-batch row above,  |
 | Essere in alto mare | it | IT reviewer (own material) | General — thin sourcing or unconfirmed Italian/Spanish side: The IT is well-known: far from finished |
@@ -72,6 +73,7 @@ unless there is a new reason to.
 | Fare una frittata / Essere la fabbrica del Duomo / Fare un quarantotto / Ai tempi che Berta filava | ? | Consonni book (tier B) | Consonni book, entries 81–100 (final batch — book complete, 2026-08-09): FOUR GROUPED, all needing a |
 | Hacer buenas migas con alguien | es | ES idioms book | Unmatched — one side has no known counterpart: crumbs; possible no-twin entry, needs reviewer |
 | Hai voluto la bicicletta? Pedala! | es | FluentU 40 | Unmatched — one side has no known counterpart: divergent |
+| Mi girano le scatole | ? | IT reviewer (own account) | @learnandloveitalian basic-vs-idiom carousel, 2026-08-26: Fourth member of the euphemism cluster abo |
 | Natale con i tuoi, Pasqua con chi vuoi | ? | Claude research | Seasonal / calendar candidates: Famous Italian proverb — Christmas with your family, Easter with who |
 | Nessuna nuova, buona nuova | ? | IT proverb list (Joe) | Unmatched — one side has no known counterpart: possible no-twin entry |
 | Non tutte le ciambelle riescono col buco | it | IT proverb list (Joe) | Unmatched — one side has no known counterpart: doughnut imagery is IT-only |
@@ -82,7 +84,7 @@ unless there is a new reason to.
 
 ---
 
-## Full registry (916)
+## Full registry (926)
 
 | Expression | Lang | Status | Partner(s) | Source |
 |---|---|---|---|---|
@@ -134,6 +136,7 @@ unless there is a new reason to.
 | Andar pisando huevos | es | banked | Camminare sulle uova (0273) | bank/0273, ES idioms book |
 | Andare a gonfie vele | it | banked | Ir todo viento en popa (0103) | bank/0103 |
 | Andare al sodo | it | banked | Ir al grano (0023) | bank/0023 |
+| Andare come un treno | it | banked | Ir como un tiro (0319) | bank/0319 |
 | Arrimar el ascua a su sardina | es | banked | Tirare l'acqua al proprio mulino (0081) | bank/0081 |
 | Auguri, mamma! | it | banked | ¡Feliz Día de la Madre! (0110) | bank/0110 |
 | Avere grilli per la testa | it | banked | Tener pájaros en la cabeza (0074) | bank/0074 |
@@ -313,6 +316,7 @@ unless there is a new reason to.
 | Ho caldo | it | banked | Tengo calor (0080) | bank/0080 |
 | Hoy por ti, mañana por mí | es | banked | Oggi a me, domani a te (0053) | bank/0053 |
 | Ídem | es | banked | — | bank/0280, italianario (IG, tier C) |
+| Il corteo dei Magi | it | banked | La cabalgata de Reyes (0314) | bank/0314 |
 | Il lupo perde il pelo ma non il vizio | it | banked | La cabra siempre tira al monte (0302) | bank/0302 |
 | Il mattino ha l'oro in bocca | it | banked | Al que madruga, Dios le ayuda (0056) | bank/0056 |
 | Il mondo è piccolo | it | banked | El mundo es un pañuelo (0104) | bank/0104 |
@@ -328,12 +332,16 @@ unless there is a new reason to.
 | in realtà | it | banked | En realidad (0240) | bank/0240, Italian Matters list |
 | in silenzio | it | banked | En silencio (0227) | bank/0227 |
 | Ir al grano | es | banked | Andare al sodo (0023) | bank/0023 |
+| Ir como un tiro | es | banked | Andare come un treno (0319) | bank/0319 |
 | Ir todo viento en popa | es | banked | Andare a gonfie vele (0103) | bank/0103 |
 | Ir volando | es | banked | Essere di corsa (0263) | bank/0263, IT reviewer (own material) |
 | L'abito non fa il monaco | it | banked | El hábito no hace al monje (0299) | bank/0299 |
+| La Befana | it | banked | Los Reyes Magos (0312) | bank/0312 |
+| La cabalgata de Reyes | es | banked | Il corteo dei Magi (0314) | bank/0314 |
 | La cabra siempre tira al monte | es | banked | Il lupo perde il pelo ma non il vizio (0302) | bank/0302 |
 | La gatta frettolosa fece i gattini ciechi | it | banked | Vísteme despacio que tengo prisa (0309) | bank/0309 |
 | La goccia che fa traboccare il vaso | it | banked | La última gota que hace rebosar la copa (0092) | bank/0092 |
+| La novena di Natale | it | banked | Pedir posada (0313) | bank/0313 |
 | La pentola guardata non bolle mai | it | banked | Quien espera, desespera (0296) | bank/0296 |
 | La última gota que hace rebosar la copa | es | banked | La goccia che fa traboccare il vaso (0092) | bank/0092 |
 | La vigilia di Natale | it | banked | Nochebuena (0292) | bank/0292 |
@@ -342,6 +350,7 @@ unless there is a new reason to.
 | Llover a cántaros | es | banked | Piovere a catinelle (0014) | bank/0014 |
 | Llueve sobre mojado | es | banked | Piove sul bagnato (0271) | bank/0271, storylearning.com |
 | Loco de atar | es | banked | Matto da legare (0269) | bank/0269, storylearning.com |
+| Los Reyes Magos | es | banked | La Befana (0312) | bank/0312 |
 | Lungo come la quaresima | it | banked | Más largo que un día sin pan (0289) | bank/0289 |
 | Magari | it | banked | Ojalá (0031) | bank/0031 |
 | Mal comune, mezzo gaudio | it | banked | Mal de muchos, consuelo de tontos (0037) | bank/0037 |
@@ -411,6 +420,7 @@ unless there is a new reason to.
 | Parecerse como dos gotas de agua | es | banked | Somigliarsi come due gocce d'acqua (0101) | bank/0101 |
 | Paso a paso | es | banked | Passo dopo passo (0307) | bank/0307 |
 | Passo dopo passo | it | banked | Paso a paso (0307) | bank/0307 |
+| Pedir posada | es | banked | La novena di Natale (0313) | bank/0313 |
 | per caso | it | banked | Por casualidad (0229) | bank/0229 |
 | per conto mio | it | banked | Por mi cuenta (0215) | bank/0215 |
 | per fortuna | it | banked | Por suerte (0230) | bank/0230 |
@@ -967,6 +977,7 @@ unless there is a new reason to.
 | ¡Que te vaya bien! | es | no-partner-found | — | ES reviewer (3rd-party PDF) |
 | A Milano, anche i gelsi fanno l'uva / Fiorentini ciechi e Pisani traditori / Arno non cresce se Sieve non mesce | it | no-partner-found | — | Consonni book (tier B) |
 | A pisielle pavammo | ? | no-partner-found | — | Consonni book (tier B) |
+| Avere una marcia in più | it | no-partner-found | — | IT reviewer (own account) |
 | Chi fa da sé, fa per tre | es | no-partner-found | — | IT proverb list (Joe) |
 | Chi va piano va sano e va lontano | ? | no-partner-found | — | Consonni book (tier B) |
 | Essere in alto mare | it | no-partner-found | — | IT reviewer (own material) |
@@ -975,6 +986,7 @@ unless there is a new reason to.
 | Fare una frittata / Essere la fabbrica del Duomo / Fare un quarantotto / Ai tempi che Berta filava | ? | no-partner-found | — | Consonni book (tier B) |
 | Hacer buenas migas con alguien | es | no-partner-found | — | ES idioms book |
 | Hai voluto la bicicletta? Pedala! | es | no-partner-found | — | FluentU 40 |
+| Mi girano le scatole | ? | no-partner-found | — | IT reviewer (own account) |
 | Natale con i tuoi, Pasqua con chi vuoi | ? | no-partner-found | — | Claude research |
 | Nessuna nuova, buona nuova | ? | no-partner-found | — | IT proverb list (Joe) |
 | Non tutte le ciambelle riescono col buco | it | no-partner-found | — | IT proverb list (Joe) |

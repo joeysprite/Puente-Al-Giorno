@@ -666,3 +666,33 @@ professionally published source still needs independent verification.
 | 67 | Fare il giro delle sette chiese | (ES side unresearched) | Consonni book (tier B) | To go round the houses. Rome-specific (a Holy Week pilgrimage), so the image needs explaining, but the meaning is universal and ES may have a saints-based parallel — the santo cluster is now large enough to be worth checking against. |
 | 68 | Essere un Bastian Contrario | llevar la contraria | Consonni book (tier B) | A habitual contrarian. Italian names a PERSON (a Piedmontese figure); Spanish describes the BEHAVIOUR. Same shape as the *gnorri* finding in 0243, where Italian invents a character and Spanish borrows a saint — possible recurring thread. |
 | 69 | Fare una frittata / Essere la fabbrica del Duomo / Fare un quarantotto / Ai tempi che Berta filava | — | Consonni book (tier B) | FOUR GROUPED, all needing a decision before research. *Fare una frittata* (make a mess) collides with banked 0028's *rivoltare la frittata* — same dish, different idiom, check saturation. The other three are locked to Italian specifics: the Duomo of Florence's build time, the revolutions of 1848, and a 13th-century legend. Same category as the city-specific group in the previous batch — recommend NOT drafting. |
+
+### @learnandloveitalian basic-vs-idiom carousel, 2026-08-26
+
+Tier A (the Italian reviewer's own account). **1 drafted** — 0319 (*ir como un tiro* /
+*andare come un treno*). *Non capisci un tubo* is a second-person variant of banked **0310**
+and needs no new row.
+
+**⚑ THE EUPHEMISM CLUSTER IS NOW FOUR AND SHOULD BE HANDLED AS ONE DECISION.** Across recent
+intake, four separate Italian expressions have turned out to be the same move — a harmless
+noun standing in for a coarse one:
+
+| Expression | Stands in for | Status |
+|---|---|---|
+| Non capirci un **tubo** | anatomical | banked 0310, formality set avoid_in_exam |
+| Non capire un **cavolo** | *cazzo* | in queue, from the 2026-08-19 card |
+| **Rompere** le **scatole** | *coglioni* | L247, already flagged as "a register entry about euphemism itself" |
+| **Girare** le **scatole** | *coglioni* | NEW, below |
+
+Banking these separately would teach the identical lesson four times, and each card would
+have to explain the euphemism from scratch without being able to reference the others (per
+the standing no-cross-reference rule). Three options: pick ONE as the euphemism entry and
+drop the rest; bank them as ordinary entries and let the euphemism go unremarked; or treat
+the pattern itself as the entry, which the current schema has no shape for. **Recommend
+deciding this before drafting any more of them** — it is the same structural question the
+register-ladder finding raised, and the two may want the same answer.
+
+| # | Italian | Spanish / sketch | Source | Note |
+|---|---|---|---|---|
+| 73 | Mi girano le scatole | (ES side unresolved) | IT reviewer (own account) | Fourth member of the euphemism cluster above — *scatole* for *coglioni*, and *girare* rather than *rompere*. ES candidates all collide or misfit: *estar hasta las narices* is banked at 0026, *estar hasta la madre* is genuinely vulgar rather than euphemistic (so it loses the point), and *colmar el plato* is about the last straw, not sustained anger. Needs a Spanish euphemism of the same politeness level — which may not exist, in which case the asymmetry is the entry. |
+| 74 | Avere una marcia in più | (ES side unresolved) | IT reviewer (own account) | ⚑ THE CARD'S OWN GLOSS IS NARROW. It renders this as "he/she is really smart", but Italian dictionaries give it as *essere superiore agli altri per doti particolari o mezzi a disposizione* — having an edge, by talent OR by resources, not intelligence specifically. Do not take the card's English. ES has no gear metaphor for a person; *estar en otra liga* changes the image to a sporting division and *llevar ventaja* is plain. Also check saturation against banked 0242 (*tener madera* / *avere i numeri*), which is adjacent — innate capability vs having an edge. |

@@ -1,6 +1,6 @@
 # Un puente al giorno — Bank
 
-**Last updated:** 2026-08-15 | **Total entries:** 223 | **Approved:** 129
+**Last updated:** 2026-08-28 | **Total entries:** 227 | **Approved:** 129
 
 _Regenerate with `node tools/build-bank.mjs` any time the bank changes. This file is generated — edit bank/*.json, not this._
 
@@ -11,7 +11,7 @@ _Regenerate with `node tools/build-bank.mjs` any time the bank changes. This fil
 | Status | Count |
 |--------|-------|
 | approved | 129 |
-| needs_review | 74 |
+| needs_review | 78 |
 | draft | 20 |
 
 ---
@@ -298,6 +298,10 @@ These are marked `approved` but their own `review.notes` field still contains la
 | 0309 | Vísteme despacio que tengo prisa | La gatta frettolosa fece i gattini ciechi | proverb | B2 | 3 | needs_review | haste, patience, animals |
 | 0310 | No entender ni papa | Non capirci un tubo | idiom | B1 | 2 | needs_review | incomprehension, food, euphemism |
 | 0311 | Ser un agarrado | Avere il braccino corto | idiom | B1 | 2 | needs_review | money, body, character |
+| 0312 | Los Reyes Magos | La Befana | formula | B1 | 2 | needs_review | calendar, celebration, religion |
+| 0313 | Pedir posada | La novena di Natale | formula | B1 | 3 | needs_review | calendar, celebration, religion, family |
+| 0314 | La cabalgata de Reyes | Il corteo dei Magi | formula | B2 | 3 | needs_review | calendar, celebration, religion |
+| 0319 | Ir como un tiro | Andare come un treno | idiom | B1 | 2 | needs_review | speed, machines |
 
 ---
 
