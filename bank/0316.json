@@ -1,0 +1,83 @@
+{
+  "id": "0316",
+  "type": "collocation",
+  "cue": "How do you say something happens on alternate days?",
+  "es": {
+    "text": "Un día sí y otro no",
+    "literal": "one day yes and another no",
+    "meaning": "On alternate days; every other day.",
+    "example": "Riega las plantas un día sí y otro no, no todos los días.",
+    "exampleTranslation": "Water the plants every other day, not daily.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Chosen deliberately as the pan-regional form. Other variants exist and are NOT equally clear — see the trap below and the review note.",
+    "sources": [
+      {
+        "authority": "Corpus",
+        "url": "https://forum.wordreference.com/threads/every-other-day.697215/",
+        "headword": "un día sí y otro no",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Un giorno sì e uno no",
+    "literal": "one day yes and one no",
+    "meaning": "On alternate days; every other day.",
+    "example": "Annaffia le piante un giorno sì e uno no, non tutti i giorni.",
+    "exampleTranslation": "Water the plants every other day, not daily.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/giorno/",
+        "headword": "giorno",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "This is as close as two expressions get: one day yes and one day no, in both languages, word for word. Which makes it worth asking why both languages bothered to build a phrase this clumsy when each has perfectly good numbers available. The answer is that the numbers are the problem. Counting alternate days can be done from either end — you can count the gap between them, or count the days themselves including both — and the two methods give different answers for the same schedule. Saying yes-no-yes-no sidesteps the arithmetic entirely, which is why it is the version that never gets misread.",
+    "tags": [
+      "cognate_pair",
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Almost nothing to correct: the Italian drops the second giorno, un giorno sì e UNO no, where Spanish repeats the noun as día then switches to otro. Both are fixed.",
+      "it_to_es": "The trap is in what you might reach for instead. Spanish has several numbered alternatives for this, and they do not all count the same way — some count the interval, some count inclusively from the first day, and speakers genuinely disagree about which is meant. Native speakers report the numbered forms causing real confusion over medication schedules. If you want to be understood without ambiguity, use the yes-and-no version, which cannot be counted wrong."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "frequency",
+    "time",
+    "numbers"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "THE INCLUSIVE-COUNTING FINDING IS THE ENTRY AND IT NEEDS THE ES REVIEWER'S SIGNATURE. Mexican Spanish has 'cada tercer día' for what other varieties call 'cada dos días' — the Mexican form counts INCLUSIVELY (take it, skip a day, take it again = day 1, 2, 3) while the other counts the interval. Two WordReference threads document native speakers disagreeing about this at length, and a medical interpreter in one of them says they default to 'un día sí, un día no' precisely because the numbered forms get patients' dosing wrong. That is a real-stakes trap and better than anything the surface similarity offers. I have deliberately kept the bridge and the it_to_es note NON-SPECIFIC about which region uses which form, per the standing regional principle — the sources do name Mexico, but pinning a counting convention to a country is exactly the kind of claim that needs a native signature. ES REVIEWER: if you are willing to name it, the entry gets much sharper and your id carries it. Also confirm 'cada tercer día' really is the MX default, and whether the ambiguity is felt or merely theoretical. ES SOURCE IS A FORUM and must be replaced before approval — check whether RAE carries the locution under `día`. Drafted by Claude 2026-08-14 from a @learnandloveitalian carousel — TIER A on the Italian side (the reviewer's own account, and these cards use real film subtitles as attestation). That weight does NOT extend to the Spanish partner or the bridge, which are Claude's. SOURCES NOT HUMAN-VERIFIED."
+  },
+  "createdOn": "2026-08-14",
+  "retiredReason": null
+}

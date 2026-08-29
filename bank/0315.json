@@ -1,0 +1,83 @@
+{
+  "id": "0315",
+  "type": "collocation",
+  "cue": "How do you say something changed with no warning at all?",
+  "es": {
+    "text": "De la noche a la mañana",
+    "literal": "from the night to the morning",
+    "meaning": "Overnight; suddenly and without warning.",
+    "example": "El barrio se llenó de turistas de la noche a la mañana.",
+    "exampleTranslation": "The neighbourhood filled up with tourists overnight.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/noche",
+        "headword": "noche",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Dall'oggi al domani",
+    "literal": "from the today to the tomorrow",
+    "meaning": "Overnight; suddenly and without warning.",
+    "example": "Il quartiere si è riempito di turisti dall'oggi al domani.",
+    "exampleTranslation": "The neighbourhood filled up with tourists overnight.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/oggi/",
+        "headword": "oggi",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages measure a sudden change by the shortest gap they can name, and they cut the gap in different places. Spanish crosses a night — from dark to light, with sleep in between, so the change happens while nobody is watching. Italian crosses a date — from today to tomorrow, with midnight in between, so the change happens because the calendar turned over. One is about not seeing it coming; the other is about how little time it took. Italian also does something Spanish does not: it puts articles on the bare adverbs, DALL'oggi AL domani, treating today and tomorrow as nouns you can travel between.",
+    "tags": [
+      "interference_risk",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": "Do not carry the night across: 'dalla notte alla mattina' is understood and is not the phrase. Italian goes day to day, and it needs the articles — oggi and domani are bare adverbs everywhere else, but here they take l' and al.",
+      "it_to_es": "Spanish will not travel from day to day here — 'del hoy al mañana' is not Spanish. It crosses the night instead, and takes no article on either noun beyond the ordinary la."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "suddenness",
+    "time",
+    "change"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "PAIRING IS DICTIONARY-BACKED: PONS lists dall'oggi al domani against both 'de la noche a la mañana' and 'de un día para otro', and diccionarios.com gives the same. I chose the night version as the anchor because it is the more common and more vivid; 'de un día para otro' is the closer literal match and is the obvious alternate if a reviewer prefers it — note that choosing it would REMOVE the entry's whole bridge, since it crosses days exactly as the Italian does. ES REVIEWER, that is the decision. SOURCES NOT HUMAN-VERIFIED and both are headword guesses — RAE may carry the locution under `noche` or `mañana`, Treccani under `oggi` or `domani`; check and correct. Drafted by Claude 2026-08-14 from a @learnandloveitalian carousel — TIER A on the Italian side (the reviewer's own account, and these cards use real film subtitles as attestation). That weight does NOT extend to the Spanish partner or the bridge, which are Claude's. SOURCES NOT HUMAN-VERIFIED."
+  },
+  "createdOn": "2026-08-14",
+  "retiredReason": null
+}

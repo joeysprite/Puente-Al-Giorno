@@ -1,0 +1,83 @@
+{
+  "id": "0317",
+  "type": "marker",
+  "cue": "How do you greet one more problem on an already bad day?",
+  "es": {
+    "text": "Lo que faltaba",
+    "literal": "what was missing",
+    "meaning": "Said sarcastically when one more unwanted thing arrives on top of everything else.",
+    "example": "Se descompuso el coche y ahora empieza a llover. Lo que faltaba.",
+    "exampleTranslation": "The car's broken down and now it's starting to rain. That's all I needed.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/faltar",
+        "headword": "faltar",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Ci mancava solo questa",
+    "literal": "only this was missing to us",
+    "meaning": "Said sarcastically when one more unwanted thing arrives on top of everything else.",
+    "example": "Si è rotta la macchina e adesso comincia a piovere. Ci mancava solo questa.",
+    "exampleTranslation": "The car's broken down and now it's starting to rain. That's all I needed.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/mancare/",
+        "headword": "mancare",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages say the sarcastic thing by pretending the disaster completes a set — as though the day had a checklist and this was the last unticked box. What differs is who gets named as the victim. Spanish states it flatly and impersonally: what was missing. Italian puts itself in the sentence with a ci, to us, and adds solo, only — only this was missing — so the Italian speaker is visibly in the wreckage while the Spanish speaker observes it. Same joke, one of them told from inside.",
+    "tags": [
+      "interference_risk",
+      "preposition_differs"
+    ],
+    "interference": {
+      "es_to_it": "Italian wants the pronoun. 'Mancava solo questa' is grammatical and flat; the idiom is CI mancava solo questa, and the ci is what makes it sarcastic rather than descriptive. Note the tense too: Italian uses the imperfect, mancava, not the present.",
+      "it_to_es": "Spanish does not put itself in the sentence — 'nos faltaba solo esto' is understood but reads as a genuine statement of what was lacking, not as sarcasm. The fixed form is bare: lo que faltaba. Spanish can add the pronoun for extra self-pity (lo que me faltaba), but the plain version is the idiom."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "frustration",
+    "irony",
+    "discourse"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "THE ci/BARE CONTRAST IS THE ENTRY and it is my own reading — I claim Italian's ci makes the sarcasm and Spanish's bare form carries it without one. BOTH REVIEWERS, that is the question: IT — is 'mancava solo questa' without the ci genuinely flat, or just less common? ES — does adding the pronoun ('lo que me faltaba') change the register or only the intensity? If the contrast does not hold, this drops to a near-twin with only the solo/nothing difference left. SOURCES NOT HUMAN-VERIFIED and both are verb headwords that may not carry the locution — check. Drafted by Claude 2026-08-14 from a @learnandloveitalian annoyance-scale carousel — TIER A on the Italian side (the reviewer's own account). Does NOT extend to the Spanish partner or the bridge, which are Claude's. SOURCES NOT HUMAN-VERIFIED."
+  },
+  "createdOn": "2026-08-14",
+  "retiredReason": null
+}

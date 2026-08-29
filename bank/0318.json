@@ -1,0 +1,83 @@
+{
+  "id": "0318",
+  "type": "marker",
+  "cue": "What sound do you make when you're fed up?",
+  "es": {
+    "text": "¡Uf!",
+    "literal": "uf",
+    "meaning": "An exhaled sound of weariness, annoyance or distaste — and, depending on tone, of relief.",
+    "example": "¡Uf! Otra vez la misma reunión.",
+    "exampleTranslation": "Ugh — the same meeting again.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Widely used. Other annoyance interjections are strongly regional and are deliberately not named here — see the review note.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/uf",
+        "headword": "uf",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Uffa!",
+    "literal": "uffa",
+    "meaning": "An exhaled sound of impatience, annoyance or boredom.",
+    "example": "Uffa! È la terza volta che me lo chiedi.",
+    "exampleTranslation": "Ugh — that's the third time you've asked me.",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/uff/",
+        "headword": "uff",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Neither language invented this word so much as transcribed a breath. Treccani describes uffa as pronounced by puffing out the cheeks and blowing — the definition is a stage direction, not a meaning — and Spanish uf is the same exhalation written down. Which is why the two match almost exactly and still cannot be trusted: a sound carries whatever the face is doing, and the same puff of air means impatience in one moment and relief in the next. The word does none of the work; the tone does all of it.",
+    "tags": [
+      "cognate_pair",
+      "false_friend"
+    ],
+    "interference": {
+      "es_to_it": "Watch the extra syllable — Italian's fixed form is uffa, and Treccani lists uff and auf as variants. More importantly, Italian's version does not do relief: it is annoyance, impatience or boredom, and using it after a near miss will read as being irritated by the escape rather than glad of it.",
+      "it_to_es": "Spanish uf covers more ground — weariness, distaste, and relief as well — so a Spanish listener may hear the opposite of what an Italian intends. If the feeling is specifically being fed up, tone has to make that clear, because the syllable alone will not."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "themes": [
+    "frustration",
+    "interjections",
+    "discourse"
+  ],
+  "cefr": "A2",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "IT SIDE IS WELL SOURCED: Treccani's `uff` entry covers uffa and describes the physical gesture; the Sinonimi entry gives auf and uff as equivalents; the Treccani grammar pages list it among the primary interjections for fastidio, noia, insofferenza. THE ES SIDE'S RELIEF SENSE IS THE ENTRY'S CLAIM AND IS UNVERIFIED — RAE's `uf` should list cansancio, fastidio, repugnancia; whether relief is genuinely part of the range in MX is what the bridge and both interference notes rest on. ES REVIEWER, please confirm or correct. REGIONAL RESTRAINT, deliberate: MX has its own annoyance interjections (ash, and others) which would sharpen the entry considerably, but naming one and pinning it to a country is exactly the claim the standing regional principle says needs a native signature. If you are willing to name it, the ES anchor may be better as the regional form than as 'uf'. SOURCE-LADDER NOTE (internal, not for cards): the carousel this came from presents FOUR intensities of the same feeling as a scale. The bank has no format for a register ladder — every entry is one pair at one level. That is an editorial idea worth its own discussion, not something to smuggle into this entry. Drafted by Claude 2026-08-14 from a @learnandloveitalian annoyance-scale carousel — TIER A on the Italian side (the reviewer's own account). Does NOT extend to the Spanish partner or the bridge, which are Claude's. SOURCES NOT HUMAN-VERIFIED."
+  },
+  "createdOn": "2026-08-14",
+  "retiredReason": null
+}
