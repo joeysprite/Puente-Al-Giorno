@@ -1,6 +1,6 @@
 # Un puente al giorno — Bank
 
-**Last updated:** 2026-08-28 | **Total entries:** 227 | **Approved:** 129
+**Last updated:** 2026-08-20 | **Total entries:** 230 | **Approved:** 129
 
 _Regenerate with `node tools/build-bank.mjs` any time the bank changes. This file is generated — edit bank/*.json, not this._
 
@@ -11,7 +11,7 @@ _Regenerate with `node tools/build-bank.mjs` any time the bank changes. This fil
 | Status | Count |
 |--------|-------|
 | approved | 129 |
-| needs_review | 78 |
+| needs_review | 81 |
 | draft | 20 |
 
 ---
@@ -301,7 +301,10 @@ These are marked `approved` but their own `review.notes` field still contains la
 | 0312 | Los Reyes Magos | La Befana | formula | B1 | 2 | needs_review | calendar, celebration, religion |
 | 0313 | Pedir posada | La novena di Natale | formula | B1 | 3 | needs_review | calendar, celebration, religion, family |
 | 0314 | La cabalgata de Reyes | Il corteo dei Magi | formula | B2 | 3 | needs_review | calendar, celebration, religion |
-| 0319 | Ir como un tiro | Andare come un treno | idiom | B1 | 2 | needs_review | speed, machines |
+| 0315 | De la noche a la mañana | Dall'oggi al domani | collocation | B1 | 2 | needs_review | suddenness, time, change |
+| 0316 | Un día sí y otro no | Un giorno sì e uno no | collocation | B1 | 2 | needs_review | frequency, time, numbers |
+| 0317 | Lo que faltaba | Ci mancava solo questa | marker | B1 | 2 | needs_review | frustration, irony, discourse |
+| 0318 | ¡Uf! | Uffa! | marker | A2 | 2 | needs_review | frustration, interjections, discourse |
 
 ---
 

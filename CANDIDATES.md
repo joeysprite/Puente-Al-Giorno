@@ -667,32 +667,20 @@ professionally published source still needs independent verification.
 | 68 | Essere un Bastian Contrario | llevar la contraria | Consonni book (tier B) | A habitual contrarian. Italian names a PERSON (a Piedmontese figure); Spanish describes the BEHAVIOUR. Same shape as the *gnorri* finding in 0243, where Italian invents a character and Spanish borrows a saint — possible recurring thread. |
 | 69 | Fare una frittata / Essere la fabbrica del Duomo / Fare un quarantotto / Ai tempi che Berta filava | — | Consonni book (tier B) | FOUR GROUPED, all needing a decision before research. *Fare una frittata* (make a mess) collides with banked 0028's *rivoltare la frittata* — same dish, different idiom, check saturation. The other three are locked to Italian specifics: the Duomo of Florence's build time, the revolutions of 1848, and a 13th-century legend. Same category as the city-specific group in the previous batch — recommend NOT drafting. |
 
-### @learnandloveitalian basic-vs-idiom carousel, 2026-08-26
+### @learnandloveitalian annoyance-scale carousel (2026-08-14)
 
-Tier A (the Italian reviewer's own account). **1 drafted** — 0319 (*ir como un tiro* /
-*andare come un treno*). *Non capisci un tubo* is a second-person variant of banked **0310**
-and needs no new row.
+Tier A (the Italian reviewer's own account). **2 drafted** — 0317 (*lo que faltaba* /
+*ci mancava solo questa*), 0318 (*¡uf!* / *uffa!*). **1 already queued** — *che palle* at L291.
 
-**⚑ THE EUPHEMISM CLUSTER IS NOW FOUR AND SHOULD BE HANDLED AS ONE DECISION.** Across recent
-intake, four separate Italian expressions have turned out to be the same move — a harmless
-noun standing in for a coarse one:
-
-| Expression | Stands in for | Status |
-|---|---|---|
-| Non capirci un **tubo** | anatomical | banked 0310, formality set avoid_in_exam |
-| Non capire un **cavolo** | *cazzo* | in queue, from the 2026-08-19 card |
-| **Rompere** le **scatole** | *coglioni* | L247, already flagged as "a register entry about euphemism itself" |
-| **Girare** le **scatole** | *coglioni* | NEW, below |
-
-Banking these separately would teach the identical lesson four times, and each card would
-have to explain the euphemism from scratch without being able to reference the others (per
-the standing no-cross-reference rule). Three options: pick ONE as the euphemism entry and
-drop the rest; bank them as ordinary entries and let the euphemism go unremarked; or treat
-the pattern itself as the entry, which the current schema has no shape for. **Recommend
-deciding this before drafting any more of them** — it is the same structural question the
-register-ladder finding raised, and the two may want the same answer.
+**THE CARD'S REAL STRUCTURE IS A REGISTER LADDER AND THE BANK HAS NO FORMAT FOR IT.** It
+presents four intensities of one feeling — uffa → che stress → che palle → non ne posso più —
+as a scale a learner picks from by mood. Every bank entry is one pair at one level, so the
+scale can only be shipped as four unrelated cards that happen to share a theme, which loses
+the thing that makes it useful. Worth a design conversation before drafting the rest: either
+the bank accepts that it cannot teach register gradients, or `type` needs something new.
 
 | # | Italian | Spanish / sketch | Source | Note |
 |---|---|---|---|---|
-| 73 | Mi girano le scatole | (ES side unresolved) | IT reviewer (own account) | Fourth member of the euphemism cluster above — *scatole* for *coglioni*, and *girare* rather than *rompere*. ES candidates all collide or misfit: *estar hasta las narices* is banked at 0026, *estar hasta la madre* is genuinely vulgar rather than euphemistic (so it loses the point), and *colmar el plato* is about the last straw, not sustained anger. Needs a Spanish euphemism of the same politeness level — which may not exist, in which case the asymmetry is the entry. |
-| 74 | Avere una marcia in più | (ES side unresolved) | IT reviewer (own account) | ⚑ THE CARD'S OWN GLOSS IS NARROW. It renders this as "he/she is really smart", but Italian dictionaries give it as *essere superiore agli altri per doti particolari o mezzi a disposizione* — having an edge, by talent OR by resources, not intelligence specifically. Do not take the card's English. ES has no gear metaphor for a person; *estar en otra liga* changes the image to a sporting division and *llevar ventaja* is plain. Also check saturation against banked 0242 (*tener madera* / *avere i numeri*), which is adjacent — innate capability vs having an edge. |
+| 70 | Mi hai stufato! | ¡ya me hartaste! (MX) / ¡me tienes harto! | IT reviewer (own account) | Both use a "you have done this to me" frame where English says "I'm sick of you" — the blame is grammatically on the other person. Good candidate; needs the ES anchor decided, since MX and Peninsular differ. |
+| 71 | Che stress! | ¡qué estrés! | IT reviewer (own account) | Both are recent borrowings of the English word, so a shared-loan pair rather than parallel invention — same category as *farfalle nello stomaco* and *luce in fondo al tunnel*. Thin on its own; belongs in the ladder if the ladder ever happens. |
+| 72 | Non ne posso più! | ¡ya no puedo más! | IT reviewer (own account) | Top of the ladder, non-vulgar. Near-twin except for Italian's ne, which is the only real trap — and the bank already teaches that particle elsewhere. Check for redundancy before drafting. |

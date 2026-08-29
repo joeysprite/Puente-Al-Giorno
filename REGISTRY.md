@@ -1,6 +1,6 @@
 # Expression registry — master list
 
-**Generated** 2026-08-28 by `tools/build-registry.mjs`. Do not hand-edit.
+**Generated** 2026-08-20 by `tools/build-registry.mjs`. Do not hand-edit.
 
 One row per **expression**, not per pairing. CANDIDATES.md answers "what pairings are
 we considering"; this answers "what expressions do we know about, and what has each one
@@ -12,11 +12,11 @@ been matched to". Two things only this view makes visible:
 
 | Status | Count |
 |---|---|
-| banked | 450 |
-| candidate | 435 |
-| no-partner-found | 21 |
+| banked | 456 |
+| candidate | 441 |
 | rejected | 20 |
-| **total expressions** | **926** |
+| no-partner-found | 19 |
+| **total expressions** | **936** |
 
 ---
 
@@ -53,7 +53,7 @@ policy is switched on.
 | Dime con quién andas y te diré quién eres | es | dimmi con chi vai e ti dirò chi sei · Chi pratica lo zoppo impara a zoppicare |
 | Quedar a la altura de su zapatilla | es | fare una figuraccia · Fare la figura del cioccolataio |
 
-## No partner found (21)
+## No partner found (19)
 
 Searched, nothing found — as opposed to not yet looked at. Stop re-researching these
 unless there is a new reason to.
@@ -64,7 +64,6 @@ unless there is a new reason to.
 | ¡Que te vaya bien! | es | ES reviewer (3rd-party PDF) | Formula — out of scope for v1, do not draft: Weak match — Same family as the retired-formula questio |
 | A Milano, anche i gelsi fanno l'uva / Fiorentini ciechi e Pisani traditori / Arno non cresce se Sieve non mesce | it | Consonni book (tier B) | Consonni book, entries 60–79 (third batch, 2026-08-09): THREE CITY-SPECIFIC ITEMS grouped: Milanese  |
 | A pisielle pavammo | ? | Consonni book (tier B) | *Italian Idioms: Top 100* — Maria Consonni (book, 2026-08-09): NEAPOLITAN DIALECT, not standard Ital |
-| Avere una marcia in più | it | IT reviewer (own account) | @learnandloveitalian basic-vs-idiom carousel, 2026-08-26: ⚑ THE CARD'S OWN GLOSS IS NARROW. It rende |
 | Chi fa da sé, fa per tre | es | IT proverb list (Joe) | Proverb twins with a small axis of difference: IT rhymes sé/tre and quantifies by three |
 | Chi va piano va sano e va lontano | ? | Consonni book (tier B) | Consonni book, entries 41–59 (second batch, 2026-08-09): DUPLICATE of the calendar-batch row above,  |
 | Essere in alto mare | it | IT reviewer (own material) | General — thin sourcing or unconfirmed Italian/Spanish side: The IT is well-known: far from finished |
@@ -73,7 +72,6 @@ unless there is a new reason to.
 | Fare una frittata / Essere la fabbrica del Duomo / Fare un quarantotto / Ai tempi che Berta filava | ? | Consonni book (tier B) | Consonni book, entries 81–100 (final batch — book complete, 2026-08-09): FOUR GROUPED, all needing a |
 | Hacer buenas migas con alguien | es | ES idioms book | Unmatched — one side has no known counterpart: crumbs; possible no-twin entry, needs reviewer |
 | Hai voluto la bicicletta? Pedala! | es | FluentU 40 | Unmatched — one side has no known counterpart: divergent |
-| Mi girano le scatole | ? | IT reviewer (own account) | @learnandloveitalian basic-vs-idiom carousel, 2026-08-26: Fourth member of the euphemism cluster abo |
 | Natale con i tuoi, Pasqua con chi vuoi | ? | Claude research | Seasonal / calendar candidates: Famous Italian proverb — Christmas with your family, Easter with who |
 | Nessuna nuova, buona nuova | ? | IT proverb list (Joe) | Unmatched — one side has no known counterpart: possible no-twin entry |
 | Non tutte le ciambelle riescono col buco | it | IT proverb list (Joe) | Unmatched — one side has no known counterpart: doughnut imagery is IT-only |
@@ -84,7 +82,7 @@ unless there is a new reason to.
 
 ---
 
-## Full registry (926)
+## Full registry (936)
 
 | Expression | Lang | Status | Partner(s) | Source |
 |---|---|---|---|---|
@@ -96,6 +94,7 @@ unless there is a new reason to.
 | ¡Madre mía! | es | banked | Mamma mia! (0068) | bank/0068 |
 | ¡Mucha suerte! | es | banked | In bocca al lupo (0039) | bank/0039 |
 | ¡Sepa! | es | banked | Boh (0069) | bank/0069 |
+| ¡Uf! | es | banked | Uffa! (0318) | bank/0318 |
 | ¡Viva México! | es | banked | Viva l'Italia! (0070) | bank/0070 |
 | ¿En serio? | es | banked | Sul serio (0260) | bank/0260, Italian Matters list |
 | A caballo regalado no le mires el diente | es | banked | A caval donato non si guarda in bocca (0016) | bank/0016 |
@@ -136,7 +135,6 @@ unless there is a new reason to.
 | Andar pisando huevos | es | banked | Camminare sulle uova (0273) | bank/0273, ES idioms book |
 | Andare a gonfie vele | it | banked | Ir todo viento en popa (0103) | bank/0103 |
 | Andare al sodo | it | banked | Ir al grano (0023) | bank/0023 |
-| Andare come un treno | it | banked | Ir como un tiro (0319) | bank/0319 |
 | Arrimar el ascua a su sardina | es | banked | Tirare l'acqua al proprio mulino (0081) | bank/0081 |
 | Auguri, mamma! | it | banked | ¡Feliz Día de la Madre! (0110) | bank/0110 |
 | Avere grilli per la testa | it | banked | Tener pájaros en la cabeza (0074) | bank/0074 |
@@ -187,6 +185,7 @@ unless there is a new reason to.
 | Chi non risica non rosica | it | banked | El que no arriesga, no gana (0054) · Quien no se arriesga no pasa la mar | bank/0054, ES idioms book |
 | Chi semina vento raccoglie tempesta | it | banked | Quien siembra vientos recoge tempestades (0303) | bank/0303 |
 | Chi va a Roma perde la poltrona | it | banked | Quien fue a Sevilla perdió su silla (0048) | bank/0048 |
+| Ci mancava solo questa | it | banked | Lo que faltaba (0317) | bank/0317 |
 | Cioè | it | banked | O sea (0032) | bank/0032 |
 | Città natale | it | banked | Ciudad natal (0298) | bank/0298 |
 | Ciudad natal | es | banked | Città natale (0298) | bank/0298 |
@@ -214,6 +213,7 @@ unless there is a new reason to.
 | da solo | it | banked | Solo (0231) | bank/0231 |
 | Dai | it | banked | ¡Ándale! (0066) | bank/0066 |
 | dall'altro lato | it | banked | Por otro lado (0218) | bank/0218 |
+| Dall'oggi al domani | it | banked | De la noche a la mañana (0315) | bank/0315 |
 | Dar en el clavo | es | banked | Cogliere nel segno (0008) | bank/0008 |
 | Dar la cara | es | banked | Pagare di persona (0112) · metterci la faccia (drafted, withdrawn) / cerca altro | bank/0112, Editor pullback |
 | Dar la talla | es | banked | Essere all'altezza (0120) | bank/0120 |
@@ -226,6 +226,7 @@ unless there is a new reason to.
 | De algún modo | es | banked | in qualche modo (0212) | bank/0212 |
 | De buenas a primeras | es | banked | Su due piedi (0076) | bank/0076 |
 | De la mano | es | banked | Mano nella mano (0306) | bank/0306 |
+| De la noche a la mañana | es | banked | Dall'oggi al domani (0315) | bank/0315 |
 | De memoria | es | banked | a memoria (0234) | bank/0234 |
 | De nuevo | es | banked | di nuovo (0239) | bank/0239 |
 | De prisa | es | banked | in fretta (0228) | bank/0228 |
@@ -332,7 +333,6 @@ unless there is a new reason to.
 | in realtà | it | banked | En realidad (0240) | bank/0240, Italian Matters list |
 | in silenzio | it | banked | En silencio (0227) | bank/0227 |
 | Ir al grano | es | banked | Andare al sodo (0023) | bank/0023 |
-| Ir como un tiro | es | banked | Andare come un treno (0319) | bank/0319 |
 | Ir todo viento en popa | es | banked | Andare a gonfie vele (0103) | bank/0103 |
 | Ir volando | es | banked | Essere di corsa (0263) | bank/0263, IT reviewer (own material) |
 | L'abito non fa il monaco | it | banked | El hábito no hace al monje (0299) | bank/0299 |
@@ -349,6 +349,7 @@ unless there is a new reason to.
 | Lágrimas de cocodrilo | es | banked | Lacrime di coccodrillo (0286) | bank/0286, storylearning.com |
 | Llover a cántaros | es | banked | Piovere a catinelle (0014) | bank/0014 |
 | Llueve sobre mojado | es | banked | Piove sul bagnato (0271) | bank/0271, storylearning.com |
+| Lo que faltaba | es | banked | Ci mancava solo questa (0317) | bank/0317 |
 | Loco de atar | es | banked | Matto da legare (0269) | bank/0269, storylearning.com |
 | Los Reyes Magos | es | banked | La Befana (0312) | bank/0312 |
 | Lungo come la quaresima | it | banked | Más largo que un día sin pan (0289) | bank/0289 |
@@ -520,7 +521,10 @@ unless there is a new reason to.
 | Tra moglie e marito non mettere il dito | it | banked | Entre marido y mujer, nadie se debe meter (0058) | bank/0058 |
 | Tutto fumo e niente arrosto | it | banked | Mucho ruido y pocas nueces (0059) | bank/0059 |
 | Uccidere la gallina dalle uova d'oro | it | banked | Matar la gallina de los huevos de oro (0268) | bank/0268, spanishexpress.co.uk (Peninsular) |
+| Uffa! | it | banked | ¡Uf! (0318) | bank/0318 |
 | Últimamente | es | banked | — | bank/0244 |
+| Un día sí y otro no | es | banked | Un giorno sì e uno no (0316) | bank/0316 |
+| Un giorno sì e uno no | it | banked | Un día sí y otro no (0316) | bank/0316 |
 | Un vento del diavolo | it | banked | Un viento de mil demonios (0252) | bank/0252, ES idioms book |
 | Un viento de mil demonios | es | banked | Un vento del diavolo (0252) | bank/0252, ES idioms book |
 | Uscire dai gangheri | it | banked | Subirse a la parra (0098) | bank/0098 |
@@ -541,8 +545,11 @@ unless there is a new reason to.
 | ¡A otro perro con ese hueso! | es | candidate | a un altro cane con quest'osso? / racconta ad altri | ES idioms book |
 | ¡ajo y agua! / ¡arréglatelas! | ? | candidate | Attaccati al tram! | Consonni book (tier B) |
 | ¡no manches! (MX) / ¡anda ya! | ? | candidate | Ma dai | Italian Matters list |
+| ¡qué estrés! | es | candidate | Che stress! | IT reviewer (own account) |
 | ¡Que tengas un buen día! | es | candidate | Buona giornata! | ES reviewer (3rd-party PDF) |
 | ¡Y santas pascuas! | es | candidate | punto e basta | Claude research |
+| ¡ya me hartaste! (MX) / ¡me tienes harto! | ? | candidate | Mi hai stufato! | IT reviewer (own account) |
+| ¡ya no puedo más! | es | candidate | Non ne posso più! | IT reviewer (own account) |
 | (ES side unresearched) | es | candidate | Nella botte piccola c'è il vino buono · Non c'è trippa per gatti · Gallina vecchia fa buon brodo · Salvarsi in calcio d'angolo · Un pollo da spennare · Avere le orecchie che fischiano · Avere la coda di paglia · Specchietto per le allodole · Se non è zuppa è pan bagnato · Trovare pane per i tuoi denti · Essere un pappa molle · Fare le nozze con i fichi secchi · Sotto la pioggia fame, sotto la neve pane · Meglio mangiare pane e cipolla a casa tua che maccheroni a casa di altri · Il diavolo fa le pentole ma non i coperchi · Chi ha il pane non ha i denti e chi ha i denti non ha il pane · Il buon marinaio si conosce al cattivo tempo · Impara l'arte e mettila da parte · Un padre campa cento figli e cento figli non campano un padre · A Santo vecchio non si accendono più candele · Chi aspetta, Dio l'assetta · La sera leoni, la mattina conigli · Una mezza bugia è una menzogna intera · A lavar la testa all'asino si perde il ranno e il sapone · Chi va a letto senza cena, tutta notte si dimena · A pagare e a morire si è sempre in tempo · L'Epifania tutte le feste porta via · Si vive bene all'ombra del campanile · Prima di parlare, taci · Avere fortuna come un cane in chiesa · Rubando poco si va in galera, rubando tanto si fa carriera · Tutti i nodi vengono al pettine · Levarsi la sete col prosciutto · Essere l'ago della bilancia · Ammainare le vele · Trovare terreno morbido · Ad ogni poeta manca un verso · Fare il giro delle sette chiese | Consonni book (tier B) |
 | ✅ **DRAFTED 0245** — estar en el séptimo cielo | es | candidate | Essere al settimo cielo | IT reviewer (own material) |
 | ✅ **DRAFTED 0246** — Volente o nolente | it | candidate | Quieras o no | ES reviewer (3rd-party PDF) |
@@ -620,6 +627,7 @@ unless there is a new reason to.
 | cerebro de chorlito / memoria de pollo? | ? | candidate | Cervello di gallina | FluentU 40 |
 | Cervello di gallina | ? | candidate | cerebro de chorlito / memoria de pollo? | FluentU 40 |
 | Che palle | it | candidate | qué hueva (MX) / qué palo (ES) | FluentU 40 |
+| Che stress! | it | candidate | ¡qué estrés! | IT reviewer (own account) |
 | Chi aspetta, Dio l'assetta | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | Chi ha il pane non ha i denti e chi ha i denti non ha il pane | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | Chi non fa, non falla | it | candidate | el que no hace, no yerra | IT proverb list (Joe) |
@@ -813,6 +821,7 @@ unless there is a new reason to.
 | Mettere i bastoni fra le ruote | it | candidate | poner palos en las ruedas | europassitalian.com |
 | Mettere lo zampino | it | candidate | meter la cuchara (MX) | storylearning.com |
 | mettersi con le mani sui fianchi | ? | candidate | Ponerse de jarras | ES idioms book |
+| Mi hai stufato! | ? | candidate | ¡ya me hartaste! (MX) / ¡me tienes harto! | IT reviewer (own account) |
 | mientras hay vida, hay esperanza | es | candidate | Finché c'è vita, c'è speranza | IT proverb list (Joe) |
 | Minestra riscaldata | ? | candidate | recalentado (MX!) | FluentU 40 |
 | Morto un papa se ne fa un altro | ? | candidate | a rey muerto, rey puesto | FluentU 40 |
@@ -833,6 +842,7 @@ unless there is a new reason to.
 | Non ci credo | it | candidate | no lo puedo creer / no inventes (MX) | Italian Matters list |
 | Non dire gatto se non ce l'hai nel sacco | it | candidate | no vender la piel del oso antes de cazarlo | Consonni book (tier B) |
 | non è niente di che / non è cosa dell'altro mondo | ? | candidate | No es cosa del otro mundo | ES idioms book |
+| Non ne posso più! | it | candidate | ¡ya no puedo más! | IT reviewer (own account) |
 | non poter vedere qualcuno nemmeno dipinto | it | candidate | No poder ver a alguien ni en pintura | ES idioms book |
 | Non rimandare a domani… | it | candidate | no dejes para mañana lo que puedas hacer hoy | IT proverb list (Joe) |
 | non sentire volare una mosca | it | candidate | No oír ni el vuelo de una mosca | ES idioms book |
@@ -977,7 +987,6 @@ unless there is a new reason to.
 | ¡Que te vaya bien! | es | no-partner-found | — | ES reviewer (3rd-party PDF) |
 | A Milano, anche i gelsi fanno l'uva / Fiorentini ciechi e Pisani traditori / Arno non cresce se Sieve non mesce | it | no-partner-found | — | Consonni book (tier B) |
 | A pisielle pavammo | ? | no-partner-found | — | Consonni book (tier B) |
-| Avere una marcia in più | it | no-partner-found | — | IT reviewer (own account) |
 | Chi fa da sé, fa per tre | es | no-partner-found | — | IT proverb list (Joe) |
 | Chi va piano va sano e va lontano | ? | no-partner-found | — | Consonni book (tier B) |
 | Essere in alto mare | it | no-partner-found | — | IT reviewer (own material) |
@@ -986,7 +995,6 @@ unless there is a new reason to.
 | Fare una frittata / Essere la fabbrica del Duomo / Fare un quarantotto / Ai tempi che Berta filava | ? | no-partner-found | — | Consonni book (tier B) |
 | Hacer buenas migas con alguien | es | no-partner-found | — | ES idioms book |
 | Hai voluto la bicicletta? Pedala! | es | no-partner-found | — | FluentU 40 |
-| Mi girano le scatole | ? | no-partner-found | — | IT reviewer (own account) |
 | Natale con i tuoi, Pasqua con chi vuoi | ? | no-partner-found | — | Claude research |
 | Nessuna nuova, buona nuova | ? | no-partner-found | — | IT proverb list (Joe) |
 | Non tutte le ciambelle riescono col buco | it | no-partner-found | — | IT proverb list (Joe) |
