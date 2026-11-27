@@ -13,6 +13,7 @@
 
 import { readFileSync, writeFileSync, readdirSync, mkdirSync, existsSync } from "node:fs";
 import { join, resolve } from "node:path";
+import { readyForReviewer } from "./lib/classify.mjs";
 
 const ROOT = resolve(process.env.BANK_ROOT ?? ".");
 // Alternatives point AT bank entries via `anchor`. The link was one-way, so a
@@ -28,6 +29,13 @@ try {
 // that" — expression, literal, meaning, example. No sources, traps or notes.
 const SIMPLE = process.argv.includes("--simple");
 const CHECK = process.argv.includes("--check");
+// --pending: only entries that still need Stage 3. Approved entries are done;
+// sending them again wastes the reviewer's pass and buries the real work.
+const PENDING = process.argv.includes("--pending");
+// --ready: the cohort a native reviewer can act on today. Drops entries held
+// for an editorial call, ones whose own notes question whether they earn a
+// slot, early drafts, and anything cited to a corpus rather than a dictionary.
+const READY = process.argv.includes("--ready");
 
 const bank = readdirSync(join(ROOT, "bank"))
   .filter((f) => f.endsWith(".json"))
@@ -41,9 +49,16 @@ const LANGS = {
 
 function fileFor(lang) {
   const L = LANGS[lang];
-  const active = bank.filter((e) => e.review.status !== "retired");
+  const active = bank
+    .filter((e) => e.review.status !== "retired")
+    .filter((e) => !PENDING || e.review.status !== "approved")
+    .filter((e) => !READY || readyForReviewer(e));
+  // A note is the audit trail — every entry has one — so "has notes" flags
+  // everything and triages nothing. Flag on a REGION claim or an unanswered
+  // question, which are the two things a reviewer must not skim past.
+  const OPEN_Q = /\?|BOTH REVIEWERS|please confirm|check whether|flag whether/i;
   const flagged = active.filter(
-    (e) => e[lang].regionNote || (e.review.notes ?? "").length > 0 || e.review.status === "needs_review"
+    (e) => e[lang].regionNote || OPEN_Q.test(e.review.notes ?? "")
   );
   const clean = active.filter((e) => !flagged.includes(e));
   const retired = bank.filter((e) => e.review.status === "retired");
@@ -59,19 +74,27 @@ function fileFor(lang) {
       `- **example:** ${x.example}`,
       `  — *${x.exampleTranslation}*`,
       `- **register:** ${x.register} · **exam:** ${x.formality} · **regions:** ${x.regions.join(", ")} · **status:** ${e.review.status}`,
-      `- **source to verify:** ${src.authority ?? "—"} → ${src.url ?? "—"} (headword: ${src.headword ?? "—"})${src.verifiedBy ? " ✓ verified" : " — NOT YET OPENED BY A HUMAN"}`,
     ];
+    if (!SIMPLE) {
+      lines.push(
+        `- **source to verify:** ${src.authority ?? "—"} → ${src.url ?? "—"} (headword: ${src.headword ?? "—"})${src.verifiedBy ? " ✓ verified" : " — NOT YET OPENED BY A HUMAN"}`
+      );
+    }
     if (x.regionNote) lines.push(`- ⚑ **REGION:** ${x.regionNote}`);
-    const trap = e.bridge?.interference?.[lang === "es" ? "it_to_es" : "es_to_it"];
-    if (trap) lines.push(`- **trap when producing ${L.name}:** ${trap}`);
-    if (e.review.notes) lines.push(`- **notes:** ${e.review.notes}`);
-    for (const a of ALTS_BY_ANCHOR[e.id] ?? []) {
-      const verb = a.status === "rejected" ? "REJECTED alternative" : "alternative under consideration";
-      lines.push(`- **${verb} (${a.id}):** pairing this with \u201c${a.alt.text}\u201d instead \u2014 ${a.bridge}`);
+    if (!SIMPLE) {
+      const trap = e.bridge?.interference?.[lang === "es" ? "it_to_es" : "es_to_it"];
+      if (trap) lines.push(`- **trap when producing ${L.name}:** ${trap}`);
+      if (e.review.notes) lines.push(`- **notes:** ${e.review.notes}`);
+      for (const a of ALTS_BY_ANCHOR[e.id] ?? []) {
+        const verb = a.status === "rejected" ? "REJECTED alternative" : "alternative under consideration";
+        lines.push(`- **${verb} (${a.id}):** pairing this with \u201c${a.alt.text}\u201d instead \u2014 ${a.bridge}`);
+      }
     }
     lines.push(
       ``,
-      `> reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right  [ ] source opened & confirms`
+      SIMPLE
+        ? `> reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right`
+        : `> reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right  [ ] source opened & confirms`
     );
     return lines.join("\n");
   };
@@ -83,19 +106,26 @@ JSON (or tell the editor), then this file is regenerated. ${L.reviewerHint}
 
 ${active.length} active entries · ${flagged.length} need attention first · generated ${new Date().toISOString().slice(0, 10)}
 
-The five checks per entry: is the expression natural, is the meaning accurate, is
+${SIMPLE
+  ? `Four checks per entry: is the expression natural, is the meaning accurate, is the
+example something a native would say, and are register/regions honest.
+
+This is the stripped list — no sources, no interference claims, no drafting notes.
+Answer from your own ear. If an entry needs discussion, note the id and we will
+send the full record separately.`
+  : `The five checks per entry: is the expression natural, is the meaning accurate, is
 the example something a native would say, are register/regions honest, and does
-the cited page actually support the entry (open the URL).
+the cited page actually support the entry (open the URL).`}
 
 ---
 
-## Needs attention first (${flagged.length})
+## Needs attention first — region claim or an open question (${flagged.length})
 
 ${flagged.map(row).join("\n\n")}
 
 ---
 
-## The rest (${clean.length})
+## The rest — straightforward, still need your ear (${clean.length})
 
 ${clean.map(row).join("\n\n")}
 
@@ -110,7 +140,7 @@ ${retired.map((e) => `- ${e.id} — ${e[lang].text} · *${e.retiredReason ?? ""}
 mkdirSync(join(ROOT, "reviewers"), { recursive: true });
 let stale = [];
 for (const lang of ["es", "it"]) {
-  const path = join(ROOT, "reviewers", `REVIEW-${lang.toUpperCase()}.md`);
+  const path = join(ROOT, "reviewers", `REVIEW-${lang.toUpperCase()}${READY ? "-READY" : PENDING ? "-PENDING" : ""}${SIMPLE ? "-SIMPLE" : ""}.md`);
   const next = fileFor(lang);
   const prev = existsSync(path) ? readFileSync(path, "utf8") : "";
   // ignore the generated date when checking freshness

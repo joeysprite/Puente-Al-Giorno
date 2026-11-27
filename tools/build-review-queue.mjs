@@ -8,6 +8,7 @@
 
 import fs from 'node:fs';
 import path from 'node:path';
+import { OPEN_Q, LOAD_BEARING, WEAK, EDITORIAL } from "./lib/classify.mjs";
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const OUT = path.join(ROOT, 'REVIEW-QUEUE.md');
@@ -30,13 +31,13 @@ const unverified = (e) =>
 const allSources = (e) => (e.es.sources || []).length + (e.it.sources || []).length;
 
 // an approved entry whose notes still ask a reviewer something
-const OPEN_Q = /reviewer to (confirm|add|drop|check|verify)/i;
+
 // a claim the drafter flagged as load-bearing and unproven
-const LOAD_BEARING = /(THIS DECIDES THE ENTRY|IS THE ENTRY AND IT IS UNVERIFIED|IS THE ENTRY|MINE AND UNVERIFIED|UNVERIFIED AND IS WHAT THE ENTRY RESTS ON|whole bridge rests|the entry has no bridge|MAY NOT BE A PAIR)/i;
+
 // entries the drafter flagged as possibly not worth shipping at all
-const WEAK = /(NO TRAP EXISTS|confidence-builder|HONEST WEIGHT ASSESSMENT|close to the floor)/i;
+
 // editorial/appropriateness flags
-const EDITORIAL = /(REGISTER FLAG|EDITORIAL FLAG|sexist|slur|should probably not ship|not ship a slur)/i;
+
 
 function classify(e) {
   const n = notes(e);
