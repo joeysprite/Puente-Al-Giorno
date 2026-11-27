@@ -161,10 +161,11 @@ h2 {
 .entry {
   break-inside: avoid;
   page-break-inside: avoid;
-  padding: 3.5mm 0 0;
-  margin-bottom: 4mm;
+  padding: 3mm 0 0;
+  margin-bottom: 3mm;
   border-top: 0.5pt solid var(--rule);
 }
+.write { }
 .entry-head {
   font: 600 12.5pt/1.3 Georgia, "Liberation Serif", serif;
   margin: 0 0 2mm;
@@ -185,6 +186,7 @@ h2 {
   color: var(--soft);
   display: inline-block;
   min-width: 17mm;
+  padding-right: 2mm;
 }
 .entry .gloss { color: var(--soft); font-style: italic; }
 .tags { font-size: 8.8pt; color: var(--soft); margin: 2mm 0 0; }
@@ -233,9 +235,9 @@ h2 {
   flex: 0 0 auto;
 }
 .write {
-  margin-top: 2.5mm;
+  margin-top: 2mm;
   border-bottom: 0.5pt solid var(--rule);
-  height: 7mm;
+  height: 6mm;
   position: relative;
 }
 .write::before {
@@ -253,7 +255,8 @@ hr { display: none; }
 function renderEntry(block) {
   const lines = block.split("\n");
   const head = lines[0].replace(/^###\s+/, "");
-  const m = /^(\d{4})\s*—\s*(.*)$/.exec(head);
+  // "0243 — expression" in a worklist, "7. expression" in a candidate list.
+  const m = /^(\d{4})\s*—\s*(.*)$/.exec(head) ?? /^(\d{1,3})\.\s*(.*)$/.exec(head);
   const id = m ? m[1] : "";
   const expr = m ? m[2] : head;
 
@@ -343,7 +346,7 @@ function toHtml(md, title) {
       body += `<div class="section"><h2>${esc(h)}</h2>`;
       if (note) body += `<div class="section-note">${md2html(note)}</div>`;
       open = true;
-    } else if (/^###\s+\d{4}\s/.test(p)) {
+    } else if (/^###\s+\d{4}\s/.test(p) || /^###\s+\d{1,3}\.\s/.test(p)) {
       body += renderEntry(p.replace(/^---$/gm, "").trim());
     } else {
       // A ### that is not an entry id is prose — "How to return this" and the
