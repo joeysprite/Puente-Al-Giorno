@@ -14,6 +14,7 @@
 import { readFileSync, writeFileSync, readdirSync, mkdirSync, existsSync } from "node:fs";
 import { join, resolve } from "node:path";
 import { readyForReviewer } from "./lib/classify.mjs";
+import { questionFor } from "./lib/questions.mjs";
 
 const ROOT = resolve(process.env.BANK_ROOT ?? ".");
 // Alternatives point AT bank entries via `anchor`. The link was one-way, so a
@@ -24,6 +25,17 @@ let ALTS_BY_ANCHOR = {};
 try {
   const doc = JSON.parse(readFileSync(join(ROOT, "alternatives.json"), "utf8"));
   for (const a of doc.alternatives ?? []) (ALTS_BY_ANCHOR[a.anchor] ??= []).push(a);
+} catch {}
+// Dates whose slot is running filler until a named entry is approved. Parsed
+// from the override reasons rather than hardcoded, so the packet stays true
+// as the slate changes.
+let DUE_BY = {};
+try {
+  const doc = JSON.parse(readFileSync(join(ROOT, "overrides.json"), "utf8"));
+  for (const [date, o] of Object.entries(doc.overrides ?? {})) {
+    const m = /swap to (\d{4}) once approved/i.exec(o.reason ?? "");
+    if (m) (DUE_BY[m[1]] ??= []).push(date);
+  }
 } catch {}
 // --simple: a stripped list for a reviewer who just needs to say "yes, we say
 // that" — expression, literal, meaning, example. No sources, traps or notes.
@@ -40,6 +52,12 @@ const READY = process.argv.includes("--ready");
 // no unanswered question, so the reviewer needs nothing from the editor first.
 // This is the packet that can go out without a covering question sheet.
 const CLEAN = process.argv.includes("--clean");
+// --full: EVERY unapproved entry, with the question for this reviewer lifted
+// out of review.notes. The other stripped modes hide notes wholesale, which
+// also hides the questions an entry's approval depends on — so an entry could
+// sit unapproved forever with nobody ever having been asked. Sectioned by what
+// the reviewer has to do, dated slots first.
+const FULL = process.argv.includes("--full");
 // --ids 0326,0327,…: an explicit cohort, in the order given. For a deadline-
 // driven packet, where what matters is not how clean an entry is but that a
 // dated slot is waiting on it. Overrides the triage bands.
@@ -99,6 +117,14 @@ function fileFor(lang) {
       );
     }
     if (x.regionNote) lines.push(`- ⚑ **REGION:** ${x.regionNote}`);
+    if (FULL) {
+      const q = questionFor(e, lang);
+      if (q) lines.push(`- ⚑ **QUESTION:** ${q}`);
+      // A corpus citation has no authority page to confirm, so this entry needs
+      // its source replaced before it can be approved however clean the review.
+      if ((x.sources ?? []).some((s2) => s2.authority === "Corpus"))
+        lines.push(`- *(source being replaced on my side — your review still stands)*`);
+    }
     if (!SIMPLE) {
       const trap = e.bridge?.interference?.[lang === "es" ? "it_to_es" : "es_to_it"];
       if (trap) lines.push(`- **trap when producing ${L.name}:** ${trap}`);
@@ -116,6 +142,69 @@ function fileFor(lang) {
     );
     return lines.join("\n");
   };
+
+  if (FULL) {
+    const un = bank.filter((e) => e.review.status !== "approved" && e.review.status !== "retired");
+    const dated = un.filter((e) => DUE_BY[e.id]).sort((a, b) => (DUE_BY[a.id][0] < DUE_BY[b.id][0] ? -1 : 1));
+    const rest = un.filter((e) => !DUE_BY[e.id]);
+    const asked = rest.filter((e) => e.review.status !== "draft" && questionFor(e, lang));
+    const quiet = rest.filter((e) => e.review.status !== "draft" && !questionFor(e, lang));
+    const drafts = rest.filter((e) => e.review.status === "draft");
+    const sect = (title, list, blurb) =>
+      !list.length ? "" : `---
+
+## ${title} (${list.length})
+
+${blurb}
+
+${list.map(row).join("\n\n")}
+
+`;
+    return { count: un.length, text: `# ${L.name} review — every unapproved entry
+
+**${un.length} entries.** ${L.reviewerHint}
+
+Generated ${new Date().toISOString().slice(0, 10)}.
+
+This is the whole backlog, not a sample. It is long on purpose — nothing is
+being held back for a later round.
+
+### How to use it
+
+Four checks per entry: is the expression natural, is the meaning accurate, is
+the example something a native would say, are the register and region tags
+honest. Tick the boxes if it is fine; write a line underneath if it is not.
+
+Two kinds of line can appear above the boxes:
+
+- **REGION** — a claim I am making about where the expression lives. Not
+  research for you to do: say whether it matches your experience.
+- **QUESTION** — something I could not settle and the entry is waiting on.
+  These are the ones worth your time first. An answer here is often what
+  decides whether the entry ships at all.
+
+Work in whatever order suits you, except the first section — those have dates.
+No sources and no grammar claims of mine are included; answer from your ear.
+Do not edit above the boxes, these files are generated.
+
+${sect(
+  "Dated — a slot is running filler until these are approved",
+  dated,
+  dated.map((e) => `- **${e.id}** needed by **${DUE_BY[e.id][0]}**`).join("\n")
+)}${sect(
+  "With a question for you",
+  asked,
+  "Each of these has a QUESTION line. They are the entries where your answer changes the outcome."
+)}${sect(
+  "No question — just your ear",
+  quiet,
+  "Nothing outstanding on these. Four ticks each, or a line if something is off."
+)}${sect(
+  "Early drafts — lower confidence",
+  drafts,
+  "Still marked draft rather than ready. Judge them as freely as the rest; a \"this does not work\" here saves more time than anywhere else."
+)}` };
+  }
 
   if (IDS) {
     const byId = new Map(bank.map((e) => [e.id, e]));
@@ -209,7 +298,7 @@ let stale = [];
 for (const lang of ["es", "it"]) {
   // An --ids packet is an ad-hoc cohort and must not land on the filename a
   // standing mode owns, or it silently replaces that mode's output.
-  const slug = IDS
+  const slug = FULL ? "-ALL-UNAPPROVED" : IDS
     ? "-" + (LABEL ?? "ids").replace(/[^A-Za-z0-9]+/g, "-").replace(/^-|-$/g, "").toUpperCase().slice(0, 24)
     : `${READY ? "-READY" : PENDING ? "-PENDING" : ""}${CLEAN ? "-CLEAN" : ""}${SIMPLE ? "-SIMPLE" : ""}`;
   const path = join(ROOT, "reviewers", `REVIEW-${lang.toUpperCase()}${slug}.md`);
