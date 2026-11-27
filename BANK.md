@@ -1,6 +1,6 @@
 # Un puente al giorno — Bank
 
-**Last updated:** 2026-08-20 | **Total entries:** 230 | **Approved:** 129
+**Last updated:** 2026-11-27 | **Total entries:** 241 | **Approved:** 129
 
 _Regenerate with `node tools/build-bank.mjs` any time the bank changes. This file is generated — edit bank/*.json, not this._
 
@@ -11,7 +11,7 @@ _Regenerate with `node tools/build-bank.mjs` any time the bank changes. This fil
 | Status | Count |
 |--------|-------|
 | approved | 129 |
-| needs_review | 81 |
+| needs_review | 92 |
 | draft | 20 |
 
 ---
@@ -305,6 +305,17 @@ These are marked `approved` but their own `review.notes` field still contains la
 | 0316 | Un día sí y otro no | Un giorno sì e uno no | collocation | B1 | 2 | needs_review | frequency, time, numbers |
 | 0317 | Lo que faltaba | Ci mancava solo questa | marker | B1 | 2 | needs_review | frustration, irony, discourse |
 | 0318 | ¡Uf! | Uffa! | marker | A2 | 2 | needs_review | frustration, interjections, discourse |
+| 0319 | Ir como un tiro | Andare come un treno | idiom | B1 | 2 | needs_review | speed, machines |
+| 0320 | Descubrir el pastel | Scoprire gli altarini | idiom | B2 | 3 | needs_review | secrecy, deception |
+| 0321 | Tener ángel | Avere un certo non so che | idiom | B1 | 2 | needs_review | charm, character |
+| 0322 | Cortar los lazos | Tagliare i ponti | idiom | B1 | 2 | needs_review | relationships, endings |
+| 0323 | Echar chispas | Avere un diavolo per capello | idiom | B2 | 3 | needs_review | anger, body |
+| 0324 | Decirle a alguien cuatro verdades | Dirne quattro a qualcuno | idiom | B2 | 3 | needs_review | confrontation, numbers |
+| 0325 | Te extraño | Mi manchi | collocation | A2 | 2 | needs_review | affection, absence |
+| 0326 | El maratón Guadalupe-Reyes | Dall'Immacolata all'Epifania | collocation | B2 | 3 | needs_review | calendar, celebration, religion |
+| 0327 | El aguinaldo | La tredicesima | collocation | B1 | 2 | needs_review | work, money, calendar |
+| 0328 | ¡Inocente palomita! | Pesce d'aprile! | collocation | B1 | 2 | needs_review | calendar, humor, celebration |
+| 0329 | Las doce uvas | Le lenticchie di Capodanno | collocation | B1 | 2 | needs_review | calendar, food, celebration |
 
 ---
 

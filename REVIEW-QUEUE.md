@@ -10,18 +10,58 @@ not listed — this is a work queue, not a catalogue.
 
 | Band | Count |
 |---|---|
-| 1. Approved but not actually finished | 48 |
-| 2. Editorial and register calls | 6 |
+| 0. Ships next — check before it goes out | 30 |
+| 1. Approved but not actually finished | 25 |
+| 2. Editorial and register calls | 5 |
 | 3. Rests on an unverified claim | 30 |
 | 4. May not earn a slot | 4 |
-| 5. Drafted, awaiting review | 53 |
+| 5. Drafted, awaiting review | 57 |
 | 6. Early drafts | 18 |
-| 7. Nothing needed — approved and clean | 78 |
-| **total** | **237** |
+| 7. Nothing needed — approved and clean | 72 |
+| **total** | **241** |
 
 ---
 
-## 1. Approved but not actually finished  (48)
+## 0. Ships next — check before it goes out  (30)
+
+Scheduled to post. Anything wrong here is public on the date shown.
+
+| ID | Pair | Status | Sources | What to decide |
+|---|---|---|---|---|
+| 0109 | Venir con músicas ↔ Raccontare storie | approved | 2/2 verified | ES side discovered in the Spanish idioms book Joe is reading, 2026-07-21 (discovery only; all glosses and examples authored fresh). |
+| 0112 | Dar la cara ↔ Pagare di persona | approved | 2/2 verified | FOR THE ITALIAN REVIEWER: (1) Does pagare di persona read as dated or literary to you? It is the one thing I could not judge — Treccani's examples have a slightly formal ring. |
+| 0113 | Hablar con la pared ↔ È come parlare al muro | approved | 2/2 verified | Banked 2026-07-24. |
+| 0114 | No te quedes de brazos cruzados ↔ Non stare con le mani in mano | approved | 2/2 verified | Banked 2026-07-24. |
+| 0115 | No está el horno para bollos ↔ Non è aria | approved | 2/2 verified | Register flag: multiple native discussions describe 'non è aria' as capable of real edge/irritation, not just neutral timing — this needs a reviewer call on whether that's IT-only or true of the ES si |
+| 0117 | Pongamos punto final al asunto ↔ Mettiamoci una pietra sopra | approved | 2/2 verified | Banked 2026-07-24. |
+| 0120 | Dar la talla ↔ Essere all'altezza | approved | 2/2 verified | Authored as a schema demo; sources not human-verified; reviewer sign-off pending. |
+| 0202 | Por lo visto ↔ a quanto pare | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0204 | A la larga ↔ a lungo andare | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0205 | A toda costa ↔ a tutti i costi | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0207 | Hace poco ↔ di recente | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0209 | Con toda probabilidad ↔ con ogni probabilità | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0212 | De algún modo ↔ in qualche modo | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0213 | En cuanto a ↔ per quanto riguarda | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0215 | Por mi cuenta ↔ per conto mio | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0216 | A la fuerza ↔ per forza | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0217 | Para nada ↔ per niente | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0218 | Por otro lado ↔ dall'altro lato | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0219 | De ahora en adelante ↔ d'ora in poi | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0220 | A escondidas ↔ di nascosto | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0221 | En persona ↔ di persona | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0224 | En todo caso ↔ in ogni caso | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0225 | A cambio ↔ in compenso | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0226 | En promedio ↔ in media | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0228 | De prisa ↔ in fretta | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0229 | Por casualidad ↔ per caso | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0230 | Por suerte ↔ per fortuna | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0231 | Solo ↔ da solo | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0233 | A veces ↔ a volte | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+| 0234 | De memoria ↔ a memoria | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
+
+---
+
+## 1. Approved but not actually finished  (25)
 
 These can be scheduled TODAY, and the bank treats them as shippable. But each either still asks a reviewer a question in its own notes, or carries a source nobody opened. The status field says done; the entry does not agree.
 
@@ -49,36 +89,13 @@ These can be scheduled TODAY, and the bank treats them as shippable. But each ei
 | 0064 | Botar la llave ↔ Buttare via la chiave | approved | 2/2 verified | | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer sho |
 | 0077 | Te quiero ↔ Ti voglio bene | approved | 2/2 verified | | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer sho |
 | 0087 | Caérsele a uno las alas del corazón ↔ Cadere le braccia | approved | 2/2 verified | | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer sho |
-| 0202 | Por lo visto ↔ a quanto pare | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0204 | A la larga ↔ a lungo andare | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0205 | A toda costa ↔ a tutti i costi | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0207 | Hace poco ↔ di recente | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0209 | Con toda probabilidad ↔ con ogni probabilità | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0212 | De algún modo ↔ in qualche modo | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0213 | En cuanto a ↔ per quanto riguarda | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0215 | Por mi cuenta ↔ per conto mio | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0216 | A la fuerza ↔ per forza | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0217 | Para nada ↔ per niente | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0218 | Por otro lado ↔ dall'altro lato | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0219 | De ahora en adelante ↔ d'ora in poi | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0220 | A escondidas ↔ di nascosto | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0221 | En persona ↔ di persona | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0224 | En todo caso ↔ in ogni caso | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0225 | A cambio ↔ in compenso | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0226 | En promedio ↔ in media | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0228 | De prisa ↔ in fretta | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0229 | Por casualidad ↔ per caso | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0230 | Por suerte ↔ per fortuna | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0231 | Solo ↔ da solo | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0233 | A veces ↔ a volte | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
-| 0234 | De memoria ↔ a memoria | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
 | 0235 | En voz alta ↔ a voce alta | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
 | 0237 | Al final ↔ alla fine | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
 | 0238 | Por lo general ↔ di solito | approved | 2/2 verified | ES pairing chosen by Claude, unverified — reviewer to confirm. |
 
 ---
 
-## 2. Editorial and register calls  (6)
+## 2. Editorial and register calls  (5)
 
 Nothing linguistically wrong. The question is whether the bank wants to publish it — dated, vulgar, or built on an image that may not sit well with subscribers. These need a decision from you, not from a reviewer.
 
@@ -88,7 +105,6 @@ Nothing linguistically wrong. The question is whether the bank wants to publish 
 | 0008 | Dar en el clavo ↔ Cogliere nel segno | approved | 2/2 verified | EDITORIAL FLAG (social): this trap names 'coger' as vulgar in Mexico and the Río de la Plata. |
 | 0068 | ¡Madre mía! ↔ Mamma mia! | draft | 0/2 verified | | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer sho |
 | 0105 | Mandar al quinto pino ↔ Mandare a quel paese | draft | 0/2 verified | | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer sho |
-| 0115 | No está el horno para bollos ↔ Non è aria | approved | 2/2 verified | Register flag: multiple native discussions describe 'non è aria' as capable of real edge/irritation, not just neutral timing — this needs a reviewer call on whether that's IT-only or true of the ES si |
 | 0269 | Loco de atar ↔ Matto da legare | needs_review | 0/2 verified | IT REVIEWER: is 'pazzo da legare' as common as 'matto da legare'? If pazzo dominates the it.text may be wrong. |
 
 ---
@@ -145,7 +161,7 @@ Real, correct, and possibly not worth a subscriber's day. Trap-free twins and vo
 
 ---
 
-## 5. Drafted, awaiting review  (53)
+## 5. Drafted, awaiting review  (57)
 
 Ordinary queue. Sources unverified and no native sign-off, but nothing specific is flagged as at risk.
 
@@ -204,6 +220,10 @@ Ordinary queue. Sources unverified and no native sign-off, but nothing specific 
 | 0323 | Echar chispas ↔ Avere un diavolo per capello | needs_review | 0/2 verified | ES REVIEWER: (a) is 'echar chispas' current in MX? (b) ⚑ I HAVE CLAIMED IT IS ALWAYS VISIBLE ANGER — if it can also describe anger someone is hiding, the bridge's central contrast collapses. |
 | 0324 | Decirle a alguien cuatro verdades ↔ Dirne quattro a qualcuno | needs_review | 0/2 verified | IT REVIEWER: confirm the clitic placement in my example ('gliene ha dette quattro') and the agreement on 'dette'. |
 | 0325 | Te extraño ↔ Mi manchi | needs_review | 0/2 verified | ES REVIEWER: (a) confirm 'te extraño' is the MX default and my regionNote is right about Spain; (b) ⚑ I CLAIM 'me haces falta' IS HEAVIER THAN 'te extraño' — closer to 'I need you'. |
+| 0326 | El maratón Guadalupe-Reyes ↔ Dall'Immacolata all'Epifania | needs_review | 0/2 verified | ES REVIEWER: confirm register (colloquial) and that the expression is national, not regional. |
+| 0327 | El aguinaldo ↔ La tredicesima | needs_review | 0/2 verified | ES REVIEWER: confirm the posada candy-bag sense is current MX usage. |
+| 0328 | ¡Inocente palomita! ↔ Pesce d'aprile! | needs_review | 0/2 verified | ES REVIEWER: confirm 'inocente palomita' as Mexican-strong and the full rhyme. |
+| 0329 | Las doce uvas ↔ Le lenticchie di Capodanno | needs_review | 0/2 verified | ES REVIEWER: confirm Mexican usage ('fin de año' vs 'Nochevieja'). |
 
 ---
 
@@ -234,7 +254,7 @@ Not yet worked up.
 
 ---
 
-## 7. Nothing needed — approved and clean  (78)
+## 7. Nothing needed — approved and clean  (72)
 
 Not listed. These carry no flags and need nothing from you — see BANK.md for the full catalogue. The count is here so the numbers still add up.
 

@@ -1,6 +1,6 @@
 # Expression registry — master list
 
-**Generated** 2026-08-20 by `tools/build-registry.mjs`. Do not hand-edit.
+**Generated** 2026-11-27 by `tools/build-registry.mjs`. Do not hand-edit.
 
 One row per **expression**, not per pairing. CANDIDATES.md answers "what pairings are
 we considering"; this answers "what expressions do we know about, and what has each one
@@ -12,15 +12,15 @@ been matched to". Two things only this view makes visible:
 
 | Status | Count |
 |---|---|
-| banked | 456 |
-| candidate | 441 |
+| candidate | 512 |
+| banked | 478 |
+| no-partner-found | 103 |
 | rejected | 20 |
-| no-partner-found | 19 |
-| **total expressions** | **936** |
+| **total expressions** | **1113** |
 
 ---
 
-## Mapped to more than one partner (25)
+## Mapped to more than one partner (30)
 
 Not errors. Each needs a decision: pick one, or bank both once the multiple-pairings
 policy is switched on.
@@ -29,6 +29,7 @@ policy is switched on.
 |---|---|---|
 | Avere la luna storta | it | Tener mal templada la guitarra (0093) · Estar de mala leche |
 | Avere le fette di salame sugli occhi | it | Tener telarañas en los ojos (0096) · tener una venda en los ojos |
+| Avere un diavolo per capello | it | Echar chispas (0323) · echar chispas / estar hecho una furia |
 | Che peccato | it | Qué lástima (0258) · qué pena / qué lástima |
 | Chi non risica non rosica | it | El que no arriesga, no gana (0054) · Quien no se arriesga no pasa la mar |
 | Dar la cara | es | Pagare di persona (0112) · metterci la faccia (drafted, withdrawn) / cerca altro |
@@ -39,21 +40,25 @@ policy is switched on.
 | Fare una figuraccia | it | Meter la pata (0010) · Quedar a la altura de su zapatilla |
 | Hablar con el corazón en la mano | es | Avere il cuore in mano (0276) · parlare col cuore in mano |
 | No dejes para mañana lo que puedas hacer hoy | es | Chi ha tempo non aspetti tempo (0063) · Non rimandare a domani… |
+| No hay mal que por bien no venga | es | Non tutti i mali vengono per nuocere (0062) · Non tutto il male vien per nuocere |
 | No oír ni el vuelo de una mosca | es | Sentire volare una mosca (0261) · non sentire volare una mosca |
 | Non stare più nella pelle | it | No caber en sí (0248) · ✅ **DRAFTED 0248** — no caber en sí (de gozo/contento/alegría) |
 | Ogni morte di papa | it | Cada muerte de obispo (0041) · De Pascuas a Ramos |
 | Piantare in asso | it | Dejar a uno en la estacada (0099) · dejar plantado |
 | Prendere una boccata d'aria | it | Tomar una bocanada de aire (0264) · tomar una bocanada de aire (fresco) |
 | Quieras o no | es | Volente o nolente (0246) · ✅ **DRAFTED 0246** — Volente o nolente |
+| Scoprire gli altarini | it | Descubrir el pastel (0320) · Descubrir el polvorín |
 | Scoprire l'acqua calda | it | Descubrir el agua tibia (0305) · Descubrir / inventar el hilo negro |
 | Ser un pedazo de pan | es | Essere un pezzo di pane (0275) · Buono come il pane |
+| Vísteme despacio que tengo prisa | es | La gatta frettolosa fece i gattini ciechi (0309) · Chi ha fretta perde tempo |
 | Vuotare il sacco | it | Cantar de plano (0108) · Vaciar el costal |
 | (ES side unresearched) | es | Nella botte piccola c'è il vino buono · Non c'è trippa per gatti · Gallina vecchia fa buon brodo · Salvarsi in calcio d'angolo · Un pollo da spennare · Avere le orecchie che fischiano · Avere la coda di paglia · Specchietto per le allodole · Se non è zuppa è pan bagnato · Trovare pane per i tuoi denti · Essere un pappa molle · Fare le nozze con i fichi secchi · Sotto la pioggia fame, sotto la neve pane · Meglio mangiare pane e cipolla a casa tua che maccheroni a casa di altri · Il diavolo fa le pentole ma non i coperchi · Chi ha il pane non ha i denti e chi ha i denti non ha il pane · Il buon marinaio si conosce al cattivo tempo · Impara l'arte e mettila da parte · Un padre campa cento figli e cento figli non campano un padre · A Santo vecchio non si accendono più candele · Chi aspetta, Dio l'assetta · La sera leoni, la mattina conigli · Una mezza bugia è una menzogna intera · A lavar la testa all'asino si perde il ranno e il sapone · Chi va a letto senza cena, tutta notte si dimena · A pagare e a morire si è sempre in tempo · L'Epifania tutte le feste porta via · Si vive bene all'ombra del campanile · Prima di parlare, taci · Avere fortuna come un cane in chiesa · Rubando poco si va in galera, rubando tanto si fa carriera · Tutti i nodi vengono al pettine · Levarsi la sete col prosciutto · Essere l'ago della bilancia · Ammainare le vele · Trovare terreno morbido · Ad ogni poeta manca un verso · Fare il giro delle sette chiese |
 | de tal palo, tal astilla | ? | Tale madre tale figlia · Il figlio del gatto prende i topi |
 | Dime con quién andas y te diré quién eres | es | dimmi con chi vai e ti dirò chi sei · Chi pratica lo zoppo impara a zoppicare |
+| Ojos que no ven, corazón que no siente | es | occhio non vede, cuore non duole · Lontano dagli occhi, lontano dal cuore |
 | Quedar a la altura de su zapatilla | es | fare una figuraccia · Fare la figura del cioccolataio |
 
-## No partner found (19)
+## No partner found (103)
 
 Searched, nothing found — as opposed to not yet looked at. Stop re-researching these
 unless there is a new reason to.
@@ -62,27 +67,111 @@ unless there is a new reason to.
 |---|---|---|---|
 | ¡Dios quiera! | es | ES reviewer (3rd-party PDF) | Formula — out of scope for v1, do not draft: Overlaps existing entry — Sits on the same wish-particl |
 | ¡Que te vaya bien! | es | ES reviewer (3rd-party PDF) | Formula — out of scope for v1, do not draft: Weak match — Same family as the retired-formula questio |
+| (Il) cuore non invecchia | it | attested | How to read the Confidence column: Book drops the article. Adjacent to banked 0088/0276 — check satu |
+| A bocca asciutta non si canta | it | form? | How to read the Confidence column: Usually *a gola asciutta*. |
+| A lavoro finito si conta il guadagno | it | doubtful? | How to read the Confidence column: — |
 | A Milano, anche i gelsi fanno l'uva / Fiorentini ciechi e Pisani traditori / Arno non cresce se Sieve non mesce | it | Consonni book (tier B) | Consonni book, entries 60–79 (third batch, 2026-08-09): THREE CITY-SPECIFIC ITEMS grouped: Milanese  |
+| A pensar male si fa peccato, ma spesso si indovina | ? | attested | How to read the Confidence column: ⚑ **My earlier note was wrong.** Not a modern Andreotti coinage.  |
 | A pisielle pavammo | ? | Consonni book (tier B) | *Italian Idioms: Top 100* — Maria Consonni (book, 2026-08-09): NEAPOLITAN DIALECT, not standard Ital |
-| Chi fa da sé, fa per tre | es | IT proverb list (Joe) | Proverb twins with a small axis of difference: IT rhymes sé/tre and quantifies by three |
-| Chi va piano va sano e va lontano | ? | Consonni book (tier B) | Consonni book, entries 41–59 (second batch, 2026-08-09): DUPLICATE of the calendar-batch row above,  |
+| A stomaco pieno si ragiona meglio | ? | doubtful? | How to read the Confidence column: — |
+| A tavola non si invecchia | it | attested | How to read the Confidence column: ⚑ No ES twin — Spanish put this value into a noun instead, *sobre |
+| A tavola si invecchia bene | ? | doubtful? | How to read the Confidence column: Contradicts #62, which is the attested one. |
+| Amore vecchio non fa buon brodo | it | **INVERTED** | How to read the Confidence column: Attested: *amore vecchio non fa **ruggine***, meaning the opposit |
+| Avere una marcia in più | it | IT reviewer (own account) | @learnandloveitalian basic-vs-idiom carousel, 2026-08-26: ⚑ THE CARD'S OWN GLOSS IS NARROW. It rende |
+| Buon vino fa buon sangue | ? | attested | How to read the Confidence column: Register risk: reads as endorsing drinking. |
+| Chi ama bene, ama poco | ? | doubtful? | How to read the Confidence column: Self-contradicting: the book glosses *ama poco* as "loves wisely" |
+| Chi ama davvero perdona | ? | doubtful? | How to read the Confidence column: — |
+| Chi ama teme | ? | attested | How to read the Confidence column: Literary and old; confirm current use. |
+| Chi ama troppo dimentica sé stesso | es | doubtful? | How to read the Confidence column: — |
+| Chi beve solo acqua ha qualcosa da nascondere | it | attested | How to read the Confidence column: A joke saying; register flag. |
+| Chi cerca scuse, trova scuse | ? | doubtful? | How to read the Confidence column: — |
+| Chi crede a tutti, resta deluso | ? | doubtful? | How to read the Confidence column: — |
+| Chi dice sempre la verità non ha amici | it | doubtful? | How to read the Confidence column: — |
+| Chi dorme non guadagna | it | **logged** | How to read the Confidence column: Variant of banked 0051 (*chi dorme non piglia pesci*). |
+| Chi è causa del suo mal, pianga sé stesso | it | attested | How to read the Confidence column: Old and formal. ES sketches found so far are colloquial and misma |
+| Chi è troppo buono, viene fregato | it | doubtful? | How to read the Confidence column: Duplicates #124's frame. |
+| Chi fa da sé, fa per tre | es | IT proverb list (Joe), **logged** | Proverb twins with a small axis of difference: IT rhymes sé/tre and quantifies by three |
+| Chi fa il furbo resta fregato | it | attested | How to read the Confidence column: *Furbo* is culturally loaded enough to deserve an entry of its ow |
+| Chi guarda il dito perde la luna | ? | form? | How to read the Confidence column: Usual Italian is *quando il saggio indica la luna, lo stolto guar |
+| Chi ha pane non ha denti | it | **logged** | How to read the Confidence column: L595 (fuller chiastic form). |
+| Chi ha paura di sbagliare non fa nulla | it | doubtful? | How to read the Confidence column: — |
+| Chi ha pazienza vince | ? | form? | How to read the Confidence column: Attested is *chi la dura la vince*. Patience already has two queu |
+| Chi lavora mangia | ? | doubtful? | How to read the Confidence column: Duplicate of #59. |
+| Chi mangia solo si strozza | ? | form? | How to read the Confidence column: Attested is *chi mangia solo, crepa solo* — dies alone, not choke |
+| Chi non risparmia spreca | it | doubtful? | How to read the Confidence column: — |
+| Chi non sa, parla | it | doubtful? | How to read the Confidence column: — |
+| Chi parla troppo, poco conclude | ? | doubtful? | How to read the Confidence column: — |
+| Chi promette troppo, mantiene poco | ? | doubtful? | How to read the Confidence column: — |
+| Chi si loda, s'imbroda | ? | attested | How to read the Confidence column: Rhymes (loda/imbroda). ES has no fixed rhyming twin — the asymmet |
+| Chi troppo ama troppo soffre | ? | doubtful? | How to read the Confidence column: — |
+| Chi troppo pensa poco fa | ? | doubtful? | How to read the Confidence column: Attested neighbour is *chi troppo vuole nulla stringe* (L211, and |
+| Chi troppo risparmia nulla gode | ? | doubtful? | How to read the Confidence column: — |
+| Chi va con lo zoppo impara a zoppicare | it | **logged** | How to read the Confidence column: L632. ⚑ Register flag already standing. The book prints this one  |
+| Chi va piano va sano e va lontano | ? | Consonni book (tier B), **logged** | Consonni book, entries 41–59 (second batch, 2026-08-09): DUPLICATE of the calendar-batch row above,  |
+| Chi vive sperando muore lavorando | ? | form? | How to read the Confidence column: Attested is *chi di speranza vive, disperato muore*. The colloqui |
+| Dalle parole si conoscono gli stolti, dai fatti i saggi | it | form? | How to read the Confidence column: Reads assembled; overlaps #110. Attested neighbour is *dai frutti |
+| Dopo il dolce viene l'amaro | it | doubtful? | How to read the Confidence column: — |
+| Dove c'è gusto, non c'è perdenza | it | attested | How to read the Confidence column: Colloquial. *Perdenza* is rare enough to need glossing. |
 | Essere in alto mare | it | IT reviewer (own material) | General — thin sourcing or unconfirmed Italian/Spanish side: The IT is well-known: far from finished |
 | Estar hecho pedazos | es | Dissolved 0009 | Unmatched — one side has no known counterpart: Covers BOTH senses — bodily exhaustion and emotional  |
 | Estar hecho polvo | es | Dissolved 0009 | Unmatched — one side has no known counterpart: Peninsular, EXHAUSTION ONLY — narrower than *hecho pe |
 | Fare una frittata / Essere la fabbrica del Duomo / Fare un quarantotto / Ai tempi che Berta filava | ? | Consonni book (tier B) | Consonni book, entries 81–100 (final batch — book complete, 2026-08-09): FOUR GROUPED, all needing a |
+| Guardare il pelo nell'uovo | it | **banked 0022** | How to read the Confidence column: ⚑ Banked with the correct verb, *cercare*. The book's *guardare*  |
 | Hacer buenas migas con alguien | es | ES idioms book | Unmatched — one side has no known counterpart: crumbs; possible no-twin entry, needs reviewer |
 | Hai voluto la bicicletta? Pedala! | es | FluentU 40 | Unmatched — one side has no known counterpart: divergent |
+| I nodi vengono sempre al pettine | ? | **logged** | How to read the Confidence column: L659. ⚑ The book's English reverses it: knots reaching the comb i |
+| Il buon giorno si vede dal mattino | it | attested | How to read the Confidence column: No obvious ES twin — likely a divergence entry. |
+| Il caso ci vede benissimo | it | doubtful? | How to read the Confidence column: ⚑ Recheck. Note *la fortuna è cieca ma la sfiga ci vede benissimo |
+| Il caso fa scherzi strani | it | doubtful? | How to read the Confidence column: ⚑ Recheck. |
+| Il caso governa metà della vita | it | doubtful? | How to read the Confidence column: ⚑ Recheck. |
+| Il destino è scritto | it | doubtful? | How to read the Confidence column: ⚑ Recheck. |
+| Il destino fa le carte | it | doubtful? | How to read the Confidence column: ⚑ Recheck — luck-chapter discards are unreliable, see header. |
+| Il destino sa essere ironico | it | doubtful? | How to read the Confidence column: ⚑ Recheck. |
+| Il fato è beffardo | it | doubtful? | How to read the Confidence column: ⚑ Recheck. |
+| Il guadagno facile dura poco | it | doubtful? | How to read the Confidence column: — |
+| Il lavoro duro forma il carattere | it | doubtful? | How to read the Confidence column: — |
+| Il lavoro fatto bene si paga due volte | it | doubtful? | How to read the Confidence column: — |
+| Il lavoro non manca mai | it | doubtful? | How to read the Confidence column: — |
+| Il mestiere fa l'uomo | it | doubtful? | How to read the Confidence column: — |
+| Il mondo è fatto a scale | it | attested | How to read the Confidence column: Full form *…c'è chi scende e c'è chi sale* rhymes. ES *la vida da |
+| Il pane quotidiano non cade dal cielo | it | doubtful? | How to read the Confidence column: — |
+| Il tempo è il miglior maestro | it | doubtful? | How to read the Confidence column: Attested Italian is *il tempo è galantuomo* — which this book als |
+| In vino veritas | ? | **logged** | How to read the Confidence column: L626 (as *la verità è nel vino*). ⚑ The book prints the **Latin** |
+| L'amore è come il fuoco | it | doubtful? | How to read the Confidence column: Generic simile. |
+| L'amore non è bello se non è litigarello | it | attested | How to read the Confidence column: Rhymes (bello/litigarello). No fixed rhyming ES twin found — the  |
+| L'amore passa, la fame resta | es | doubtful? | How to read the Confidence column: — |
+| L'amore vuole amore | ? | doubtful? | How to read the Confidence column: — |
+| L'apparenza inganna spesso | ? | doubtful? | How to read the Confidence column: Weakened duplicate of #13. |
+| L'esperienza è la madre della saggezza | it | form? | How to read the Confidence column: Attested form is *madre della **scienza***. Also collides with L1 |
+| La fortuna arriva quando meno te l'aspetti | es | doubtful? | How to read the Confidence column: ⚑ Recheck. |
+| La fortuna bacia chi osa | es | doubtful? | How to read the Confidence column: Duplicates #81. |
+| La fortuna è come il vetro: quando brilla, si rompe | it | doubtful? | How to read the Confidence column: ⚑ Recheck. |
+| La fortuna è donna | it | attested | How to read the Confidence column: ⚑ Machiavelli, *Il Principe* ch. 25 — a literary quotation, not f |
+| La fortuna gira | es | form? | How to read the Confidence column: ⚑ **My discard was wrong.** *La ruota della fortuna gira* is atte |
+| La fortuna non guarda in faccia nessuno | ? | attested | How to read the Confidence column: Verify. |
+| La fortuna va e viene | es | doubtful? | How to read the Confidence column: ⚑ Recheck — *buona fortuna non dura* is attested and adjacent. |
+| La pazienza ha un limite | ? | doubtful? | How to read the Confidence column: — |
+| La sorte è capricciosa | it | doubtful? | How to read the Confidence column: ⚑ Recheck. |
+| Le persone cambiano poco | ? | doubtful? | How to read the Confidence column: — |
+| Matrimonio e melone, non si sa mai come sono | it | form? | How to read the Confidence column: Widely attested form is *la moglie e il melone* — about the **wif |
+| Mi girano le scatole | ? | IT reviewer (own account) | @learnandloveitalian basic-vs-idiom carousel, 2026-08-26: Fourth member of the euphemism cluster abo |
 | Natale con i tuoi, Pasqua con chi vuoi | ? | Claude research | Seasonal / calendar candidates: Famous Italian proverb — Christmas with your family, Easter with who |
 | Nessuna nuova, buona nuova | ? | IT proverb list (Joe) | Unmatched — one side has no known counterpart: possible no-twin entry |
-| Non tutte le ciambelle riescono col buco | it | IT proverb list (Joe) | Unmatched — one side has no known counterpart: doughnut imagery is IT-only |
+| Non si può avere tutto | it | doubtful? | How to read the Confidence column: Ordinary sentence. Collides with L567. |
+| Non tutte le ciambelle riescono col buco | it | IT proverb list (Joe), **logged** | Unmatched — one side has no known counterpart: doughnut imagery is IT-only |
+| Non tutti sono uguali | it | doubtful? | How to read the Confidence column: — |
+| Non tutto è scritto | it | doubtful? | How to read the Confidence column: ⚑ Recheck. |
+| Pane al pane, vino al vino | it | **logged** | How to read the Confidence column: L266 |
 | Quando il padre fa carnevale, ai figlioli tocca far quaresima | it | Treccani (`quaresima`) | Seasonal / calendar candidates: Treccani marks this proverb as now rare — if the father is a spendth |
 | Que no te digan, que no te cuenten | es | ES reviewer (3rd-party PDF) | Unmatched — one side has no known counterpart: No match found — Doesn't fit the "no matter what" fam |
+| Senza fatica non si ottiene nulla | it | doubtful? | How to read the Confidence column: — |
 | Si te caes siete veces, levántate ocho | es | ES proverb list (Joe) | Unmatched — one side has no known counterpart: Japanese proverb naturalised into ES; needs an IT rev |
+| Tanto rumore per nulla | ? | form? | How to read the Confidence column: ⚑ This is the Italian **title of Shakespeare's *Much Ado About No |
 | Va a ciapà i ratt! | it | Consonni book (tier B) | *Italian Idioms: Top 100* — Maria Consonni (book, 2026-08-09): MILANESE DIALECT. Same scope question |
 
 ---
 
-## Full registry (936)
+## Full registry (1113)
 
 | Expression | Lang | Status | Partner(s) | Source |
 |---|---|---|---|---|
@@ -91,6 +180,7 @@ unless there is a new reason to.
 | ¡Feliz año nuevo! | es | banked | Buon anno! (0100) | bank/0100 |
 | ¡Feliz Día de la Madre! | es | banked | Auguri, mamma! (0110) | bank/0110 |
 | ¡Feliz Navidad! | es | banked | Buon Natale! (0290) | bank/0290 |
+| ¡Inocente palomita! | es | banked | Pesce d'aprile! (0328) | bank/0328 |
 | ¡Madre mía! | es | banked | Mamma mia! (0068) | bank/0068 |
 | ¡Mucha suerte! | es | banked | In bocca al lupo (0039) | bank/0039 |
 | ¡Sepa! | es | banked | Boh (0069) | bank/0069 |
@@ -135,6 +225,7 @@ unless there is a new reason to.
 | Andar pisando huevos | es | banked | Camminare sulle uova (0273) | bank/0273, ES idioms book |
 | Andare a gonfie vele | it | banked | Ir todo viento en popa (0103) | bank/0103 |
 | Andare al sodo | it | banked | Ir al grano (0023) | bank/0023 |
+| Andare come un treno | it | banked | Ir como un tiro (0319) | bank/0319 |
 | Arrimar el ascua a su sardina | es | banked | Tirare l'acqua al proprio mulino (0081) | bank/0081 |
 | Auguri, mamma! | it | banked | ¡Feliz Día de la Madre! (0110) | bank/0110 |
 | Avere grilli per la testa | it | banked | Tener pájaros en la cabeza (0074) | bank/0074 |
@@ -152,6 +243,8 @@ unless there is a new reason to.
 | Avere le mani bucate | it | banked | Ser un manirroto (0071) | bank/0071 |
 | Avere le mani legate | it | banked | Tener las manos atadas (0287) | bank/0287, IT reviewer (own material) |
 | Avere sale in zucca | it | banked | Tener dos dedos de frente (0050) | bank/0050 |
+| Avere un certo non so che | it | banked | Tener ángel (0321) | bank/0321, ES idioms book |
+| Avere un diavolo per capello | it | banked | Echar chispas (0323) · echar chispas / estar hecho una furia | bank/0323, Instagram set (Joe) |
 | Averne fin sopra i capelli | it | banked | Estar hasta las narices (0026) | bank/0026 |
 | Battere il ferro finché è caldo | it | banked | A hierro candente, batir de repente (0057) | bank/0057 |
 | Bene ma non benissimo | it | banked | Bien, pero no tan bien (0047) | bank/0047 |
@@ -182,8 +275,8 @@ unless there is a new reason to.
 | Che peccato | it | banked | Qué lástima (0258) · qué pena / qué lástima | bank/0258, Italian Matters list |
 | Chi dorme non piglia pesci | it | banked | Camarón que se duerme se lo lleva la corriente (0051) | bank/0051, europassitalian.com |
 | Chi ha tempo non aspetti tempo | it | banked | No dejes para mañana lo que puedas hacer hoy (0063) | bank/0063 |
-| Chi non risica non rosica | it | banked | El que no arriesga, no gana (0054) · Quien no se arriesga no pasa la mar | bank/0054, ES idioms book |
-| Chi semina vento raccoglie tempesta | it | banked | Quien siembra vientos recoge tempestades (0303) | bank/0303 |
+| Chi non risica non rosica | it | banked | El que no arriesga, no gana (0054) · Quien no se arriesga no pasa la mar | bank/0054, ES idioms book, **banked 0054** |
+| Chi semina vento raccoglie tempesta | it | banked | Quien siembra vientos recoge tempestades (0303) | bank/0303, **banked 0303** |
 | Chi va a Roma perde la poltrona | it | banked | Quien fue a Sevilla perdió su silla (0048) | bank/0048 |
 | Ci mancava solo questa | it | banked | Lo que faltaba (0317) | bank/0317 |
 | Cioè | it | banked | O sea (0032) | bank/0032 |
@@ -204,6 +297,7 @@ unless there is a new reason to.
 | Con toda probabilidad | es | banked | con ogni probabilità (0209) | bank/0209 |
 | Con todo respeto | es | banked | con tutto il rispetto (0210) | bank/0210 |
 | con tutto il rispetto | it | banked | Con todo respeto (0210) | bank/0210 |
+| Cortar los lazos | es | banked | Tagliare i ponti (0322) | bank/0322, ES idioms book |
 | Cortarle un traje a uno | es | banked | Tagliare i panni addosso a qualcuno (0094) | bank/0094 |
 | Costar un ojo de la cara | es | banked | Costare un occhio della testa (0003) | bank/0003 |
 | Costare un occhio della testa | it | banked | Costar un ojo de la cara (0003) | bank/0003 |
@@ -213,6 +307,7 @@ unless there is a new reason to.
 | da solo | it | banked | Solo (0231) | bank/0231 |
 | Dai | it | banked | ¡Ándale! (0066) | bank/0066 |
 | dall'altro lato | it | banked | Por otro lado (0218) | bank/0218 |
+| Dall'Immacolata all'Epifania | it | banked | El maratón Guadalupe-Reyes (0326) | bank/0326 |
 | Dall'oggi al domani | it | banked | De la noche a la mañana (0315) | bank/0315 |
 | Dar en el clavo | es | banked | Cogliere nel segno (0008) | bank/0008 |
 | Dar la cara | es | banked | Pagare di persona (0112) · metterci la faccia (drafted, withdrawn) / cerca altro | bank/0112, Editor pullback |
@@ -231,9 +326,11 @@ unless there is a new reason to.
 | De nuevo | es | banked | di nuovo (0239) | bank/0239 |
 | De prisa | es | banked | in fretta (0228) | bank/0228 |
 | De seguro | es | banked | di sicuro (0222) | bank/0222 |
+| Decirle a alguien cuatro verdades | es | banked | Dirne quattro a qualcuno (0324) | bank/0324, ES idioms book |
 | Dejar a uno en la estacada | es | banked | Piantare in asso (0099) | bank/0099 |
 | Del dicho al hecho hay mucho trecho | es | banked | Tra il dire e il fare c'è di mezzo il mare (0301) | bank/0301 |
 | Descubrir el agua tibia | es | banked | Scoprire l'acqua calda (0305) | bank/0305 |
+| Descubrir el pastel | es | banked | Scoprire gli altarini (0320) | bank/0320 |
 | Despacito | es | banked | Piano piano (0046) | bank/0046 |
 | di conseguenza | it | banked | En consecuencia (0206) | bank/0206 |
 | di nascosto | it | banked | A escondidas (0220) | bank/0220 |
@@ -242,15 +339,19 @@ unless there is a new reason to.
 | di recente | it | banked | Hace poco (0207) | bank/0207 |
 | di sicuro | it | banked | De seguro (0222) | bank/0222 |
 | di solito | it | banked | Por lo general (0238) | bank/0238 |
+| Dirne quattro a qualcuno | it | banked | Decirle a alguien cuatro verdades (0324) | bank/0324, ES idioms book |
 | Diventare rosso come un peperone | it | banked | Ponerse rojo como un tomate (0250) | bank/0250, IT reviewer (own material) |
 | Dormir a pierna suelta | es | banked | Dormire come un ghiro (0020) | bank/0020 |
 | Dormire come un ghiro | it | banked | Dormir a pierna suelta (0020) | bank/0020 |
 | Due anni fa | it | banked | Hace dos años (0030) | bank/0030 |
 | È come parlare al muro | it | banked | Hablar con la pared (0113) | bank/0113 |
 | Echar agua al mar | es | banked | Portare acqua al mare (0251) | bank/0251, ES idioms book |
+| Echar chispas | es | banked | Avere un diavolo per capello (0323) | bank/0323 |
 | Echar leña al fuego | es | banked | Gettare benzina sul fuoco (0011) | bank/0011 |
 | Echar una mano | es | banked | Dare una mano (0018) | bank/0018 |
+| El aguinaldo | es | banked | La tredicesima (0327) | bank/0327 |
 | El hábito no hace al monje | es | banked | L'abito non fa il monaco (0299) | bank/0299 |
+| El maratón Guadalupe-Reyes | es | banked | Dall'Immacolata all'Epifania (0326) | bank/0326 |
 | El mundo es un pañuelo | es | banked | Il mondo è piccolo (0104) | bank/0104 |
 | El que no arriesga, no gana | es | banked | Chi non risica non rosica (0054) | bank/0054 |
 | El tiempo lo cura todo | es | banked | Il tempo guarisce tutte le ferite (0277) | bank/0277, ES proverb list (Joe) |
@@ -318,7 +419,7 @@ unless there is a new reason to.
 | Hoy por ti, mañana por mí | es | banked | Oggi a me, domani a te (0053) | bank/0053 |
 | Ídem | es | banked | — | bank/0280, italianario (IG, tier C) |
 | Il corteo dei Magi | it | banked | La cabalgata de Reyes (0314) | bank/0314 |
-| Il lupo perde il pelo ma non il vizio | it | banked | La cabra siempre tira al monte (0302) | bank/0302 |
+| Il lupo perde il pelo ma non il vizio | it | banked | La cabra siempre tira al monte (0302) | bank/0302, **banked 0302** |
 | Il mattino ha l'oro in bocca | it | banked | Al que madruga, Dios le ayuda (0056) | bank/0056 |
 | Il mondo è piccolo | it | banked | El mundo es un pañuelo (0104) | bank/0104 |
 | Il tempo guarisce tutte le ferite | it | banked | El tiempo lo cura todo (0277) | bank/0277, ES proverb list (Joe) |
@@ -333,9 +434,10 @@ unless there is a new reason to.
 | in realtà | it | banked | En realidad (0240) | bank/0240, Italian Matters list |
 | in silenzio | it | banked | En silencio (0227) | bank/0227 |
 | Ir al grano | es | banked | Andare al sodo (0023) | bank/0023 |
+| Ir como un tiro | es | banked | Andare come un treno (0319) | bank/0319 |
 | Ir todo viento en popa | es | banked | Andare a gonfie vele (0103) | bank/0103 |
 | Ir volando | es | banked | Essere di corsa (0263) | bank/0263, IT reviewer (own material) |
-| L'abito non fa il monaco | it | banked | El hábito no hace al monje (0299) | bank/0299 |
+| L'abito non fa il monaco | it | banked | El hábito no hace al monje (0299) | bank/0299, **banked 0299** |
 | La Befana | it | banked | Los Reyes Magos (0312) | bank/0312 |
 | La cabalgata de Reyes | es | banked | Il corteo dei Magi (0314) | bank/0314 |
 | La cabra siempre tira al monte | es | banked | Il lupo perde il pelo ma non il vizio (0302) | bank/0302 |
@@ -343,10 +445,13 @@ unless there is a new reason to.
 | La goccia che fa traboccare il vaso | it | banked | La última gota que hace rebosar la copa (0092) | bank/0092 |
 | La novena di Natale | it | banked | Pedir posada (0313) | bank/0313 |
 | La pentola guardata non bolle mai | it | banked | Quien espera, desespera (0296) | bank/0296 |
+| La tredicesima | it | banked | El aguinaldo (0327) | bank/0327 |
 | La última gota que hace rebosar la copa | es | banked | La goccia che fa traboccare il vaso (0092) | bank/0092 |
 | La vigilia di Natale | it | banked | Nochebuena (0292) | bank/0292 |
 | Lacrime di coccodrillo | it | banked | Lágrimas de cocodrilo (0286) | bank/0286, storylearning.com |
 | Lágrimas de cocodrilo | es | banked | Lacrime di coccodrillo (0286) | bank/0286, storylearning.com |
+| Las doce uvas | es | banked | Le lenticchie di Capodanno (0329) | bank/0329 |
+| Le lenticchie di Capodanno | it | banked | Las doce uvas (0329) | bank/0329 |
 | Llover a cántaros | es | banked | Piovere a catinelle (0014) | bank/0014 |
 | Llueve sobre mojado | es | banked | Piove sul bagnato (0271) | bank/0271, storylearning.com |
 | Lo que faltaba | es | banked | Ci mancava solo questa (0317) | bank/0317 |
@@ -367,7 +472,7 @@ unless there is a new reason to.
 | Matar la gallina de los huevos de oro | es | banked | Uccidere la gallina dalle uova d'oro (0268) | bank/0268, spanishexpress.co.uk (Peninsular) |
 | Matto da legare | it | banked | Loco de atar (0269) | bank/0269, storylearning.com |
 | Me late que | es | banked | Mi sa che (0065) | bank/0065 |
-| Meglio un uovo oggi che una gallina domani | it | banked | Más vale pájaro en mano que cien volando (0052) | bank/0052 |
+| Meglio un uovo oggi che una gallina domani | it | banked | Más vale pájaro en mano que cien volando (0052) | bank/0052, **banked 0052** |
 | Meno male | it | banked | Menos mal (0033) | bank/0033 |
 | Menos mal | es | banked | Meno male (0033) | bank/0033 |
 | Meter el dedo en la llaga | es | banked | Mettere il dito nella piaga (0274) | bank/0274, IT reviewer (own material) |
@@ -379,6 +484,7 @@ unless there is a new reason to.
 | Mettere le carte in tavola | it | banked | Poner las cartas sobre la mesa (0019) | bank/0019 |
 | Mettere troppa carne al fuoco | it | banked | Poner toda la carne en el asador (0089) | bank/0089, europassitalian.com |
 | Mettiamoci una pietra sopra | it | banked | Pongamos punto final al asunto (0117) | bank/0117 |
+| Mi manchi | it | banked | Te extraño (0325) | bank/0325 |
 | Mi sa che | it | banked | Me late que (0065) | bank/0065 |
 | Morire di fame | it | banked | Morirse de hambre (0049) | bank/0049 |
 | Morirse de hambre | es | banked | Morire di fame (0049) | bank/0049 |
@@ -389,7 +495,7 @@ unless there is a new reason to.
 | No es oro todo lo que reluce | es | banked | Non è tutto oro quel che luccica (0300) | bank/0300 |
 | No está el horno para bollos | es | banked | Non è aria (0115) | bank/0115 |
 | No hay dos sin tres | es | banked | Non c'è due senza tre (0283) | bank/0283, europassitalian.com |
-| No hay mal que por bien no venga | es | banked | Non tutti i mali vengono per nuocere (0062) | bank/0062 |
+| No hay mal que por bien no venga | es | banked | Non tutti i mali vengono per nuocere (0062) · Non tutto il male vien per nuocere | bank/0062, attested |
 | No oír ni el vuelo de una mosca | es | banked | Sentire volare una mosca (0261) · non sentire volare una mosca | bank/0261, ES idioms book |
 | No pegar ojo | es | banked | Non chiudere occhio (0017) | bank/0017 |
 | No saber a qué carta quedarse | es | banked | Non sapere che pesce prendere (0073) | bank/0073 |
@@ -402,11 +508,11 @@ unless there is a new reason to.
 | Non capirci un tubo | it | banked | No entender ni papa (0310) | bank/0310 |
 | Non chiudere occhio | it | banked | No pegar ojo (0017) | bank/0017 |
 | Non è aria | it | banked | No está el horno para bollos (0115) | bank/0115 |
-| Non è tutto oro quel che luccica | it | banked | No es oro todo lo que reluce (0300) | bank/0300 |
+| Non è tutto oro quel che luccica | it | banked | No es oro todo lo que reluce (0300) | bank/0300, **banked 0300** |
 | Non sapere che pesce prendere | it | banked | No saber a qué carta quedarse (0073) | bank/0073 |
 | Non stare con le mani in mano | it | banked | No te quedes de brazos cruzados (0114) | bank/0114 |
 | Non stare più nella pelle | it | banked | No caber en sí (0248) · ✅ **DRAFTED 0248** — no caber en sí (de gozo/contento/alegría) | bank/0248, IT reviewer (own material) |
-| Non tutti i mali vengono per nuocere | it | banked | No hay mal que por bien no venga (0062) | bank/0062 |
+| Non tutti i mali vengono per nuocere | it | banked | No hay mal que por bien no venga (0062) | bank/0062, **duplicate** |
 | Non vedere l'ora | it | banked | No ver la hora (0040) | bank/0040 |
 | O sea | es | banked | Cioè (0032) | bank/0032 |
 | Oggi a me, domani a te | it | banked | Hoy por ti, mañana por mí (0053) | bank/0053 |
@@ -430,6 +536,7 @@ unless there is a new reason to.
 | per niente | it | banked | Para nada (0217) | bank/0217 |
 | per quanto riguarda | it | banked | En cuanto a (0213) | bank/0213 |
 | Per quel che vale | it | banked | Por si sirve de algo (0294) | bank/0294 |
+| Pesce d'aprile! | it | banked | ¡Inocente palomita! (0328) | bank/0328 |
 | Piangere sul latte versato | it | banked | A lo hecho, pecho (0061) | bank/0061 |
 | Piano piano | it | banked | Despacito (0046) | bank/0046 |
 | Piantare in asso | it | banked | Dejar a uno en la estacada (0099) · dejar plantado | bank/0099, europassitalian.com |
@@ -475,6 +582,7 @@ unless there is a new reason to.
 | Sacar las castañas del fuego | es | banked | Togliere le castagne dal fuoco (0262) | bank/0262, ES idioms book |
 | Saltare la mosca al naso | it | banked | Hinchársele las narices a alguien (0085) | bank/0085 |
 | Saperla lunga | it | banked | Saber latín (0097) | bank/0097 |
+| Scoprire gli altarini | it | banked | Descubrir el pastel (0320) · Descubrir el polvorín | bank/0320, ES idioms book |
 | Scoprire l'acqua calda | it | banked | Descubrir el agua tibia (0305) · Descubrir / inventar el hilo negro | bank/0305, Claude research |
 | Sea como sea | es | banked | Sia come sia (0253) | bank/0253, ES reviewer (3rd-party PDF) |
 | Sentire volare una mosca | it | banked | No oír ni el vuelo de una mosca (0261) | bank/0261 |
@@ -496,9 +604,12 @@ unless there is a new reason to.
 | Subirse a la parra | es | banked | Uscire dai gangheri (0098) | bank/0098 |
 | Sul serio | it | banked | ¿En serio? (0260) | bank/0260, Italian Matters list |
 | Tagliare i panni addosso a qualcuno | it | banked | Cortarle un traje a uno (0094) | bank/0094 |
+| Tagliare i ponti | it | banked | Cortar los lazos (0322) | bank/0322, ES idioms book |
 | Tanto per cambiare | it | banked | Para variar (0297) | bank/0297 |
 | Tarde o temprano | es | banked | Prima o poi (0308) | bank/0308 |
+| Te extraño | es | banked | Mi manchi (0325) | bank/0325 |
 | Te quiero | es | banked | Ti voglio bene (0077) | bank/0077 |
+| Tener ángel | es | banked | Avere un certo non so che (0321) | bank/0321, ES idioms book |
 | Tener buen diente | es | banked | Essere una buona forchetta (0075) | bank/0075 |
 | Tener dos dedos de frente | es | banked | Avere sale in zucca (0050) | bank/0050 |
 | Tener el corazón hecho pedazos | es | banked | Avere il cuore a pezzi (0088) | bank/0088 |
@@ -517,8 +628,8 @@ unless there is a new reason to.
 | Togliere le castagne dal fuoco | it | banked | Sacar las castañas del fuego (0262) | bank/0262, ES idioms book |
 | Tomar el pelo | es | banked | Prendere in giro (0006) | bank/0006 |
 | Tomar una bocanada de aire | es | banked | Prendere una boccata d'aria (0264) | bank/0264 |
-| Tra il dire e il fare c'è di mezzo il mare | it | banked | Del dicho al hecho hay mucho trecho (0301) | bank/0301 |
-| Tra moglie e marito non mettere il dito | it | banked | Entre marido y mujer, nadie se debe meter (0058) | bank/0058 |
+| Tra il dire e il fare c'è di mezzo il mare | it | banked | Del dicho al hecho hay mucho trecho (0301) | bank/0301, **banked 0301** |
+| Tra moglie e marito non mettere il dito | it | banked | Entre marido y mujer, nadie se debe meter (0058) | bank/0058, **banked 0058** |
 | Tutto fumo e niente arrosto | it | banked | Mucho ruido y pocas nueces (0059) | bank/0059 |
 | Uccidere la gallina dalle uova d'oro | it | banked | Matar la gallina de los huevos de oro (0268) | bank/0268, spanishexpress.co.uk (Peninsular) |
 | Uffa! | it | banked | ¡Uf! (0318) | bank/0318 |
@@ -537,7 +648,7 @@ unless there is a new reason to.
 | Ver el vaso medio lleno | es | banked | Vedere il bicchiere mezzo pieno (0265) | bank/0265 |
 | Ver el vaso medio vacío | es | banked | Vedere il bicchiere mezzo vuoto (0266) | bank/0266 |
 | Ver la luz al final del túnel | es | banked | Vedere la luce in fondo al tunnel (0279) | bank/0279, IT reviewer (own material) |
-| Vísteme despacio que tengo prisa | es | banked | La gatta frettolosa fece i gattini ciechi (0309) | bank/0309 |
+| Vísteme despacio que tengo prisa | es | banked | La gatta frettolosa fece i gattini ciechi (0309) · Chi ha fretta perde tempo | bank/0309, form? |
 | Viva l'Italia! | it | banked | ¡Viva México! (0070) | bank/0070 |
 | Volente o nolente | it | banked | Quieras o no (0246) | bank/0246 |
 | Volere è potere | it | banked | Querer es poder (0304) | bank/0304 |
@@ -545,19 +656,17 @@ unless there is a new reason to.
 | ¡A otro perro con ese hueso! | es | candidate | a un altro cane con quest'osso? / racconta ad altri | ES idioms book |
 | ¡ajo y agua! / ¡arréglatelas! | ? | candidate | Attaccati al tram! | Consonni book (tier B) |
 | ¡no manches! (MX) / ¡anda ya! | ? | candidate | Ma dai | Italian Matters list |
-| ¡qué estrés! | es | candidate | Che stress! | IT reviewer (own account) |
 | ¡Que tengas un buen día! | es | candidate | Buona giornata! | ES reviewer (3rd-party PDF) |
 | ¡Y santas pascuas! | es | candidate | punto e basta | Claude research |
-| ¡ya me hartaste! (MX) / ¡me tienes harto! | ? | candidate | Mi hai stufato! | IT reviewer (own account) |
-| ¡ya no puedo más! | es | candidate | Non ne posso più! | IT reviewer (own account) |
 | (ES side unresearched) | es | candidate | Nella botte piccola c'è il vino buono · Non c'è trippa per gatti · Gallina vecchia fa buon brodo · Salvarsi in calcio d'angolo · Un pollo da spennare · Avere le orecchie che fischiano · Avere la coda di paglia · Specchietto per le allodole · Se non è zuppa è pan bagnato · Trovare pane per i tuoi denti · Essere un pappa molle · Fare le nozze con i fichi secchi · Sotto la pioggia fame, sotto la neve pane · Meglio mangiare pane e cipolla a casa tua che maccheroni a casa di altri · Il diavolo fa le pentole ma non i coperchi · Chi ha il pane non ha i denti e chi ha i denti non ha il pane · Il buon marinaio si conosce al cattivo tempo · Impara l'arte e mettila da parte · Un padre campa cento figli e cento figli non campano un padre · A Santo vecchio non si accendono più candele · Chi aspetta, Dio l'assetta · La sera leoni, la mattina conigli · Una mezza bugia è una menzogna intera · A lavar la testa all'asino si perde il ranno e il sapone · Chi va a letto senza cena, tutta notte si dimena · A pagare e a morire si è sempre in tempo · L'Epifania tutte le feste porta via · Si vive bene all'ombra del campanile · Prima di parlare, taci · Avere fortuna come un cane in chiesa · Rubando poco si va in galera, rubando tanto si fa carriera · Tutti i nodi vengono al pettine · Levarsi la sete col prosciutto · Essere l'ago della bilancia · Ammainare le vele · Trovare terreno morbido · Ad ogni poeta manca un verso · Fare il giro delle sette chiese | Consonni book (tier B) |
 | ✅ **DRAFTED 0245** — estar en el séptimo cielo | es | candidate | Essere al settimo cielo | IT reviewer (own material) |
 | ✅ **DRAFTED 0246** — Volente o nolente | it | candidate | Quieras o no | ES reviewer (3rd-party PDF) |
 | ✅ **DRAFTED 0247** — hacer algo al vuelo | ? | candidate | Fare una cosa al volo | IT reviewer (own material) |
 | ✅ **DRAFTED 0248** — no caber en sí (de gozo/contento/alegría) | es | candidate | Non stare più nella pelle | IT reviewer (own material) |
 | ✅ **DRAFTED 0249** — ser un hueso duro de roer | ? | candidate | Essere un osso duro | IT reviewer (own material) |
-| a buon intenditor poche parole | ? | candidate | Al buen entendedor, pocas palabras | ES proverb list (Joe) |
+| a buon intenditor poche parole | ? | candidate | Al buen entendedor, pocas palabras | ES proverb list (Joe), **logged** |
 | a grandes males, grandes remedios | ? | candidate | A mali estremi, estremi rimedi | FluentU 40 |
+| a la suerte hay que ayudarla | it | candidate | La fortuna va aiutata | attested |
 | A lavar la testa all'asino si perde il ranno e il sapone | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | A mali estremi, estremi rimedi | ? | candidate | a grandes males, grandes remedios | FluentU 40 |
 | A pagare e a morire si è sempre in tempo | it | candidate | (ES side unresearched) | Consonni book (tier B) |
@@ -570,6 +679,8 @@ unless there is a new reason to.
 | Ad ogni poeta manca un verso | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | al ahí se va (MX) | es | candidate | Alla come viene, viene | FluentU 40 |
 | Al buen entendedor, pocas palabras | ? | candidate | a buon intenditor poche parole | ES proverb list (Joe) |
+| al corazón no se le manda | es | candidate | Al cuor non si comanda | attested |
+| Al cuor non si comanda | it | candidate | al corazón no se le manda | attested |
 | al mal tiempo, buena cara | ? | candidate | Buon viso a cattivo gioco | storylearning.com |
 | al pan, pan y al vino, vino | es | candidate | Pane al pane e vino al vino | FluentU 40 |
 | Alla come viene, viene | it | candidate | al ahí se va (MX) | FluentU 40 |
@@ -579,6 +690,9 @@ unless there is a new reason to.
 | Alzarse con el santo y la limosna | es | candidate | fare man bassa / prendere cassa e baracca | ES idioms book |
 | Alzarsi col piede sbagliato | ? | candidate | levantarse con el pie izquierdo | europassitalian.com |
 | Ammainare le vele | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
+| amor con amor se paga | ? | candidate | Amore con amore si paga | attested |
+| Amore con amore si paga | ? | candidate | amor con amor se paga | attested |
+| Amore e tosse non si nascondono | it | candidate | el amor y la tos no se pueden ocultar | attested |
 | andare a letto con le galline | it | candidate | Acostarse con las gallinas | ES idioms book |
 | Andare tutto liscio | it | candidate | ir sobre ruedas / salir a pedir de boca | IT reviewer (own material) |
 | Aquello fue llegar y besar el santo | es | candidate | è stato un gioco da ragazzi | ES idioms book |
@@ -597,8 +711,6 @@ unless there is a new reason to.
 | Avere le braccine corte | it | candidate | ser codo (MX!) / más agarrado que... | FluentU 40 |
 | Avere le mani di pasta frolla | it | candidate | ser un manazas (ES) / MX ? | IT proverb list (Joe) |
 | Avere le orecchie che fischiano | it | candidate | (ES side unresearched) | Consonni book (tier B) |
-| avere un certo non so che | it | candidate | Tener ángel | ES idioms book |
-| Avere un diavolo per capello | ? | candidate | echar chispas / estar hecho una furia | Instagram set (Joe) |
 | Avere una cotta | ? | candidate | estar clavado (MX) / estar flechado | storylearning.com |
 | Avere una fame da lupi | ? | candidate | tener un hambre canina / de lobo | ines.tutoring (IG, tier C) |
 | Avere una fifa blu | ? | candidate | ponerse amarillo (tentative, weak source) | IT reviewer (own material) |
@@ -612,9 +724,12 @@ unless there is a new reason to.
 | brutto come la fame / il peccato | it | candidate | Más feo que el pecado | ES idioms book |
 | bueno / pues nada | es | candidate | Vabbè | Italian Matters list |
 | Buio pesto | ? | candidate | oscuro como boca de lobo | storylearning.com |
+| Buon vino non ha bisogno di frasca | it | candidate | el buen paño en el arca se vende | attested |
 | Buon viso a cattivo gioco | ? | candidate | al mal tiempo, buena cara | storylearning.com |
 | Buona giornata! | it | candidate | ¡Que tengas un buen día! | ES reviewer (3rd-party PDF) |
-| Buono come il pane | it | candidate | ser un pedazo de pan | FluentU 40 |
+| Buono come il pane | it | candidate | ser un pedazo de pan | FluentU 40, **logged** |
+| cada cosa a su tiempo | ? | candidate | Ogni cosa a suo tempo | attested |
+| cada quien arrima el ascua a su sardina | es | candidate | Ognuno tira l'acqua al suo mulino | attested |
 | cadere dal pero? | ? | candidate | Caerse de su burro | ES idioms book |
 | Cadere in piedi | it | candidate | caer de pie | IT reviewer (own material) |
 | caer de pie | es | candidate | Cadere in piedi | IT reviewer (own material) |
@@ -627,13 +742,23 @@ unless there is a new reason to.
 | cerebro de chorlito / memoria de pollo? | ? | candidate | Cervello di gallina | FluentU 40 |
 | Cervello di gallina | ? | candidate | cerebro de chorlito / memoria de pollo? | FluentU 40 |
 | Che palle | it | candidate | qué hueva (MX) / qué palo (ES) | FluentU 40 |
-| Che stress! | it | candidate | ¡qué estrés! | IT reviewer (own account) |
 | Chi aspetta, Dio l'assetta | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
+| Chi ben comincia è a metà dell'opera | it | candidate | obra empezada, medio acabada | attested |
+| Chi cerca trova | ? | candidate | el que busca, encuentra | attested |
+| Chi è senza peccato scagli la prima pietra | it | candidate | el que esté libre de pecado que tire la primera piedra | attested |
+| Chi ha (un) mestiere non muore di fame | ? | candidate | el que tiene oficio no pasa hambre? | attested |
+| Chi ha fretta perde tempo | ? | candidate | vísteme despacio que tengo prisa | form? |
 | Chi ha il pane non ha i denti e chi ha i denti non ha il pane | it | candidate | (ES side unresearched) | Consonni book (tier B) |
+| Chi ha la coscienza pulita dorme tranquillo | es | candidate | quien nada debe, nada teme | attested |
+| Chi ha orecchie per intendere, intenda | ? | candidate | el que tenga oídos para oír, que oiga | attested |
+| Chi nasce tondo non muore quadrato | it | candidate | genio y figura hasta la sepultura | attested |
 | Chi non fa, non falla | it | candidate | el que no hace, no yerra | IT proverb list (Joe) |
-| chi più spende meno spende | es | candidate | Lo barato sale caro | ES proverb list (Joe) |
+| Chi non lavora non mangia | it | candidate | el que no trabaja no come | attested |
+| chi più spende meno spende | es | candidate | Lo barato sale caro | ES proverb list (Joe), **logged** |
 | Chi pratica lo zoppo impara a zoppicare | it | candidate | dime con quién andas y te diré quién eres | Consonni book (tier B) |
-| chi troppo vuole nulla stringe | it | candidate | El que mucho abarca poco aprieta | ES proverb list (Joe) |
+| Chi si assomiglia si piglia | ? | candidate | Dios los cría y ellos se juntan | attested |
+| Chi tace, acconsente | ? | candidate | quien calla, otorga | attested |
+| chi troppo vuole nulla stringe | it | candidate | El que mucho abarca poco aprieta | ES proverb list (Joe), **logged** |
 | Chi trova un amico, trova un tesoro | ? | candidate | quien encuentra un amigo, encuentra un tesoro | IT proverb list (Joe) |
 | Chi va a letto senza cena, tutta notte si dimena | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | chuparse los dedos | ? | candidate | Leccarsi i baffi | storylearning.com |
@@ -653,10 +778,10 @@ unless there is a new reason to.
 | cornudo | ? | candidate | Cornuto | FluentU 40 |
 | Cornuto | ? | candidate | cornudo | FluentU 40 |
 | Cortar el bacalao | es | candidate | comandare / essere il capo | ES idioms book |
-| Cortar los lazos | es | candidate | tagliare i ponti | ES idioms book |
 | Costi quel che costi | ? | candidate | Cueste lo que cueste | ES reviewer (3rd-party PDF) |
 | Cueste lo que cueste | ? | candidate | Costi quel che costi | ES reviewer (3rd-party PDF) |
 | Cuore a cuore | ? | candidate | de corazón a corazón | ines.tutoring (IG, tier C) |
+| Dai fatti si conosce l'uomo | ? | candidate | obras son amores y no buenas razones | attested |
 | Dai tempo al tempo | ? | candidate | dar tiempo al tiempo | storylearning.com |
 | Dar en un hueso | ? | candidate | trovare un osso duro | ES idioms book |
 | dar gato por liebre | es | candidate | Prendere lucciole per lanterne | storylearning.com |
@@ -670,36 +795,50 @@ unless there is a new reason to.
 | de aquí para allá / adelante y atrás | ? | candidate | Avanti e indietro | ines.tutoring (IG, tier C) |
 | de corazón a corazón | ? | candidate | Cuore a cuore | ines.tutoring (IG, tier C) |
 | de hecho / efectivamente | ? | candidate | Infatti | Italian Matters list |
+| de los errores se aprende | ? | candidate | Sbagliando si impara | attested |
 | De Pascuas a Ramos | ? | candidate | ogni morte di papa | Claude research |
 | de tal palo, tal astilla | ? | candidate | Tale madre tale figlia · Il figlio del gatto prende i topi | FluentU 40, Consonni book (tier B) |
 | de todos modos / igual (AR) | ? | candidate | Comunque | Italian Matters list |
-| Decirle a alguien cuatro verdades | ? | candidate | dirne quattro a qualcuno | ES idioms book |
 | dejar plantado | ? | candidate | Piantare in asso | europassitalian.com |
 | dejar que se cueza en su propia salsa | es | candidate | Far cuocere qualcuno nel suo brodo | Consonni book (tier B) |
 | Del senno del poi son piene le fosse | ? | candidate | a toro pasado, todos somos toreros | Consonni book (tier B) |
 | Descubrir / inventar el hilo negro | es | candidate | scoprire l'acqua calda | Claude research |
 | Descubrir el polvorín | es | candidate | scoprire gli altarini | ES idioms book |
 | Destornillarse de risa | ? | candidate | sbellicarsi dalle risa | ES idioms book |
+| Di buone intenzioni è lastricata la via dell'inferno | it | candidate | el camino al infierno está empedrado de buenas intenciones | form? |
 | día a día | ? | candidate | Giorno dopo giorno | ines.tutoring (IG, tier C) |
 | Dicano quel che dicano / dicano ciò che dicano | ? | candidate | Digan lo que digan | ES reviewer (3rd-party PDF) |
 | Diffondersi a macchia d'olio | ? | candidate | extenderse como mancha de aceite | Consonni book (tier B) |
 | Digan lo que digan | ? | candidate | Dicano quel che dicano / dicano ciò che dicano | ES reviewer (3rd-party PDF) |
 | Dime con quién andas y te diré quién eres | es | candidate | dimmi con chi vai e ti dirò chi sei · Chi pratica lo zoppo impara a zoppicare | ES proverb list (Joe), Consonni book (tier B) |
 | dimmi con chi vai e ti dirò chi sei | it | candidate | Dime con quién andas y te diré quién eres | ES proverb list (Joe) |
-| dirne quattro a qualcuno | ? | candidate | Decirle a alguien cuatro verdades | ES idioms book |
+| Dios los cría y ellos se juntan | ? | candidate | Chi si assomiglia si piglia | attested |
 | doble rasero / dos varas de medir | es | candidate | Due pesi e due misure | storylearning.com |
 | dos dedos de frente | ? | candidate | Sale in zucca | FluentU 40 |
-| Due pesi e due misure | it | candidate | doble rasero / dos varas de medir | storylearning.com |
+| Due pesi e due misure | it | candidate | doble rasero / dos varas de medir | storylearning.com, **logged** |
 | Dunque | ? | candidate | pues bien / así que | Italian Matters list |
 | è stato un gioco da ragazzi | it | candidate | Aquello fue llegar y besar el santo | ES idioms book |
 | Ecco | ? | candidate | he aquí?? / ya está / aquí tienes | Italian Matters list |
 | echar chispas / estar hecho una furia | ? | candidate | Avere un diavolo per capello | Instagram set (Joe) |
 | el amor es ciego | es | candidate | L'amore è cieco | IT proverb list (Joe) |
 | El amor todo lo puede | ? | candidate | l'amore vince tutto | ES proverb list (Joe) |
+| el amor y la tos no se pueden ocultar | es | candidate | Amore e tosse non si nascondono | attested |
 | el apetito viene comiendo | ? | candidate | L'appetito vien mangiando | IT proverb list (Joe) |
+| el buen paño en el arca se vende | es | candidate | Buon vino non ha bisogno di frasca | attested |
+| el burro hablando de orejas | es | candidate | Il bue che dice cornuto all'asino | attested |
+| el camino al infierno está empedrado de buenas intenciones | es | candidate | Di buone intenzioni è lastricata la via dell'inferno | form? |
+| el primer amor nunca se olvida | es | candidate | Il primo amore non si scorda mai | attested |
+| el que busca, encuentra | ? | candidate | Chi cerca trova | attested |
+| el que esté libre de pecado que tire la primera piedra | es | candidate | Chi è senza peccato scagli la prima pietra | attested |
 | El que mucho abarca poco aprieta | es | candidate | chi troppo vuole nulla stringe | ES proverb list (Joe) |
 | el que no hace, no yerra | es | candidate | Chi non fa, non falla | IT proverb list (Joe) |
+| el que no trabaja no come | es | candidate | Chi non lavora non mangia | attested |
 | el que ríe último, ríe mejor | ? | candidate | Ride bene chi ride ultimo | IT proverb list (Joe) |
+| el que tenga oídos para oír, que oiga | ? | candidate | Chi ha orecchie per intendere, intenda | attested |
+| el que tiene oficio no pasa hambre? | ? | candidate | Chi ha (un) mestiere non muore di fame | attested |
+| el tiempo pone a cada uno en su lugar | es | candidate | Il tempo è galantuomo | attested |
+| el trabajo dignifica | es | candidate | Il lavoro nobilita l'uomo | attested |
+| en boca cerrada no entran moscas | es | candidate | Il silenzio è d'oro | attested |
 | en el vino está la verdad | es | candidate | La verità è nel vino | Consonni book (tier B) |
 | en fin / total | ? | candidate | Insomma | Italian Matters list |
 | en un dos por tres | ? | candidate | In quattro e quattr'otto | europassitalian.com |
@@ -757,6 +896,7 @@ unless there is a new reason to.
 | Flor de Pascua | ? | candidate | stella di Natale | Claude research |
 | Fumarse una clase | ? | candidate | marinare la scuola / bigiare | ES idioms book |
 | Gallina vecchia fa buon brodo | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
+| genio y figura hasta la sepultura | es | candidate | Chi nasce tondo non muore quadrato | attested |
 | Giorno dopo giorno | ? | candidate | día a día | ines.tutoring (IG, tier C) |
 | Gridare ai quattro venti | ? | candidate | pregonar a los cuatro vientos | Consonni book (tier B) |
 | Haberle visto las orejas al lobo | es | candidate | scamparla bella | ES idioms book |
@@ -770,31 +910,55 @@ unless there is a new reason to.
 | Hai ragione | ? | candidate | tienes razón | Italian Matters list |
 | he aquí?? / ya está / aquí tienes | ? | candidate | Ecco | Italian Matters list |
 | hombre prevenido vale por dos | ? | candidate | Uomo avvisato, mezzo salvato | Consonni book (tier B) |
+| Il bisogno aguzza l'ingegno | it | candidate | la necesidad agudiza el ingenio | attested |
+| Il bue che dice cornuto all'asino | it | candidate | el burro hablando de orejas | attested |
 | Il buon marinaio si conosce al cattivo tempo | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | Il diavolo fa le pentole ma non i coperchi | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | Il figlio del gatto prende i topi | ? | candidate | de tal palo, tal astilla | Consonni book (tier B) |
 | Il gioco non vale la candela | ? | candidate | no vale la pena / el juego no vale la vela | Consonni book (tier B) |
+| Il lavoro nobilita l'uomo | it | candidate | el trabajo dignifica | attested |
+| Il primo amore non si scorda mai | it | candidate | el primer amor nunca se olvida | attested |
+| Il silenzio è d'oro | it | candidate | en boca cerrada no entran moscas | attested |
+| Il tempo è galantuomo | it | candidate | el tiempo pone a cada uno en su lugar | attested |
+| Il troppo stroppia | it | candidate | lo poco agrada y lo mucho enfada | attested, **duplicate** |
 | Impara l'arte e mettila da parte | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
 | In quattro e quattr'otto | ? | candidate | en un dos por tres | europassitalian.com |
 | Infatti | ? | candidate | de hecho / efectivamente | Italian Matters list |
 | Insomma | ? | candidate | en fin / total | Italian Matters list |
 | ir por buen camino | es | candidate | Essere sulla buona strada | IT reviewer (own material) |
 | ir sobre ruedas / salir a pedir de boca | es | candidate | Andare tutto liscio | IT reviewer (own material) |
-| L'amore è cieco | it | candidate | el amor es ciego | IT proverb list (Joe) |
+| L'abitudine è una seconda natura | it | candidate | la costumbre es otra naturaleza | attested |
+| L'amore è cieco | it | candidate | el amor es ciego | IT proverb list (Joe), **logged** |
 | l'amore vince tutto | ? | candidate | El amor todo lo puede | ES proverb list (Joe) |
-| L'appetito vien mangiando | ? | candidate | el apetito viene comiendo | IT proverb list (Joe) |
+| L'appetito vien mangiando | ? | candidate | el apetito viene comiendo | IT proverb list (Joe), **logged** |
 | L'Epifania tutte le feste porta via | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
-| L'erba del vicino è sempre più verde | it | candidate | la hierba del vecino... / el pasto | FluentU 40 |
+| L'erba del vicino è sempre più verde | it | candidate | la hierba del vecino... / el pasto | FluentU 40, **logged** |
+| L'invidia è una brutta bestia | it | candidate | la envidia es mala consejera | attested |
+| L'orgoglio precede la caduta | es | candidate | quien mucho sube, más alto cae | form? |
+| la costumbre es otra naturaleza | es | candidate | L'abitudine è una seconda natura | attested |
 | La curiosidad mató al gato | es | candidate | tanto va la gatta al lardo che ci lascia lo zampino | spanishexpress.co.uk (Peninsular) |
+| la envidia es mala consejera | es | candidate | L'invidia è una brutta bestia | attested |
+| La fortuna aiuta gli audaci | ? | candidate | la fortuna favorece a los audaces | attested |
+| La fortuna è cieca | it | candidate | la suerte es ciega | attested |
+| la fortuna favorece a los audaces | ? | candidate | La fortuna aiuta gli audaci | attested |
+| La fortuna va aiutata | es | candidate | a la suerte hay que ayudarla | attested |
+| La fretta è cattiva consigliera | it | candidate | las prisas son malas consejeras | attested |
 | la hierba del vecino... / el pasto | es | candidate | L'erba del vicino è sempre più verde | FluentU 40 |
+| la necesidad agudiza el ingenio | es | candidate | Il bisogno aguzza l'ingegno | attested |
 | la paciencia es la madre de la ciencia | es | candidate | La pazienza è la virtù dei forti | IT proverb list (Joe) |
 | la partita è ancora aperta | it | candidate | La pelota está aún en el tejado | ES idioms book |
-| La pazienza è la virtù dei forti | it | candidate | la paciencia es la madre de la ciencia | IT proverb list (Joe) |
+| La pazienza è la virtù dei forti | it | candidate | la paciencia es la madre de la ciencia | IT proverb list (Joe), **logged** |
 | La pelota está aún en el tejado | es | candidate | la partita è ancora aperta | ES idioms book |
 | La sera leoni, la mattina conigli | es | candidate | (ES side unresearched) | Consonni book (tier B) |
+| la suerte es ciega | es | candidate | La fortuna è cieca | attested |
+| la verdad siempre sale a flote | es | candidate | La verità viene sempre a galla | attested |
 | La verità è nel vino | it | candidate | en el vino está la verdad | Consonni book (tier B) |
+| La verità viene sempre a galla | it | candidate | la verdad siempre sale a flote | attested |
 | Largar a otro el mochuelo | es | candidate | scaricare il barile | ES idioms book |
+| las apariencias engañan | ? | candidate | Le apparenze ingannano | attested |
 | las desgracias nunca vienen solas | es | candidate | Le disgrazie non vengono mai sole | Consonni book (tier B) |
+| las prisas son malas consejeras | es | candidate | La fretta è cattiva consigliera | attested |
+| Le apparenze ingannano | ? | candidate | las apariencias engañan | attested |
 | Le disgrazie non vengono mai sole | it | candidate | las desgracias nunca vienen solas | Consonni book (tier B) |
 | Leccarsi i baffi | ? | candidate | chuparse los dedos | storylearning.com |
 | levantarse con el pie izquierdo | ? | candidate | Alzarsi col piede sbagliato | europassitalian.com |
@@ -802,6 +966,9 @@ unless there is a new reason to.
 | llevar la contraria | ? | candidate | Essere un Bastian Contrario | Consonni book (tier B) |
 | Llevarse el gato al agua | es | candidate | spuntarla / avere la meglio | ES idioms book |
 | Lo barato sale caro | it | candidate | chi più spende meno spende | ES proverb list (Joe) |
+| lo poco agrada y lo mucho enfada | es | candidate | Il troppo stroppia | attested |
+| lo prometido es deuda | es | candidate | Ogni promessa è debito | attested |
+| Lontano dagli occhi, lontano dal cuore | it | candidate | ojos que no ven, corazón que no siente | attested |
 | Ma dai | ? | candidate | ¡no manches! (MX) / ¡anda ya! | Italian Matters list |
 | mano a mano / cabeza a cabeza | ? | candidate | Testa a testa | ines.tutoring (IG, tier C) |
 | marinare la scuola / bigiare | ? | candidate | Fumarse una clase | ES idioms book |
@@ -809,19 +976,21 @@ unless there is a new reason to.
 | Más feo que el pecado | es | candidate | brutto come la fame / il peccato | ES idioms book |
 | más raro que un perro verde | ? | candidate | Raro come una mosca bianca | FluentU 40 |
 | Más vale prevenir que lamentar | es | candidate | prevenire è meglio che curare | ES proverb list (Joe) |
+| más vale solo que mal acompañado | es | candidate | Meglio solo che male accompagnato | attested |
 | más vale tarde que nunca | es | candidate | Meglio tardi che mai | europassitalian.com |
 | me importa un pepino/bledo | ? | candidate | Farsene un baffo | FluentU 40 |
 | Meglio mangiare pane e cipolla a casa tua che maccheroni a casa di altri | it | candidate | (ES side unresearched) | Consonni book (tier B) |
-| Meglio tardi che mai | it | candidate | más vale tarde que nunca | europassitalian.com |
+| Meglio solo che male accompagnato | it | candidate | más vale solo que mal acompañado | attested |
+| Meglio tardi che mai | it | candidate | más vale tarde que nunca | europassitalian.com, **logged** |
 | Meno male che | it | candidate | menos mal que | Italian Matters list |
 | menos mal que | es | candidate | Meno male che | Italian Matters list |
 | meter la cuchara (MX) | es | candidate | Mettere lo zampino | storylearning.com |
 | meter todo en el mismo saco | ? | candidate | Fare di tutta l'erba un fascio | Consonni book (tier B) |
 | metterci la faccia (drafted, withdrawn) / cerca altro | it | candidate | Dar la cara | Editor pullback |
 | Mettere i bastoni fra le ruote | it | candidate | poner palos en las ruedas | europassitalian.com |
+| Mettere i puntini sulle i | it | candidate | poner los puntos sobre las íes | attested |
 | Mettere lo zampino | it | candidate | meter la cuchara (MX) | storylearning.com |
 | mettersi con le mani sui fianchi | ? | candidate | Ponerse de jarras | ES idioms book |
-| Mi hai stufato! | ? | candidate | ¡ya me hartaste! (MX) / ¡me tienes harto! | IT reviewer (own account) |
 | mientras hay vida, hay esperanza | es | candidate | Finché c'è vita, c'è speranza | IT proverb list (Joe) |
 | Minestra riscaldata | ? | candidate | recalentado (MX!) | FluentU 40 |
 | Morto un papa se ne fa un altro | ? | candidate | a rey muerto, rey puesto | FluentU 40 |
@@ -829,27 +998,37 @@ unless there is a new reason to.
 | Nella botte piccola c'è il vino buono | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | No es cosa del otro mundo | ? | candidate | non è niente di che / non è cosa dell'altro mondo | ES idioms book |
 | no escupas en el plato donde comes | es | candidate | Non sputare nel piatto dove mangi | Consonni book (tier B) |
+| no hay peor sordo que el que no quiere oír | es | candidate | Non c'è peggior sordo di chi non vuol sentire | attested |
 | no lo puedo creer / no inventes (MX) | es | candidate | Non ci credo | Italian Matters list |
 | No partir peras con nadie | es | candidate | fare da solo / non spartire | ES idioms book |
 | No poder ver a alguien ni en pintura | es | candidate | non poter vedere qualcuno nemmeno dipinto | ES idioms book |
 | No saber ni papa de | es | candidate | non capire un'acca | ES idioms book |
 | no se puede estar en misa y repicando | es | candidate | Non si può avere la botte piena e la moglie ubriaca | Consonni book (tier B) |
+| no solo de pan vive el hombre | es | candidate | Non si vive di solo pane | attested |
 | no vale la pena / el juego no vale la vela | ? | candidate | Il gioco non vale la candela | Consonni book (tier B) |
 | no vender la piel del oso antes de cazarlo | es | candidate | Non dire gatto se non ce l'hai nel sacco | Consonni book (tier B) |
 | No ver tres en un burro | ? | candidate | essere cieco come una talpa | spanishexpress.co.uk (Peninsular) |
+| Non c'è peggior sordo di chi non vuol sentire | it | candidate | no hay peor sordo que el que no quiere oír | attested |
 | Non c'è trippa per gatti | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | non capire un'acca | it | candidate | No saber ni papa de | ES idioms book |
 | Non ci credo | it | candidate | no lo puedo creer / no inventes (MX) | Italian Matters list |
 | Non dire gatto se non ce l'hai nel sacco | it | candidate | no vender la piel del oso antes de cazarlo | Consonni book (tier B) |
 | non è niente di che / non è cosa dell'altro mondo | ? | candidate | No es cosa del otro mundo | ES idioms book |
-| Non ne posso più! | it | candidate | ¡ya no puedo más! | IT reviewer (own account) |
 | non poter vedere qualcuno nemmeno dipinto | it | candidate | No poder ver a alguien ni en pintura | ES idioms book |
 | Non rimandare a domani… | it | candidate | no dejes para mañana lo que puedas hacer hoy | IT proverb list (Joe) |
 | non sentire volare una mosca | it | candidate | No oír ni el vuelo de una mosca | ES idioms book |
 | Non si può avere la botte piena e la moglie ubriaca | it | candidate | no se puede estar en misa y repicando | Consonni book (tier B) |
+| Non si vive di solo pane | it | candidate | no solo de pan vive el hombre | attested |
 | Non sputare nel piatto dove mangi | it | candidate | no escupas en el plato donde comes | Consonni book (tier B) |
+| Non tutto il male vien per nuocere | it | candidate | no hay mal que por bien no venga | attested |
+| obra empezada, medio acabada | es | candidate | Chi ben comincia è a metà dell'opera | attested |
+| obras son amores y no buenas razones | ? | candidate | Dai fatti si conosce l'uomo | attested |
 | occhio non vede, cuore non duole | it | candidate | Ojos que no ven, corazón que no siente | ES proverb list (Joe) |
-| Ojos que no ven, corazón que no siente | es | candidate | occhio non vede, cuore non duole | ES proverb list (Joe) |
+| Ogni cosa a suo tempo | ? | candidate | cada cosa a su tiempo | attested |
+| Ogni medaglia ha il suo rovescio | it | candidate | toda moneda tiene dos caras | attested |
+| Ogni promessa è debito | it | candidate | lo prometido es deuda | attested |
+| Ognuno tira l'acqua al suo mulino | it | candidate | cada quien arrima el ascua a su sardina | attested |
+| Ojos que no ven, corazón que no siente | es | candidate | occhio non vede, cuore non duole · Lontano dagli occhi, lontano dal cuore | ES proverb list (Joe), attested |
 | oscuro como boca de lobo | ? | candidate | Buio pesto | storylearning.com |
 | Pagar el pato | es | candidate | pagare per tutti / fare da capro espiatorio | ES idioms book |
 | pagare per tutti / fare da capro espiatorio | it | candidate | Pagar el pato | ES idioms book |
@@ -863,6 +1042,7 @@ unless there is a new reason to.
 | Perder los estribos | es | candidate | perdere le staffe | ES idioms book |
 | perdere le staffe | it | candidate | Perder los estribos | ES idioms book |
 | perdere tempo | ? | candidate | Ensartar perlas | ES idioms book |
+| poner los puntos sobre las íes | es | candidate | Mettere i puntini sulle i | attested |
 | poner palos en las ruedas | es | candidate | Mettere i bastoni fra le ruote | europassitalian.com |
 | ponerse amarillo (tentative, weak source) | ? | candidate | Avere una fifa blu | IT reviewer (own material) |
 | ponerse blanco / quedarse blanco | ? | candidate | Sbiancare | IT reviewer (own material) |
@@ -884,13 +1064,16 @@ unless there is a new reason to.
 | Quedar a la altura de su zapatilla | es | candidate | fare una figuraccia · Fare la figura del cioccolataio | ES idioms book, Consonni book (tier B) |
 | Quedarse para vestir santos | es | candidate | rimanere zitella | ES idioms book |
 | Quemarse las pestañas | es | candidate | studiare sodo / bruciarsi le ciglia? | ES idioms book |
+| quien calla, otorga | ? | candidate | Chi tace, acconsente | attested |
 | quien encuentra un amigo, encuentra un tesoro | ? | candidate | Chi trova un amico, trova un tesoro | IT proverb list (Joe) |
+| quien mucho sube, más alto cae | it | candidate | L'orgoglio precede la caduta | form? |
+| quien nada debe, nada teme | it | candidate | Chi ha la coscienza pulita dorme tranquillo | attested |
 | Quien no se arriesga no pasa la mar | es | candidate | chi non risica non rosica | ES idioms book |
 | quítate de en medio | es | candidate | Togliti dai piedi | FluentU 40 |
 | Raro come una mosca bianca | ? | candidate | más raro que un perro verde | FluentU 40 |
 | recalentado (MX!) | ? | candidate | Minestra riscaldata | FluentU 40 |
 | remitir a las calendas griegas | ? | candidate | Rimandare alle calende greche | Consonni book (tier B) |
-| Ride bene chi ride ultimo | ? | candidate | el que ríe último, ríe mejor | IT proverb list (Joe) |
+| Ride bene chi ride ultimo | ? | candidate | el que ríe último, ríe mejor | IT proverb list (Joe), **logged** |
 | Rimandare alle calende greche | ? | candidate | remitir a las calendas griegas | Consonni book (tier B) |
 | rimanere zitella | it | candidate | Quedarse para vestir santos | ES idioms book |
 | romper una lanza por alguien | ? | candidate | Spezzare una lancia a favore di qualcuno | Consonni book (tier B) |
@@ -902,12 +1085,12 @@ unless there is a new reason to.
 | Sale in zucca | ? | candidate | dos dedos de frente | FluentU 40 |
 | salir de Guatemala y entrar en Guatepeor | ? | candidate | Passare dalla padella alla brace | europassitalian.com |
 | Salvarsi in calcio d'angolo | ? | candidate | (ES side unresearched) | Consonni book (tier B) |
+| Sbagliando si impara | ? | candidate | de los errores se aprende | attested |
 | sbellicarsi dalle risa | ? | candidate | Destornillarse de risa | ES idioms book |
 | Sbiancare | ? | candidate | ponerse blanco / quedarse blanco | IT reviewer (own material) |
 | scalpitare | it | candidate | Tascar el freno | ES idioms book |
 | scamparla bella | it | candidate | Haberle visto las orejas al lobo | ES idioms book |
 | scaricare il barile | it | candidate | Largar a otro el mochuelo | ES idioms book |
-| scoprire gli altarini | it | candidate | Descubrir el polvorín | ES idioms book |
 | Se non è zuppa è pan bagnato | it | candidate | (ES side unresearched) | Consonni book (tier B) |
 | Sei un coniglio | ? | candidate | ser gallina | storylearning.com |
 | ser agua pasada | es | candidate | Essere acqua passata | IT reviewer (own material) |
@@ -933,7 +1116,6 @@ unless there is a new reason to.
 | subírsele los humos | it | candidate | Alzare la cresta | Consonni book (tier B) |
 | sudar la gota gorda | ? | candidate | Sudare sette camicie | europassitalian.com |
 | Sudare sette camicie | ? | candidate | sudar la gota gorda | europassitalian.com |
-| tagliare i ponti | it | candidate | Cortar los lazos | ES idioms book |
 | Tale madre tale figlia | ? | candidate | de tal palo, tal astilla | FluentU 40 |
 | tanto va la gatta al lardo che ci lascia lo zampino | it | candidate | La curiosidad mató al gato | spanishexpress.co.uk (Peninsular) |
 | Tascar el freno | es | candidate | scalpitare | ES idioms book |
@@ -941,7 +1123,6 @@ unless there is a new reason to.
 | te conozco… / IT? | ? | candidate | Te conozco bacalao aunque vengas disfrazado | ES idioms book |
 | te queda pintado / como anillo al dedo | ? | candidate | Ti sta a pennello | FluentU 40 |
 | tener agallas | es | candidate | Avere fegato | europassitalian.com |
-| Tener ángel | es | candidate | avere un certo non so che | ES idioms book |
 | Tener el santo de espaldas | es | candidate | avere la sfortuna alle calcagna | ES idioms book |
 | tener la moral por los suelos | es | candidate | Avere il morale a terra | IT reviewer (own material) |
 | tener la paciencia de Job | ? | candidate | Avere la pazienza di Giobbe | Consonni book (tier B) |
@@ -952,6 +1133,7 @@ unless there is a new reason to.
 | Ti sta a pennello | ? | candidate | te queda pintado / como anillo al dedo | FluentU 40 |
 | tienes razón | ? | candidate | Hai ragione | Italian Matters list |
 | Tirare il pacco | it | candidate | dar plantón | Consonni book (tier B) |
+| toda moneda tiene dos caras | es | candidate | Ogni medaglia ha il suo rovescio | attested |
 | Todos los santos tienen novena | es | candidate | verrà anche il tuo momento | ES idioms book |
 | Togliti dai piedi | it | candidate | quítate de en medio | FluentU 40 |
 | tomar una bocanada de aire (fresco) | ? | candidate | Prendere una boccata d'aria | IT reviewer (own material) |
@@ -985,22 +1167,106 @@ unless there is a new reason to.
 | yo me encargo | ? | candidate | Ci penso io | Italian Matters list |
 | ¡Dios quiera! | es | no-partner-found | — | ES reviewer (3rd-party PDF) |
 | ¡Que te vaya bien! | es | no-partner-found | — | ES reviewer (3rd-party PDF) |
+| (Il) cuore non invecchia | it | no-partner-found | — | attested |
+| A bocca asciutta non si canta | it | no-partner-found | — | form? |
+| A lavoro finito si conta il guadagno | it | no-partner-found | — | doubtful? |
 | A Milano, anche i gelsi fanno l'uva / Fiorentini ciechi e Pisani traditori / Arno non cresce se Sieve non mesce | it | no-partner-found | — | Consonni book (tier B) |
+| A pensar male si fa peccato, ma spesso si indovina | ? | no-partner-found | — | attested |
 | A pisielle pavammo | ? | no-partner-found | — | Consonni book (tier B) |
-| Chi fa da sé, fa per tre | es | no-partner-found | — | IT proverb list (Joe) |
-| Chi va piano va sano e va lontano | ? | no-partner-found | — | Consonni book (tier B) |
+| A stomaco pieno si ragiona meglio | ? | no-partner-found | — | doubtful? |
+| A tavola non si invecchia | it | no-partner-found | — | attested |
+| A tavola si invecchia bene | ? | no-partner-found | — | doubtful? |
+| Amore vecchio non fa buon brodo | it | no-partner-found | — | **INVERTED** |
+| Avere una marcia in più | it | no-partner-found | — | IT reviewer (own account) |
+| Buon vino fa buon sangue | ? | no-partner-found | — | attested |
+| Chi ama bene, ama poco | ? | no-partner-found | — | doubtful? |
+| Chi ama davvero perdona | ? | no-partner-found | — | doubtful? |
+| Chi ama teme | ? | no-partner-found | — | attested |
+| Chi ama troppo dimentica sé stesso | es | no-partner-found | — | doubtful? |
+| Chi beve solo acqua ha qualcosa da nascondere | it | no-partner-found | — | attested |
+| Chi cerca scuse, trova scuse | ? | no-partner-found | — | doubtful? |
+| Chi crede a tutti, resta deluso | ? | no-partner-found | — | doubtful? |
+| Chi dice sempre la verità non ha amici | it | no-partner-found | — | doubtful? |
+| Chi dorme non guadagna | it | no-partner-found | — | **logged** |
+| Chi è causa del suo mal, pianga sé stesso | it | no-partner-found | — | attested |
+| Chi è troppo buono, viene fregato | it | no-partner-found | — | doubtful? |
+| Chi fa da sé, fa per tre | es | no-partner-found | — | IT proverb list (Joe), **logged** |
+| Chi fa il furbo resta fregato | it | no-partner-found | — | attested |
+| Chi guarda il dito perde la luna | ? | no-partner-found | — | form? |
+| Chi ha pane non ha denti | it | no-partner-found | — | **logged** |
+| Chi ha paura di sbagliare non fa nulla | it | no-partner-found | — | doubtful? |
+| Chi ha pazienza vince | ? | no-partner-found | — | form? |
+| Chi lavora mangia | ? | no-partner-found | — | doubtful? |
+| Chi mangia solo si strozza | ? | no-partner-found | — | form? |
+| Chi non risparmia spreca | it | no-partner-found | — | doubtful? |
+| Chi non sa, parla | it | no-partner-found | — | doubtful? |
+| Chi parla troppo, poco conclude | ? | no-partner-found | — | doubtful? |
+| Chi promette troppo, mantiene poco | ? | no-partner-found | — | doubtful? |
+| Chi si loda, s'imbroda | ? | no-partner-found | — | attested |
+| Chi troppo ama troppo soffre | ? | no-partner-found | — | doubtful? |
+| Chi troppo pensa poco fa | ? | no-partner-found | — | doubtful? |
+| Chi troppo risparmia nulla gode | ? | no-partner-found | — | doubtful? |
+| Chi va con lo zoppo impara a zoppicare | it | no-partner-found | — | **logged** |
+| Chi va piano va sano e va lontano | ? | no-partner-found | — | Consonni book (tier B), **logged** |
+| Chi vive sperando muore lavorando | ? | no-partner-found | — | form? |
+| Dalle parole si conoscono gli stolti, dai fatti i saggi | it | no-partner-found | — | form? |
+| Dopo il dolce viene l'amaro | it | no-partner-found | — | doubtful? |
+| Dove c'è gusto, non c'è perdenza | it | no-partner-found | — | attested |
 | Essere in alto mare | it | no-partner-found | — | IT reviewer (own material) |
 | Estar hecho pedazos | es | no-partner-found | — | Dissolved 0009 |
 | Estar hecho polvo | es | no-partner-found | — | Dissolved 0009 |
 | Fare una frittata / Essere la fabbrica del Duomo / Fare un quarantotto / Ai tempi che Berta filava | ? | no-partner-found | — | Consonni book (tier B) |
+| Guardare il pelo nell'uovo | it | no-partner-found | — | **banked 0022** |
 | Hacer buenas migas con alguien | es | no-partner-found | — | ES idioms book |
 | Hai voluto la bicicletta? Pedala! | es | no-partner-found | — | FluentU 40 |
+| I nodi vengono sempre al pettine | ? | no-partner-found | — | **logged** |
+| Il buon giorno si vede dal mattino | it | no-partner-found | — | attested |
+| Il caso ci vede benissimo | it | no-partner-found | — | doubtful? |
+| Il caso fa scherzi strani | it | no-partner-found | — | doubtful? |
+| Il caso governa metà della vita | it | no-partner-found | — | doubtful? |
+| Il destino è scritto | it | no-partner-found | — | doubtful? |
+| Il destino fa le carte | it | no-partner-found | — | doubtful? |
+| Il destino sa essere ironico | it | no-partner-found | — | doubtful? |
+| Il fato è beffardo | it | no-partner-found | — | doubtful? |
+| Il guadagno facile dura poco | it | no-partner-found | — | doubtful? |
+| Il lavoro duro forma il carattere | it | no-partner-found | — | doubtful? |
+| Il lavoro fatto bene si paga due volte | it | no-partner-found | — | doubtful? |
+| Il lavoro non manca mai | it | no-partner-found | — | doubtful? |
+| Il mestiere fa l'uomo | it | no-partner-found | — | doubtful? |
+| Il mondo è fatto a scale | it | no-partner-found | — | attested |
+| Il pane quotidiano non cade dal cielo | it | no-partner-found | — | doubtful? |
+| Il tempo è il miglior maestro | it | no-partner-found | — | doubtful? |
+| In vino veritas | ? | no-partner-found | — | **logged** |
+| L'amore è come il fuoco | it | no-partner-found | — | doubtful? |
+| L'amore non è bello se non è litigarello | it | no-partner-found | — | attested |
+| L'amore passa, la fame resta | es | no-partner-found | — | doubtful? |
+| L'amore vuole amore | ? | no-partner-found | — | doubtful? |
+| L'apparenza inganna spesso | ? | no-partner-found | — | doubtful? |
+| L'esperienza è la madre della saggezza | it | no-partner-found | — | form? |
+| La fortuna arriva quando meno te l'aspetti | es | no-partner-found | — | doubtful? |
+| La fortuna bacia chi osa | es | no-partner-found | — | doubtful? |
+| La fortuna è come il vetro: quando brilla, si rompe | it | no-partner-found | — | doubtful? |
+| La fortuna è donna | it | no-partner-found | — | attested |
+| La fortuna gira | es | no-partner-found | — | form? |
+| La fortuna non guarda in faccia nessuno | ? | no-partner-found | — | attested |
+| La fortuna va e viene | es | no-partner-found | — | doubtful? |
+| La pazienza ha un limite | ? | no-partner-found | — | doubtful? |
+| La sorte è capricciosa | it | no-partner-found | — | doubtful? |
+| Le persone cambiano poco | ? | no-partner-found | — | doubtful? |
+| Matrimonio e melone, non si sa mai come sono | it | no-partner-found | — | form? |
+| Mi girano le scatole | ? | no-partner-found | — | IT reviewer (own account) |
 | Natale con i tuoi, Pasqua con chi vuoi | ? | no-partner-found | — | Claude research |
 | Nessuna nuova, buona nuova | ? | no-partner-found | — | IT proverb list (Joe) |
-| Non tutte le ciambelle riescono col buco | it | no-partner-found | — | IT proverb list (Joe) |
+| Non si può avere tutto | it | no-partner-found | — | doubtful? |
+| Non tutte le ciambelle riescono col buco | it | no-partner-found | — | IT proverb list (Joe), **logged** |
+| Non tutti sono uguali | it | no-partner-found | — | doubtful? |
+| Non tutto è scritto | it | no-partner-found | — | doubtful? |
+| Pane al pane, vino al vino | it | no-partner-found | — | **logged** |
 | Quando il padre fa carnevale, ai figlioli tocca far quaresima | it | no-partner-found | — | Treccani (`quaresima`) |
 | Que no te digan, que no te cuenten | es | no-partner-found | — | ES reviewer (3rd-party PDF) |
+| Senza fatica non si ottiene nulla | it | no-partner-found | — | doubtful? |
 | Si te caes siete veces, levántate ocho | es | no-partner-found | — | ES proverb list (Joe) |
+| Tanto rumore per nulla | ? | no-partner-found | — | form? |
 | Va a ciapà i ratt! | it | no-partner-found | — | Consonni book (tier B) |
 | Cane non mangia cane | it | rejected | perro no come perro / entre bueyes no hay cornadas | FluentU 40 |
 | Conosco i miei polli | ? | rejected | conozco a mis clásicos? / sé de qué pie cojea | FluentU 40 |
