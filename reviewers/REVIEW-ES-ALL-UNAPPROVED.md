@@ -1,6 +1,6 @@
 # Spanish review — every unapproved entry
 
-**112 entries.** LatAm-default audience: anything Peninsular-only must say so.
+**111 entries.** LatAm-default audience: anything Peninsular-only must say so.
 
 Generated 2026-11-27.
 
@@ -774,7 +774,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 
 ---
 
-## No question — just your ear (28)
+## No question — just your ear (27)
 
 Nothing outstanding on these. Four ticks each, or a line if something is off.
 
@@ -856,16 +856,6 @@ Nothing outstanding on these. Four ticks each, or a line if something is off.
 - **example:** Es un correo, no te ahogues en un vaso de agua.
   — *It's one email — don't make a crisis out of nothing.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-
-> reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
-
-### 0269 — Loco de atar
-
-- **lit.** "mad for tying"
-- **meaning:** Completely mad; wildly irrational.
-- **example:** Quiere cruzar el país en bicicleta en enero: está loco de atar.
-  — *He wants to cycle across the country in January — he's stark raving mad.*
-- **register:** colloquial · **exam:** neutral · **regions:** mx, es, ar, co · **status:** needs_review
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 

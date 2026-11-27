@@ -1,6 +1,6 @@
 # Italian — candidate pairings, not entries
 
-**132 rows. These are NOT cards and nothing here can be approved.**
+**131 rows. These are NOT cards and nothing here can be approved.**
 They are expressions I am about to turn into entries, and I would rather find
 out now than after the work. Separate from the review packet — that one has the
 finished entries.
@@ -399,12 +399,7 @@ Generated 2026-11-27.
 
 > reviewer: [ ] the Italian above is right  [ ] the Italian is wrong
 
-### 68. rimanere zitella
-- **paired with:** Quedarse para vestir santos
-
-> reviewer: [ ] yes, use it  [ ] wrong or unnatural
-
-### 69. Ma dai
+### 68. Ma dai
 - **which Spanish goes with this — or neither?**
   - [ ] ¡no manches! (MX)
   - [ ] ¡anda ya!
@@ -412,12 +407,12 @@ Generated 2026-11-27.
 
 > reviewer: [ ] the Italian above is right  [ ] the Italian is wrong
 
-### 70. Cornuto
+### 69. Cornuto
 - **paired with:** cornudo
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 71. Sono nei casini
+### 70. Sono nei casini
 - **which Spanish goes with this — or neither?**
   - [ ] estar en un lío
   - [ ] MX estar en un pedo
@@ -425,12 +420,12 @@ Generated 2026-11-27.
 
 > reviewer: [ ] the Italian above is right  [ ] the Italian is wrong
 
-### 72. Sono preso bene
+### 71. Sono preso bene
 - **paired with:** estar de buenas
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 73. Essere alla mano
+### 72. Essere alla mano
 - **which Spanish goes with this — or neither?**
   - [ ] ser campechano
   - [ ] a
@@ -438,22 +433,22 @@ Generated 2026-11-27.
 
 > reviewer: [ ] the Italian above is right  [ ] the Italian is wrong
 
-### 74. l'amore vince tutto
+### 73. l'amore vince tutto
 - **paired with:** El amor todo lo puede
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 75. Ride bene chi ride ultimo
+### 74. Ride bene chi ride ultimo
 - **paired with:** el que ríe último, ríe mejor
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 76. Pane al pane e vino al vino  /  al pan, pan y al vino, vino
+### 75. Pane al pane e vino al vino  /  al pan, pan y al vino, vino
 - **note:** I could not tell which half is Italian — answer for whichever one is.
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 77. Ti sta a pennello
+### 76. Ti sta a pennello
 - **which Spanish goes with this — or neither?**
   - [ ] te queda pintado
   - [ ] como anillo al dedo
@@ -461,22 +456,22 @@ Generated 2026-11-27.
 
 > reviewer: [ ] the Italian above is right  [ ] the Italian is wrong
 
-### 78. Un pezzo grosso
+### 77. Un pezzo grosso
 - **paired with:** un pez gordo
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 79. tanto va la gatta al lardo che ci lascia lo zampino
+### 78. tanto va la gatta al lardo che ci lascia lo zampino
 - **paired with:** La curiosidad mató al gato
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 80. Buio pesto  /  oscuro como boca de lobo
+### 79. Buio pesto  /  oscuro como boca de lobo
 - **note:** I could not tell which half is Italian — answer for whichever one is.
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 81. Vabbè
+### 80. Vabbè
 - **which Spanish goes with this — or neither?**
   - [ ] bueno
   - [ ] pues nada
@@ -484,27 +479,27 @@ Generated 2026-11-27.
 
 > reviewer: [ ] the Italian above is right  [ ] the Italian is wrong
 
-### 82. a un altro cane con quest'osso? / racconta ad altri
+### 81. a un altro cane con quest'osso? / racconta ad altri
 - **paired with:** ¡A otro perro con ese hueso!
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 83. studiare sodo / bruciarsi le ciglia?
+### 82. studiare sodo / bruciarsi le ciglia?
 - **paired with:** Quemarse las pestañas
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 84. Dicano quel che dicano / dicano ciò che dicano
+### 83. Dicano quel che dicano / dicano ciò che dicano
 - **paired with:** Digan lo que digan
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 85. venga quel che venga (tentative)
+### 84. venga quel che venga (tentative)
 - **paired with:** Venga lo que venga
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 86. L'erba del vicino è sempre più verde
+### 85. L'erba del vicino è sempre più verde
 - **which Spanish goes with this — or neither?**
   - [ ] la hierba del vecino...
   - [ ] el pasto
@@ -512,37 +507,37 @@ Generated 2026-11-27.
 
 > reviewer: [ ] the Italian above is right  [ ] the Italian is wrong
 
-### 87. A mali estremi, estremi rimedi  /  a grandes males, grandes remedios
+### 86. A mali estremi, estremi rimedi  /  a grandes males, grandes remedios
 - **note:** I could not tell which half is Italian — answer for whichever one is.
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 88. Minestra riscaldata
+### 87. Minestra riscaldata
 - **paired with:** recalentado (MX!)
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 89. Sale in zucca  /  dos dedos de frente
+### 88. Sale in zucca  /  dos dedos de frente
 - **note:** I could not tell which half is Italian — answer for whichever one is.
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 90. Morto un papa se ne fa un altro  /  a rey muerto, rey puesto
+### 89. Morto un papa se ne fa un altro  /  a rey muerto, rey puesto
 - **note:** I could not tell which half is Italian — answer for whichever one is.
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 91. Togliti dai piedi
+### 90. Togliti dai piedi
 - **paired with:** quítate de en medio
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 92. Alla come viene, viene
+### 91. Alla come viene, viene
 - **paired with:** al ahí se va (MX)
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 93. Attaccare il cappello
+### 92. Attaccare il cappello
 - **which Spanish goes with this — or neither?**
   - [ ] colgar los guantes
   - [ ] hábitos
@@ -550,22 +545,22 @@ Generated 2026-11-27.
 
 > reviewer: [ ] the Italian above is right  [ ] the Italian is wrong
 
-### 94. me importa un pepino/bledo
+### 93. me importa un pepino/bledo
 - **paired with:** Farsene un baffo
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 95. Tale madre tale figlia
+### 94. Tale madre tale figlia
 - **paired with:** de tal palo, tal astilla
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 96. Calare le brache
+### 95. Calare le brache
 - **paired with:** bajarse los pantalones
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 97. Cervello di gallina
+### 96. Cervello di gallina
 - **which Spanish goes with this — or neither?**
   - [ ] cerebro de chorlito
   - [ ] memoria de pollo?
@@ -573,7 +568,7 @@ Generated 2026-11-27.
 
 > reviewer: [ ] the Italian above is right  [ ] the Italian is wrong
 
-### 98. Avere le braccine corte
+### 97. Avere le braccine corte
 - **which Spanish goes with this — or neither?**
   - [ ] ser codo (MX!)
   - [ ] más agarrado que...
@@ -581,12 +576,12 @@ Generated 2026-11-27.
 
 > reviewer: [ ] the Italian above is right  [ ] the Italian is wrong
 
-### 99. Raro come una mosca bianca
+### 98. Raro come una mosca bianca
 - **paired with:** más raro que un perro verde
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 100. Che palle
+### 99. Che palle
 - **which Spanish goes with this — or neither?**
   - [ ] qué hueva (MX)
   - [ ] qué palo (ES)
@@ -594,42 +589,42 @@ Generated 2026-11-27.
 
 > reviewer: [ ] the Italian above is right  [ ] the Italian is wrong
 
-### 101. essere cieco come una talpa
+### 100. essere cieco come una talpa
 - **paired with:** No ver tres en un burro
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 102. Prendere fischi per fiaschi
+### 101. Prendere fischi per fiaschi
 - **paired with:** confundir la gimnasia con la magnesia
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 103. Passare dalla padella alla brace
+### 102. Passare dalla padella alla brace
 - **paired with:** salir de Guatemala y entrar en Guatepeor
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 104. Sudare sette camicie
+### 103. Sudare sette camicie
 - **paired with:** sudar la gota gorda
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 105. Conoscere come le proprie tasche
+### 104. Conoscere come le proprie tasche
 - **paired with:** conocer como la palma de la mano
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 106. Alzarsi col piede sbagliato
+### 105. Alzarsi col piede sbagliato
 - **paired with:** levantarse con el pie izquierdo
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 107. Avere fegato
+### 106. Avere fegato
 - **paired with:** tener agallas
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 108. Essere al verde
+### 107. Essere al verde
 - **which Spanish goes with this — or neither?**
   - [ ] estar en números rojos
   - [ ] sin un peso
@@ -637,87 +632,87 @@ Generated 2026-11-27.
 
 > reviewer: [ ] the Italian above is right  [ ] the Italian is wrong
 
-### 109. In quattro e quattr'otto
+### 108. In quattro e quattr'otto
 - **paired with:** en un dos por tres
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 110. Capitare a fagiolo
+### 109. Capitare a fagiolo
 - **paired with:** venir como anillo al dedo
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 111. Acqua in bocca
+### 110. Acqua in bocca
 - **paired with:** punto en boca
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 112. Fare i conti senza l'oste
+### 111. Fare i conti senza l'oste
 - **paired with:** hacer las cuentas de la lechera
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 113. Mettere i bastoni fra le ruote
+### 112. Mettere i bastoni fra le ruote
 - **paired with:** poner palos en las ruedas
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 114. Meglio tardi che mai
+### 113. Meglio tardi che mai
 - **paired with:** más vale tarde que nunca
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 115. Prendere lucciole per lanterne
+### 114. Prendere lucciole per lanterne
 - **paired with:** dar gato por liebre
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 116. Avere il cuore in gola
+### 115. Avere il cuore in gola
 - **paired with:** con el corazón en la boca
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 117. Leccarsi i baffi
+### 116. Leccarsi i baffi
 - **paired with:** chuparse los dedos
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 118. Fare a polpette
+### 117. Fare a polpette
 - **paired with:** hacer picadillo
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 119. Stare sulle spine
+### 118. Stare sulle spine
 - **paired with:** estar en ascuas
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 120. Sei un coniglio
+### 119. Sei un coniglio
 - **paired with:** ser gallina
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 121. Vai a farti benedire
+### 120. Vai a farti benedire
 - **paired with:** vete a freír espárragos
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 122. Mettere lo zampino
+### 121. Mettere lo zampino
 - **paired with:** meter la cuchara (MX)
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 123. Buon viso a cattivo gioco
+### 122. Buon viso a cattivo gioco
 - **paired with:** al mal tiempo, buena cara
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 124. Stare sullo stomaco
+### 123. Stare sullo stomaco
 - **paired with:** caerle gordo a alguien (MX)
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 125. Avere una cotta
+### 124. Avere una cotta
 - **which Spanish goes with this — or neither?**
   - [ ] estar clavado (MX)
   - [ ] estar flechado
@@ -725,12 +720,12 @@ Generated 2026-11-27.
 
 > reviewer: [ ] the Italian above is right  [ ] the Italian is wrong
 
-### 126. Due pesi e due misure  /  doble rasero / dos varas de medir
+### 125. Due pesi e due misure  /  doble rasero / dos varas de medir
 - **note:** I could not tell which half is Italian — answer for whichever one is.
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 127. Ci sta
+### 126. Ci sta
 - **which Spanish goes with this — or neither?**
   - [ ] va
   - [ ] queda bien
@@ -738,17 +733,17 @@ Generated 2026-11-27.
 
 > reviewer: [ ] the Italian above is right  [ ] the Italian is wrong
 
-### 128. fare da solo / non spartire
+### 127. fare da solo / non spartire
 - **paired with:** No partir peras con nadie
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 129. Essere sulla buona strada
+### 128. Essere sulla buona strada
 - **paired with:** ir por buen camino
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 130. Andare tutto liscio
+### 129. Andare tutto liscio
 - **which Spanish goes with this — or neither?**
   - [ ] ir sobre ruedas
   - [ ] salir a pedir de boca
@@ -756,12 +751,12 @@ Generated 2026-11-27.
 
 > reviewer: [ ] the Italian above is right  [ ] the Italian is wrong
 
-### 131. Essere in alto mare
+### 130. Essere in alto mare
 - **paired with:** (ES side unresolved)
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
-### 132. Essere acqua passata
+### 131. Essere acqua passata
 - **paired with:** ser agua pasada
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural

@@ -13,9 +13,10 @@ been matched to". Two things only this view makes visible:
 | Status | Count |
 |---|---|
 | candidate | 512 |
-| banked | 478 |
+| banked | 476 |
 | no-partner-found | 103 |
 | rejected | 20 |
+| retired | 2 |
 | **total expressions** | **1113** |
 
 ---
@@ -455,7 +456,6 @@ unless there is a new reason to.
 | Llover a cántaros | es | banked | Piovere a catinelle (0014) | bank/0014 |
 | Llueve sobre mojado | es | banked | Piove sul bagnato (0271) | bank/0271, storylearning.com |
 | Lo que faltaba | es | banked | Ci mancava solo questa (0317) | bank/0317 |
-| Loco de atar | es | banked | Matto da legare (0269) | bank/0269, storylearning.com |
 | Los Reyes Magos | es | banked | La Befana (0312) | bank/0312 |
 | Lungo come la quaresima | it | banked | Más largo que un día sin pan (0289) | bank/0289 |
 | Magari | it | banked | Ojalá (0031) | bank/0031 |
@@ -470,7 +470,6 @@ unless there is a new reason to.
 | Más vale pájaro en mano que cien volando | es | banked | Meglio un uovo oggi che una gallina domani (0052) | bank/0052 |
 | Matar dos pájaros de un tiro | es | banked | Prendere due piccioni con una fava (0005) | bank/0005 |
 | Matar la gallina de los huevos de oro | es | banked | Uccidere la gallina dalle uova d'oro (0268) | bank/0268, spanishexpress.co.uk (Peninsular) |
-| Matto da legare | it | banked | Loco de atar (0269) | bank/0269, storylearning.com |
 | Me late que | es | banked | Mi sa che (0065) | bank/0065 |
 | Meglio un uovo oggi che una gallina domani | it | banked | Más vale pájaro en mano que cien volando (0052) | bank/0052, **banked 0052** |
 | Meno male | it | banked | Menos mal (0033) | bank/0033 |
@@ -1268,6 +1267,8 @@ unless there is a new reason to.
 | Si te caes siete veces, levántate ocho | es | no-partner-found | — | ES proverb list (Joe) |
 | Tanto rumore per nulla | ? | no-partner-found | — | form? |
 | Va a ciapà i ratt! | it | no-partner-found | — | Consonni book (tier B) |
+| Loco de atar | es | retired | Matto da legare (0269) | bank/0269, storylearning.com |
+| Matto da legare | it | retired | Loco de atar (0269) | bank/0269, storylearning.com |
 | Cane non mangia cane | it | rejected | perro no come perro / entre bueyes no hay cornadas | FluentU 40 |
 | Conosco i miei polli | ? | rejected | conozco a mis clásicos? / sé de qué pie cojea | FluentU 40 |
 | conozco a mis clásicos? / sé de qué pie cojea | ? | rejected | Conosco i miei polli | FluentU 40 |

@@ -784,6 +784,6 @@ send the full record separately.
 
 ---
 
-## Retired — no review needed (0)
+## Retired — no review needed (1)
 
-
+- 0269 — Loco de atar · *Sensitivity: the pairing rests on an image of restraining the mentally ill. Retired 2026-11-27 with the other group-targeting rows; the entry's own note already recommended against shipping it.*

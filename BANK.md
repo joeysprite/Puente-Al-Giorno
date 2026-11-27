@@ -11,8 +11,9 @@ _Regenerate with `node tools/build-bank.mjs` any time the bank changes. This fil
 | Status | Count |
 |--------|-------|
 | approved | 129 |
-| needs_review | 92 |
+| needs_review | 91 |
 | draft | 20 |
+| retired | 1 |
 
 ---
 
@@ -255,7 +256,7 @@ These are marked `approved` but their own `review.notes` field still contains la
 | 0266 | Ver el vaso medio vacío | Vedere il bicchiere mezzo vuoto | idiom | B1 | 2 | needs_review | pessimism, perception |
 | 0267 | Ahogarse en un vaso de agua | Affogare in un bicchier d'acqua | idiom | B1 | 2 | needs_review | overreaction, water |
 | 0268 | Matar la gallina de los huevos de oro | Uccidere la gallina dalle uova d'oro | idiom | B2 | 3 | needs_review | greed, animals, short_sightedness |
-| 0269 | Loco de atar | Matto da legare | idiom | B1 | 2 | needs_review | madness, restraint |
+| 0269 | Loco de atar | Matto da legare | idiom | B1 | 2 | retired | madness, restraint |
 | 0270 | Buscar una aguja en un pajar | Cercare un ago nel pagliaio | idiom | B1 | 2 | needs_review | futility, search |
 | 0271 | Llueve sobre mojado | Piove sul bagnato | idiom | B2 | 3 | needs_review | misfortune, weather, luck |
 | 0272 | Caballo de batalla | Cavallo di battaglia | idiom | B2 | 3 | needs_review | skill, conflict, animals |

@@ -1,6 +1,6 @@
 # Italian review — every unapproved entry
 
-**112 entries.** Exam relevance: CILS oral safety is a selling point — check the formality tags.
+**111 entries.** Exam relevance: CILS oral safety is a selling point — check the formality tags.
 
 Generated 2026-11-27.
 
@@ -127,7 +127,7 @@ Do not edit above the boxes, these files are generated.
 
 ---
 
-## With a question for you (64)
+## With a question for you (63)
 
 Each of these has a QUESTION line. They are the entries where your answer changes the outcome.
 
@@ -414,17 +414,6 @@ Each of these has a QUESTION line. They are the entries where your answer change
   — *They packed the festival with sponsors and killed the golden goose.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
 - ⚑ **QUESTION:** (context: Candidate row came from spanishexpress.co.uk, a Peninsular-focused tier-C source; the phrase is unremarkable and pan-Hispanic, but ES REVIEWER should confirm MX currency and whether 'matar' or 'sacrificar' is more usual.) is 'dalle uova d'oro' the standard form, or is 'dalle uova d'oro' competing with 'dalle uova d'oro' variants such as 'che faceva le uova d'oro'? The preposition claim carries the entry's high-value tag, so it needs to be right.
-
-> reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
-
-### 0269 — Matto da legare
-
-- **lit.** "mad for tying"
-- **meaning:** Completely mad; wildly irrational.
-- **example:** Vuole attraversare il paese in bici a gennaio: è matto da legare.
-  — *He wants to cycle across the country in January — he's stark raving mad.*
-- **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** is 'pazzo da legare' as common as 'matto da legare'? If pazzo dominates the it.text may be wrong. THE REGISTER CLAIM IS UNVERIFIED both sides — set colloquial/neutral by feel; if either is harsher than that (this is, after all, an image about restraining the mentally ill), say so, since the product should probably not ship a slur.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 

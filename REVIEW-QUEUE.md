@@ -105,7 +105,7 @@ Nothing linguistically wrong. The question is whether the bank wants to publish 
 | 0008 | Dar en el clavo ↔ Cogliere nel segno | approved | 2/2 verified | EDITORIAL FLAG (social): this trap names 'coger' as vulgar in Mexico and the Río de la Plata. |
 | 0068 | ¡Madre mía! ↔ Mamma mia! | draft | 0/2 verified | | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer sho |
 | 0105 | Mandar al quinto pino ↔ Mandare a quel paese | draft | 0/2 verified | | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer sho |
-| 0269 | Loco de atar ↔ Matto da legare | needs_review | 0/2 verified | IT REVIEWER: is 'pazzo da legare' as common as 'matto da legare'? If pazzo dominates the it.text may be wrong. |
+| 0269 | Loco de atar ↔ Matto da legare | retired | 0/2 verified | IT REVIEWER: is 'pazzo da legare' as common as 'matto da legare'? If pazzo dominates the it.text may be wrong. |
 
 ---
 

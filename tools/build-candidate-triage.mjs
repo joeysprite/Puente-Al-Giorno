@@ -75,9 +75,28 @@ const banked = (r) =>
   [r.a, r.b].flatMap((x) => x.split(/\s*\/\s*/)).map(norm)
     .filter((k) => k.length >= 6).map((k) => BANKED.get(k)).find(Boolean);
 
+// Rows whose Spanish is marked Peninsular. The product carries both varieties
+// (decided 2026-11-27), so these are valid — but the Spanish list goes to the
+// MX reviewer, who would correctly report that Mexico does not say them. Left
+// unmarked that reads as a rejection; marked, it routes to native-es-02, who
+// is in reviewers.json with full rights and has never been used.
+// Rows retired on sensitivity grounds (decided 2026-11-27): expressions whose
+// imagery targets a group — disability or illness, women, class, or a
+// neighbouring town. Filtered here rather than deleted from CANDIDATES.md so
+// the reasoning stays on the record and the rows cannot quietly return.
+//
+// Mild vulgarity is NOT in scope and deliberately still ships: a euphemism
+// standing in for a coarse word (rompere le scatole, vete a hacer puñetas,
+// non capirci un tubo) targets nobody, and naming that mechanism is the
+// euphemism decision taken the same day.
+const SENSITIVE =
+  /\benano\b|\bnaco\b|mandil[óo]n|botte piena|vestir santos|zitella|moglie e il melone|gallina vecchia|sclerare|\bPisa\b|gelsi/i;
+
 const already = [];
+const dropped = [];
 const todo = rows.filter((r) => {
   if (/DRAFTED/.test(r.b + r.note)) return false;
+  if (SENSITIVE.test(`${r.a} ${r.b} ${r.note}`)) { dropped.push(r.a); return false; }
   const hit = banked(r);
   if (hit) { already.push(`${r.a} → ${hit}`); return false; }
   return true;
@@ -120,11 +139,6 @@ function split(r) {
   return { es: null, it: null, a: r.a, b: r.b };
 }
 
-// Rows whose Spanish is marked Peninsular. The product carries both varieties
-// (decided 2026-11-27), so these are valid — but the Spanish list goes to the
-// MX reviewer, who would correctly report that Mexico does not say them. Left
-// unmarked that reads as a rejection; marked, it routes to native-es-02, who
-// is in reviewers.json with full rights and has never been used.
 const PENINSULAR = /peninsular|spain-only|castilian|\bES-ES\b|\(ES\)/i;
 
 const clean = (s) =>
@@ -218,5 +232,9 @@ console.log(
 if (already.length) {
   console.log(`  ${already.length} caught by the bank check, not by a DRAFTED marker:`);
   for (const a of already) console.log(`    ${a}`);
+}
+if (dropped.length) {
+  console.log(`  ${dropped.length} row(s) dropped on sensitivity grounds:`);
+  for (const d of dropped) console.log(`    ${d}`);
 }
 if (unresolved) console.log(`  ${unresolved / 2} row(s) whose language split could not be called`);

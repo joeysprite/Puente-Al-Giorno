@@ -71,12 +71,12 @@
   "cefr": "B1",
   "difficulty": 2,
   "review": {
-    "status": "needs_review",
+    "status": "retired",
     "esReviewer": null,
     "itReviewer": null,
     "reviewedOn": null,
     "notes": "Drafted by Claude 2026-08-01, batch 5 (CANDIDATES.md Freebies 13). SOURCES NOT HUMAN-VERIFIED — headword URLs, not opened. SATURATION CHECK REQUIRED BEFORE SCHEDULING: the bank already has 0002 (estar como una cabra / essere fuori come un balcone) and 0111 (faltarle un tornillo / mancare un venerdì) on madness, and CANDIDATES.md Risk 8 (tener un tornillo flojo / avere una rotella fuori posto) is a fourth. Four madness entries is past the point where each needs to earn its place — this one's claim is the preposition, which is real but small. Joe may prefer to bank this and drop one of the others. IT REVIEWER: is 'pazzo da legare' as common as 'matto da legare'? If pazzo dominates the it.text may be wrong. THE REGISTER CLAIM IS UNVERIFIED both sides — set colloquial/neutral by feel; if either is harsher than that (this is, after all, an image about restraining the mentally ill), say so, since the product should probably not ship a slur."
   },
   "createdOn": "2026-08-01",
-  "retiredReason": null
+  "retiredReason": "Sensitivity: the pairing rests on an image of restraining the mentally ill. Retired 2026-11-27 with the other group-targeting rows; the entry's own note already recommended against shipping it."
 }
