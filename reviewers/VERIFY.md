@@ -1,6 +1,6 @@
 # Stage 2 — source verification worksheet
 
-**225 citations across 241 entries.** Generated 2026-11-27.
+**223 citations across 240 entries.** Generated 2026-11-27.
 
 Only `jf` can sign this gate. Grouped by dictionary so you open each site once.
 
@@ -26,7 +26,7 @@ still to do.
 
 ---
 
-## RAE (DLE) — 94 citations
+## RAE (DLE) — 93 citations
 
 | ✓ | id | lang | headword | claim the page must support | url |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@ still to do.
 | [ ] | 0070 | es | **vivir** | The cry of the Grito, on the night of 15 September. | https://dle.rae.es/vivir |
 | [ ] | 0094 | es | **traje** | To badmouth someone in their absence; to run them down. | https://dle.rae.es/traje |
 | [ ] | 0097 | es | **latín** | To be shrewd; to be nobody's fool. | https://dle.rae.es/lat%C3%ADn |
-| [ ] | 0100 | es | **año** | New Year's greeting. | https://dle.rae.es/ano |
+| [ ] | 0100 | es | **año** | New Year's greeting. | https://dle.rae.es/a%C3%B1o |
 | [ ] | 0104 | es | **pañuelo** | It's a small world — said on an unexpected coincidence. | https://dle.rae.es/pañuelo |
 | [ ] | 0105 | es | **pino** | To send someone packing; to tell them to get lost. | https://dle.rae.es/pino |
 | [ ] | 0110 | es | **feliz** | Mother's Day greeting. | https://dle.rae.es/feliz |
@@ -76,7 +76,6 @@ still to do.
 | [ ] | 0266 | es | **vaso** | To take the pessimistic view of a situation. | https://dle.rae.es/vaso |
 | [ ] | 0267 | es | **ahogar** | To be overwhelmed by a trivial problem. | https://dle.rae.es/ahogar |
 | [ ] | 0268 | es | **gallina** | To ruin a reliable source of benefit through greed or short-sightedness. | https://dle.rae.es/gallina |
-| [ ] | 0269 | es | **loco** | Completely mad; wildly irrational. | https://dle.rae.es/loco |
 | [ ] | 0270 | es | **aguja** | To search for something almost impossible to find. | https://dle.rae.es/aguja |
 | [ ] | 0271 | es | **llover** | Fresh trouble arrives on top of trouble already there. | https://dle.rae.es/llover |
 | [ ] | 0272 | es | **caballo** | A signature piece or mainstay — and also the crux of a dispute. | https://dle.rae.es/caballo |
@@ -125,7 +124,7 @@ still to do.
 | [ ] | 0328 | es | **inocentada** | What you shout after fooling someone on 28 December, Día de los Santos Inocentes, the Spanish-speaking world's prank day. The full line runs 'inocente palomita, que te dejaste engañar'. | https://dle.rae.es/inocentada |
 | [ ] | 0329 | es | **uva** | One grape for each stroke of midnight on 31 December, a wish or a month of luck with each. In Spain it's timed to the bells of the Puerta del Sol on television; Mexico keeps the custom too. | https://dle.rae.es/uva |
 
-## Treccani — 90 citations
+## Treccani — 89 citations
 
 | ✓ | id | lang | headword | claim the page must support | url |
 |---|---|---|---|---|---|
@@ -164,7 +163,6 @@ still to do.
 | [ ] | 0266 | it | **bicchiere** | To take the pessimistic view of a situation. | https://www.treccani.it/vocabolario/bicchiere/ |
 | [ ] | 0267 | it | **affogare** | To be overwhelmed by a trivial problem. | https://www.treccani.it/vocabolario/affogare/ |
 | [ ] | 0268 | it | **gallina** | To ruin a reliable source of benefit through greed or short-sightedness. | https://www.treccani.it/vocabolario/gallina/ |
-| [ ] | 0269 | it | **matto** | Completely mad; wildly irrational. | https://www.treccani.it/vocabolario/matto/ |
 | [ ] | 0270 | it | **ago** | To search for something almost impossible to find. | https://www.treccani.it/vocabolario/ago/ |
 | [ ] | 0271 | it | **piovere** | More of the same lands on someone who already has plenty of it — bad OR good. | https://www.treccani.it/vocabolario/piovere/ |
 | [ ] | 0272 | it | **cavallo** | A signature piece; the thing someone does best and returns to. | https://www.treccani.it/vocabolario/cavallo/ |
@@ -462,7 +460,6 @@ still to do.
 | 0266 | Ver el vaso medio vacío / Vedere il bicchiere mezzo vuoto | needs_review | 2 |
 | 0267 | Ahogarse en un vaso de agua / Affogare in un bicchier d'acqua | needs_review | 2 |
 | 0268 | Matar la gallina de los huevos de oro / Uccidere la gallina dalle uova d'oro | needs_review | 2 |
-| 0269 | Loco de atar / Matto da legare | needs_review | 2 |
 | 0270 | Buscar una aguja en un pajar / Cercare un ago nel pagliaio | needs_review | 2 |
 | 0271 | Llueve sobre mojado / Piove sul bagnato | needs_review | 2 |
 | 0272 | Caballo de batalla / Cavallo di battaglia | needs_review | 2 |

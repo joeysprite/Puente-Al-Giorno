@@ -26,6 +26,11 @@ const arg = (name) => {
   return i === -1 ? null : process.argv[i + 1] ?? null;
 };
 const IDS = (arg("--ids") ?? "").split(",").map((s) => s.trim()).filter(Boolean);
+// --authority "RAE (DLE)": one sheet per dictionary. 93 RAE lookups and 89
+// Treccani ones are two sittings with one site open each, not one sitting of
+// 182 with constant context switching. Only jf can sign this gate, so the
+// shape of the work decides whether it happens.
+const AUTHORITY = arg("--authority");
 const LABEL = arg("--label");
 
 const bank = readdirSync(join(ROOT, "bank"))
@@ -45,6 +50,7 @@ for (const e of picked) {
   for (const lang of ["es", "it"]) {
     for (const [i, s] of (e[lang].sources ?? []).entries()) {
       if (s.verifiedBy) continue;
+      if (AUTHORITY && s.authority !== AUTHORITY) continue;
       rows.push({
         id: e.id,
         lang,
@@ -132,7 +138,9 @@ this sheet alone approves nothing.
 `;
 
 mkdirSync(join(ROOT, "reviewers"), { recursive: true });
-const slug = LABEL
+const slug = AUTHORITY
+  ? "-" + AUTHORITY.replace(/[^A-Za-z0-9]+/g, "-").replace(/^-|-$/g, "").toUpperCase()
+  : LABEL
   ? "-" + LABEL.replace(/[^A-Za-z0-9]+/g, "-").replace(/^-|-$/g, "").toUpperCase().slice(0, 24)
   : "";
 const path = join(ROOT, "reviewers", `VERIFY${slug}.md`);

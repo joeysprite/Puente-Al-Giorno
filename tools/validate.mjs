@@ -214,7 +214,32 @@ function validateSide(entry, lang, where, reviewers, strict) {
     }
     if (!isNonEmptyString(src.url) || !isValidUrl(src.url)) {
       err(S, "`url` must be a real http(s) URL");
+    } else {
+      // A headword with a diacritic whose URL slug is the SAME word with the
+      // diacritic stripped points at a different entry — and the page often
+      // loads anyway, so nothing complains. 0100 cited https://dle.rae.es/ano
+      // for the headword "año"; RAE's "ano" entry is the anus.
+      //
+      // A warning, not an error: some dictionaries resolve unaccented slugs
+      // and some do not, and this cannot be settled without opening the page
+      // — which is Stage 2's job. Narrow on purpose: only single-word
+      // headwords against single-word slugs, so Cervantes ficha ids and
+      // Treccani's own ASCII slugs do not trip it.
+      const seg = /\/([^\/?#]+)$/.exec(src.url);
+      const hw = isNonEmptyString(src.headword) ? src.headword.trim() : "";
+      if (seg && hw && !/\s/.test(hw) && !/[\s_+]/.test(seg[1])) {
+        let slug = seg[1];
+        try { slug = decodeURIComponent(slug); } catch {}
+        const fold = (x) => x.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+        if (slug.toLowerCase() !== hw.toLowerCase() && fold(slug) === fold(hw)) {
+          warn(
+            S,
+            `url slug "${slug}" is "${hw}" with its accents stripped — confirm it opens the right entry, not a different word`
+          );
+        }
+      }
     }
+
     if (!isNonEmptyString(src.headword)) err(S, "`headword` is required");
 
     if (!isNonEmptyString(src.verifiedOn) || !isValidISODate(src.verifiedOn)) {
