@@ -1,0 +1,83 @@
+{
+  "pin": {
+    "month": 12,
+    "day": 31
+  },
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "createdOn": "2026-11-15",
+  "retiredReason": null,
+  "id": "0329",
+  "type": "collocation",
+  "cue": "What do you eat at midnight on New Year's Eve for luck?",
+  "es": {
+    "text": "Las doce uvas",
+    "literal": "the twelve grapes",
+    "meaning": "One grape for each stroke of midnight on 31 December, a wish or a month of luck with each. In Spain it's timed to the bells of the Puerta del Sol on television; Mexico keeps the custom too.",
+    "example": "Este año sí logré comerme las doce uvas a tiempo.",
+    "exampleTranslation": "This year I actually managed to eat all twelve grapes in time.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/uva",
+        "headword": "uva",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Le lenticchie di Capodanno",
+    "literal": "New Year's lentils",
+    "meaning": "Lentils eaten at the New Year's Eve dinner, usually with cotechino or zampone, because their coin-like shape is said to bring money in the year ahead.",
+    "example": "A mezzanotte non possono mancare le lenticchie con il cotechino.",
+    "exampleTranslation": "At midnight you can't skip lentils with cotechino.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/lenticchia/",
+        "headword": "lenticchia",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both cultures eat something at midnight for the year ahead, but the food and what it promises differ. Spanish grapes are timed: twelve chimes, twelve grapes, and the challenge is to finish before the bells stop. Italian lentils are about money: the small round seeds stand for coins, eaten as a dish rather than raced against a clock. Even the night's name splits: Spanish calls it 'Nochevieja', the old night; Italian calls it 'San Silvestro', after the saint whose feast falls on 31 December.",
+    "tags": [
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "A Spanish speaker who asks for grapes at midnight in Italy may get them, since the custom has spread, but the dish that's expected is lentils with cotechino.",
+      "it_to_es": "An Italian who calls the night 'San Silvestre' will be understood but sounds foreign; the everyday words are 'Nochevieja' or, in Mexico, 'fin de año'."
+    }
+  },
+  "themes": [
+    "calendar",
+    "food",
+    "celebration"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-11-15 at Joe's request for an Advent/national-traditions December. SOURCES NOT HUMAN-VERIFIED (dictionary headwords found via search, not opened by a person); dates and customs come from press/heritage sources, not RAE/Treccani. Grape-origin stories (Alicante 1909 surplus vs. 1880s Madrid) are disputed, so the entry avoids them. ES REVIEWER: confirm Mexican usage ('fin de año' vs 'Nochevieja'). IT REVIEWER: confirm cotechino/zampone and the coin symbolism."
+  }
+}

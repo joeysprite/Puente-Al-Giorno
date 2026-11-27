@@ -1,0 +1,82 @@
+{
+  "pin": {
+    "month": 12,
+    "day": 28
+  },
+  "pinWindow": null,
+  "season": null,
+  "events": [],
+  "createdOn": "2026-11-15",
+  "retiredReason": null,
+  "id": "0328",
+  "type": "collocation",
+  "cue": "Which day are you allowed to prank people?",
+  "es": {
+    "text": "¡Inocente palomita!",
+    "literal": "innocent little dove!",
+    "meaning": "What you shout after fooling someone on 28 December, Día de los Santos Inocentes, the Spanish-speaking world's prank day. The full line runs 'inocente palomita, que te dejaste engañar'.",
+    "example": "Le dije que habían cancelado la cena y luego le grité: ¡inocente palomita!",
+    "exampleTranslation": "I told him dinner was cancelled, then shouted: gotcha!",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "mx"
+    ],
+    "regionNote": "The prank day is shared across Spain and Latin America; the 'palomita' rhyme is especially Mexican.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/inocentada",
+        "headword": "inocentada",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Pesce d'aprile!",
+    "literal": "April fish!",
+    "meaning": "What you say after fooling someone on 1 April, Italy's prank day. Children traditionally stick a paper fish on someone's back.",
+    "example": "Gli ho detto che la scuola era chiusa. Pesce d'aprile!",
+    "exampleTranslation": "I told him school was closed. April fool!",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/pesce/",
+        "headword": "pesce",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same ritual, two calendars. The Spanish-speaking world plays its pranks on 28 December, the feast of the Holy Innocents, the children Herod ordered killed, which makes the jokes a dark-to-light inversion of a grim Gospel story. Italy has no December prank day and saves it for 1 April with the rest of Europe. The punchlines differ too: Spanish mocks the victim's innocence ('inocente palomita'), Italian names the day ('pesce d'aprile').",
+    "tags": [
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "A Mexican who pulls a prank on an Italian friend on 28 December will just be lying to them; the day carries no licence in Italy.",
+      "it_to_es": "An Italian who waits until 1 April to prank Mexican friends will find the day means little there; the joke window was in December."
+    }
+  },
+  "themes": [
+    "calendar",
+    "humor",
+    "celebration"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-11-15 at Joe's request for an Advent/national-traditions December. SOURCES NOT HUMAN-VERIFIED (dictionary headwords found via search, not opened by a person); dates and customs come from press/heritage sources, not RAE/Treccani. Phrase type set to collocation; may be better as 'formula'. ES REVIEWER: confirm 'inocente palomita' as Mexican-strong and the full rhyme. IT REVIEWER: confirm paper-fish custom is still alive."
+  }
+}

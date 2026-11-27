@@ -1,0 +1,82 @@
+{
+  "pin": null,
+  "pinWindow": {
+    "from": "12-08",
+    "to": "12-12"
+  },
+  "season": null,
+  "events": [],
+  "createdOn": "2026-11-15",
+  "retiredReason": null,
+  "id": "0326",
+  "type": "collocation",
+  "cue": "When does the Christmas season actually start?",
+  "es": {
+    "text": "El maratón Guadalupe-Reyes",
+    "literal": "the Guadalupe-to-Kings marathon",
+    "meaning": "Mexican colloquial name for the stretch from 12 December (Virgin of Guadalupe) to 6 January (Three Kings): almost four weeks of posadas, parties, and eating, joked about as an endurance event.",
+    "example": "Ya empezó el maratón Guadalupe-Reyes y no he parado de comer tamales.",
+    "exampleTranslation": "The Guadalupe-Reyes marathon has started and I haven't stopped eating tamales.",
+    "register": "colloquial",
+    "formality": "avoid_in_exam",
+    "regions": [
+      "mx"
+    ],
+    "regionNote": "A Mexican expression; elsewhere the dates mean little as a pair.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/marat%C3%B3n",
+        "headword": "maratón",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Dall'Immacolata all'Epifania",
+    "literal": "from the Immaculate Conception to Epiphany",
+    "meaning": "The traditional span of the Italian Christmas season: the tree and presepe go up on 8 December, a national holiday, and come down after 6 January.",
+    "example": "Da noi l'albero si fa all'Immacolata e si smonta dopo l'Epifania.",
+    "exampleTranslation": "At our house the tree goes up on the Immacolata and comes down after Epiphany.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/immacolata/",
+        "headword": "immacolata",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both countries bracket the season between two church feasts and both end on 6 January, but they start in different places and frame it differently. Italy opens on 8 December, the Immaculate Conception, a national holiday and the customary day to put up the tree. Mexico opens four days later on 12 December, the feast of the Virgin of Guadalupe, the country's most-visited pilgrimage day, and calls the whole run a 'maratón', a joke about stamina rather than a devotional label. Spanish Spain also keeps 8 December as a holiday, so the Guadalupe start is specifically Mexican.",
+    "tags": [
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "A Mexican speaker who expects the season to start on the 12th will find Italian homes already decorated and offices already closed once, on the 8th.",
+      "it_to_es": "An Italian hearing 'maratón Guadalupe-Reyes' may take it as a religious calendar term; it is a joke about how much partying the four weeks involve."
+    }
+  },
+  "themes": [
+    "calendar",
+    "celebration",
+    "religion"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-11-15 at Joe's request for an Advent/national-traditions December. SOURCES NOT HUMAN-VERIFIED (dictionary headwords found via search, not opened by a person); dates and customs come from press/heritage sources, not RAE/Treccani. ES REVIEWER: confirm register (colloquial) and that the expression is national, not regional. IT REVIEWER: confirm 'dall'Immacolata all'Epifania' reads as a natural phrase, not a constructed one, and the tree-on-the-8th custom."
+  }
+}

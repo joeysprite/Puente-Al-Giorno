@@ -1,0 +1,82 @@
+{
+  "pin": null,
+  "pinWindow": {
+    "from": "12-14",
+    "to": "12-20"
+  },
+  "season": null,
+  "events": [],
+  "createdOn": "2026-11-15",
+  "retiredReason": null,
+  "id": "0327",
+  "type": "collocation",
+  "cue": "What's the extra December paycheck called?",
+  "es": {
+    "text": "El aguinaldo",
+    "literal": "the Christmas bonus",
+    "meaning": "The year-end bonus Mexican employers must pay by 20 December, by law at least fifteen days' wages. In a posada, 'aguinaldo' is also the small bag of candy and fruit handed to guests.",
+    "example": "Con el aguinaldo vamos a comprar los regalos.",
+    "exampleTranslation": "We'll buy the presents with the Christmas bonus.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx"
+    ],
+    "regionNote": "In Spain the equivalent is usually 'la paga extra' (one in summer, one at Christmas); 'aguinaldo' there leans toward a small tip or gift.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/aguinaldo",
+        "headword": "aguinaldo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "La tredicesima",
+    "literal": "the thirteenth (month's pay)",
+    "meaning": "A thirteenth monthly salary paid to employees in December, on top of the twelve regular ones. It is part of the annual salary, spread across the year by contract, not a discretionary bonus.",
+    "example": "Con la tredicesima ci paghiamo le vacanze di Natale.",
+    "exampleTranslation": "The thirteenth-month pay covers our Christmas holiday.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/enciclopedia/tredicesima_(Dizionario-di-Economia-e-Finanza)/",
+        "headword": "tredicesima",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Same December money, named from opposite ends. Spanish names it after the occasion: 'aguinaldo' is a Christmas gift, and the word still covers the candy bag at a posada. Italian names it by arithmetic: 'tredicesima' is simply the thirteenth month of pay. The Italian word says nothing about Christmas and the Spanish word says nothing about salary, so neither one translates the other literally.",
+    "tags": [
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Asking an Italian about their 'aguinaldo' gets a blank look; the salary is 'la tredicesima', and a Christmas tip or gift is 'una mancia' or 'un regalo'.",
+      "it_to_es": "An Italian who calls the Mexican bonus 'el decimotercero' will be understood with effort; the word everyone uses is 'aguinaldo'."
+    }
+  },
+  "themes": [
+    "work",
+    "money",
+    "calendar"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-11-15 at Joe's request for an Advent/national-traditions December. SOURCES NOT HUMAN-VERIFIED (dictionary headwords found via search, not opened by a person); dates and customs come from press/heritage sources, not RAE/Treccani. Legal minimum (15 days' wages, by 20 Dec, LFT art. 87) is from press/legal summaries; a 2026 proposal to raise it was pending, so keep the figure out of captions if it changes. ES REVIEWER: confirm the posada candy-bag sense is current MX usage. IT REVIEWER: confirm 'mancia' as the gift/tip contrast."
+  }
+}
