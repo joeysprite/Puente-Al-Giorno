@@ -120,6 +120,13 @@ function split(r) {
   return { es: null, it: null, a: r.a, b: r.b };
 }
 
+// Rows whose Spanish is marked Peninsular. The product carries both varieties
+// (decided 2026-11-27), so these are valid — but the Spanish list goes to the
+// MX reviewer, who would correctly report that Mexico does not say them. Left
+// unmarked that reads as a rejection; marked, it routes to native-es-02, who
+// is in reviewers.json with full rights and has never been used.
+const PENINSULAR = /peninsular|spain-only|castilian|\bES-ES\b|\(ES\)/i;
+
 const clean = (s) =>
   s.replace(/⚑/g, "").replace(/\*\*(.+?)\*\*/g, "$1").replace(/\*(.+?)\*/g, "$1").replace(/`/g, "").trim();
 
@@ -142,6 +149,7 @@ function fileFor(lang) {
     // Where my sketch offers two partners, a yes/no box cannot answer it —
     // the question is which one. Ask that instead.
     const alts = (theirs ?? "").split(/\s*\/\s*/).map(clean).filter((x) => x && x !== "—");
+    const pen = lang === "es" && PENINSULAR.test(`${r.a} ${r.b} ${r.src} ${r.note}`);
     const body = mine
       ? alts.length > 1
         ? [
@@ -164,7 +172,10 @@ function fileFor(lang) {
           ``,
           `> reviewer: [ ] yes, use it  [ ] wrong or unnatural`,
         ];
-    return head + body.join("\n");
+    const flag = pen
+      ? `\n\n- ⚑ **REGION:** logged as Peninsular. If this is simply not said in Mexico, tick "not used here" rather than "wrong" — we carry both varieties and it will go to the Spain reviewer.`
+      : "";
+    return head + body.join("\n") + flag;
   });
 
   return `# ${L} — candidate pairings, not entries

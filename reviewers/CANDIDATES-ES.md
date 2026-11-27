@@ -239,6 +239,8 @@ Generated 2026-11-27.
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
+- ⚑ **REGION:** logged as Peninsular. If this is simply not said in Mexico, tick "not used here" rather than "wrong" — we carry both varieties and it will go to the Spain reviewer.
+
 ### 42. Llevarse el gato al agua
 - **which Italian goes with this — or neither?**
   - [ ] spuntarla
@@ -435,6 +437,8 @@ Generated 2026-11-27.
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
+- ⚑ **REGION:** logged as Peninsular. If this is simply not said in Mexico, tick "not used here" rather than "wrong" — we carry both varieties and it will go to the Spain reviewer.
+
 ### 80. Buio pesto  /  oscuro como boca de lobo
 - **note:** I could not tell which half is Spanish — answer for whichever one is.
 
@@ -552,10 +556,14 @@ Generated 2026-11-27.
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
 
+- ⚑ **REGION:** logged as Peninsular. If this is simply not said in Mexico, tick "not used here" rather than "wrong" — we carry both varieties and it will go to the Spain reviewer.
+
 ### 101. No ver tres en un burro
 - **paired with:** essere cieco come una talpa
 
 > reviewer: [ ] yes, use it  [ ] wrong or unnatural
+
+- ⚑ **REGION:** logged as Peninsular. If this is simply not said in Mexico, tick "not used here" rather than "wrong" — we carry both varieties and it will go to the Spain reviewer.
 
 ### 102. confundir la gimnasia con la magnesia
 - **paired with:** Prendere fischi per fiaschi
