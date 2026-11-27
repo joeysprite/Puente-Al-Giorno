@@ -27,17 +27,32 @@ import { join, resolve } from "node:path";
 const ROOT = resolve(process.env.BANK_ROOT ?? ".");
 const txt = readFileSync(join(ROOT, "CANDIDATES.md"), "utf8");
 
-const head = /^## (Ready — Stage 1 drafting can start now[^\n]*)$/m.exec(txt);
-if (!head) {
-  console.error("No 'Ready — Stage 1' section in CANDIDATES.md.");
+// Both staged sections, not just "Ready". The "Needs research — still Stage 0"
+// heading describes where those rows sit in the pipeline, not what blocks
+// them: 76 of its 77 already carry both halves, and its notes are
+// assessments ("word-order mirror! strong") rather than open problems.22 of
+// them are waiting on nothing but a choice between two sketched partners,
+// which is a one-word answer from a native. Reading the heading instead of
+// the rows is what kept them out of the first build of this list.
+const SECTIONS = [
+  /^## (Ready — Stage 1 drafting can start now[^\n]*)$/m,
+  /^## (Needs research — still Stage 0[^\n]*)$/m,
+];
+let body = "";
+for (const rx of SECTIONS) {
+  const head = rx.exec(txt);
+  if (!head) continue;
+  const after = txt.slice(head.index + head[0].length);
+  const end = /^## /m.exec(after);
+  body += after.slice(0, end ? end.index : undefined) + "\n";
+}
+if (!body.trim()) {
+  console.error("Neither staged section found in CANDIDATES.md.");
   process.exit(1);
 }
-const after = txt.slice(head.index + head[0].length);
-const end = /^## /m.exec(after);
-const section = after.slice(0, end ? end.index : undefined);
 
 const rows = [];
-for (const line of section.split("\n")) {
+for (const line of body.split("\n")) {
   if (!line.startsWith("|")) continue;
   const c = line.trim().replace(/^\||\|$/g, "").split("|").map((x) => x.trim());
   if (!c.length || /^[-: ]*$/.test(c.join("")) || c[0] === "#") continue;
@@ -73,14 +88,33 @@ const todo = rows.filter((r) => {
 // does not, fall back to orthography that only one language has. Anything
 // still unresolved is shown unlabelled rather than guessed, because a wrong
 // label sends the question to the wrong person.
-const IT_ONLY = /\b(gli|degli|nella?|nelle|sulla|dalla|della|delle|essere|avere|fare|non|che|più|perché|qualcuno|propri[ao])\b|cc|zz|gli/;
-const ES_ONLY = /\b(el|los|las|una?|del|por|para|ser|estar|tener|hacer|más|qué|alguien|propi[ao]s?)\b|ñ|¿|¡/;
+// Which half is Spanish and which Italian. The columns are not consistently
+// ordered, so the Source column decides wherever it says; only where it is
+// silent does orthography break the tie. Measured against the 122 rows the
+// source column already settles, the scorer agrees 96% of the time — good
+// enough as a fallback, not good enough to override a stated source. Seven
+// rows resolve to neither and are shown with both halves rather than guessed
+// into the wrong reviewer's file.
+function langScore(t) {
+  let s = 0;
+  if (/[ñ¿¡]/.test(t)) s += 3;
+  if (/[áíóú]/.test(t)) s += 3;                     // Spanish-only accents
+  if (/[àèìòù]/.test(t)) s -= 3;                    // Italian-only accents
+  if (/gli|gn|sci|cch|ggi|zz/.test(t)) s -= 2;
+  if (/\b(el|los|las|del|al|por|para|con|que|se|lo|le|su)\b/i.test(t)) s += 1;
+  if (/\b(il|lo|la|i|gli|le|uno|della|dei|nel|che|si|ci|ne|chi)\b/i.test(t)) s -= 1;
+  if (/\b(ser|estar|tener|hacer|dar|poner|quedar|echar|salir|meter)\w*/i.test(t)) s += 2;
+  if (/\b(essere|avere|fare|stare|prendere|mettere|andare|venire|uscire)\w*/i.test(t)) s -= 2;
+  if (/(ción|dad|ado|ido|illo|ito)\b/.test(t)) s += 1;
+  if (/(zione|tà|uto|ata|etto|ino|accia)\b/.test(t)) s -= 1;
+  if (/\bqu[eéi]/.test(t)) s += 1;
+  return s;
+}
 function split(r) {
   const s = r.src.toLowerCase();
   if (/^es\b|spanish|idioms book/.test(s)) return { es: r.a, it: r.b };
   if (/^it\b|italian|europass/.test(s)) return { it: r.a, es: r.b };
-  const score = (t) => (ES_ONLY.test(t) ? 1 : 0) - (IT_ONLY.test(t) ? 1 : 0);
-  const d = score(r.a) - score(r.b);
+  const d = langScore(r.a) - langScore(r.b);
   if (d > 0) return { es: r.a, it: r.b };
   if (d < 0) return { it: r.a, es: r.b };
   return { es: null, it: null, a: r.a, b: r.b };
@@ -105,13 +139,25 @@ function fileFor(lang) {
       : `### ${i + 1}. ${clean(r.a)}  /  ${clean(r.b)}`;
     // The per-row ask is in the header; repeating it 59 times is noise. Use
     // the same field/checklist shapes the PDF renderer already knows.
+    // Where my sketch offers two partners, a yes/no box cannot answer it —
+    // the question is which one. Ask that instead.
+    const alts = (theirs ?? "").split(/\s*\/\s*/).map(clean).filter((x) => x && x !== "—");
     const body = mine
-      ? [
-          ``,
-          `- **paired with:** ${clean(theirs) || "— nothing yet"}`,
-          ``,
-          `> reviewer: [ ] yes, use it  [ ] wrong or unnatural`,
-        ]
+      ? alts.length > 1
+        ? [
+            ``,
+            `- **which ${O} goes with this — or neither?**`,
+            ...alts.map((a) => `  - [ ] ${a}`),
+            `  - [ ] neither; it is: ______________________`,
+            ``,
+            `> reviewer: [ ] the ${L} above is right  [ ] the ${L} is wrong`,
+          ]
+        : [
+            ``,
+            `- **paired with:** ${clean(theirs) || "— nothing yet"}`,
+            ``,
+            `> reviewer: [ ] yes, use it  [ ] wrong or unnatural`,
+          ]
       : [
           ``,
           `- **note:** I could not tell which half is ${L} — answer for whichever one is.`,
