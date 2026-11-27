@@ -1,6 +1,6 @@
 # Bank review queue
 
-**Generated** 2026-08-15 by `tools/build-review-queue.mjs`. Do not hand-edit.
+**Generated** 2026-11-27 by `tools/build-review-queue.mjs`. Do not hand-edit.
 
 BANK.md lists entries by id — a catalogue. This orders the same entries by **what
 needs your attention first**: risk of shipping something wrong, then whatever is
@@ -10,53 +10,18 @@ not listed — this is a work queue, not a catalogue.
 
 | Band | Count |
 |---|---|
-| 0. Ships next — check before it goes out | 25 |
-| 1. Approved but not actually finished | 40 |
-| 2. Editorial and register calls | 4 |
-| 3. Rests on an unverified claim | 26 |
+| 1. Approved but not actually finished | 48 |
+| 2. Editorial and register calls | 6 |
+| 3. Rests on an unverified claim | 30 |
 | 4. May not earn a slot | 4 |
-| 5. Drafted, awaiting review | 43 |
+| 5. Drafted, awaiting review | 53 |
 | 6. Early drafts | 18 |
-| 7. Nothing needed — approved and clean | 63 |
-| **total** | **223** |
+| 7. Nothing needed — approved and clean | 78 |
+| **total** | **237** |
 
 ---
 
-## 0. Ships next — check before it goes out  (25)
-
-Scheduled to post. Anything wrong here is public on the date shown.
-
-| ID | Pair | Status | Sources | What to decide |
-|---|---|---|---|---|
-| 0005 | Matar dos pájaros de un tiro ↔ Prendere due piccioni con una fava | approved | 2/2 verified | EDITORIAL FLAG (social): this trap names 'coger' as vulgar in Mexico and the Río de la Plata. |
-| 0007 | No tener pelos en la lengua ↔ Non avere peli sulla lingua | approved | 2/2 verified | Strong candidate for an early 'bridge' showcase entry. |
-| 0008 | Dar en el clavo ↔ Cogliere nel segno | approved | 2/2 verified | EDITORIAL FLAG (social): this trap names 'coger' as vulgar in Mexico and the Río de la Plata. |
-| 0013 | Ser pan comido ↔ Essere un gioco da ragazzi | approved | 2/2 verified | Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. |
-| 0016 | A caballo regalado no le mires el diente ↔ A caval donato non si guarda in bocca | approved | 2/2 verified | | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer sho |
-| 0017 | No pegar ojo ↔ Non chiudere occhio | approved | 2/2 verified | | 2026-07-24: regionNote's 'reviewer to confirm' instruction CLOSED. |
-| 0019 | Poner las cartas sobre la mesa ↔ Mettere le carte in tavola | approved | 2/2 verified |  Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. |
-| 0020 | Dormir a pierna suelta ↔ Dormire come un ghiro | approved | 2/2 verified |  Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. |
-| 0021 | Estar entre la espada y la pared ↔ Essere tra l'incudine e il martello | approved | 2/2 verified |  Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. |
-| 0023 | Ir al grano ↔ Andare al sodo | approved | 2/2 verified | Cue drafted by Claude 2026-07-20 from the entry's meaning and bridge — English situational framing, not a language claim, so it needs editorial taste rather than native review. |
-| 0024 | Estar como pez en el agua ↔ Essere un pesce fuor d'acqua | approved | 2/2 verified | IT side re-paired 2026-07-23 on the Italian reviewer's recommendation: she did not recognise the positive 'sentirsi come un pesce nell'acqua' and supplied both the negative form and the example verbat |
-| 0028 | Dar la vuelta a la tortilla ↔ Rivoltare la frittata | approved | 2/2 verified | Submitted by Joe 2026-07-13. |
-| 0035 | Valer la pena ↔ Valere la pena | approved | 2/2 verified | | 2026-07-24: regionNote's 'reviewer to confirm' instruction CLOSED. |
-| 0039 | ¡Mucha suerte! ↔ In bocca al lupo | approved | 2/2 verified | IT reviewer to confirm crepi etiquette framing. |
-| 0044 | Como caído del cielo ↔ Cadere dalle nuvole | approved | 2/2 verified | Discovered via FluentU list (Joe, 2026-07-16); all content authored fresh, ES pairing by Claude — verify. |
-| 0051 | Camarón que se duerme se lo lleva la corriente ↔ Chi dorme non piglia pesci | approved | 2/2 verified | IT counterpart chosen by Claude from recall — UNVERIFIED, reviewer to confirm the pairing exists and is current. |
-| 0052 | Más vale pájaro en mano que cien volando ↔ Meglio un uovo oggi che una gallina domani | approved | 2/2 verified | IT counterpart chosen by Claude from recall — UNVERIFIED, reviewer to confirm the pairing exists and is current. |
-| 0053 | Hoy por ti, mañana por mí ↔ Oggi a me, domani a te | approved | 2/2 verified | IT counterpart chosen by Claude from recall — UNVERIFIED, reviewer to confirm the pairing exists and is current. |
-| 0060 | Hacer puente ↔ Fare il ponte | approved | 2/2 verified | Authored as a schema demo; sources not human-verified; reviewer sign-off pending. |
-| 0062 | No hay mal que por bien no venga ↔ Non tutti i mali vengono per nuocere | approved | 2/2 verified | Prompted by an inspirational graphic Joe shared 2026-07-18 ('el agua no sonaría tan hermosa sin piedras en su camino' — a modern composed line, not a refrán, so not bankable itself). |
-| 0063 | No dejes para mañana lo que puedas hacer hoy ↔ Chi ha tempo non aspetti tempo | approved | 2/2 verified | Reviewer to confirm 'chi ha tempo non aspetti tempo' is still current speech rather than dictionary-only, and to sanity-check the subjunctive form. |
-| 0072 | Estar con el agua al cuello ↔ Avere l'acqua alla gola | approved | 2/2 verified | Discovered via an Instagram card set Joe shared 2026-07-20 (discovery only; all glosses and examples authored fresh). |
-| 0075 | Tener buen diente ↔ Essere una buona forchetta | approved | 2/2 verified | Discovered via an Instagram card set Joe shared 2026-07-20 (discovery only; all glosses and examples authored fresh). |
-| 0078 | Ser cuatro gatos ↔ Essere quattro gatti | approved | 2/2 verified | ES side discovered in a Spanish idioms book Joe is reading, 2026-07-21 (discovery only; every gloss and example here authored fresh). |
-| 0080 | Tengo calor ↔ Ho caldo | approved | 2/2 verified | Kept by editorial decision: technically a collocation, but idiomatic in the sense that matters (HAVE for body states, not BE). |
-
----
-
-## 1. Approved but not actually finished  (40)
+## 1. Approved but not actually finished  (48)
 
 These can be scheduled TODAY, and the bank treats them as shippable. But each either still asks a reviewer a question in its own notes, or carries a source nobody opened. The status field says done; the entry does not agree.
 
@@ -66,13 +31,21 @@ These can be scheduled TODAY, and the bank treats them as shippable. But each ei
 | 0006 | Tomar el pelo ↔ Prendere in giro | approved | 3/3 verified | register_differs claimed but no directional trap written; reviewer to add one or drop the tag before approval. |
 | 0012 | Quedarse de piedra ↔ Rimanere di sasso | approved | 2/2 verified | | 2026-07-24: regionNote's 'reviewer to confirm' instruction CLOSED. |
 | 0015 | Tener la sartén por el mango ↔ Tenere il coltello dalla parte del manico | approved | 2/2 verified | Direction of the mango warning assigned it→es on import (the trap bites when reading/producing Spanish); reviewer to confirm. |
+| 0016 | A caballo regalado no le mires el diente ↔ A caval donato non si guarda in bocca | approved | 2/2 verified | | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer sho |
+| 0017 | No pegar ojo ↔ Non chiudere occhio | approved | 2/2 verified | | 2026-07-24: regionNote's 'reviewer to confirm' instruction CLOSED. |
 | 0022 | Buscarle tres pies al gato ↔ Cercare il pelo nell'uovo | approved | 2/2 verified | | 2026-07-24: regionNote's 'reviewer to confirm' instruction CLOSED. |
 | 0026 | Estar hasta las narices ↔ Averne fin sopra i capelli | approved | 2/2 verified | | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer sho |
+| 0035 | Valer la pena ↔ Valere la pena | approved | 2/2 verified | | 2026-07-24: regionNote's 'reviewer to confirm' instruction CLOSED. |
 | 0038 | A ojo de buen cubero ↔ A occhio e croce | approved | 3/3 verified | IT reviewer: confirm the kitchen/estimate split, the only claim still unsupported. |
+| 0039 | ¡Mucha suerte! ↔ In bocca al lupo | approved | 2/2 verified | IT reviewer to confirm crepi etiquette framing. |
 | 0047 | Bien, pero no tan bien ↔ Bene ma non benissimo | approved | 2/2 verified | IT phrase is meme-boosted (mid-2010s) but now ordinary speech — IT reviewer to confirm the register aged well. |
 | 0048 | Quien fue a Sevilla perdió su silla ↔ Chi va a Roma perde la poltrona | approved | 2/2 verified | IT pairing by Claude — 'chi va a Roma perde la poltrona' is my recall of the canonical twin; IT reviewer to confirm form and currency. |
+| 0051 | Camarón que se duerme se lo lleva la corriente ↔ Chi dorme non piglia pesci | approved | 2/2 verified | IT counterpart chosen by Claude from recall — UNVERIFIED, reviewer to confirm the pairing exists and is current. |
+| 0052 | Más vale pájaro en mano que cien volando ↔ Meglio un uovo oggi che una gallina domani | approved | 2/2 verified | IT counterpart chosen by Claude from recall — UNVERIFIED, reviewer to confirm the pairing exists and is current. |
+| 0053 | Hoy por ti, mañana por mí ↔ Oggi a me, domani a te | approved | 2/2 verified | IT counterpart chosen by Claude from recall — UNVERIFIED, reviewer to confirm the pairing exists and is current. |
 | 0054 | El que no arriesga, no gana ↔ Chi non risica non rosica | approved | 2/2 verified | IT counterpart chosen by Claude from recall — UNVERIFIED, reviewer to confirm the pairing exists and is current. |
 | 0056 | Al que madruga, Dios le ayuda ↔ Il mattino ha l'oro in bocca | approved | 2/2 verified | IT counterpart chosen by Claude from recall — UNVERIFIED, reviewer to confirm the pairing exists and is current. |
+| 0063 | No dejes para mañana lo que puedas hacer hoy ↔ Chi ha tempo non aspetti tempo | approved | 2/2 verified | Reviewer to confirm 'chi ha tempo non aspetti tempo' is still current speech rather than dictionary-only, and to sanity-check the subjunctive form. |
 | 0064 | Botar la llave ↔ Buttare via la chiave | approved | 2/2 verified | | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer sho |
 | 0077 | Te quiero ↔ Ti voglio bene | approved | 2/2 verified | | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer sho |
 | 0087 | Caérsele a uno las alas del corazón ↔ Cadere le braccia | approved | 2/2 verified | | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer sho |
@@ -105,12 +78,14 @@ These can be scheduled TODAY, and the bank treats them as shippable. But each ei
 
 ---
 
-## 2. Editorial and register calls  (4)
+## 2. Editorial and register calls  (6)
 
 Nothing linguistically wrong. The question is whether the bank wants to publish it — dated, vulgar, or built on an image that may not sit well with subscribers. These need a decision from you, not from a reviewer.
 
 | ID | Pair | Status | Sources | What to decide |
 |---|---|---|---|---|
+| 0005 | Matar dos pájaros de un tiro ↔ Prendere due piccioni con una fava | approved | 2/2 verified | EDITORIAL FLAG (social): this trap names 'coger' as vulgar in Mexico and the Río de la Plata. |
+| 0008 | Dar en el clavo ↔ Cogliere nel segno | approved | 2/2 verified | EDITORIAL FLAG (social): this trap names 'coger' as vulgar in Mexico and the Río de la Plata. |
 | 0068 | ¡Madre mía! ↔ Mamma mia! | draft | 0/2 verified | | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer sho |
 | 0105 | Mandar al quinto pino ↔ Mandare a quel paese | draft | 0/2 verified | | 2026-07-24: further review instructions stripped from shipping fields (es.regionNote) — the earlier sweep caught 'reviewer to confirm' but missed other phrasings ('Reviewer to advise', 'Reviewer sho |
 | 0115 | No está el horno para bollos ↔ Non è aria | approved | 2/2 verified | Register flag: multiple native discussions describe 'non è aria' as capable of real edge/irritation, not just neutral timing — this needs a reviewer call on whether that's IT-only or true of the ES si |
@@ -118,7 +93,7 @@ Nothing linguistically wrong. The question is whether the bank wants to publish 
 
 ---
 
-## 3. Rests on an unverified claim  (26)
+## 3. Rests on an unverified claim  (30)
 
 Each of these was drafted around a specific contrast that the drafter flagged as their own and unconfirmed. If the reviewer says no, the entry doesn't get corrected — it collapses. Cheapest possible review: one question each.
 
@@ -150,6 +125,10 @@ Each of these was drafted around a specific contrast that the drafter flagged as
 | 0307 | Paso a paso ↔ Passo dopo passo | needs_review | 0/2 verified | THE a/dopo CONNECTOR SPLIT IS THE ENTRY and it is the most systematic finding in this batch — it recurs across passo/giorno and is the kind of pattern that pays out beyond the single phrase. |
 | 0309 | Vísteme despacio que tengo prisa ↔ La gatta frettolosa fece i gattini ciechi | needs_review | 0/2 verified | THE PAST-TENSE CLAIM IN THE FIRST INTERFERENCE NOTE IS THE ENTRY'S BEST CONTENT AND NEEDS CONFIRMING: I assert 'fece' is the citation form and 'fa' a circulating variant. |
 | 0310 | No entender ni papa ↔ Non capirci un tubo | needs_review | 0/2 verified | THE EUPHEMISM FINDING IS THE ENTRY'S BEST CONTENT AND ALSO ITS RISK. |
+| 0316 | Un día sí y otro no ↔ Un giorno sì e uno no | needs_review | 0/2 verified | THE INCLUSIVE-COUNTING FINDING IS THE ENTRY AND IT NEEDS THE ES REVIEWER'S SIGNATURE. |
+| 0317 | Lo que faltaba ↔ Ci mancava solo questa | needs_review | 0/2 verified | THE ci/BARE CONTRAST IS THE ENTRY and it is my own reading — I claim Italian's ci makes the sarcasm and Spanish's bare form carries it without one. |
+| 0318 | ¡Uf! ↔ Uffa! | needs_review | 0/2 verified | THE ES SIDE'S RELIEF SENSE IS THE ENTRY'S CLAIM AND IS UNVERIFIED — RAE's `uf` should list cansancio, fastidio, repugnancia; whether relief is genuinely part of the range in MX is what the bridge and  |
+| 0322 | Cortar los lazos ↔ Tagliare i ponti | needs_review | 0/2 verified | ES REVIEWER: is the plural 'los lazos' the usual form, or is 'cortar lazos' without the article more common in MX? IT REVIEWER: confirm 'tagliare i ponti' is neutral enough for ok_in_exam. |
 
 ---
 
@@ -166,7 +145,7 @@ Real, correct, and possibly not worth a subscriber's day. Trap-free twins and vo
 
 ---
 
-## 5. Drafted, awaiting review  (43)
+## 5. Drafted, awaiting review  (53)
 
 Ordinary queue. Sources unverified and no native sign-off, but nothing specific is flagged as at risk.
 
@@ -215,6 +194,16 @@ Ordinary queue. Sources unverified and no native sign-off, but nothing specific 
 | 0302 | La cabra siempre tira al monte ↔ Il lupo perde il pelo ma non il vizio | needs_review | 0/2 verified | Drafted by Claude 2026-08-01 from a 12-item monthly-calendar carousel by @learnandloveitalian — THE ITALIAN REVIEWER'S OWN ACCOUNT, so tier A on the Italian side: he is teaching these himself, which i |
 | 0308 | Tarde o temprano ↔ Prima o poi | needs_review | 0/2 verified | IT REVIEWER: is 'prima o poi' genuinely fixed in that order, or does 'poi o prima' ever occur? Drafted by Claude 2026-08-01 from a 19-item binomial set by @ines.tutoring — TIER C, an Instagram tutor w |
 | 0311 | Ser un agarrado ↔ Avere il braccino corto | needs_review | 0/2 verified | IT REVIEWER: confirm the diminutive is obligatory — the whole second half of the bridge rests on braccino rather than braccio being the fixed form. |
+| 0312 | Los Reyes Magos ↔ La Befana | needs_review | 0/2 verified | ES REVIEWER: confirm the capitalization convention and whether MX phrasing diverges from the ES example given. |
+| 0313 | Pedir posada ↔ La novena di Natale | needs_review | 0/2 verified | ES REVIEWER: confirm whether to widen regions beyond Mexico (Guatemala has posadas too, in smaller form) or keep the regionNote as the honest hedge. |
+| 0314 | La cabalgata de Reyes ↔ Il corteo dei Magi | needs_review | 0/2 verified | ES REVIEWER: confirm regions — cabalgatas are also established in Venezuela (1959) and elsewhere; I kept it to mx/es deliberately narrow rather than guess at the full list. |
+| 0315 | De la noche a la mañana ↔ Dall'oggi al domani | needs_review | 0/2 verified | PAIRING IS DICTIONARY-BACKED: PONS lists dall'oggi al domani against both 'de la noche a la mañana' and 'de un día para otro', and diccionarios.com gives the same. |
+| 0319 | Ir como un tiro ↔ Andare come un treno | needs_review | 0/2 verified | Drafted by Claude 2026-08-26 from a @learnandloveitalian basic-vs-idiom carousel — TIER A on the Italian side, not on the Spanish or the bridge. |
+| 0320 | Descubrir el pastel ↔ Scoprire gli altarini | needs_review | 0/2 verified | ES REVIEWER: (a) confirm 'descubrir el pastel' is current in MX and not only Peninsular; (b) my example is my own invention — confirm it sounds natural. |
+| 0321 | Tener ángel ↔ Avere un certo non so che | needs_review | 0/2 verified | SOURCES NOT HUMAN-VERIFIED; the Italian citation points at Treccani's 'sapere' entry, which carries the 'non so che' sub-sense — IT REVIEWER: if there is a better headword, say which. |
+| 0323 | Echar chispas ↔ Avere un diavolo per capello | needs_review | 0/2 verified | ES REVIEWER: (a) is 'echar chispas' current in MX? (b) ⚑ I HAVE CLAIMED IT IS ALWAYS VISIBLE ANGER — if it can also describe anger someone is hiding, the bridge's central contrast collapses. |
+| 0324 | Decirle a alguien cuatro verdades ↔ Dirne quattro a qualcuno | needs_review | 0/2 verified | IT REVIEWER: confirm the clitic placement in my example ('gliene ha dette quattro') and the agreement on 'dette'. |
+| 0325 | Te extraño ↔ Mi manchi | needs_review | 0/2 verified | ES REVIEWER: (a) confirm 'te extraño' is the MX default and my regionNote is right about Spain; (b) ⚑ I CLAIM 'me haces falta' IS HEAVIER THAN 'te extraño' — closer to 'I need you'. |
 
 ---
 
@@ -245,7 +234,7 @@ Not yet worked up.
 
 ---
 
-## 7. Nothing needed — approved and clean  (63)
+## 7. Nothing needed — approved and clean  (78)
 
 Not listed. These carry no flags and need nothing from you — see BANK.md for the full catalogue. The count is here so the numbers still add up.
 

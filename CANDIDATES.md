@@ -696,3 +696,1641 @@ register-ladder finding raised, and the two may want the same answer.
 |---|---|---|---|---|
 | 73 | Mi girano le scatole | (ES side unresolved) | IT reviewer (own account) | Fourth member of the euphemism cluster above — *scatole* for *coglioni*, and *girare* rather than *rompere*. ES candidates all collide or misfit: *estar hasta las narices* is banked at 0026, *estar hasta la madre* is genuinely vulgar rather than euphemistic (so it loses the point), and *colmar el plato* is about the last straw, not sustained anger. Needs a Spanish euphemism of the same politeness level — which may not exist, in which case the asymmetry is the entry. |
 | 74 | Avere una marcia in più | (ES side unresolved) | IT reviewer (own account) | ⚑ THE CARD'S OWN GLOSS IS NARROW. It renders this as "he/she is really smart", but Italian dictionaries give it as *essere superiore agli altri per doti particolari o mezzi a disposizione* — having an edge, by talent OR by resources, not intelligence specifically. Do not take the card's English. ES has no gear metaphor for a person; *estar en otra liga* changes the image to a sporting division and *llevar ventaja* is plain. Also check saturation against banked 0242 (*tener madera* / *avere i numeri*), which is adjacent — innate capability vs having an edge. |
+
+---
+
+## Italian proverb book, PROVERBIO 1–150 (photographed 2026-08-30)
+
+**Source tier: C.** Below the Consonni book, and not usable as a citation for anything.
+Evidence, all visible in the pages themselves:
+
+- **The descriptions are templated.** Nearly every entry runs *"Italians use it to…"* /
+  *"This proverb reflects the Italian belief that…"*, and makes cultural claims no source
+  supports. **No prose from this book may enter any shipping field.**
+- **PROVERBIO 70 and 114 are the same expression** (*Il troppo stroppia*), printed twice
+  with the same gloss, 44 entries apart. **118 repeats 10.** **88 repeats 81.**
+- **62 and 71 contradict each other** — *A tavola non si invecchia* (attested) and
+  *A tavola si invecchia bene* (not).
+- **The book contains both an invented proverb and its real counterpart.** #3 gives
+  *Il tempo è il miglior maestro*; #147 gives *Il tempo è galantuomo*, which is the real
+  one. A human compiler working from Italian sources does not do this.
+- **PROVERBIO 139 ships with "(CORRETTO)" printed in its heading.** No proofreading pass
+  happened.
+- **Three descriptions misread their own proverb.** #102 *L'abito non fa il monaco* is
+  explained as being about *habits revealing character* — the English word "habit" read
+  back into Italian *abito*, which only means garment. Banked **0299** teaches exactly
+  this trap. #138 *Mettere i puntini sulle i* is glossed as puncturing false modesty; it
+  means to clarify. #149's English reverses the sense — knots reaching the comb is a
+  reckoning arriving, not, as the book has it, a resolution.
+- **#35 inverts a real proverb.** The attested Italian is *amore vecchio non fa ruggine*
+  (old love does not rust — it endures). The book gives *non fa buon brodo* and reverses
+  the meaning. Verified 2026-08-30 against multiple Italian proverb collections.
+
+### How to read the Confidence column
+
+**⚑ The confidence marks below are Claude's unverified judgement, and they have a known
+error rate.** Three were spot-checked on 2026-08-30 and one of the three was wrong:
+
+- *Amore vecchio non fa ruggine* — call confirmed.
+- *La fortuna gira* (#83) — **discard was wrong.** *La ruota della fortuna gira* is
+  attested; the book printed a shortened form of a real proverb. Moved to `form?`.
+- *A pensar male…* (#148) — **claim was wrong.** Not a modern proverb by Andreotti. It
+  belongs to Pius XI, reached Andreotti in 1939 via Cardinal Marchetti Selvaggiani, and
+  Carlo Gozzi already cites it as proverbial in *La Zobeide* (18th c.).
+
+The error pattern: confidence tracked how *proverbial something sounded*, which is a bad
+test — a great many attested Italian proverbs are plain declarative sentences. **The
+`doubtful?` rows are therefore a sorting hint, not a verdict. Nothing here has been
+removed on my say-so.** Recheck before discarding, especially in the luck chapter
+(81–100), where the attested corpus is far larger than I assumed.
+
+**Every row still needs Treccani or De Mauro before drafting**, including rows marked
+`attested` — that mark means "sounds real to me", not "cited". All 150 are Italian-only;
+each needs a Spanish side researched at Stage 0. ES sketches below are starting points
+to verify, never to draft from.
+
+| # | Italian | Spanish / sketch | Confidence | Note |
+|---|---|---|---|---|
+| 1 | Chi va piano, va sano e va lontano | — | **logged** | L603 |
+| 2 | L'erba del vicino è sempre più verde | — | **logged** | L277 |
+| 3 | Il tempo è il miglior maestro | — | doubtful? | Attested Italian is *il tempo è galantuomo* — which this book also carries, at #147. Compare the two. |
+| 4 | Sbagliando si impara | de los errores se aprende | attested | Collides with L599 and L632; check the learning cluster isn't oversubscribed. |
+| 5 | Ogni cosa a suo tempo | cada cosa a su tiempo | attested | Near-exact twin. Thin bridge. |
+| 6 | La fretta è cattiva consigliera | las prisas son malas consejeras | attested | Check whether MX prefers singular *la prisa*. |
+| 7 | Chi semina vento raccoglie tempesta | — | **banked 0303** | — |
+| 8 | L'esperienza è la madre della saggezza | — | form? | Attested form is *madre della **scienza***. Also collides with L161's *la paciencia es la madre de la ciencia* — three proverbs competing for one frame. |
+| 9 | Chi cerca trova | el que busca, encuentra | attested | IT can be used menacingly; confirm whether ES carries that. |
+| 10 | Non tutto il male vien per nuocere | no hay mal que por bien no venga | attested | ⚑ Strong divergent pair. IT negates the harm's purpose; ES asserts a good outcome. Duplicated by the book at #118. |
+| 11 | Meglio tardi che mai | — | **logged** | L308 |
+| 12 | Chi ben comincia è a metà dell'opera | obra empezada, medio acabada | attested | IT counts from the start, ES from the finish. Verify ES currency in MX. |
+| 13 | Le apparenze ingannano | las apariencias engañan | attested | Exact twin, freebie. Weakened duplicate at #108. |
+| 14 | La pazienza è la virtù dei forti | — | **logged** | L161 |
+| 15 | Chi ha pazienza vince | — | form? | Attested is *chi la dura la vince*. Patience already has two queued rows. |
+| 16 | Il mondo è fatto a scale | — | attested | Full form *…c'è chi scende e c'è chi sale* rhymes. ES *la vida da muchas vueltas* uses a wheel — possible divergence. |
+| 17 | Non si può avere tutto | — | doubtful? | Ordinary sentence. Collides with L567. |
+| 18 | Ogni promessa è debito | lo prometido es deuda | attested | Near-exact; IT quantifies with *ogni*. |
+| 19 | Chi troppo pensa poco fa | — | doubtful? | Attested neighbour is *chi troppo vuole nulla stringe* (L211, and #146 below). |
+| 20 | Il buon giorno si vede dal mattino | — | attested | No obvious ES twin — likely a divergence entry. |
+| 21 | L'amore è cieco | — | **logged** | L115 |
+| 22 | Al cuor non si comanda | al corazón no se le manda | attested | Check the ES clitic; reviewer decides. |
+| 23 | Lontano dagli occhi, lontano dal cuore | ojos que no ven, corazón que no siente | attested | ⚑ **Top find.** Same two organs, opposite verdict. IT mourns the distance; ES is quietly relieved by it — often said as permission. Real interference risk both ways. |
+| 24 | Chi ama teme | — | attested | Literary and old; confirm current use. |
+| 25 | L'amore non è bello se non è litigarello | — | attested | Rhymes (bello/litigarello). No fixed rhyming ES twin found — the asymmetry may be the entry. |
+| 26 | Amore e tosse non si nascondono | el amor y la tos no se pueden ocultar | attested | Verify the ES independently — may be a translation artifact. |
+| 27 | Chi si assomiglia si piglia | Dios los cría y ellos se juntan | attested | ⚑ IT is reflexive and agentless; ES inserts God as the breeder. Agency is the axis. |
+| 28 | Tra moglie e marito non mettere il dito | — | **banked 0058** | — |
+| 29 | Amore con amore si paga | amor con amor se paga | attested | Exact twin, freebie. |
+| 30 | (Il) cuore non invecchia | — | attested | Book drops the article. Adjacent to banked 0088/0276 — check saturation. |
+| 31 | Il primo amore non si scorda mai | el primer amor nunca se olvida | attested | ⚑ *Scordare* is literally *un-heart*, from *cuore*. That etymology is the entry. |
+| 32 | Matrimonio e melone, non si sa mai come sono | — | form? | Widely attested form is *la moglie e il melone* — about the **wife**. The book's version may be a sanitised rewrite; if the real form is the sexist one, handle as L567. |
+| 33 | L'amore passa, la fame resta | — | doubtful? | — |
+| 34 | Chi troppo ama troppo soffre | — | doubtful? | — |
+| 35 | Amore vecchio non fa buon brodo | — | **INVERTED** | Attested: *amore vecchio non fa **ruggine***, meaning the opposite — old love endures. Confirmed 2026-08-30. "Buon brodo" appears imported from *gallina vecchia fa buon brodo* (L557). Do not draft the book's form. |
+| 36 | Chi ama davvero perdona | — | doubtful? | — |
+| 37 | L'amore vuole amore | — | doubtful? | — |
+| 38 | Chi ama bene, ama poco | — | doubtful? | Self-contradicting: the book glosses *ama poco* as "loves wisely". It means *loves little*. |
+| 39 | L'amore è come il fuoco | — | doubtful? | Generic simile. |
+| 40 | Chi ama troppo dimentica sé stesso | — | doubtful? | — |
+| 41 | Chi lavora mangia | — | doubtful? | Duplicate of #59. |
+| 42 | Il lavoro nobilita l'uomo | el trabajo dignifica | attested | ⚑ Register warning: used ironically in Italian, usually with a joking completion, and sits close to slogans best not evoked. The irony must be in the entry. |
+| 43 | Senza fatica non si ottiene nulla | — | doubtful? | — |
+| 44 | Chi più spende meno spende | — | **logged** | L160 |
+| 45 | Il pane quotidiano non cade dal cielo | — | doubtful? | — |
+| 46 | Chi ha (un) mestiere non muore di fame | el que tiene oficio no pasa hambre? | attested | Attested with the article in most sources. ES sketch unverified. |
+| 47 | Il lavoro fatto bene si paga due volte | — | doubtful? | — |
+| 48 | Chi non risparmia spreca | — | doubtful? | — |
+| 49 | Il guadagno facile dura poco | — | doubtful? | — |
+| 50 | Chi dorme non guadagna | — | **logged** | Variant of banked 0051 (*chi dorme non piglia pesci*). |
+| 51 | Il bisogno aguzza l'ingegno | la necesidad agudiza el ingenio | attested | Near-exact, cognate for cognate. Thin. |
+| 52 | Chi troppo risparmia nulla gode | — | doubtful? | — |
+| 53 | Chi fa da sé fa per tre | — | **logged** | L213 |
+| 54 | A lavoro finito si conta il guadagno | — | doubtful? | — |
+| 55 | Chi vive sperando muore lavorando | — | form? | Attested is *chi di speranza vive, disperato muore*. The colloquial completion of *chi vive sperando…* is vulgar, not *lavorando* — book's form looks bowdlerised. |
+| 56 | Il lavoro non manca mai | — | doubtful? | — |
+| 57 | Chi ha fretta perde tempo | vísteme despacio que tengo prisa | form? | ⚑ Weak form. Draft *la gatta frettolosa fa i gattini ciechi* instead — the hurried cat's kittens are born blind. Against the Spanish, that's a strong entry: IT shows the damage, ES the paradox. |
+| 58 | Il lavoro duro forma il carattere | — | doubtful? | — |
+| 59 | Chi non lavora non mangia | el que no trabaja no come | attested | ⚑ Politically loaded both sides — biblical, later a state slogan in more than one regime, and in Italy the setup for a famous song lyric. Confirm neutral current use. |
+| 60 | Il mestiere fa l'uomo | — | doubtful? | — |
+| 61 | L'appetito vien mangiando | — | **logged** | L114 |
+| 62 | A tavola non si invecchia | — | attested | ⚑ No ES twin — Spanish put this value into a noun instead, *sobremesa*. A proverb against a word is a good card. Contradicted by the book at #71. |
+| 63 | Buon vino fa buon sangue | — | attested | Register risk: reads as endorsing drinking. |
+| 64 | A stomaco pieno si ragiona meglio | — | doubtful? | — |
+| 65 | Dove c'è gusto, non c'è perdenza | — | attested | Colloquial. *Perdenza* is rare enough to need glossing. |
+| 66 | In vino veritas | — | **logged** | L626 (as *la verità è nel vino*). ⚑ The book prints the **Latin** as the Italian entry. |
+| 67 | A bocca asciutta non si canta | — | form? | Usually *a gola asciutta*. |
+| 68 | Chi mangia solo si strozza | — | form? | Attested is *chi mangia solo, crepa solo* — dies alone, not chokes. The softening removes the point. |
+| 69 | Buono come il pane | — | **logged** | Closed by banked 0275 (*essere un pezzo di pane*). |
+| 70 | Il troppo stroppia | lo poco agrada y lo mucho enfada | attested | Both sides rhyme internally — check whether that's real or coincidence. Printed twice by the book (see #114). |
+| 71 | A tavola si invecchia bene | — | doubtful? | Contradicts #62, which is the attested one. |
+| 72 | Chi beve solo acqua ha qualcosa da nascondere | — | attested | A joke saying; register flag. |
+| 73 | Non tutte le ciambelle riescono col buco | — | **logged** | L339 |
+| 74 | Buon vino non ha bisogno di frasca | el buen paño en el arca se vende | attested | Both say quality needs no advertising via a dead commercial custom — the *frasca* was the branch hung out to signal a wine seller. |
+| 75 | Chi ha pane non ha denti | — | **logged** | L595 (fuller chiastic form). |
+| 76 | Pane al pane, vino al vino | — | **logged** | L266 |
+| 77 | Dopo il dolce viene l'amaro | — | doubtful? | — |
+| 78 | Non si vive di solo pane | no solo de pan vive el hombre | attested | Both Matthew 4:4 — shared ancestor. ES keeps *el hombre*, IT drops it; that asymmetry is the entry. |
+| 79 | A buon intenditor poche parole | — | **logged** | L109 |
+| 80 | Meglio un uovo oggi che una gallina domani | — | **banked 0052** | — |
+| 81 | La fortuna aiuta gli audaci | la fortuna favorece a los audaces | attested | Both from Virgil's *audentes fortuna iuvat*. IT *aiuta* vs ES *favorece* — a real difference in what fortune does. Duplicated by the book at #88. |
+| 82 | La fortuna è cieca | la suerte es ciega | attested | Confirmed attested 2026-08-30. Banked 0230 already covers the *fortuna/suerte* split, which is the better observation — check saturation. |
+| 83 | La fortuna gira | — | form? | ⚑ **My discard was wrong.** *La ruota della fortuna gira* is attested; the book printed a shortened form. Draft the wheel form. |
+| 84 | Ogni medaglia ha il suo rovescio | toda moneda tiene dos caras | attested | IT names only the *reverse*; ES counts *two faces*. Verify equivalence before pairing. |
+| 85 | Il destino fa le carte | — | doubtful? | ⚑ Recheck — luck-chapter discards are unreliable, see header. |
+| 86 | Il caso ci vede benissimo | — | doubtful? | ⚑ Recheck. Note *la fortuna è cieca ma la sfiga ci vede benissimo* is an attested modern comic variant — the book may have mangled it. |
+| 87 | La fortuna è come il vetro: quando brilla, si rompe | — | doubtful? | ⚑ Recheck. |
+| 88 | La fortuna bacia chi osa | — | doubtful? | Duplicates #81. |
+| 89 | Il fato è beffardo | — | doubtful? | ⚑ Recheck. |
+| 90 | La sorte è capricciosa | — | doubtful? | ⚑ Recheck. |
+| 91 | Il destino è scritto | — | doubtful? | ⚑ Recheck. |
+| 92 | Il caso governa metà della vita | — | doubtful? | ⚑ Recheck. |
+| 93 | La fortuna va e viene | — | doubtful? | ⚑ Recheck — *buona fortuna non dura* is attested and adjacent. |
+| 94 | La fortuna va aiutata | a la suerte hay que ayudarla | attested | Likely the IT half of *aiutati che il ciel t'aiuta*, which is better attested — draft that instead. |
+| 95 | Il destino sa essere ironico | — | doubtful? | ⚑ Recheck. |
+| 96 | Non tutto è scritto | — | doubtful? | ⚑ Recheck. |
+| 97 | La fortuna arriva quando meno te l'aspetti | — | doubtful? | ⚑ Recheck. |
+| 98 | Il caso fa scherzi strani | — | doubtful? | ⚑ Recheck. |
+| 99 | La fortuna è donna | — | attested | ⚑ Machiavelli, *Il Principe* ch. 25 — a literary quotation, not folk, and its original context is about mastering fortune by force. Decide how to handle before shipping. |
+| 100 | La fortuna non guarda in faccia nessuno | — | attested | Verify. |
+| 101 | Ognuno tira l'acqua al suo mulino | cada quien arrima el ascua a su sardina | attested | ⚑ **Top find.** Same accusation of self-interest, each language using its own domestic scene: IT diverts the millstream, ES drags the ember under its own sardine. Neither guessable from the other. Confirm ES currency in MX. |
+| 102 | L'abito non fa il monaco | — | **banked 0299** | ⚑ And the book's description falls into the exact trap 0299 teaches. |
+| 103 | Dalle parole si conoscono gli stolti, dai fatti i saggi | — | form? | Reads assembled; overlaps #110. Attested neighbour is *dai frutti si conosce l'albero*. Pick one of the three. |
+| 104 | Chi nasce tondo non muore quadrato | genio y figura hasta la sepultura | attested | ⚑ Very strong. IT makes geometry of it — born round, won't die square. ES rhymes character with the grave. Same claim, shape against rhyme. Adjacent to #143. |
+| 105 | L'invidia è una brutta bestia | la envidia es mala consejera | attested | IT makes envy an ugly animal, ES a bad advisor. Verify the IT is fixed. |
+| 106 | L'orgoglio precede la caduta | quien mucho sube, más alto cae | form? | ⚑ Proverbs 16:18 in English dress. The Italian proverb is *la superbia va a cavallo e torna a piedi* — pride rides out and walks home. **Draft that instead**; it pairs far better. |
+| 107 | La pazienza ha un limite | — | doubtful? | — |
+| 108 | L'apparenza inganna spesso | — | doubtful? | Weakened duplicate of #13. |
+| 109 | Chi parla troppo, poco conclude | — | doubtful? | — |
+| 110 | Dai fatti si conosce l'uomo | obras son amores y no buenas razones | attested | ⚑ If both hold, good: ES is pointed — deeds are love, *not fine words* — and names the rival explicitly. Verify the IT form. |
+| 111 | Non tutti sono uguali | — | doubtful? | — |
+| 112 | Le persone cambiano poco | — | doubtful? | — |
+| 113 | Chi si loda, s'imbroda | — | attested | Rhymes (loda/imbroda). ES has no fixed rhyming twin — the asymmetry is the entry, same shape as #25. |
+| 114 | Il troppo stroppia | — | **duplicate** | Verbatim repeat of #70. |
+| 115 | Chi ha orecchie per intendere, intenda | el que tenga oídos para oír, que oiga | attested | Biblical, shared ancestor. ES doubles the ear verb; IT doesn't. |
+| 116 | Il silenzio è d'oro | en boca cerrada no entran moscas | attested | ⚑ Strong divergence. IT values silence abstractly (half of *la parola è d'argento…*); ES gives a concrete, comic reason: flies. Decide half-form vs full form. |
+| 117 | Chi ha la coscienza pulita dorme tranquillo | quien nada debe, nada teme | attested | ES shifts from conscience to debt — possible divergence. |
+| 118 | Non tutti i mali vengono per nuocere | — | **duplicate** | Repeat of #10. |
+| 119 | Chi non sa, parla | — | doubtful? | — |
+| 120 | L'abitudine è una seconda natura | la costumbre es otra naturaleza | attested | Both from Cicero's *consuetudo altera natura*. Thin unless register differs. |
+| 121 | Ride bene chi ride ultimo | — | **logged** | L260 |
+| 122 | Chi tace, acconsente | quien calla, otorga | attested | ⚑ **Top find.** Near-exact twin with one real difference: ES *otorga* is a legal verb — to grant, to bestow, used of wills and deeds. Spanish makes silence a formal act; Italian just calls it consent. |
+| 123 | Chi è senza peccato scagli la prima pietra | el que esté libre de pecado que tire la primera piedra | attested | John 8:7, shared ancestor. *Tirar* vs *scagliare* (hurl — more violent). |
+| 124 | Chi fa il furbo resta fregato | — | attested | *Furbo* is culturally loaded enough to deserve an entry of its own. Register check: *fregato* sits near the edge. |
+| 125 | Chi ha paura di sbagliare non fa nulla | — | doubtful? | — |
+| 126 | Chi guarda il dito perde la luna | — | form? | Usual Italian is *quando il saggio indica la luna, lo stolto guarda il dito* — longer, better attested, has the sage in it. |
+| 127 | Chi è troppo buono, viene fregato | — | doubtful? | Duplicates #124's frame. |
+| 128 | Chi non risica, non rosica | — | **banked 0054** | — |
+| 129 | Chi crede a tutti, resta deluso | — | doubtful? | — |
+| 130 | Chi promette troppo, mantiene poco | — | doubtful? | — |
+| 131 | Chi cerca scuse, trova scuse | — | doubtful? | — |
+| 132 | Chi dice sempre la verità non ha amici | — | doubtful? | — |
+| 133 | Tanto rumore per nulla | — | form? | ⚑ This is the Italian **title of Shakespeare's *Much Ado About Nothing***. It is used idiomatically, but any entry must say where it comes from. |
+| 134 | Il bue che dice cornuto all'asino | el burro hablando de orejas | attested | ⚑ **Top find.** Funnier than the English pot and kettle: the ox calls the donkey horned, when the ox has horns; the donkey talks about ears. Both accuse the accuser using the accuser's own anatomy. Check *dijo la sartén al cazo* as the ES alternative. |
+| 135 | Di buone intenzioni è lastricata la via dell'inferno | el camino al infierno está empedrado de buenas intenciones | form? | English-origin proverb imported into both. Two translations of a third language's proverb is a weak pair. |
+| 136 | Non c'è peggior sordo di chi non vuol sentire | no hay peor sordo que el que no quiere oír | attested | Exact twin, freebie. IT *sentire* vs ES *oír* — and ES also has *escuchar*; which the proverb takes is worth a line. |
+| 137 | Due pesi e due misure | — | **logged** | L320 |
+| 138 | Mettere i puntini sulle i | poner los puntos sobre las íes | attested | Near-exact — both dot the same letter; ES pluralises it. ⚑ Ignore the book's description, which is wrong. |
+| 139 | Chi va con lo zoppo impara a zoppicare | — | **logged** | L632. ⚑ Register flag already standing. The book prints this one with "(CORRETTO)" in the heading. |
+| 140 | Guardare il pelo nell'uovo | — | **banked 0022** | ⚑ Banked with the correct verb, *cercare*. The book's *guardare* is wrong. |
+| 141 | Chi è causa del suo mal, pianga sé stesso | — | attested | Old and formal. ES sketches found so far are colloquial and mismatched — may end up unpaired. |
+| 142 | Meglio solo che male accompagnato | más vale solo que mal acompañado | attested | Exact twin, freebie. Both use the *meglio/más vale* comparative frame. |
+| 143 | Il lupo perde il pelo ma non il vizio | — | **banked 0302** | Adjacent to #104 — same lesson, check saturation. |
+| 144 | Tra il dire e il fare c'è di mezzo il mare | — | **banked 0301** | — |
+| 145 | Non è tutto oro quel che luccica | — | **banked 0300** | — |
+| 146 | Chi troppo vuole, nulla stringe | — | **logged** | L211 |
+| 147 | Il tempo è galantuomo | el tiempo pone a cada uno en su lugar | attested | ⚑ Italian personifies time as a *gentleman* — courteous, fair, unhurried. Spanish has no equivalent personification. Also the real proverb the book invented a rival for at #3. |
+| 148 | A pensar male si fa peccato, ma spesso si indovina | — | attested | ⚑ **My earlier note was wrong.** Not a modern Andreotti coinage. It belongs to Pius XI, reached Andreotti in 1939 via Cardinal Marchetti Selvaggiani, and Carlo Gozzi cites it as already proverbial in *La Zobeide* (18th c.). Still a good candidate — no ES twin known — but the provenance line has to be right. |
+| 149 | I nodi vengono sempre al pettine | — | **logged** | L659. ⚑ The book's English reverses it: knots reaching the comb is a reckoning arriving, not a resolution. |
+| 150 | La verità viene sempre a galla | la verdad siempre sale a flote | attested | Adjacent to #149 — decide which truth-surfaces proverb to run. |
+
+**Tally: 29 already in bank or queue · 3 duplicates or inversions · 12 needing a corrected
+form · 44 marked attested · 62 marked doubtful (unverified — see header).**
+
+---
+
+## @ines.tutoring — food idiom carousel (2026-09-13)
+
+Tier A account (same source as the 19-item binomial set). Eleven items, all food-based.
+Two are already banked and three are queued; **six are new and clear to draft.**
+
+The set is unusually coherent: it is one semantic field (kitchen and table) used to judge
+*people* — fool, clumsy, airhead, sensible, good-hearted. Worth considering as a themed
+run rather than six scattered entries.
+
+| Italian | Gloss (source) | Spanish / sketch | Status |
+|---|---|---|---|
+| Essere un salame | to be a fool | ser un merluzo | **new** — ⚑ IT reaches for cured meat, ES for a *hake*. Cold cuts against fish. Confirm the ES is current in MX; *merluzo* may read Peninsular, and MX may prefer *ser un tapado*. |
+| Acqua in bocca! | keep it secret | punto en boca | queued **L305** — water vs stitch, same mouth |
+| Liscio come l'olio | smooth as silk | como la seda | **new** — IT measures smoothness by oil, ES by silk. Kitchen against loom; the English gloss happens to match the Spanish, which is a nice thing to point out. |
+| Sano come un pesce | fit as a fiddle | más sano que una pera | **new** — ⚑ Strong. IT picks a fish, ES a pear, English a fiddle. Three languages, three unrelated images, one meaning. Check *como un roble* as the ES alternative. |
+| Tutto fa brodo | every little bit helps | todo suma | queued **L363** — flagged there as a weak fixed twin |
+| Essere una patata | to be a bit clumsy | — | **new** — ⚑ **Register check before anything else.** *Patata* carries a vulgar anatomical sense in parts of the Spanish-speaking world. Establish that before drafting, and the ES side may need to avoid the cognate entirely. |
+| Pieno come un uovo | stuffed to the brim | hasta los topes | **new** — IT fills an egg, ES hits the stops. Note *un uovo* also appears in banked 0022 (*cercare il pelo nell'uovo*) and #80 of the proverb book — the egg is getting crowded. |
+| Essere una zucca vuota | to be an airhead | ser un cabeza hueca | **new** — see below |
+| Avere sale in zucca | to have common sense | tener dos dedos de frente | **banked 0050, approved** |
+| Fare una frittata | to make a mess of things | — | queued **L668**, inside the four-item group still awaiting a decision |
+| Essere un pezzo di pane | to be a good person | ser un pedazo de pan | **banked 0275, needs_review** |
+
+### ⚑ The zucca problem — and the better card hiding inside it
+
+*Essere una zucca vuota* and banked **0050** (*avere sale in zucca*) are the same noun with
+opposite verdicts: the head as a gourd, either salted or hollow. Under the
+no-cross-reference rule, a *zucca vuota* card would have to explain *zucca* = head from
+scratch, duplicating work 0050 already did. That is the euphemism-cluster problem again.
+
+But there is a sharper entry available than either. Spanish has the same gourd —
+*calabaza* — and puts it to a completely different job: **dar calabazas** means to reject
+a suitor, or to fail someone in an exam. So the pumpkin exists in both languages as a
+metaphor and lands nowhere near the same place: Italian makes it your skull, Spanish makes
+it a rejection. That is a real false-friend axis, it is not covered by 0050, and it would
+justify its own card rather than a sibling of one.
+
+**Recommend:** verify *dar calabazas* (RAE, and MX currency), then decide between the
+weak sibling and the strong false friend. Not both.
+
+---
+
+## Instagram intake, 2026-10-11 — four accounts
+
+Four sources in one batch, at three different tiers:
+
+- **@learnandloveitalian** — 14-card month-by-month calendar carousel. **Tier A** (the
+  Italian reviewer's own account).
+- **@dailyitalianwithelena** — 8-card carousel, each idiom with an ORIGINE panel and an
+  example. **Tier C**, new to the queue. Better made than most Tier C: it gives
+  etymology and a worked example rather than a one-line gloss. Still not a citation.
+- **@kamithepolyglot** — EN→IT "idiom vs modern" cards. **Tier C**, and structurally
+  the wrong shape: these are English-anchored, so the Italian is a translation target
+  rather than a native starting point. Mine for Italian halves only.
+- **@italianteachertony** — 12-card "Latin phrases that still live in Italian", 10 legible.
+  **Tier C**, a suggested (not followed) account, but the best-sourced Tier C seen so far:
+  every card names its classical source (Terence, Virgil, Seneca, Caesar) and several
+  check out. See the Latin section below — the set is worth more as a pattern than as
+  ten entries.
+
+### ⚑ The Tier A carousel is largely mined out — and that is the useful finding
+
+Of the six legible cards from @learnandloveitalian, **three are already banked and two
+are already queued.** Only *rompere le scatole* is unresolved, and it is unresolved for a
+reason that has nothing to do with this carousel.
+
+| Card | Status |
+|---|---|
+| Avere le mani bucate | **banked 0071, approved** (↔ *ser un manirroto*) |
+| Non sapere che pesce prendere | **banked 0073, approved** (↔ *no saber a qué carta quedarse*) |
+| Avere le fette di salame sugli occhi | **banked 0096, approved** (↔ *tener telarañas en los ojos*) |
+| Sudare sette camicie | queued **L297** (↔ *sudar la gota gorda*) |
+| Avere un diavolo per capello | queued **L164** (↔ *echar chispas*) |
+| Rompere le scatole | queued **L247** — ⚑ euphemism cluster, still undecided |
+
+An independent Tier A source and the bank agreeing on five of six is a real validation
+signal: the bank's selection instincts match what a native teacher picks for a calendar.
+It also means this particular carousel has little left to give. **Worth checking the
+remaining eight cards of the 14 against the bank before photographing more of it.**
+
+**The euphemism cluster is now blocking a Tier A card.** *Rompere le scatole* has been
+sitting at L247 since the cluster question was raised, and that question is still the
+same three options: pick ONE of the four as the euphemism entry and drop the rest; bank
+them as ordinary entries and let the euphemism go unremarked; or treat the pattern as
+the entry, which the schema has no shape for. This is the second batch in a row where
+new material has landed on it. **Recommend deciding it before the next intake.**
+
+### A — new, attested, worth researching
+
+| Italian | Spanish / sketch | Source | Note |
+|---|---|---|---|
+| Menare il can per l'aia | irse por las ramas | elena (C) | ⚑ **Best of this batch.** Both refuse to get to the point, and both picture it as going the wrong way round something. Italian walks a dog in circles on a threshing floor — a working image that stopped being legible when threshing floors went; Spanish climbs off the trunk into the branches. Elena's origin panel (oxen threshed, a dog doing it is pure useless wandering) is the explanation the card would need — **write it fresh, do not reuse her wording.** |
+| Conosco i miei polli | sé de qué pie cojea | elena (C) | ⚑ **Form correction before drafting.** The card gives the infinitive *conoscere i propri polli*; the living, attested form is first-person — **conosco i miei polli** — and that is how it is actually said. Same class of error as the book's *guardare* for banked 0022's *cercare*. Confirmed attested 2026-10-11. The ES sketch shifts the metaphor from livestock to a limp; check *conocer el paño* and MX alternatives before settling. |
+| Per me è arabo | está en chino / me suena a chino | kami (C) | ⚑ **Strong, and bigger than a pair.** Each language names a different language as the unintelligible one: Italian says Arabic, Spanish says Chinese, English says Greek. The card shows the IT↔EN half by accident; the ES↔IT axis is the one the bank wants. Confirm *está en chino* is the MX-current form (it is common there, but verify) and check whether Italian also has *per me è ostrogoto*, which would give a register ladder inside the Italian side alone. |
+
+### B — attested but needs a decision first
+
+| Italian | Issue |
+|---|---|
+| Avere la coda di paglia | Already queued at **L565** from the Consonni book, where the note already flags that ES *tener rabo de paja* exists in some varieties. Elena's card adds the origin (a fox with a straw tail keeping clear of fire) and an example. **No new row needed** — but this is now double-sourced, and the ES twin is close enough that it may be a near-freebie. Worth promoting in the queue. |
+| Ho fatto un casino / ho combinato un guaio | Collides with **L251** (*sono nei casini*), which already carries the register flag on *casino*. Same word, same problem. Resolve L251 first rather than adding a second row. |
+
+### C — the Latin set: one entry, not ten
+
+Ten of Tony's twelve cards are legible. Listed with the Italian rendering he gives and
+whether that rendering is a **living Italian expression** or **a translation made for the
+card** — which is the distinction that matters here:
+
+| Latin | Italian given | Living Italian? | Classical source cited |
+|---|---|---|---|
+| Carpe diem | Cogli l'attimo | **living** | Horace (implied) |
+| Dum spiro, spero | Finché c'è vita, c'è speranza | **living** — queued **L111** | — |
+| Facta, non verba | Contano i fatti, non le parole | **living** | — |
+| Audentes fortuna iuvat | La fortuna aiuta gli audaci / chi osa | **living** — proverb book **#81** | Virgil, *Aeneid* X (Turnus) |
+| Fortis fortuna iuvat | La fortuna aiuta i forti | marginal | Terence, *Phormio* |
+| Veni, vidi, vici | Venni, vidi, vinsi | translation — Italians say the Latin | Caesar, Zela 47 BC |
+| In hoc signo vinces | Con questo simbolo vincerai | translation — stays Latin | Constantine, Milvian Bridge 312 |
+| Per aspera ad astra | Superando le difficoltà, si arriva in alto | translation — stays Latin | Kansas motto (1861) |
+| Non ducor, duco | Non mi lascio guidare: sono io a guidare | translation — stays Latin | São Paulo arms (1917) |
+| Aut viam inveniam aut faciam | Un modo lo troverò, o lo creerò | translation — stays Latin | Seneca, *Hercules Furens* |
+
+**⚑ The pattern is the entry, and it is sharper than it first looked.** The Latin tags that
+went native in Italian are the ones that are *proverbs about ordinary life* — seize the
+day, where there's life there's hope, deeds not words, fortune favours the bold. The ones
+that stayed Latin are all *mottoes*: a battle standard, a general's dispatch, a city's
+coat of arms, a state seal. Italian absorbed the folk wisdom and left the heraldry in
+Latin.
+
+**And the same test can be run on Spanish, which is what makes it a bank entry rather
+than a trivia card.** Spanish nativized the same folk-wisdom tags — *mientras hay vida
+hay esperanza*, *obras son amores y no buenas razones*, *la fortuna favorece a los
+audaces* — and likewise keeps the mottoes in Latin. If that holds, the two languages
+made the *same* choice, and the interesting residue is where they differ: ***carpe diem*
+appears to be the standout, nativized in Italian as *cogli l'attimo* but normally left in
+Latin in Spanish.** One card, built on that asymmetry.
+
+**Verify before building:** (a) that *carpe diem* really is the ordinary Spanish form with
+no nativized twin; (b) that *cogli l'attimo* is as current in Italian as it appears;
+(c) that *contano i fatti, non le parole* is fixed rather than Tony's phrasing — the
+bare *fatti, non parole* is the better-attested form.
+
+⚑ **Correction, now settled.** The proverb-book row #81 (*La fortuna aiuta gli audaci*)
+says "both from Virgil's *audentes fortuna iuvat*." That was over-specific, and this
+carousel proves it from the inside: **Tony runs *Audentes Fortuna Iuvat* and *Fortis
+Fortuna Iuvat* as two separate cards with two different classical sources** — Virgil's
+*Aeneid* X and Terence's *Phormio*. Both tags are independently transmitted and Terence's
+is earlier. Verified 2026-10-11. The bridge note on #81 must not claim a single ancestor,
+and the two Italian renderings (*gli audaci* / *chi osa* vs *i forti* / *chi ha coraggio*)
+need a reviewer to say which is current.
+
+⚑ **New cluster forming around deeds-vs-words.** *Facta non verba* now joins proverb-book
+**#110** (*Dai fatti si conosce l'uomo*) and **#103** (*Dalle parole si conoscono gli
+stolti, dai fatti i saggi*), all three competing for the same Spanish anchor, *obras son
+amores y no buenas razones*. Three Italian expressions, one Spanish side. **Same shape as
+the euphemism cluster — decide once, before drafting any of them.**
+
+**Batch yield: 3 already banked · 4 already queued · 3 new and worth researching · 1 pattern
+entry to verify · 1 correction settled · 1 new cluster flagged.**
+
+---
+
+## @howtospanish — Mexican slang carousel (2026-10-13)
+
+**Tier C.** 7 of 9 cards legible. **None of the seven is in the bank or the queue** — this
+is the first batch in a while with no duplicates at all.
+
+⚑ **But read the queue direction before drafting any of them.** Measured against the
+repo's current `CANDIDATES.md`:
+
+| Unpaired rows | count |
+|---|---|
+| Italian expression waiting for a **Spanish** half | **48** |
+| Spanish expression waiting for an **Italian** half | **1** |
+
+The queue's gap is Spanish halves for *specific* Italian expressions already logged —
+mostly from the Consonni book. These seven are new **Spanish** expressions, each of which
+opens its own unpaired row needing an Italian half found from scratch. They do not fill
+the 48, and they are the hardest kind to pair: MX-pinned slang, where the Italian
+equivalent is usually a plain verb rather than an idiom.
+
+Combined with the 2026-10-11 audit finding — 102 finished cards blocked at native review,
+rotation at 2.9 cycles/year — **this batch is good material at low priority.** Log it,
+don't draft it yet.
+
+### The seven
+
+ES sides are from the cards. **Every Italian sketch below is Claude's, unverified, and
+carries the known error rate** — treat as a starting point for Stage 0, never as a pair.
+
+| Spanish (MX) | Literal | Means | Italian sketch — UNVERIFIED | Assessment |
+|---|---|---|---|---|
+| Se me fue el avión | the plane left me | brain checked out, missed it entirely | *sono andato in tilt* | ⚑ **Best of the batch.** Both are machine-age images for a mental blank: ES a plane departing without you, IT a pinball machine going *tilt* and freezing. Two 20th-century machines, same failure. If *andare in tilt* checks out this is a strong card. |
+| No te agüites | don't become watery | don't get discouraged | *non ti buttare giù* / *non ti abbattere* | ⚑ Good axis if it holds: ES **liquefies** under discouragement, IT **falls down**. Confirm *agüitarse* is current MX and not dated. |
+| Hazme un paro | make me a stop | I need a favour | *dammi una mano* | Workable: an opaque MX idiom against a transparent body idiom. The asymmetry (idiom vs plain phrase) may be the entry, or may make it too thin. |
+| Da el gatazo | it gives the "cat-ness" | passes as legit, convincing enough to fool | *fare la sua figura* | ⚑ **Collides with the figura cluster** — banked **0010**, queued **L186**, Consonni **#4** (*fare la figura del cioccolataio*). That cluster was already flagged "do NOT draft standalone — resolve the whole figura family first." This is a fourth member. |
+| Está bien perro | it's very dog | awesome **or** difficult, by context | *è tosto* | ⚑ The **valence flip is the entry**, not the dog. An intensifier that means both "great" and "brutal" depending on context is a real trap, and IT *tosto* swings similarly. Worth researching for that alone. |
+| Está con madre | it's with mother | it's freaking awesome | *è una figata* | ⚑ **Register.** A *madre* construction — the bank already carries a vulgar-register flag on 0005, 0008, 0026, 0068, 0105, and **0068** (*¡Madre mía!*, `draft`) is the adjacent card. The register-matched Italian is also vulgar-adjacent. Not exam-safe on either side. |
+| Que se arme | let it assemble itself | let's make it happen; enough talking | (none found) | Weakest. No Italian idiom found with the same shape; the natural IT is a plain exhortation. Likely unmatched. |
+
+### Two standing flags this batch touches
+
+**The `formality: ok_in_exam` shelf.** Two of the seven (*está con madre*, *está bien
+perro*) are not exam-safe, and a third (*hazme un paro*) is informal-only. The audit found
+only **2 difficulty-4 entries in 231** — the hard shelf is nearly empty — but hard is not
+the same as unshippable slang. These add to the colloquial pile, not the advanced one.
+
+**The figura cluster is now four.** *Da el gatazo* joins banked 0010, L186 and Consonni #4.
+That makes **three** unresolved clusters: euphemism (4 members), deeds-vs-words (3), figura
+(4). All three are one editorial sitting, no research, and all three now block draftable
+rows.
+
+---
+
+## @learnandloveitalian — slang calendar, 2nd series (2026-10-14)
+
+**Tier A** (the Italian reviewer's own account). 12 of 14 cards legible. **All twelve are
+new — no collisions with bank or queue.**
+
+⚑ **Correction to the 2026-10-11 entry above.** That section called the Tier A carousel
+"largely mined out" and suggested checking "the remaining eight cards of the 14." That was
+wrong in one respect: this account runs **more than one** 14-card month calendar. The
+October 11 series was idioms (*avere le mani bucate*, *sudare sette camicie*…); this is a
+separate series on contemporary spoken register. The idiom series is mined out; **the
+account is not.** Expect further series.
+
+### Why this batch is different from everything else in the queue
+
+The bank is 117 idioms, 46 collocations, 34 markers, 25 proverbs, 9 formulas — overwhelmingly
+*fixed figurative language*. These twelve are none of that. They are **contemporary spoken
+and texting register**: bare exclamations, clipped vocatives, one-word verdicts. Several
+cards are literally screenshots of WhatsApp threads.
+
+That is a layer the bank does not currently have, and arguably the layer a learner hits
+first in real conversation. It is also the layer that **dates fastest**, which creates a
+problem specific to this material and no other:
+
+**⚑ The rotation makes perishability a real risk.** `schedule.mjs` cycles at ~2.9×/year, so
+a card posted today reappears in roughly 127 days and again around 254. Slang current in
+October 2026 may read stale on its third showing. Two of these (*Top!*, *Che trash!*) are
+English borrowings, the most volatile category of all. **Before drafting any of them,
+decide whether this register gets a currency re-check interval** — the schema has
+`pin` / `pinWindow` / `season`, but nothing that says "re-verify this is still said."
+
+**Type decision needed first.** Are these `marker` or `formula`? `formula` was retired for
+v1 and then recovered (0070, 0100, 0110). Several here (*Adoro*, *Top*, *Palese*) are bare
+interjections rather than discourse markers. The answer changes how they hit the
+composition gates, and "discourse" is already the bank's largest theme at 24.
+
+### The twelve
+
+**Every Spanish sketch below is Claude's, unverified, with the known error rate.** MX forms
+proposed because the product's anchor is Mexican Spanish.
+
+| Italian | Card's gloss | Spanish sketch — UNVERIFIED | Assessment |
+|---|---|---|---|
+| Amo | Babe! Bestie! | *(see note)* | ⚑ **Best of the batch, and it is a false friend.** Italian *amo* here is a clipped vocative from *amore* — what you call a friend in a text. Spanish ***amo*** is a noun meaning **master / owner** (and the 1sg of *amar*). A Spanish speaker reading the card's own screenshot, "Ok amo," sees *"OK, master."* This is exactly the trap class the product exists for. The ES side is not a translation but a register equivalent — *amiga*, *reina*, MX *mija* — and picking it is a reviewer call. |
+| Che disagio! | So awkward! | ¡Qué oso! (MX) | ⚑ **Very strong.** Italian reaches for an **abstract noun** — *disagio*, discomfort, unease. Mexican Spanish reaches for a **bear**. Identical use, opposite levels of abstraction, and the MX form is vivid and unguessable. |
+| Anche meno! | Tone it down! | ¡Bájale! (MX) | ⚑ Strong. Italian understates — literally *"even less"*, a litotes used as a reprimand. Spanish gives a plain imperative, *lower it*. Indirection against directness, same job. |
+| Che sbatti! | What a hassle! | ¡Qué flojera! (MX) | ⚑ Good divergence: Italian names **the effort** (*sbatti*, the hassle itself); MX names **the reluctance to make it** (*flojera*, the laziness). Opposite ends of the same transaction. |
+| Palese! | Obviously! | ¡Obvio! (MX) | Both truncate an adjective into a standalone one-word verdict. Near-twin in behaviour, different word — a clean, low-risk card. |
+| Adoro! | I'm obsessed! | ¡Me encanta! | ⚑ Grammar asymmetry is the entry: Italian uses the bare verb **absolutely**, with no object and no pronoun — *Adoro.* Spanish cannot, and needs the dative construction *me encanta*. A Spanish speaker's instinct produces *"Adoro"* with an object, which is grammatical but not the interjection. |
+| Muoio! | I'm dying! (laughing) | ¡Me muero! | Near-twin, but ⚑ Italian drops the reflexive and Spanish keeps it. Small, real, and testable. |
+| Che ansia! | This is stressing me out! | ¡Qué estrés! (MX) | Workable. Italian uses the clinical-sounding *ansia* casually; check whether ES *ansiedad* can do the same or whether only *estrés* works. |
+| Ma anche no! | Yeah… absolutely not! | ¡Pues no! / MX *nel* | Sarcastic refusal. The Italian's force comes from *ma anche* (but also) used ironically — hard to reproduce. May end up an asymmetry entry. |
+| Mai una gioia! | Can't catch a break! | *(no fixed ES twin found)* | Attested and very current in Italian. No fixed Spanish equivalent came to mind; MX would likely use a full clause. Possible Unmatched entry. |
+| Top! | Perfect! Amazing! | ¡Chido! / ¡Padre! (MX) | ⚑ **English borrowing.** The interesting fact is that Italian borrowed *top* as a bare adjective while Mexican Spanish reached for its own slang. That contrast is the card — but it is also the most perishable item here. |
+| Che trash! | That's so tacky! | ¡Qué naco! (MX) | ⚑ Same borrowing pattern, and the MX equivalent carries a **class connotation** (*naco* is loaded in a way *trash* is not quite). **Register and sensitivity check before drafting** — this one could land badly. |
+
+### What to do with it
+
+1. **Settle the type and the currency policy first.** Both are one decision, no research,
+   and both affect all twelve.
+2. **Draft *Amo* first** regardless of what else happens — it is a genuine false friend,
+   it is Tier A on the Italian side, and it does not depend on the slang question, because
+   the Spanish *amo* = master collision is permanent.
+3. *Che disagio*, *Anche meno*, *Che sbatti* next — all three have vivid MX counterparts.
+4. Hold *Top!* and *Che trash!* until the currency policy exists. *Che trash* additionally
+   needs the *naco* sensitivity call.
+
+**Batch yield: 12 new · 1 false friend · 4 strong divergences · 2 held on perishability ·
+1 likely unmatched.**
+
+---
+
+## @easyspanishwithivanna — Mexican expressions carousel (2026-10-14)
+
+**Tier C.** 7 of 9 cards legible. **1 already queued, 6 new.**
+
+⚑ **Source label.** Instagram marks two of these cards **"AI content"** and one "From
+Spanish culture" — the platform's own generated-imagery labels. That concerns the artwork,
+not necessarily the language, but after the proverb book it is worth stating the rule
+plainly: **a card's confident layout is not evidence.** Every row below still needs a
+dictionary.
+
+### ⚑ One card independently confirms yesterday's sketch
+
+Yesterday I proposed, unverified, that *Che disagio!* pairs with MX **¡Qué oso!**. This
+carousel — an independent Mexican-Spanish source — carries ***¡Qué oso!*** with exactly
+that gloss: *"What a bear!" → How embarrassing!*, example *"Me caí enfrente de todos."*
+
+That is one sketch confirmed from outside. Given the one-in-three error rate recorded in
+this file, it is worth logging as calibration data, not as proof: **confirmation of the
+Spanish side is not confirmation of the pairing.** The IT↔ES bridge still needs a reviewer.
+
+### ⚑ The euphemism cluster is not an Italian quirk — Spanish does it too
+
+**¡No manches!** is already queued at **L249** (↔ *Ma dai*), where the note reads
+"register care (softened *no mames*)". That is the same move the cluster is built on: a
+harmless word standing in for a coarse one.
+
+Which means the cluster now looks like this:
+
+| Language | Euphemism | Stands in for |
+|---|---|---|
+| IT | non capirci un **tubo** | anatomical — banked 0310 |
+| IT | non capire un **cavolo** | *cazzo* |
+| IT | **rompere** / **girare** le **scatole** | *coglioni* — L247 |
+| **ES** | **¡no manches!** | ***¡no mames!*** — L249 |
+
+**This materially changes the decision that has been pending for three batches.** Treated
+as four Italian expressions, the cluster was a duplication problem — four cards teaching
+one lesson. Treated as a *shared strategy both languages use*, it is a single strong
+bridge: both Spanish and Italian soften a vulgar expression by swapping in an innocuous
+noun, and a learner needs to recognise the move in both directions. **That is one card,
+and a good one** — and it resolves the "schema has no shape for it" objection, because it
+is now an ordinary ES↔IT pair (*no manches* ↔ one of the Italian four) whose bridge
+happens to be about euphemism itself.
+
+Recommend: draft ***¡No manches!* ↔ *non capire un cavolo*** (or whichever Italian member
+the reviewer prefers) as the euphemism entry, and retire the other three Italian members
+to Unmatched rather than banking them separately.
+
+### A — new, worth researching
+
+**Italian sketches are Claude's and unverified unless marked otherwise.**
+
+| Spanish (MX) | Literal | Means | Italian sketch | Assessment |
+|---|---|---|---|---|
+| ¡Me da cosa! | it gives me a thing | it makes me uncomfortable | *mi fa senso* | ⚑ **This one opened a better entry than itself — see below.** Both languages name the feeling with a deliberately vague noun: ES *cosa* (a thing), IT *senso* (a sense). ⚑ But the **strength differs** — *me da cosa* is squeamish unease; *mi fa senso* is closer to revulsion. Confirm the match before pairing, or pick *mi mette a disagio* instead. |
+| ¡Aguas! | waters! | watch out! | *Occhio!* | ⚑ **Strong and clean.** Both are a single shouted noun used as a warning: Mexico shouts **waters**, Italy shouts **eye**. Neither is guessable from the other, both are everyday, and the grammar is identical (bare noun as interjection). Note *occhio* is already in banked 0003 in a different idiom — check saturation, but the interjection is a separate use. |
+| ¡Qué padre! | what a father! | that's so cool | *Che figata!* (register flag) | ⚑ **False friend, and part of an MX family.** Spanish *padre* as "cool" has no Italian counterpart — *padre* in Italian is only the parent, so a Spanish speaker's "che padre" is nonsense in Italian. Note also that MX uses **both** *padre* and *madre* as intensifiers (cf. *está con madre*, logged 2026-10-13), which is a pattern worth one card rather than two. The register-matched Italian (*che figata*) is vulgar-adjacent; *che forte* is the safe form. |
+| ¿Qué onda? | what wave? | what's up? | *Come butta?* / *Che si dice?* | Workable but thin. ES has a vivid noun (*onda*), Italian's casual equivalents are verb-based. The asymmetry may be the entry; otherwise low priority. |
+| ¡Está cañón! | it's a cannon | it's really difficult | *è tosto* | ⚑ **Collides with the 2026-10-13 batch.** *Está bien perro* was logged two days ago with the same Italian sketch (*è tosto*) and the note that it means "awesome **or** difficult by context". *Está cañón* is the difficulty-only sibling. **Two MX intensifiers, one Italian anchor — this is a new cluster forming.** Decide which MX form anchors before drafting either. |
+| ¡Qué oso! | what a bear! | how embarrassing | *Che disagio!* | Logged 2026-10-14 from the Italian side. ⚑ Now double-sourced — Italian from Tier A, Spanish from this Tier C card. **The strongest draft candidate across both batches.** Still needs a reviewer on the bridge. |
+
+### ⚑ The real find: *avere senso* vs *fare senso*
+
+Chasing the Italian for *me da cosa* surfaced something better, and it is confirmed:
+Italian distinguishes
+
+- ***avere senso*** = to make sense
+- ***fare senso*** = to disgust, to revolt
+
+These are a single-verb apart and mean completely different things, and the confusion is
+common enough that Italian-teaching sources run explicit lessons on it ("how to say *it
+makes sense* — and avoid saying *it's gross* by accident"). Verified 2026-10-14.
+
+**Spanish makes this trap worse, not better.** Spanish has ***tener sentido*** = to make
+sense — built with *tener*, the cognate of *avere*. So a Spanish speaker mapping
+*tener sentido* → *avere senso* lands correctly, but the neighbouring *fare senso* sits
+one verb away meaning something they would never intend. The interference runs in exactly
+the direction the product cares about.
+
+**Recommend drafting this as its own entry**, independent of *me da cosa*. It is a
+grammar-shaped trap with a cognate anchor, both sides are dictionary-checkable, and it is
+the kind of card that is useful at B1 rather than being slang that dates.
+
+**Batch yield: 1 already queued · 6 new · 1 sketch confirmed from outside · 1 cluster
+reframed (euphemism) · 1 new cluster flagged (MX intensifiers) · 1 strong new entry found
+off-card (*avere/fare senso*).**
+
+---
+
+## @anyways.experiences — "What Italians really say" (2026-10-24)
+
+**Tier C.** 5 of 7 cards legible. **3 new · 2 already logged from another account.**
+
+⚑ **Source-quality note.** Three proofreading errors across five cards — *"fristrated"*,
+*"funy"*, *"embarassing"*. Doesn't make the Italian wrong, but it's the same signal the
+proverb book gave: no editorial pass happened. Dictionary check still required on every
+row below.
+
+### ⚑ Two cards are now double-sourced — and that partly answers the perishability worry
+
+***Muoio!*** and ***Ma anche no!*** both appear in the @learnandloveitalian slang calendar
+logged 2026-10-14. Two independent Italian accounts, ten days apart, teaching the same
+items.
+
+That matters for the open **currency question** raised in that section. The worry was that
+contemporary slang might be one creator's idiolect, or already fading. Independent
+double-sourcing raises confidence that these are genuinely current. **It does not settle
+whether they will still be current on the third rotation pass (~254 days out)** — that
+still needs the re-check policy — but it moves *Muoio* and *Ma anche no* to the front of
+the slang set.
+
+*Ma anche no* also gains a better gloss here: the card renders it *"I'd rather not" /
+"not really" / "yeah, no thanks"*, which is more useful than the calendar's *"Yeah…
+absolutely not!"* and closer to how the sarcasm actually lands.
+
+### A — new rows
+
+**Italian confirmed where stated; Spanish sketches are Claude's and unverified.**
+
+| Italian | Literal | Means | Spanish sketch | Assessment |
+|---|---|---|---|---|
+| Fra / Bro | brother | dude, mate | *carnal* / *compa* / *bro* (MX) | ⚑ **Strongest here, and it completes a cluster.** Italian clips a kinship term into a vocative — *fratello → fra* — exactly as it does with *amore → amo* (logged 2026-10-14). **Mexican Spanish does both the same things:** it clips kinship (*compadre → compa*) and reaches for blood (*carnal*, literally "of the flesh"). **And both languages have separately imported English *bro*.** That is three parallel moves on one card: clipping, kinship-as-friendship, and the same English borrowing. Bank this as the vocative entry and let *Amo* be the false-friend entry — they are different lessons. |
+| Sclero / sclerare | — | to lose it, freak out, get overwhelmed | *me saca de quicio* / MX *me estresa* | ⚑ **Interesting origin, and it needs a sensitivity call.** *Sclerare* is **youth slang** (confirmed — it is catalogued under *linguaggio giovanile*) built on the medical root *scler-*, from *sclerosi*. Italian turned a disease name into an everyday word for frustration. That derivation is the entry — but it is also the risk: **the bank should decide whether a condition-derived slang term ships**, the same call already standing on vulgar-register entries. Also an **age-register flag**: youth slang, not neutral colloquial. |
+| Un sacco | a sack / a bag | a lot, very much | *un montón* / MX *un chorro* | ⚑ **Check saturation first — *sacco* is getting crowded.** Already banked at **0043** (*con le mani nel sacco*) and queued at **L96** (*vaciar el costal ↔ vuotare il sacco*). This would be a third. The quantifier sense is genuinely different from both, and the pairing is decent — Italian measures with a **sack**, MX with a **stream** (*chorro*), Peninsular with a **pile** (*montón*) — but three *sacco* cards in one bank is a composition question. Note also this appeared on the @kamithepolyglot card of 2026-10-11 (*"Ho un sacco di cose da fare"*), so it is double-sourced too. |
+
+### Where this leaves the contemporary-register set
+
+Across three batches (2026-10-14 slang calendar, 2026-10-13 howtospanish, this one) there
+is now a coherent **vocative and intensifier layer** that the bank entirely lacks:
+
+- **Vocatives:** IT *amo*, *fra*, *bro* ↔ MX *carnal*, *compa*, *mija*, *bro*
+- **Intensifiers:** IT *un sacco*, *top* ↔ MX *un chorro*, *está cañón*, *está bien perro*
+- **Reactions:** IT *muoio*, *che ansia*, *sclero*, *che disagio* ↔ MX *qué oso*, *me da cosa*
+
+**This is probably two or three entries, not fifteen.** Each row above teaches the same
+structural point as its neighbours, which is the duplication problem the euphemism cluster
+already raised. Recommend grouping before drafting: one vocative card, one intensifier
+card, one reaction card — each picking the sharpest pair and letting the rest go to
+Unmatched.
+
+**Batch yield: 3 new · 2 double-sourced confirmations · 1 sensitivity flag (*sclero*) ·
+1 saturation flag (*sacco* ×3) · 1 grouping recommendation.**
+
+---
+
+## @learnandloveitalian — discourse expressions carousel (2026-10-27)
+
+**Tier A** (the Italian reviewer's own account). 5 of 7 cards legible. **1 already banked,
+4 new.**
+
+⚑ **This is the durable register, and it is worth more than the slang.** Same account as
+the 2026-10-14 slang calendar, but the opposite kind of material: *ci mancherebbe*,
+*tanto vale*, *non c'entra* are B1–B2 workhorse discourse items that have been current for
+decades and will not date. **Consequence for the currency policy proposed on 10-14: it
+has to be per-entry, not per-source.** This account produces both perishable and durable
+material in the same format, so a blanket "re-check anything from Instagram" rule would
+either over-police these or under-police the slang.
+
+### Already banked
+
+***Ne vale la pena*** → **0035** (`approved`), *Valer la pena ↔ Valere la pena*. The card
+adds nothing: 0035 is built on exactly the feature the card shows, the partitive **ne**,
+and its example is literally *"Ne vale la pena."* Its bridge already explains that Spanish
+has no counterpart for *ne* and that Spanish speakers drop it. **No action.**
+
+### A — new, all four worth drafting
+
+**Italian is Tier A; Spanish sketches are Claude's and unverified.**
+
+| Italian | Means | Spanish sketch | Assessment |
+|---|---|---|---|
+| Ci mancherebbe altro! | Of course! / Don't mention it! — also: absolutely not! | ¡Faltaba más! | ⚑ **Best of the batch, and close to a perfect entry.** Same verb (*mancare* / *faltar*, to lack), same structure, same literal sense ("more would be lacking"), **and the same dual polarity** — both languages use it to wave away thanks *and* to refuse something flatly, with context deciding. **The trap is the mood: Italian takes the conditional (*mancherebbe*), Spanish the imperfect (*faltaba*).** A Spanish speaker reasoning from *faltaba* produces *"ci mancava altro"* — which is real Italian but means something else (a complaint: "that's all we needed"). Cognate idiom, divergent tense, live interference both directions. |
+| Tanto vale… | Might as well… | *ya que…, mejor* / MX *de una vez* | ⚑ **False friend against a form the bank already teaches.** Italian *tanto vale* = resigned convenience ("might as well"). Spanish ***más vale*** = prudent warning ("better to"). Same verb, same quantifier-plus-*vale* shape, **opposite stance** — one shrugs, the other cautions. This is sharpened by the fact that *más vale* is already established in the bank at **0052** (*más vale pájaro en mano*) and queued again in the Ready list (*más vale prevenir que lamentar*). ⚑ Spanish has no tidy one-phrase equivalent for *tanto vale*, so the ES side needs the reviewer. |
+| Non c'entra niente! | It has nothing to do with it! | No tiene nada que ver | ⚑ **Strong divergence on an awkward verb.** Italian uses ***entrarci*** — a pronominal verb that barely exists outside this construction, literally "to enter into it". Spanish reaches for **seeing**: *nada que ver*. Entering against seeing, for the same denial. *Entrarci* has no clean Spanish analogue and is exactly the kind of construction a Spanish speaker never produces unprompted. |
+| A questo punto… | At this point / given the circumstances | A estas alturas / llegados a este punto | ⚑ Both mark a moment in a process with a spatial metaphor, but in **different dimensions**: Italian fixes a **point** on a line; Spanish (*a estas alturas*) climbs to a **height**, and pluralises it. Note Spanish also has the closer calque *llegados a este punto* — **the reviewer should pick which ES form anchors**, because the card is only interesting if the ES side is *alturas*. |
+
+### Composition note
+
+All four are `marker`-shaped. The bank already holds **34 markers** and "discourse" is its
+**largest theme at 24**, so these push the most crowded category. That is worth accepting
+here rather than elsewhere: unlike the slang batch, these are high-frequency, durable, and
+three of the four carry a real trap (mood, false friend, pronominal verb). **If anything
+gets cut for composition balance, cut from the slang set, not this one.**
+
+**Batch yield: 1 already banked · 4 new, all draftable · 3 carrying genuine traps · 1
+policy correction (currency must be per-entry, not per-source).**
+
+---
+
+## @learnandloveitalian — idiom carousel (2026-10-29)
+
+**Tier A.** 5 of 7 cards legible. **1 variant of a banked entry · 2 euphemism-cluster
+members · 2 new.**
+
+### ⚑ The euphemism cluster is now Tier A-confirmed and should be decided
+
+Two of the four cluster members appear in this single carousel — ***non capisci un
+cavolo*** (L683) and ***non rompere le scatole*** (L247) — and the *cavolo* card states
+the mechanism in its own words:
+
+> "*Cavolo* (cabbage) is a mild substitute for a swear word, used to make the expression
+> less vulgar."
+
+That is the Italian reviewer's own account teaching the substitution explicitly. **The
+cluster has been pending since August across six batches; this is the source authority it
+was waiting for.** Recommend closing it now: one euphemism entry, the rest to Unmatched.
+
+⚑ **Correction to my 2026-10-14 note.** In the @easyspanishwithivanna section I presented
+"the euphemism cluster is not an Italian quirk — Spanish does it too" as a new finding.
+**It was already in the queue.** L247's note has read, since the original Instagram
+intake: *"BOTH languages use a mild euphemism standing in for a vulgar original — a
+register entry about euphemism itself."* What was actually new on 10-14 was identifying
+***no manches*** as a specific Spanish member; the general insight was logged months
+earlier. The recommendation stands, but it was not mine.
+
+### ⚑ One card is a variant of a banked entry, not a new one
+
+***Avere il prosciutto sugli occhi*** matches banked **0096** (`approved`) —
+*Avere le fette di salame sugli occhi ↔ Tener telarañas en los ojos*. Same construction,
+same meaning, **different cured meat**.
+
+Do not draft it. But it is worth a line in 0096's notes: Italian carries at least two
+charcuterie variants of this idiom (*salame*, *prosciutto*), while the Spanish side reaches
+for **cobwebs** — so the ES↔IT asymmetry 0096 teaches is wider than one pairing suggests.
+A reviewer could say which Italian form is more current.
+
+### A — new, both strong, and both need the card corrected first
+
+| Italian | Card says | Spanish sketch | Assessment |
+|---|---|---|---|
+| Fare le corna | "to cheat on someone" | Poner los cuernos | ⚑ **Strong card, but the source conflates two senses.** *Fare le corna* is primarily the **apotropaic gesture** — the horn sign made to ward off bad luck or the *malocchio* — which is exactly what the card's hand image shows. The cuckoldry sense is normally *fare le corna **a** qualcuno* or *mettere le corna*. So the card pairs the protective-gesture image with the cheating gloss. **The real entry is better than the card:** both languages use horns for cuckoldry (*poner los cuernos* ↔ *mettere le corna*), but the **gesture diverges** — in Italy the sign is mainly protective, while making horns at someone in Spanish-speaking contexts accuses them of being cuckolded. Same symbol, opposite function. Confirm both with the reviewers before drafting. |
+| Ma che faccia tosta! | "What a toasted face!" / How shameless | ¡Qué cara dura! | ⚑ **Near-exact twin — and the card's literal gloss is wrong.** *Tosto/tosta* is the ordinary Italian adjective for **hard, tough** (verified). It descends from Latin *tostus*, roasted → hardened, so "toasted" is the etymological ancestor, **not the modern sense** — and the card's toast image teaches the folk reading. Against Spanish ***cara dura***, the pair is near-exact on the real sense: both call a shameless person **hard-faced**. Write the literal gloss as *hard face*, and the *tostus* history belongs in the bridge, where it is genuinely interesting, not in the gloss. |
+
+### ⚑ Pattern worth naming: Tier A is reliable on usage, not on etymology
+
+This is the **second Tier A card this month with a content error**. The first was
+*conoscere i propri polli* (2026-10-14), where the citation form was given in the
+infinitive when the living form is first-person *conosco i miei polli*. Now *faccia tosta*
+is glossed from a folk etymology, and *fare le corna* is paired with the wrong image.
+
+None of these makes the account a bad source — **what Italians actually say is exactly what
+Tier A is for**, and this carousel supplied the euphemism confirmation that six batches of
+Tier B and C could not. But the standing rule should be stated: **take the expression from
+Tier A, take the gloss and the etymology from a dictionary.** That is already how the
+process treats Tier B and C; it applies here too.
+
+**Batch yield: 1 variant (note on 0096, do not draft) · 2 cluster members, now Tier
+A-confirmed · 2 new and strong, both needing the card's own gloss corrected · 1 correction
+to my earlier claim · 1 source-handling rule.**
+
+---
+
+## @howtospanish — three MX carousels (2026-10-29 intake; posts 2026-07-22, 07-28, and same-day)
+
+**Tier C.** 17 cards. **1 already logged · 16 new.** Largest single intake since the
+proverb book, and the yield is better than the 2026-10-13 batch from the same account
+because several of these have real Italian partners rather than needing one invented.
+
+### ⚑ A second sketch confirmed from an outside source
+
+On 2026-10-11 I proposed, unverified, *Per me è arabo* ↔ MX ***está en chino***, with the
+note *"confirm this is the MX-current form (it is common there, but verify)."* Carousel B
+carries ***ESTÁ EN CHINO*** with the gloss *"impossible to understand."*
+
+**That is the second sketch confirmed by an independent Mexican source** (the first was
+*¡Qué oso!* on 10-14). Same caveat as then: the Spanish side being right is not the
+pairing being right. But the three-language chain — Italian says **Arabic**, Spanish says
+**Chinese**, English says **Greek** — now has both halves sourced, and it remains the
+strongest unbuilt card in the queue.
+
+### A — the ones worth drafting
+
+**Spanish is from the cards; Italian sketches are Claude's unless marked verified.**
+
+| Spanish (MX) | Literal | Means | Italian | Assessment |
+|---|---|---|---|---|
+| Ya me cayó el veinte | the twenty-centavo coin dropped | it finally clicked | *mi si è accesa la lampadina* | ⚑ **Best of the batch.** The *veinte* is the coin you fed a Mexican payphone — the call connected when it dropped (origin documented; Condusef has catalogued the coin-derived phrases). So Spanish dates its "aha" to the **telephone**, and Italian to the **lightbulb**. Two technologies, two eras, same instant of understanding. English "the penny dropped" shares the Spanish mechanism, which makes the Italian the odd one out — a genuinely good bridge. |
+| Hierba mala nunca muere | bad weed never dies | the awful survive everything | **L'erba cattiva non muore mai** (verified) | ⚑ **Near-exact twin, and a proverb rather than slang** — so it dodges the whole currency question. Attested on both sides, including a Sicilian variant (*la mala erba non mori mai*). The only work is the bridge: both languages blame the *weed*, so the entry has to find its interest in register or in who it gets said about. Low risk, quick draft. |
+| No me toques ese son | don't play me that tune | don't bring that up | *non toccare quel tasto* | ⚑ **Strong — both musical, different instruments.** Spanish names a **son** (a song form); Italian names a **key** on a keyboard. Same prohibition, same music metaphor, neither guessable from the other. |
+| Andas en la luna | you're on the moon | spaced out, distracted | *avere la testa fra le nuvole* | ⚑ Good: Spanish sends you to the **moon**, Italian only as far as the **clouds**. ⚑ **But check saturation — *luna* is taken.** Banked **0093** is *Avere la luna storta ↔ Tener mal templada la guitarra*, where *luna* carries **mood**. Two *luna* entries with two different senses need the reviewer to confirm they don't confuse each other. |
+| Se me subió el muerto | the dead climbed on me | sleep paralysis | *(no idiom — Italian says* paralisi del sonno*)* | ⚑ **The asymmetry is the entry**, and it is the same shape as the Latin-nativization finding: Mexico has a **folk image** for the experience, Italy reaches for the **clinical term**. Not a health claim — it names a folk belief about a known phenomenon — but worth a reviewer's eye on how the card frames it. |
+| Se puso hasta las chanclas | he got as far as the sandals | blind drunk | *ubriaco fradicio* | ⚑ Nice axis: Spanish measures drunkenness by **how far down it reached**; Italian by **saturation** (*fradicio* = soaked through). Depth against wetness. |
+| Ando bien crudo | I'm very raw | hungover | *(no vivid IT idiom)* | Spanish has the image, Italian has only *i postumi* (the after-effects). Another asymmetry entry if the ES is drafted. |
+| Estuvo equis | it was X | meh, mid | *niente di che* | ⚑ Spanish marks indifference with a **letter of the alphabet** — unusual and modern. Italian's equivalent is a plain phrase. Thin, but the X is genuinely odd enough to carry a card. |
+| No hagas un pancho | don't make a *pancho* | don't make a scene | *non fare storie* / *una scenata* | Spanish builds the idiom on a **proper name**; Italian on the plain noun. Worth checking whether the *Pancho* etymology is documented before leaning on it. |
+| Eres bien fresa | you're very strawberry | posh, snobby | *(register-matched IT needed)* | MX picks a **fruit** for class pretension. The Italian equivalents all carry their own class baggage — reviewer call. |
+| Me dio el avión | gave me the airplane | humoured me and ignored me | *(unresolved)* | ⚑ See the *avión* note below. |
+| Ando filoso | I'm sharp | sassy, on edge today | *(unresolved)* | Niche. Low priority. |
+
+### ⚑ Three findings that matter more than the individual rows
+
+**1. Mexico has two different *avión* idioms, and the queue now holds both.**
+*Me dio el avión* (he humoured me and ignored me) is **not** *se me fue el avión* (my brain
+checked out), logged 2026-10-13. Same noun, unrelated meanings, both MX-current. That is
+a Spanish-internal minimal pair — interesting, but **a disambiguation risk if both are
+drafted**: a subscriber meeting one card has no way to know the other exists, under the
+no-cross-reference rule. **Pick one.**
+
+**2. The euphemism cluster gains a second Spanish member.**
+***Me vale gorro*** is the softened form of the vulgar *me vale madres* — the same
+substitution move as *no manches* for *no mames* (L249). So the Spanish side of that
+cluster is now **two documented members**, matching the four on the Italian side. Combined
+with the Tier A confirmation from 10-29 (*cavolo* card stating the mechanism outright),
+**the euphemism entry now has sourced members on both sides and should be drafted.**
+
+**3. Sensitivity flag: *es un mandilón*.**
+"Apron man" — a man mocked for deferring to his wife or doing domestic work; the card's own
+gloss is "simp". The Italian counterpart (*essere sotto la scarpa*) carries the same
+gendered freight. This belongs with the standing flags on *naco*, *quedarse para vestir
+santos*, and *la botte piena e la moglie ubriaca* (L567). **Do not draft without an
+explicit call.**
+
+### Composition warning
+
+Sixteen new Spanish-first rows in one batch, on top of the 7 from 10-13 and 6 from 10-14.
+**That is ~29 new MX colloquialisms in under three weeks**, against a bank whose
+`formality: ok_in_exam` shelf is the paid tier's spine and whose difficulty-4 shelf holds
+**two entries in 231**. Almost none of this material is exam-safe or advanced. It is good
+material and it should be logged — but **the gap it fills is the one the bank is least
+short of.**
+
+**Batch yield: 16 new · 1 sketch confirmed externally · 1 verified freebie proverb
+(*hierba mala*) · 1 strong new card (*me cayó el veinte*) · euphemism cluster now
+double-sourced on the Spanish side · 1 sensitivity flag · 1 disambiguation decision
+(*avión* ×2) · 1 saturation check (*luna* ×2).**
+
+---
+
+## @learnandloveitalian — exclamations calendar, 3rd series (2026-11-11)
+
+**Tier A.** 12 of 14 cards legible. **2 already banked · 1 queued · 1 cross-series
+duplicate · 8 new.**
+
+⚑ **This is the account's third 14-card month calendar.** Idioms (2026-10-11), spoken
+slang (2026-10-14), now exclamations — plus the discourse carousel (10-27) and the idiom
+carousel (10-29). Five distinct series in a month. The 10-11 note calling this account
+"largely mined out" has now been wrong twice; treat it as a standing recurring source.
+
+### Already covered — no action
+
+| Card | Where |
+|---|---|
+| Mi cadono le braccia! | **banked 0087** (`approved`) — *Cadere le braccia ↔ Caérsele a uno las alas del corazón*. Its own example is *"gli sono cadute le braccia."* Exact. |
+| Ma io boh! | **banked 0069** (`approved`) — *Boh ↔ ¡Sepa!* — but see the note below. |
+| Ma che cavolo! | queued **L683** — euphemism cluster. |
+| Anche meno! | **cross-series duplicate** — already logged 2026-10-14 from this account's slang calendar. |
+
+⚑ **0069 needs a variant note, not a new card.** The bank holds bare ***Boh*** = *I don't
+know*. The card gives ***Ma io boh!*** and glosses it **"I just can't!"** — exasperation,
+not ignorance. That is a real sense shift carried by the *ma io* frame, and a learner who
+has met 0069 would read the exclamation wrongly. Worth a line in 0069's notes for the
+reviewer to confirm or reject; not worth a second entry under the no-cross-reference rule.
+
+### A — new, worth drafting
+
+**Spanish sketches are Claude's and unverified.**
+
+| Italian | Literal | Means | Spanish sketch | Assessment |
+|---|---|---|---|---|
+| Siamo alla frutta! | we're at the fruit | we've hit rock bottom | *estamos en las últimas* | ⚑ **Best of the batch.** Italian dates the end of things to **the last course of a meal** — the fruit comes after everything else, so being "at the fruit" is being at the end of what there is. Spanish counts down anonymously (*las últimas*). A culture that measures a situation by where it has got to in dinner is the whole card, and it needs no trap to earn its place. |
+| Ma chi me l'ha fatto fare?! | but who made me do it? | why did I even bother? | *¿quién me mandó?* | ⚑ **Near-exact rhetorical twin.** Both languages express self-reproach by inventing an instigator and demanding to know who it was — and both use a verb of *ordering* (*far fare* / *mandar*). Same move, same grammar, independently arrived at. Check whether MX prefers *¿quién me manda?* in the present. |
+| Manco morto/a! | not even dead | not in a million years | *¡ni muerto!* | Near twin, both refusing via death. ⚑ **Two checks before drafting.** *Manco* is a colloquial regional variant of *nemmeno* — confirm it is neutral enough to ship. And **the card prints the slash form, *morto/a***, which runs against the precedent set on **0034**, where the Italian text was deliberately left as *"Sono appena arrivato"* rather than showing agreement. Same decision applies here. |
+| Mi sale il crimine! | crime is rising in me | I'm about to lose it | *(no ES equivalent found)* | ⚑ Vivid and distinctly modern — Italian names the impulse to commit a crime as a thing that *rises* in you. No Spanish counterpart came to mind; likely an asymmetry entry. ⚑ **Currency flag:** this reads as recent slang, so it belongs with the perishability question raised on 10-14, not with the durable material. |
+| Ma roba da matti! | but stuff of madmen | this is insane | *¡esto es de locos!* | Near twin, both routing outrage through madness. Thin but clean. |
+| Non esiste proprio! | it really doesn't exist | absolutely no way | *¡ni hablar!* / *¡ni de broma!* | Italian refuses by **denying the thing's existence**; Spanish by refusing to *discuss* it or by calling it a joke. Different route to the same flat no. |
+| Adesso basta! | that's enough now | that's enough | *¡ya basta!* | Exact twin including the adverb slot (*adesso*/*ya*). Freebie — thin bridge, but a clean A2 card. |
+| Non me ne può fregare di meno! | I couldn't care less | — | MX *me vale gorro* | ⚑ **Both halves are euphemisms — see below.** |
+
+### ⚑ The euphemism cluster gains its best candidate pair
+
+*Non me ne può fregare di meno* is built on ***fregare***, which is itself the softened
+stand-in for a coarser verb. The Mexican expression logged on 2026-10-29,
+***me vale gorro***, is the softened form of *me vale madres*.
+
+So this is a pair in which **both sides are euphemisms for the same sentiment in their own
+language** — not one language's quirk observed from outside, but the same move performed
+twice, independently, for the same phrase. Every earlier cluster member had a euphemism on
+one side and a plain expression on the other.
+
+That makes it a stronger candidate for **the** euphemism entry than *no manches ↔ non
+capire un cavolo*, which was the 10-29 recommendation. **Both should go to the reviewers
+together and let them pick** — the question is which pair a native would reach for first,
+and that is exactly a Stage 3 question.
+
+**Batch yield: 2 banked · 1 queued · 1 cross-series duplicate · 8 new · 1 variant note on
+0069 · 1 agreement decision inherited from 0034 · 1 upgraded candidate for the euphemism
+entry.**
+
+---
+
+## @learnandloveitalian — connectors carousel (2026-11-12)
+
+**Tier A.** 4 of 7 cards legible. **1 already banked · 1 saturated against a banked entry ·
+2 clear to draft.**
+
+Sixth distinct series from this account in five weeks, and the same durable discourse
+register as the 2026-10-27 carousel — not the perishable slang layer.
+
+### Already covered
+
+***Per caso*** → **banked 0229** (`approved`), *Por casualidad ↔ per caso*. Fully covered,
+and the examples nearly collide: 0229 uses *"Hai visto per caso le mie chiavi?"*, the card
+uses *"Hai una penna, per caso?"* — same frame, same slot. **No action.**
+
+### ⚑ *Sotto sotto* is saturated — the reduplication lesson is already banked
+
+The obvious card for *sotto sotto* is that **Italian doubles a word to make an adverb** and
+Spanish does not. But that is precisely what **banked 0046** (`approved`) already teaches:
+
+> *Piano piano ↔ Despacito* — "Italian softens by SAYING IT TWICE (piano piano —
+> reduplication), Spanish by SHRINKING THE WORD (despacio becomes despacito, the
+> diminutive)."
+
+Under the no-cross-reference rule a *sotto sotto* card would have to explain Italian
+reduplication from scratch, teaching the same structural point a second time. **Same
+problem as the euphemism cluster, in a different corner of the grammar.**
+
+⚑ **There is a thinner card still available, if you want it.** Spanish answers Italian
+reduplication **differently each time**: with a *diminutive* against *piano piano*, and
+with a *noun phrase* (*en el fondo*, "at the bottom") against *sotto sotto*. So the
+Spanish side is the variable one, not the Italian. That is a real observation but a
+subtle one, and it is the opposite of how 0046 is framed. **Recommend: hold, and decide
+alongside the other saturation calls rather than drafting it on its own.**
+
+### A — clear to draft
+
+**Spanish sketches are Claude's and unverified.**
+
+| Italian | Means | Spanish sketch | Assessment |
+|---|---|---|---|
+| Tra l'altro | by the way / besides | *por cierto* | ⚑ **Better of the two, and it carries a production trap.** The two languages justify the aside on completely different grounds. Italian is **partitive** — *tra l'altro*, "among the other [things]" — framing the new remark as already belonging to the set under discussion. Spanish *por cierto* is etymologically "for certain" and has drifted into the same job from the opposite direction: an assertion of certainty, not of membership. ⚑ **The trap:** the tempting Spanish calque, *entre otras cosas*, is literally "among other things" and does **not** work as a topic-shifter — a Spanish speaker reasoning from the Italian will produce it and be misread. Confirm *por cierto* is the MX-current connector before drafting. |
+| Nel frattempo | meanwhile | *mientras tanto* / *entretanto* | Both languages fuse a preposition to a second element to build the same connector, and pick different elements: Italian fuses *fra* + *tempo* and names **time** outright; Spanish fuses *entre* + *tanto* and names **quantity**. Clean, modest, no trap. ⚑ Worth asking the reviewer which of *mientras tanto* and *entretanto* is current in MX — they are not equally common, and the one-word form is the structural parallel to the Italian. |
+
+### Standing note
+
+Across six series this account has now supplied material that is **already banked or
+saturated about half the time** — 2 of 4 here, 4 of 12 on 2026-11-11, 5 of 6 on
+2026-10-11. That is a good sign about the bank's coverage of this register rather than a
+problem with the source, but it is worth running the lookup before photographing a whole
+carousel.
+
+**Batch yield: 1 banked · 1 saturated (hold) · 2 clear to draft · 1 production trap worth
+the card (*entre otras cosas*).**
+
+---
+
+## Single card — *Con un ojo al gato y otro al garabato* (2026-11-17)
+
+**Tier C** (Instagram, Mexican Spanish). **New — no match in bank or queue.**
+
+### ⚑ The etymology is the entry, and it is better than the card's gloss
+
+A ***garabato*** is a **meat hook**. In kitchens before refrigeration, meat hung from an
+overhead hook to keep it away from rodents — and the household cat was the other threat
+to it. So the saying is literally *one eye on the cat, one eye on the meat*: two threats
+to the same thing, coming from different directions, both needing watching at once.
+
+That is a sharper sense than the card's English suggests. The card reads as generic
+divided attention ("one eye on the cat and the other on the scribble" — *garabato* also
+means scribble, which is why the gloss drifts). The attested sense is **vigilance against
+more than one danger**, not multitasking. **Draft the vigilance sense, and do not use
+"scribble" in the literal gloss** — it is a real meaning of the word but the wrong one
+here, and it makes the image incoherent.
+
+### ⚑ No Italian partner found — and I checked the one I expected
+
+I went in expecting ***un occhio alla padella e uno alla gatta***, which would have been
+an extraordinary pair: same two eyes, same cat, same kitchen. **It did not verify.**
+Nothing in Italian proverb collections carries it, and I am not confident it exists.
+Recorded here so the guess is not quietly reused as a finding later.
+
+What Italian does have nearby, and why none of it fits:
+
+| Italian | Why it is not the pair |
+|---|---|
+| *Tenere d'occhio* | Plain verb phrase — "keep an eye on". Carries the vigilance but names nothing, so there is no image to put against the Spanish. |
+| *Salvar la capra e i cavoli* | Goat and cabbages — about finding a solution that satisfies two competing demands, not about watching two threats. Different job. |
+| *Mettere troppa carne al fuoco* | Too much meat on the fire — overcommitting, taking on more than you can handle. ⚑ Note it is also a **kitchen-and-meat** image, which makes it tempting, but the meaning is wrong: that is doing too much, not watching carefully. |
+
+**So this is an Unmatched / asymmetry candidate.** Spanish names the two things being
+watched and builds a whole pre-refrigeration kitchen out of it; Italian expresses the same
+alertness with a bare verb. That gap is a legitimate entry on its own terms — the bank has
+taken this shape before (*a tavola non si invecchia*, where Spanish has a noun and no
+proverb) — but it needs the editorial call on whether Unmatched entries ship.
+
+⚑ **One pairing worth testing with the reviewer, if the sense is allowed to flex.** If the
+MX usage in practice leans toward *juggling two things* rather than *guarding against two
+threats*, then *mettere troppa carne al fuoco* becomes arguable. The Mexican source is
+clear that the original sense is threat-watching, so **the reviewer should say which sense
+a Mexican speaker actually reaches for today** — that single answer decides whether this
+is a pair or an Unmatched.
+
+### Saturation note
+
+*Gato* is accumulating on the Spanish side: queued **L591** (*non dire gatto se non ce
+l'hai nel sacco ↔ no vender la piel del oso*), *da el gatazo* logged 2026-10-14, now this.
+Three cat rows, none banked yet. Worth deciding which one carries the cat before any of
+them is drafted.
+
+**Yield: 1 new · etymology corrects the card's own gloss · 1 expected Italian pair
+disconfirmed · likely Unmatched pending one reviewer question · 1 saturation flag (*gato*
+×3).**
+
+---
+
+## Spanish idiom list, 14 expressions (2026-11-21)
+
+Supplied as text with Italian halves mostly attached. **1 already banked · 1 already
+queued · 12 new.**
+
+### ⚑ Dialect pass needed before any of these is drafted
+
+Six of the fourteen are markedly **Peninsular**, not Mexican: *tirar los tejos*,
+*a buenas horas, mangas verdes* (historical, from the Santa Hermandad), *hacer el agosto*,
+*estar como una cuba*, *hablar por los codos*, *pedir peras al olmo*. The bank's anchor is
+Mexican Spanish, and entries **0024, 0026 and 0112** have already been corrected once for
+Peninsular bias in the `regions` field.
+
+**Recommend running the whole list past the Spanish reviewer for MX currency before
+drafting any of it**, rather than drafting and correcting afterwards. *A buenas horas,
+mangas verdes* in particular is tied to a 15th-century Castilian militia and may not read
+at all in Mexico.
+
+### Already covered
+
+| Expression | Where |
+|---|---|
+| El mundo es un pañuelo ↔ Il mondo è piccolo | **banked 0104** (`draft`) — exact match, same Italian. No new row; it needs finishing, not re-adding. |
+| De tal palo, tal astilla | queued **L286** — but paired there with ***Tale madre tale figlia***, not the *tale padre tale figlio* given here. ⚑ Two Italian forms for one Spanish anchor; the reviewer should pick, and the choice has a gender dimension worth a deliberate call. |
+
+### ⚑ One supplied Italian half is wrong — and the real one is better
+
+***Agarrarse a un clavo ardiendo*** is given as *aggrapparsi a un filo di paglia*. **That
+is not an Italian idiom** — it is a literal rendering of the English "clutch at straws."
+The attested Italian is ***arrampicarsi sugli specchi*** — "to climb up mirrors" (verified;
+Italian dictionaries and teaching sources carry it under exactly this sense).
+
+And it makes a far better card than the calque would have:
+
+> Spanish grabs a **red-hot nail** — something you cannot hold because it burns.
+> Italian climbs **mirrors** — something you cannot hold because there is nothing to grip.
+> Two different impossibilities, same desperation.
+
+Same failure mode as the proverb book: an English idiom translated into Italian and
+presented as Italian. ⚑ **Worth asking where this list came from** — if the other Italian
+halves share a source, they each need the same check.
+
+### ⚑ One pairing is plausible but the images do not match
+
+***Pedir peras al olmo*** ↔ *chiedere la luna*. Both mean asking the impossible, but they
+are impossible in **different ways**, and the bridge has to say so or the card teaches a
+false equivalence:
+
+- Spanish is a **category error** — an elm cannot produce pears, so you are asking the
+  wrong *source*. The thing asked for exists; this supplier cannot provide it.
+- Italian is a **distance problem** — the moon is real and singular, just out of reach.
+
+That difference is the entry, and it is a good one. But no Italian idiom with the elm's
+*wrong-source* logic surfaced, so confirm *chiedere la luna* is what a native would reach
+for here before drafting.
+
+### A — the rest, clear to draft pending the dialect pass
+
+| Spanish | Italian (as given) | Note |
+|---|---|---|
+| Dios los cría y ellos se juntan | Dio li fa e poi li accoppia | ⚑ **Strong, and it supersedes an earlier sketch.** On 2026-10-11 I proposed this Spanish as the partner for proverb-book #27 (*Chi si assomiglia si piglia*). This Italian is much closer: **both invoke God as the agent** — Spanish has Him raise them and leaves the joining to them, Italian has Him make them *and* pair them. ⚑ But that now makes two Italian candidates for one Spanish anchor. Reviewer picks; recommend this one. |
+| No tener ni pies ni cabeza | Non avere né capo né coda | ⚑ Near-exact, and the mismatch is the card: Spanish denies **feet and head**, Italian denies **head and tail**. Both use the body to mean "no coherent shape", and each picks a different end to be missing. Clean, cheap, good. |
+| A la tercera va la vencida | La terza è quella buona | Near twin. Spanish names the *victory* (*la vencida*); Italian just calls the third one *good*. Small but real. |
+| Estar como una cuba | Essere ubriaco fradicio | ⚑ Spanish measures drunkenness by a **barrel**, Italian by **saturation** (*fradicio* = soaked through). Note this collides with the 2026-10-29 row *se puso hasta las chanclas ↔ ubriaco fradicio* — **two Spanish forms competing for the same Italian**. Pick one. |
+| Salir el tiro por la culata | Ritorcersi contro | Spanish is vivid (the shot comes out of the gun's **butt**); the Italian given is a plain reflexive verb. Asymmetry rather than a pair — check whether Italian has something with an image. |
+| Tirar los tejos | Fare il filo a qualcuno | Both are oblique courtship metaphors — Spanish throws *tejos* (discs, from a tossing game), Italian spins a *thread*. ⚑ Peninsular; MX would say *tirar la onda* or *echar los perros*. Confirm before anchoring. |
+| Ponerse las pilas | Darsi una mossa | ⚑ Spanish puts **batteries** in, Italian gives itself a **shove** — electrical against mechanical. Current in MX as well as Spain, so this is one of the safer rows. |
+| Hacer el agosto | Fare affari d'oro | Spanish names a **month** (the August harvest); Italian names **gold**. Season against metal. Peninsular-leaning — confirm. |
+| Hablar por los codos | *(none given)* | Spanish talks "through the elbows". Italian's usual equivalents (*parlare a raffica*, *non stare mai zitto*) are plain, so likely an asymmetry entry. |
+| A buenas horas, mangas verdes | *(none given)* | ⚑ Historical and strongly Peninsular — the green sleeves were the Santa Hermandad's, always arriving after the crime. Hard to pair and possibly unreadable in MX. Lowest priority. |
+
+**Yield: 1 banked · 1 queued · 12 new · 1 Italian half disconfirmed and replaced · 1
+pairing needing a semantic caveat · 1 earlier sketch superseded · 2 new collisions
+(*ubriaco fradicio* ×2, *tale padre/madre*) · dialect pass required on 6.**
+
+---
+
+## Spanish idiom list, 15 more (2026-11-21, second batch)
+
+English glosses only, no Italian supplied. **2 already banked · 1 queued · 12 new.**
+
+### Already covered
+
+| Expression | Where |
+|---|---|
+| Dar la cara | **banked 0112** (`approved`) ↔ *Pagare di persona* — "Spanish shows the face; Italian pays the bill." |
+| El hábito no hace al monje | **banked 0299** (`needs_review`) ↔ *L'abito non fa il monaco*. ⚑ This is the *hábito/abito* false friend — the one the proverb book walked straight into on 2026-10-29 by glossing the Italian as being about *habits*. |
+| Cortar el bacalao | queued **L70** — but paired there with ***comandare / essere il capo***, which are plain verbs, not an idiom. The row still needs an Italian **image** found; as it stands it is an asymmetry, not a pair. |
+
+### ⚑ *Cara o cruz* saturates against a banked entry
+
+*Cara o cruz* ↔ *testa o croce* is a near-twin with one swap: Spanish calls it **face**,
+Italian calls it **head**. Lovely — except **banked 0003** already teaches exactly that
+swap: *Costar un ojo de la cara ↔ Costare un occhio della testa*, whose bridge is about
+Spanish reaching for the face where Italian reaches for the head.
+
+Under the no-cross-reference rule a *cara o cruz* card would have to establish the
+cara/testa pattern from scratch, teaching 0003's lesson a second time. **Same shape as the
+*piano piano* / *sotto sotto* saturation flagged on 2026-11-12.** Hold it with those.
+
+(The coin is still interesting — Spanish and Italian both keep the **cross**, while English
+abandoned it for *tails*. But that is a three-language observation and the bank is a
+two-language product.)
+
+### A — new, worth drafting
+
+**Italian sketches are Claude's and unverified unless marked.**
+
+| Spanish | Italian sketch | Assessment |
+|---|---|---|
+| Cría cuervos y te sacarán los ojos | *allevare una serpe in seno* | ⚑ **Best of the batch.** Both warn that what you nurture will turn on you, and each picks a different creature and a different wound: Spanish raises **ravens** that take your **eyes**; Italian warms a **snake** at the **breast**. The Italian family is attested (*allevare / scaldare una serpe in seno*, *nutrire una vipera in seno*) — ⚑ reviewer picks the form. Real divergence, no overlap with anything banked. |
+| Borrón y cuenta nueva | *voltare pagina* | ⚑ Good: Spanish is **bookkeeping** — blot the entry, open a new account; Italian is **reading** — turn the page. Ledger against book, same fresh start. |
+| De perdidos, al río | *o la va o la spacca* | Both commit once things are already bad. Spanish throws itself in the river; Italian says it either goes or it breaks. Peninsular — confirm MX currency. |
+| A palabras necias, oídos sordos | *(unresolved)* | Attested and proverbial on the Spanish side. No fixed Italian equivalent came to mind; likely an asymmetry entry. |
+| Cruza los dedos | *incrociare le dita* | Exact twin, same gesture, same verb. Freebie — thin, but A2-clean and both cultures share the superstition. |
+| Darlo todo | *darci dentro* | Both plain-ish intensifiers. Low priority. |
+| Corta el rollo | *piantala* / *smettila* | Spanish has the image (*rollo* = the roll, the spiel); Italian is a bare imperative. Peninsular. |
+| Casarse de penalti | *matrimonio riparatore* | ⚑ Spanish borrows from **football** — married on a penalty. Italian's term is legal-sounding and flat. Vivid, but the concept is loaded and the Italian carries no equivalent wink. Peninsular; register call needed. |
+| A otra cosa, mariposa | *(no rhyming IT twin)* | ⚑ **Rhyme asymmetry — and this is now a pattern worth one card of its own.** The queue already holds *chi si loda s'imbroda* (L-row from the proverb book) and *l'amore non è bello se non è litigarello*, both Italian rhymes with no Spanish twin. This is the reverse: a Spanish rhyme (*cosa/mariposa*) with no Italian one. **Three rows all saying "this language rhymes here and the other doesn't."** Decide once whether rhyme itself is an entry, rather than drafting three thin ones. |
+| Dejarse la piel | *farsi in quattro* | ⚑ **Collides with L297** (*sudar la gota gorda ↔ sudare sette camicie*), which already covers extreme effort. Two Spanish forms, adjacent Italian ones — pick one before drafting. |
+| Disfrutar como un enano | — | ⚑ **Sensitivity call before anything else.** *Enano* is the word for a person with dwarfism. This belongs with the standing flags on *naco* (10-14), *mandilón* (10-29) and *la botte piena e la moglie ubriaca* (L567). Also Peninsular. Do not draft without an explicit decision. |
+
+### ⚑ The dialect problem is now systemic across both lists
+
+Across the two lists sent today — 29 expressions — roughly **eleven are markedly
+Peninsular**: *tirar los tejos*, *a buenas horas mangas verdes*, *hacer el agosto*,
+*estar como una cuba*, *pedir peras al olmo*, *hablar por los codos*, *casarse de penalti*,
+*cortar el bacalao*, *disfrutar como un enano*, *de perdidos al río*, *corta el rollo*.
+
+That is over a third, from a bank whose anchor is Mexican and which has already been
+corrected once for Peninsular bias (0024, 0026, 0112). **Recommend one dialect pass over
+both lists with the Spanish reviewer before drafting any of it** — it is a single ask that
+prevents ~11 corrections later.
+
+**Yield: 2 banked · 1 queued (still needs an Italian image) · 12 new · 1 saturation flag
+(*cara o cruz* vs 0003) · 1 collision (*dejarse la piel* vs L297) · 1 sensitivity flag
+(*enano*) · 1 pattern to decide once (rhyme asymmetry, 3 rows).**
+
+---
+
+## Spanish idiom list, 15 more (2026-11-21, third batch)
+
+**1 queued ×2 · 12 new · and one entry answers an open question on a banked card.**
+
+### ⚑ This list answers 0319's standing question — the entry should be rebuilt
+
+**0319** (*Ir como un tiro ↔ Andare come un treno*, `needs_review`) carries this in its own
+notes, written at draft time:
+
+> "I claim … (b) Spanish *estar como un tren* means attractive, not fast. **If (b) is
+> right it is a genuine false friend and the entry should probably be rebuilt around it**
+> rather than around speed … BOTH REVIEWERS: please confirm or correct, and if (b) holds,
+> flag whether the ES form is *estar como un tren* (Peninsular) and whether it is current
+> in MX at all."
+
+This list supplies: ***Estar como un tren — look gorgeous / stunning***.
+
+**That confirms (b) from an independent source, and confirms the predicted form.** So the
+false friend is real: ***como un tren*** means **attractive** in Spanish while ***come un
+treno*** means **fast** in Italian. By 0319's own instruction, the entry should be rebuilt
+around that rather than around the *tiro/treno* imagery split.
+
+⚑ **Two parts of the question are still open, and one of them is decisive:**
+
+1. **Claim (a) is still unconfirmed** — that Italian *va come un treno* said of a person
+   can be a coarse physical compliment. Nothing here touches it. Italian reviewer.
+2. **MX currency is still unknown.** This list is Peninsular throughout, which is exactly
+   what the note predicted. If *estar como un tren* is Spain-only, rebuilding 0319 around
+   it fights the Mexican anchor, and the note already anticipated that: *"the entry may
+   need a different ES anchor for a Mexican audience."* **Ask the Spanish reviewer this
+   one question before rebuilding.**
+
+### Already queued
+
+| Expression | Where |
+|---|---|
+| Estar de mala leche | **L292** ↔ *avere la luna storta* — and already tagged *(Peninsular)* at source. ⚑ Third "bad mood" row, with *estoy de malas* (2026-10-29) and banked **0093**, which already uses *avere la luna storta*. Two Spanish forms, one Italian. Pick one. |
+| Está para chuparse los dedos | **L311** ↔ *leccarsi i baffi* — fingers vs moustache, already logged. |
+
+### A — new, worth drafting
+
+| Spanish | Italian sketch (unverified) | Assessment |
+|---|---|---|
+| Hablando del rey de Roma, por la puerta asoma | *parli del diavolo e spuntano le corna* | ⚑ **Best of the batch, and the irony is the card.** Both summon someone by naming them, and pick opposite figures: Spanish invokes the **King of Rome**, Italian invokes the **devil**. ⚑ The Spanish proverb names Rome and the Italian one does not — a detail worth the bridge on its own. Spanish also rhymes (*Roma/asoma*); Italian doesn't. |
+| Hecha la ley, hecha la trampa | *fatta la legge, trovato l'inganno* | ⚑ Near-exact, down to the paired participles. One real difference: Spanish **makes** the loophole (*hecha*), Italian **finds** it (*trovato*) — invention against discovery, which is a nice small moral distinction. |
+| Es el último grito | *l'ultimo grido* | Exact cognate twin — both call the latest fashion "the last shout." Freebie, but a satisfying one. |
+| Estar como un flan | *tremare come una foglia* | ⚑ Spanish wobbles like a **dessert**, Italian trembles like a **leaf**. Kitchen against nature, same nerves. |
+| Estar pez | *essere una capra* | ⚑ Both use an animal for ignorance — Spanish a **fish**, Italian a **goat**. But ⚑ **saturation: banked 0024 is *Estar como pez en el agua ↔ Essere un pesce fuor d'acqua***, which already runs the fish on both sides. A third *pez* row needs a deliberate call. |
+| Hacer la pelota | *leccare i piedi* | Spanish makes a **ball**, Italian **licks feet**. Note the Italian is harsher in register than the Spanish — flag for the reviewer. |
+| Enrollarse como una persiana | *essere un fiume in piena* | Spanish rolls out like a **window blind**, Italian floods like a **river**. Both for someone who won't stop. |
+| Estar para mojar pan | — | ⚑ Third "attractive" item in this list alone, with *estar como un tren* and (loosely) *chuparse los dedos*. The bank has none; three at once is a composition question, and two of them are food-based. |
+| Está chupado | *è una passeggiata* | Easy task. Spanish "it's sucked", Italian "it's a walk". Modest. |
+| Estar en la onda | — | ⚑ Collides with MX *¿qué onda?*, logged 2026-10-14. Same *onda*, different idiom — check they don't confuse each other. |
+| Entre broma y broma, la verdad asoma | *(no rhyming IT twin)* | ⚑ **Fourth rhyme row.** With *a otra cosa mariposa*, *chi si loda s'imbroda* and *l'amore non è bello se non è litigarello*. The rhyme-asymmetry decision is now overdue — four thin rows or one real card. |
+| Ir como pollo sin cabeza | *(check for calque)* | ⚑ The Spanish is well established, but the obvious Italian (*come un pollo senza testa*) looks like a rendering of the English "headless chicken". **Verify before pairing** — same failure mode as *aggrapparsi a un filo di paglia* in the first list. |
+
+### Running dialect tally
+
+Three lists today, **44 expressions**, of which roughly **sixteen are markedly Peninsular**
+— this batch adding *estar de mala leche* (tagged Peninsular at source), *estar como un
+tren*, *hacer la pelota*, *está chupado*, *estar pez*, *enrollarse como una persiana*. The
+single dialect pass recommended on the first list now covers all three.
+
+**Yield: 2 queued · 12 new · 1 banked entry unblocked (0319, rebuild pending one MX
+question) · 1 saturation (*pez* vs 0024) · 2 collisions (*mala leche*, *onda*) · 1 calque
+to verify · rhyme decision now 4 rows deep.**
+
+---
+
+## Spanish idiom list, 15 more (2026-11-21, fourth batch)
+
+**1 duplicate of a pending row · 2 saturate against banked entries · 5 are not idioms ·
+7 worth drafting.**
+
+### ⚑ Five of these are not idioms
+
+*Depende de ti* ("it's up to you"), *lo primero es lo primero*, *hacer la vida imposible*,
+*como si estuvieras en tu casa* — all ordinary, fully transparent phrases that a learner
+composes rather than memorises. They have no trap, no image and no bridge.
+
+⚑ ***Desvelar un secreto* is the worst of them**, because the gloss hides the problem:
+it is given as *"let the cat out of the bag"*, but **the Spanish is not an idiom at all** —
+*desvelar un secreto* is literally "reveal a secret." The English idiom has been attached
+to a plain Spanish phrase. The real Spanish idioms for that sense are ***irse de la
+lengua*** or ***descubrir el pastel***, and either would make a genuine card. Worth the
+same caution the earlier list earned with *aggrapparsi a un filo di paglia*: **the glosses
+on this list are doing work the Spanish does not do.**
+
+### Already logged / saturated
+
+| Expression | Status |
+|---|---|
+| Mala hierba nunca muere | ⚑ **Already logged 2026-10-29** as *hierba mala nunca muere*, with the Italian **verified**: *L'erba cattiva non muore mai* (incl. the Sicilian *la mala erba non mori mai*). Word-order variant only — the reviewer should say which order is standard in MX. No new row. |
+| Cuesta un riñón | ⚑ **Saturates against banked 0003** (*Costar un ojo de la cara ↔ Costare un occhio della testa*). Verified: Italian has **no** *costare un rene* — it routes back to the eye, which 0003 already banks. ⚑ The real observation is a footnote for 0003, not a card: **Spanish prices things in two body parts (eye, kidney), Italian in one.** |
+| Baja de las nubes | ⚑ **Banked 0001** is *Estar en las nubes ↔ Avere la testa tra le nuvole*; this is its imperative. Third cloud-and-distraction row, with *andas en la luna* (2026-10-29). Decide which carries the clouds. |
+| Marear la perdiz | ⚑ **Third "beat around the bush."** *Menare il can per l'aia* (IT) and *irse por las ramas* (ES) were both logged 2026-10-11. Two Spanish forms, one Italian — pick one. |
+
+### A — worth drafting
+
+| Spanish | Italian sketch (unverified) | Assessment |
+|---|---|---|
+| Liarse la manta a la cabeza | *(no close IT found)* | ⚑ **Best of the batch.** Wrapping the blanket round your head and going anyway — reckless commitment, and completely opaque from outside. Italian's equivalents (*buttarsi*, *fare il grande passo*) are plain verbs with no image. Strong asymmetry candidate. |
+| A vivir, que son dos días | *si vive una volta sola* | ⚑ Nice axis: Spanish counts the **days** ("it's only two"), Italian counts the **lives** ("you only live once"). Same urgency, different arithmetic. ⚑ Connects to the Latin-nativization finding of 2026-10-11 — Italian turned *carpe diem* into *cogli l'attimo* while Spanish mostly kept the Latin. Worth deciding whether that is one theme or several cards. |
+| Más fresco que una lechuga | *fresco come una rosa* | ⚑ **Draft this one, not the rose.** This list also offers *despertarse como una rosa*, which is the near-twin of the Italian and therefore a freebie. The **lettuce** is the divergence: Spanish has two freshness similes, one of which Italian shares and one it does not. Pairing lettuce against rose is the card; pairing rose against rose is not. |
+| Ir de flor en flor | *essere un farfallone* | Spanish moves **flower to flower**, Italian calls the person a **big butterfly** — the Spanish names the behaviour, the Italian names the man. ⚑ Note Spanish reaches for a butterfly too, in *a otra cosa, mariposa* (third list) — two butterfly rows now. |
+| Más feliz que un regaliz | *(no rhyming IT twin)* | ⚑ **Fifth rhyme row** (*feliz/regaliz*). With *entre broma y broma*, *a otra cosa mariposa*, *chi si loda s'imbroda*, *l'amore non è bello se non è litigarello*. **Five thin rows now ride on one undecided question.** |
+| Despertarse como una rosa | *fresco come una rosa* | Near-exact twin. Freebie — hold behind the lettuce above. |
+| Desvelar un secreto → *irse de la lengua* | *farsi scappare* / *vuotare il sacco* | ⚑ If the Spanish is replaced with a real idiom (see above), this becomes draftable. *Irse de la lengua* — "the tongue gets away from you" — against Italian *vuotare il sacco*, "empty the bag", which is ⚑ **already queued at L96** (*vaciar el costal ↔ vuotare il sacco*). Check that collision first. |
+
+### Running tally across all four lists today
+
+**59 expressions.** Roughly **sixteen markedly Peninsular**, **five non-idioms**, **five
+rhyme rows**, and at least **seven collisions or saturations** with banked or queued
+material (*cara o cruz*/0003, *cuesta un riñón*/0003, *baja de las nubes*/0001,
+*estar pez*/0024, *dejarse la piel*/L297, *estar de mala leche*/0093, *marear la
+perdiz*/10-11).
+
+⚑ That hit rate — roughly a third of everything sent today already covered, saturated or
+not an idiom — suggests **running the lookup over a list before sending it** would save
+more time than it costs. The tool takes a plain-text list on stdin.
+
+**Yield: 7 draftable · 1 duplicate · 3 saturations · 5 not idioms · 1 gloss error worth
+fixing into a real entry (*irse de la lengua*).**
+
+---
+
+## Spanish idiom list, 15 more (2026-11-21, fifth batch)
+
+**4 are variants of queued rows · 1 pair contradicts itself · 10 new.**
+
+### ⚑ Two entries on this list are inverses of each other, and one is labelled a "variant"
+
+> *Más vale malo conocido que bueno por conocer* — better the devil you know
+> *Mejor bueno conocido que malo por conocer* — **"variant of the 'devil you know' one above"**
+
+They are not variants. They say **opposite things**: the first prefers the bad you know,
+the second prefers the good you know. The attested Spanish proverb is the **first** —
+*más vale malo conocido* — and the second is its deliberate inversion, a form that
+circulates as a rhetorical exercise in flipping proverbs rather than as a saying in its
+own right.
+
+⚑ **This is the same failure the proverb book produced** with *amore vecchio non fa buon
+brodo* (10-30), where an inverted proverb sat in the same collection as the real one.
+**Draft only *más vale malo conocido*, and do not treat the second line as a regional or
+stylistic variant.**
+
+### ⚑ *Me suena a chino* — the Oct 11 chain is now complete
+
+This is the **third independent confirmation** of the sketch made on 2026-10-11: *Per me è
+arabo* ↔ Spanish *chino*. The Mexican form *está en chino* was confirmed 2026-10-29; the
+Peninsular form *me suena a chino* arrives here. **Both Spanish variants are now sourced.**
+
+And this list's own gloss supplies the third leg: *"it sounds **Greek** to me."* So the
+full chain is documented from outside — **Italian says Arabic, Spanish says Chinese,
+English says Greek.** Each language picks a different language to be the unintelligible
+one. ⚑ The card is ES↔IT, but the English gloss is a legitimate aside in the bridge since
+subscribers read English.
+
+This has been the strongest unbuilt card in the queue since 11 October. It is now fully
+sourced on both sides, with a regional variant for each.
+
+### ⚑ *No hay tu tía* — the Spanish is a misunderstanding of itself
+
+Verified against **RAE's *Diccionario panhispánico de dudas***: the phrase is not about
+anyone's aunt. It is ***no hay tutía*** — *tutía* (also *atutía*) was a **zinc-oxide
+medicinal ointment**, so the saying means *there is no remedy*. The spelling *tu tía* is a
+folk reanalysis that stuck after the ointment went out of use.
+
+That makes an unusual card: a Spanish idiom whose literal reading is wrong **in Spanish**,
+not just in translation. The bank has nothing of that shape. Italian equivalent
+(*non c'è niente da fare*) is plain, so it is likely an asymmetry entry where the
+etymology carries it.
+
+### Variants of rows already queued
+
+| This list | Queued as | Note |
+|---|---|---|
+| Más vale prevenir que **curar** | **L212** — *Más vale prevenir que lamentar ↔ prevenire è meglio che curare* | ⚑ **This list's Spanish is the better half.** L212 pairs *lamentar* with Italian *curare*; the *curar* form given here matches the Italian exactly. Worth swapping. |
+| Mejor tarde que nunca | **L308** — *más vale tarde que nunca* | *mejor* / *más vale* variant. |
+| Nadar entre dos aguas | **L276** — *Estar entre dos aguas* | *nadar* / *estar* variant. L276's Italian is *essere in mezzo al guado*; ⚑ *tenere il piede in due scarpe* may be the closer pair — ES swims between two waters, IT stands in two shoes. |
+| Mejor solo/a que mal acompañado/a | pending proverb-book row **#142** (logged 2026-10-30) — *Meglio solo che male accompagnato* | *mejor* / *más vale* variant again. |
+
+### A — new, worth drafting
+
+| Spanish | Italian sketch (unverified) | Assessment |
+|---|---|---|
+| Perder el norte | *perdere la bussola* | ⚑ Strong: Spanish loses **the north**, Italian loses **the compass** — the direction itself against the instrument that finds it. ⚑ Note the *perder/perdere* family is filling up: **L100** is *perder los estribos ↔ perdere le staffe*. Different meaning, same verb pair — check they read distinctly. |
+| No dar tu brazo a torcer | *non darla vinta* | Spanish refuses to let its **arm be twisted**; Italian just refuses to concede. Spanish has the image, Italian the abstraction. |
+| No estoy católico/a | *non mi sento in forma* | ⚑ Spanish borrows **religious** vocabulary for ordinary ill health — "I'm not catholic" meaning "I'm off-colour." No Italian counterpart does this. ⚑ Religion is already the bank's joint-largest theme at 16 with a standing saturation warning on the *santo* cluster; this is a different use of religious register, but count it. |
+| Me importa tres pepinos | *non me ne importa un fico secco* | ⚑ **Third "couldn't care less"**, after *me vale gorro* (10-29) and *non me ne può fregare di meno* (11-11). But this one may be the best pair of the three: both languages dismiss by **naming a worthless food item and counting it** — three cucumbers against a dried fig. Decide the three together. |
+| Montar un pollo | *fare una scenata* | ⚑ **Second "make a scene"**, after *no hagas un pancho* (10-29). Also ⚑ second *pollo*, with *ir como pollo sin cabeza* (third list). Two collisions on one row. |
+| Me pone enfermo/a | *mi fa venire il nervoso* | Thin — close to transparent on both sides. |
+| No hay tanto pan para tanto chorizo | — | ⚑ Peninsular, and it carries a **pun**: *chorizo* in Spain is also slang for a thief. The saying is about too many grasping hands, not just scarcity. Hard to pair and the pun will not survive; low priority. |
+
+### Running tally, five lists
+
+**74 expressions today.** Across them: ~16 markedly Peninsular, 5 non-idioms, 5 rhyme
+rows, 2 inverted or mislabelled proverbs, and ~11 collisions or saturations against banked
+or queued material.
+
+**Yield: 10 new · 4 variants of queued rows (1 of which improves L212) · 1 inverted
+proverb to discard · 1 chain completed (*chino*) · 1 RAE-verified etymology (*tutía*) ·
+2 new collisions.**
+
+---
+
+## Spanish idiom list, 15 more (2026-11-21, sixth batch)
+
+**1 already banked · 3 already queued · 2 are not idioms · 9 new.**
+
+⚑ **Highest already-logged rate of the six lists** — and two of the hits were exactly the
+pairings I would have proposed, already sitting in the queue with the same Italian.
+
+### Already covered
+
+| Expression | Where |
+|---|---|
+| Que sea lo que Dios quiera | **banked 0293** (`needs_review`) ↔ *Che Dio ce la mandi buona*. |
+| Perder los estribos | queued **L100** ↔ *perdere le staffe* — noted there as a near-exact twin (both lose the **stirrups**). |
+| Ser más raro que un perro verde | queued **L290** ↔ *Raro come una mosca bianca*. ⚑ The pairing is as good as it looks: both reach for an **impossibly coloured animal** — a green dog against a white fly — and neither is guessable from the other. Already logged; nothing to add. |
+| Ser un gallina | queued **L314** ↔ *Sei un coniglio* — coward as **hen** against coward as **rabbit**. |
+
+### ⚑ Spanish's hen does two jobs Italian splits between two animals
+
+This list contains both ***ser un gallina*** (coward) and ***tener la piel de gallina***
+(goosebumps). Against Italian:
+
+| Sense | Spanish | Italian |
+|---|---|---|
+| coward | *gallina* — **hen** | *coniglio* — **rabbit** (L314) |
+| goosebumps | *piel de gallina* — **hen** skin | *pelle d'oca* — **goose** skin |
+
+**Spanish uses one bird for both; Italian uses two different animals, neither of them the
+hen.** That is a cleaner observation than either row alone, and it is the kind of thing
+the bank is for. ⚑ But under the no-cross-reference rule it cannot be said across two
+cards — so either *piel de gallina* is drafted as its own entry (hen vs goose, which is
+also the English split) and the coward row stays at L314 separately, or the two are
+decided together. **Worth one editorial minute.**
+
+### A — new, worth drafting
+
+| Spanish | Italian sketch (unverified) | Assessment |
+|---|---|---|
+| Te falta un verano | *ti manca una rotella* | ⚑ **Best of the batch.** Both say someone is missing a part, and pick from completely different worlds: Spanish is missing a **season**, Italian a **little wheel**. Time against machinery for the same madness. ⚑ Check against banked **0002** (*estar como una cabra ↔ essere fuori come un balcone*), which already covers "crazy" — this is a different mechanism (something absent, not something odd), but confirm they read distinctly. |
+| Tener la piel de gallina | *avere la pelle d'oca* | ⚑ Near-twin with one swap: Spanish's **hen**, Italian's **goose**. English sides with Italian, which makes the Spanish the odd one out — a useful note for an English-reading subscriber. See the hen table above before drafting. |
+| Pillar el truco | *prenderci la mano* | Spanish **catches the trick**, Italian **gets the hand into it**. Modest but clean, and both are high-frequency. |
+| Ponerse morado | *abbuffarsi* | ⚑ Spanish turns **purple** from overeating. Collides with the ***ponerse* + colour** frame in **0250** (*ponerse rojo como un tomate*) — same construction, different colour and sense. Check they do not blur. |
+| Pillar el toro | *(unresolved)* | ⚑ Two flags. Bullfighting imagery, which the bank may or may not want; and **L623** already carries *a toro pasado, todos somos toreros*, so this would be a second *toro* row. Peninsular. |
+| Ser un caradura | *avere una bella faccia tosta* | ⚑ **Collides with the 2026-10-29 row** *Ma che faccia tosta!* ↔ *¡Qué cara dura!*. Same expression in noun form. One row, not two — and the earlier note already corrected the card's "toasted face" gloss to *hard face*. |
+| Ser un melón | *essere una zucca* | ⚑ **Crowded corner.** *Zucca* already appears in banked **0050** (*avere sale in zucca*) and in *essere una zucca vuota* (ines food set, 10-11); *melone* appears in proverb-book **#32**. Four rows around the same gourd. Decide the gourd before adding to it. |
+| Por si las moscas | *non si sa mai* | Spanish has the image (literally "in case of the flies"), Italian the plain phrase. Likely an asymmetry entry. ⚑ Note *moscas* also appears in the *mosca bianca* pairing at L290 and in *en boca cerrada no entran moscas* (sketched 2026-08-30). |
+| Ser firme como una roca | *solido come una roccia* | Near-exact calque in both directions. Freebie, very thin. |
+
+### ⚑ Two entries are not idioms
+
+*Por tu propio bien* ("for your own good") is an ordinary phrase.
+
+And ***Qué hace una estrella tan bonita volando tan bajito*** is a ***piropo*** — a
+chat-up line, not a fixed expression. Two problems beyond length: it has no Italian
+counterpart to pair with (Italian *rimorchiare* lines are not fixed the same way), and
+**whether the product teaches pickup lines at all is an editorial call**, not a drafting
+one. Recommend leaving it out.
+
+### Running tally, six lists
+
+**89 expressions today.** Roughly: ~18 Peninsular, 7 non-idioms, 5 rhyme rows, 2 inverted
+or mislabelled proverbs, ~15 collisions or saturations against banked or queued material.
+
+**Yield: 9 new · 1 banked · 3 queued (two of them the exact pairings I'd have proposed) ·
+2 not idioms · 1 structural finding (the hen) · 4 collisions.**
+
+---
+
+## Spanish idiom list, final batch (2026-11-21, seventh)
+
+**1 already queued · 8 new · 2 puns (correctly excluded).**
+
+### ⚑ *Tirar de la manta* is the idiom the fourth list was missing
+
+The fourth list glossed ***desvelar un secreto*** as "let the cat out of the bag", and I
+flagged it as a plain phrase with an English idiom pinned to it. ***Tirar de la manta*** —
+"pull the blanket off" — **is** the real Spanish idiom for that sense, and it carries a
+sharper meaning than the English: not an accidental slip but a **deliberate exposure**,
+usually of a scandal someone else wanted buried.
+
+**Use this row and drop *desvelar un secreto*.** ⚑ Second *manta* row though, with
+*liarse la manta a la cabeza* (fourth list) — different sense, same noun.
+
+### ⚑ The dismissal pair is euphemism-on-euphemism — the third such pair
+
+***Vete a freír espárragos*** is already queued at **L315** against ***Vai a farti
+benedire*** — and both are **softened stand-ins**: Italian sends you "to get yourself
+blessed", Spanish "to fry asparagus", each in place of something coarser.
+
+***Vete a hacer puñetas*** is the same move again, and its etymology is worth the card:
+*puñetas* were the **lace cuffs on magistrates' robes**, laborious to embroider, so
+sending someone to make them was sending them on a tedious, pointless errand (RAE's
+*Diccionario histórico* carries *puñeta*; the legal press still writes about *idos a hacer
+puñetas*). ⚑ **Register check**: *puñeta* is vulgar-adjacent in modern use, which is
+exactly why the euphemism exists.
+
+That makes **three pairs where both halves are euphemisms**: *no manches ↔ non capire un
+cavolo*, *me vale gorro ↔ non me ne può fregare di meno* (11-11), and now this one. **The
+euphemism entry has more good candidates than it needs — pick one and close it.**
+
+### ⚑ Religion is about to become a composition problem, with numbers
+
+Current bank themes: discourse **24**, food **20**, time **19**, religion **16**, animals
+**16**.
+
+The 2026-10-11 audit flagged that the five *santo* rows sitting in the Ready list would
+push religion to **21** and make it second-largest. This list adds two more —
+***tiene más razón que un santo*** and ***una verdad como un templo*** — which would take
+it to **23**, past food and time and within one of discourse.
+
+**Recommend capping it now**: pick at most two religious-register rows from the whole
+standing set rather than deciding each on its own merits. Of the ones on the table,
+*una verdad como un templo* is the more interesting (a truth measured by the size of a
+building), and *más razón que un santo* is closer to filler.
+
+### A — new, worth drafting
+
+| Spanish | Italian sketch (unverified) | Assessment |
+|---|---|---|
+| Tomar la penúltima | *(no IT equivalent known)* | ⚑ **Best of the batch, and the superstition is the card.** You never order *la última* — naming the last drink invites the last of other things — so you order the **second-to-last**, however many of those there are. The word exists to dodge an omen. Nothing in Italian does this; likely an asymmetry entry, and a memorable one. |
+| Tener vista de lince | *avere occhio di lince* | ⚑ **Same animal — and that is the finding, inverted.** Spanish and Italian both pick the **lynx**; English picks the **eagle**. That is the mirror image of the *chino / arabo / Greek* chain, where all three differ. Thin on the ES↔IT axis precisely because they agree — the interest lives in the English contrast, which the bridge can only note in passing. Draft as a freebie or not at all. |
+| Tener más cara que espalda | *avere una bella faccia tosta* | ⚑ **Third shamelessness-via-face row**, with *ser un caradura* (sixth list) and *¡Qué cara dura! ↔ Ma che faccia tosta!* (10-29). Three Spanish forms, one Italian. This one is the most vivid — more face than back — but they cannot all ship. |
+| Una verdad como un templo | *una verità sacrosanta* | ⚑ Both measure truth with religious vocabulary: Spanish by the **size of a building**, Italian by **sanctity**. Good pair — but see the religion cap above. |
+| Tener pocas luces | *non essere una cima* | Spanish is short of **lights**, Italian is not a **peak**. ⚑ The alternative Italian (*essere una zucca*) runs into the gourd pile already noted — 0050, *zucca vuota*, *melón*. Use *cima*. |
+| Tiene más razón que un santo | *(plainer in IT)* | Filler relative to the others, and it adds to the religion count. Lowest priority of the new nine. |
+
+### The two puns — correctly out of scope
+
+You already marked these as not idioms, which is right, and the reason is structural:
+**a pun cannot have a pair.** *Es pera / espera* works only because of how those two
+Spanish strings sound; there is no Italian expression it corresponds to, so there is
+nothing to put in the `it` field. The schema has no shape for a one-sided joke.
+
+⚑ There is a legitimate entry *near* them — that neither language's wordplay survives the
+crossing — but that is an essay, not a card, and it would break the no-cross-reference
+rule by needing examples from both sides.
+
+### Across all seven lists
+
+**98 expressions** sent today. Roughly:
+
+| | count |
+|---|---|
+| Already banked | 8 |
+| Already queued (incl. variants of queued rows) | 14 |
+| Not idioms, or puns | 9 |
+| Collide or saturate against banked/queued material | ~17 |
+| Inverted, mislabelled or wrongly glossed | 4 |
+| **Genuinely new and worth drafting** | **~55** |
+| …of which markedly Peninsular | ~18 |
+
+**The four decisions that now block the most rows**, none of which needs research:
+
+1. **Dialect pass** on the ~18 Peninsular rows — one ask to the Spanish reviewer, prevents
+   eighteen later corrections.
+2. **Rhyme asymmetry** — five rows waiting (*más feliz que un regaliz*, *a otra cosa
+   mariposa*, *entre broma y broma*, *chi si loda s'imbroda*, *l'amore non è bello…*).
+3. **Euphemism entry** — now three strong candidate pairs; pick one, retire the rest.
+4. **Religion cap** — before the *santo* rows and these two take the theme to 23.
+
+---
+
+## Italian register ladders, basic → advanced (2026-11-24)
+
+**A different shape from the other lists:** each row is Italian-to-Italian, a plain way of
+saying something beside a more idiomatic one. **These are not candidate pairs** — each
+*advanced* form is a candidate **Italian half** that still needs a Spanish partner found.
+
+**1 already banked · 1 overlaps a pending row · 5 new.**
+
+| Advanced form | Status |
+|---|---|
+| Ti sto prendendo in giro | **banked 0006** (`approved`) — *Prendere in giro ↔ Tomar el pelo*. Covered. |
+| Non c'entro niente | overlaps the *Non c'entra niente* row logged 2026-10-27, but ⚑ **not the same entry**: that one is third-person ("it has nothing to do with it"), this is first-person and means **"it's not my fault."** Same verb, different speech act — the reviewer should say whether one card can carry both. |
+
+### ⚑ The real finding: five of these seven are clitic constructions, and the bank barely covers them
+
+| Advanced form | Construction |
+|---|---|
+| **Ti** va un caffè? | dative clitic + impersonal *andare* |
+| **Mi** sa di no | dative clitic + *sapere* used for a hunch |
+| Non **c'**entro niente | locative *ci*, lexicalised into *entrarci* |
+| Non **te la** prendere | *prendersela* — reflexive + fossilised *la* |
+| Non **me la** sento | *sentirsela* — reflexive + fossilised *la* |
+
+Only *sono di corsa* and *prendere in giro* are ordinary.
+
+Searching the bank for entries whose bridge actually teaches this territory returns
+**four**: 0012, 0035 (*valere la pena* — the partitive *ne*, and the best of them), 0295
+and 0310. **Four entries out of 236 for what is arguably the single most systematic gap
+between the two languages.**
+
+⚑ **But the trap is not the one it looks like, and getting this wrong would make a bad
+card.** Spanish is not missing the machinery — it has lexicalised-clitic verbs of exactly
+this kind: *arreglárselas*, *apañárselas*, *vérselas con*, *jugársela*. A Spanish speaker
+is entirely at home with a verb that carries a meaningless *la*.
+
+What Spanish lacks is **the specific inventory**: no locative *ci*, no partitive *ne*, and
+a different set of verbs carrying the fossilised clitic. So the real interference is
+**overgeneralisation, not absence** — the speaker reaches confidently for a construction
+they own and picks the wrong verb for it. That is a harder and more useful card than
+"Italian has clitics and Spanish doesn't," which is false.
+
+### Spanish partners worth researching
+
+| Italian | Spanish sketch (unverified) | Note |
+|---|---|---|
+| Ti va un caffè? | *¿Te apetece…?* / MX *¿Se te antoja…?* | ⚑ **Strongest structural twin here.** Both put the person in the **dative** and let the thing do the verb — the coffee goes to you, the coffee appeals to you. Spanish has this exact shape, which makes it a clean way into the pattern. ⚑ *Apetecer* is Peninsular; MX *antojarse* is the anchor form. |
+| Mi sa di no | *Me da que no* / MX *me late que no* | ⚑ Both build a hunch from a **sense verb plus dative** — Italian from tasting/smelling (*sapere di*), MX Spanish from a heartbeat (*latir*). Good divergence, same grammar. |
+| Non te la prendere | *No te lo tomes a mal* / *no te piques* | Both reflexive, both with a clitic standing for nothing nameable. |
+| Non me la sento | *(no clean ES form found)* | Hardest of the five. Likely an asymmetry entry. |
+| Sono di corsa | MX *ando apurado* / *voy con prisa* | Plain on both sides; low priority. |
+
+### Recommendation
+
+**This is one or two cards, not five.** Every row above teaches the same structural point,
+and under the no-cross-reference rule five cards would each have to introduce the dative
+or the fossilised clitic from scratch. Same grouping decision as the vocative/intensifier
+cluster (2026-10-24) and the rhyme rows.
+
+Pick the sharpest pair for each of the two distinct mechanisms — **dative-subject**
+(*ti va* ↔ *se te antoja*) and **fossilised clitic** (*non te la prendere* ↔ *no te lo
+tomes a mal*) — and let the rest go to Unmatched.
+
+**Yield: 1 banked · 1 overlapping · 5 new Italian halves needing Spanish partners · 1
+structural gap identified (clitics: 4 entries in 236) · 1 correction to how that gap
+should be framed.**
+
+---
+
+## @learnandloveitalian — Valentine's calendar, 4th series (2026-11-24)
+
+**Tier A.** 12 months legible. **1 already queued · 1 drafted to the bank (0325) · 10 new.**
+
+Fourth distinct 14-card calendar from this account, after idioms (10-11), spoken slang
+(10-14) and exclamations (11-11).
+
+### ⚑ The Valentine's framing doesn't survive contact with the schedule
+
+The bank already has a Valentine's card: **0077** (*Ti voglio bene*, `approved`), pinned to
+a window of **02-12 → 02-14**. That is **three days**. Twelve cards cannot go into a
+three-day window, so this set cannot be seasonal in the way the calendar implies — at most
+two or three could be pinned, and the rest have to earn ordinary rotation slots on merit.
+
+Worth noting the existing seasonal distribution while deciding: **Christmas has six**
+entries (0290, 0291, 0292, 0312, 0313, 0314 — all `needs_review`), **Valentine's has one**,
+and there are four loose season tags (autumn, summer, winter ×2). The calendar is lopsided
+toward December, so one or two more February cards is reasonable; twelve is not.
+
+### ⚑ Drafted: 0325 — *Te extraño ↔ Mi manchi*
+
+The strongest card in this batch and in several weeks, so I wrote it rather than queuing it.
+**A2, difficulty 2** — and A2 is the bank's thinnest band at 41 of 236.
+
+The two languages put the subject in opposite places. *Te extraño* makes the **speaker** the
+subject: the sentence is about my state. *Mi manchi* makes the **absent person** the subject
+and the speaker a dative: the sentence reports something you are doing by not being there.
+
+**The trap reverses the meaning.** A Spanish speaker mapping word for word produces
+***ti manco*** — grammatical Italian meaning *"you miss me."*
+
+And the nice part: **Spanish has both constructions.** *Me haces falta* puts the absent
+person back in the subject slot, exactly as Italian does — so the Italian shape is not alien
+to Spanish, it is simply not the default. Entry filed `needs_review`, deliberately unpinned.
+
+### Already queued
+
+***Ti va di fare due passi*** → **L126**, *Fare due passi ↔ dar una vuelta / dar un paseo*,
+from the Italian reviewer's own material. No new row.
+
+### ⚑ *Ti va di…* appears three times, which settles yesterday's question
+
+March, October and December all use it. Combined with *Ti va un caffè?* from the register
+ladders (11-24), that is **four sightings of the same construction from Tier A material in
+two days**.
+
+That removes any doubt about frequency. The recommendation from the ladders section stands
+and is now better evidenced: ***Ti va di…* ↔ MX *¿Se te antoja…?*** should be the
+dative-subject card. Both put the person in the dative and let the thing do the verb.
+
+### A — the rest
+
+| Italian | Spanish sketch (unverified) | Note |
+|---|---|---|
+| Mi piaci (un sacco) | *Me gustas (un montón)* | ⚑ **Structurally identical** — both dative, both with the liked person as subject. A freebie, but very high frequency and A1/A2. ⚑ Tension worth noting: this being identical is what makes 0325 surprising, but the no-cross-reference rule means 0325 cannot lean on it. *Un sacco* also logged 10-24. |
+| Sei nei miei pensieri | *Estás en mis pensamientos* | Near-exact calque both ways. Thin. |
+| Hai un bel sorriso / Hai degli occhi bellissimi | *Tienes una sonrisa preciosa* / *unos ojos preciosos* | ⚑ The grammar is the only content: Italian needs the partitive *degli* where Spanish uses bare *unos*. That is a real B1 point, but it is a **grammar note wearing a compliment as a costume** — decide whether the bank teaches partitives this way. |
+| Mi piace stare con te | *Me gusta estar contigo* | Transparent both ways. Not an idiom. |
+| Hai da fare stasera? | *¿Tienes algo que hacer esta noche?* | ⚑ Italian *avere da* + infinitive has no clean Spanish parallel — that is the entry, not the question itself. |
+| Posso offrirti un caffè? / Mi dai il tuo numero? | — | ⚑ **Chat-up lines.** Same editorial question as the *piropo* on 2026-11-21, which was left out. *Mi dai il tuo numero* is squarely a pickup line; *posso offrirti un caffè* is ordinary politeness. Decide the category once rather than per card. |
+
+**Yield: 1 queued · 1 drafted (0325) · 10 new · 1 scheduling constraint surfaced (3-day
+Valentine's window vs 12 cards) · 1 construction confirmed four times over (*ti va*).**
