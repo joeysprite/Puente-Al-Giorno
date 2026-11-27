@@ -46,7 +46,7 @@ Do not edit above the boxes, these files are generated.
   — *The Guadalupe-Reyes marathon has started and I haven't stopped eating tamales.*
 - **register:** colloquial · **exam:** avoid_in_exam · **regions:** mx · **status:** needs_review
 - ⚑ **REGION:** A Mexican expression; elsewhere the dates mean little as a pair.
-- ⚑ **QUESTION:** confirm register (colloquial) and that the expression is national, not regional.
+- ⚑ **QUESTION:** (context: SOURCES NOT HUMAN-VERIFIED (dictionary headwords found via search, not opened by a person); dates and customs come from press/heritage sources, not RAE/Treccani.) confirm register (colloquial) and that the expression is national, not regional.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -70,7 +70,7 @@ Do not edit above the boxes, these files are generated.
   — *We'll buy the presents with the Christmas bonus.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx · **status:** needs_review
 - ⚑ **REGION:** In Spain the equivalent is usually 'la paga extra' (one in summer, one at Christmas); 'aguinaldo' there leans toward a small tip or gift.
-- ⚑ **QUESTION:** confirm the posada candy-bag sense is current MX usage.
+- ⚑ **QUESTION:** (context: 87) is from press/legal summaries; a 2026 proposal to raise it was pending, so keep the figure out of captions if it changes.) confirm the posada candy-bag sense is current MX usage.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -91,7 +91,7 @@ Do not edit above the boxes, these files are generated.
 - **example:** La cena de Nochebuena es en casa de mi tía.
   — *Christmas Eve dinner is at my aunt's.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** if you want that sharpened to specific regions, your name goes on it. PLACEMENT: drafted first with BOTH a pin and an events link; the validator rejects that combination — one placement mechanism only. Kept the pin/pinWindow and dropped the event link, because Christmas is a fixed annual date and needs no computation, where the events registry earns its keep on computed or irregular dates like Easter and the World Cup. The `navidad_natale` event added to events.json this session therefore has no entry pointing at it yet; it is still worth keeping for the Pascua/Pasqua scope warning recorded in its note, but Joe may prefer to drive these three from the event instead of pins, in which case the pins come out and the event links go back.
+- ⚑ **QUESTION:** (context: THE CULTURAL WEIGHT CLAIM IS UNVERIFIED AND DELIBERATELY NON-SPECIFIC per the regional-variation principle: I say Nochebuena is the main event 'in much of the Spanish-speaking world' rather than naming countries.) if you want that sharpened to specific regions, your name goes on it.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -102,7 +102,7 @@ Do not edit above the boxes, these files are generated.
 - **example:** Nos vemos en enero. ¡Feliz Navidad a toda la familia!
   — *See you in January. Merry Christmas to all the family!*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** is 'felices Navidades' plural the MX default over singular 'feliz Navidad'? PLACEMENT: drafted first with BOTH a pin and an events link; the validator rejects that combination — one placement mechanism only. Kept the pin/pinWindow and dropped the event link, because Christmas is a fixed annual date and needs no computation, where the events registry earns its keep on computed or irregular dates like Easter and the World Cup. The `navidad_natale` event added to events.json this session therefore has no entry pointing at it yet; it is still worth keeping for the Pascua/Pasqua scope warning recorded in its note, but Joe may prefer to drive these three from the event instead of pins, in which case the pins come out and the event links go back. CORRECTED 2026-08-01: the bridge originally claimed both nouns come from the same Latin word natalis, with Spanish taking a plural form. That was wrong — Navidad descends from nativitatem (nativity), a different Latin word, while Natale descends from natalis. Caught because Joe asked about 'città natale' and the etymology had to be checked properly. See 0298, which is built on exactly this split.
+- ⚑ **QUESTION:** is 'felices Navidades' plural the MX default over singular 'feliz Navidad'?
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -114,7 +114,7 @@ Do not edit above the boxes, these files are generated.
   — *I told him dinner was cancelled, then shouted: gotcha!*
 - **register:** colloquial · **exam:** avoid_in_exam · **regions:** mx · **status:** needs_review
 - ⚑ **REGION:** The prank day is shared across Spain and Latin America; the 'palomita' rhyme is especially Mexican.
-- ⚑ **QUESTION:** confirm 'inocente palomita' as Mexican-strong and the full rhyme.
+- ⚑ **QUESTION:** (context: Phrase type set to collocation; may be better as 'formula'.) confirm 'inocente palomita' as Mexican-strong and the full rhyme.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -125,7 +125,7 @@ Do not edit above the boxes, these files are generated.
 - **example:** Este año sí logré comerme las doce uvas a tiempo.
   — *This year I actually managed to eat all twelve grapes in time.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es · **status:** needs_review
-- ⚑ **QUESTION:** confirm Mexican usage ('fin de año' vs 'Nochevieja').
+- ⚑ **QUESTION:** (context: 1880s Madrid) are disputed, so the entry avoids them.) confirm Mexican usage ('fin de año' vs 'Nochevieja').
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -178,7 +178,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Últimamente he estado muy ocupado.
   — *I've been really busy lately.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** is the 'por último' (finally) sense of últimamente ever actually heard in casual MX speech, or is it as dead in practice as it appears to be in Italian? I could only find one formal/ceremonial-register example.
+- ⚑ **QUESTION:** (context: SOURCES NOT HUMAN-VERIFIED — read out of search results, so verifiedOn/verifiedBy stay null on both sides.) is the 'por último' (finally) sense of últimamente ever actually heard in casual MX speech, or is it as dead in practice as it appears to be in Italian? I could only find one formal/ceremonial-register example.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -200,7 +200,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Quieras o no, mañana hay que levantarse temprano.
   — *Like it or not, we're up early tomorrow.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** is 'quieras o no' the MX-current form, or is 'quieras o no quieras' more usual?
+- ⚑ **QUESTION:** (context: (2) Register — does it read slightly formal or bookish next to plainer options like 'che tu voglia o no'?) is 'quieras o no' the MX-current form, or is 'quieras o no quieras' more usual?
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -211,7 +211,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** No hizo falta explicárselo dos veces: lo cogió al vuelo.
   — *Nobody had to explain it twice — she picked it up straight away.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** would 'lo hago al vuelo' about a physical errand sound natural to you, or odd? That single question decides whether this entry survives.
+- ⚑ **QUESTION:** (context: If the Spanish is in fact used freely for physical tasks too, this is a plain freebie with no lesson in it and should be demoted.) would 'lo hago al vuelo' about a physical errand sound natural to you, or odd? That single question decides whether this entry survives.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -244,7 +244,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Le preguntaron por su ex delante de todos y se puso rojo como un tomate.
   — *They asked him about his ex in front of everyone and he went bright red.*
 - **register:** colloquial · **exam:** neutral · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** is 'rojo como un tomate' the MX default, or does MX prefer 'rojo como un jitomate'? That would be a genuine regional split worth recording.
+- ⚑ **QUESTION:** (context: Confirm RAE actually carries the simile under `tomate` (it may sit under `rojo` instead) and that Treccani's `peperone` entry includes the phrase.) is 'rojo como un tomate' the MX default, or does MX prefer 'rojo como un jitomate'? That would be a genuine regional split worth recording.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -315,7 +315,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Como sea, ya vámonos que se hace tarde.
   — *Anyway, let's go, it's getting late.*
 - **register:** colloquial · **exam:** neutral · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** is the 'by any means necessary' sense of 'como sea' as live in MX as the 'anyway' sense? The whole first interference note depends on both being current.
+- ⚑ **QUESTION:** (context: This entry and 0253 must be reviewed TOGETHER — if the reviewers reject the 0253 reading, the framing here probably needs adjusting too, and the scheduler should keep the two apart regardless.) is the 'by any means necessary' sense of 'como sea' as live in MX as the 'anyway' sense? The whole first interference note depends on both being current.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -326,7 +326,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** A donde quiera que vayas, vas a encontrar a alguien que te recuerde a casa.
   — *Wherever you go, you'll find someone who reminds you of home.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** is the one-word spelling 'adondequiera' the MX preference?
+- ⚑ **QUESTION:** (context: This entry is a fixed subordinate frame with a slot, so it is not the retired type and the v1 scope exclusion does not apply to it.) is the one-word spelling 'adondequiera' the MX preference?
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -348,7 +348,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** ¿Crees que llegue a tiempo? —Puede ser, si sale ya.
   — *Do you think she'll make it? —Maybe, if she leaves now.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** does MX prefer 'puede ser', 'a lo mejor', or 'quizás' in this slot? If 'puede ser' is markedly less frequent in MX the entry may need a different anchor.
+- ⚑ **QUESTION:** (context: (2) Is the subjunctive after 'può darsi che' obligatory in speech, or is the indicative tolerated?) does MX prefer 'puede ser', 'a lo mejor', or 'quizás' in this slot? If 'puede ser' is markedly less frequent in MX the entry may need a different anchor.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -359,7 +359,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Siempre acabo yo sacándole las castañas del fuego a mi hermano.
   — *I always end up pulling my brother's chestnuts out of the fire.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** can 'sacar las castañas del fuego' describe getting YOURSELF out of trouble, or is it always for someone else?
+- ⚑ **QUESTION:** (context: I lean earn-it, on the verb alone — but the self-rescue claim is MINE AND UNVERIFIED and it is doing half the work.) can 'sacar las castañas del fuego' describe getting YOURSELF out of trouble, or is it always for someone else?
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -381,7 +381,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Salió al patio a tomar una bocanada de aire antes de seguir estudiando.
   — *He stepped out into the yard for a breath of air before going back to studying.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** is 'tomar una bocanada de aire' natural in MX, or is 'tomar aire' / 'salir a tomar el aire' the everyday form with bocanada reading slightly literary? If the latter, the ES anchor may be wrong.
+- ⚑ **QUESTION:** (context: IT REVIEWER, confirm; the second half of the bridge and the it_to_es note both rest on it.) is 'tomar una bocanada de aire' natural in MX, or is 'tomar aire' / 'salir a tomar el aire' the everyday form with bocanada reading slightly literary? If the latter, the ES anchor may be wrong.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -392,7 +392,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Subieron tanto los precios que mataron la gallina de los huevos de oro.
   — *They raised prices so far that they killed the golden goose.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** should confirm MX currency and whether 'matar' or 'sacrificar' is more usual.
+- ⚑ **QUESTION:** (context: Candidate row came from spanishexpress.co.uk, a Peninsular-focused tier-C source; the phrase is unremarkable and pan-Hispanic, but) should confirm MX currency and whether 'matar' or 'sacrificar' is more usual.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -403,7 +403,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Le rechazaron el préstamo y ahora esto: llueve sobre mojado.
   — *His loan was refused and now this — when it rains, it pours.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** if Spanish is also bivalent, this entry collapses back to a freebie and should be re-sorted. This is a 0037-class valence entry if it holds.
+- ⚑ **QUESTION:** (context: THE SPANISH HALF OF THE CLAIM IS UNVERIFIED AND IS WHAT THE ENTRY RESTS ON: I assert 'llueve sobre mojado' is negative-only.) if Spanish is also bivalent, this entry collapses back to a freebie and should be re-sorted. This is a 0037-class valence entry if it holds.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -437,7 +437,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Preguntó por el divorcio delante de todos: metió el dedo en la llaga.
   — *He asked about the divorce in front of everyone — he went straight for the sore spot.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** if so the es.text should probably change.
+- ⚑ **QUESTION:** (context: THE MX VARIANT 'poner el dedo en la llaga' is attested and may be the more common form there —) if so the es.text should probably change.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -448,7 +448,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Te lo digo con el corazón en la mano: ese trabajo te está haciendo daño.
   — *I'm telling you honestly — that job is doing you harm.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** does your side carry the other's sense at all? If Italian 'col cuore in mano' can introduce a frank statement, or Spanish 'con el corazón en la mano' can describe a generous person, the divergence is softer than drafted and the false_friend tag is wrong. NOTE THE ASYMMETRIC CITATION FORMS: es.text is the speaking phrase (hablar con...), it.text is the having phrase (avere il cuore in mano), because that is how each language most naturally uses it. If reviewers prefer symmetric forms, use 'parlare col cuore in mano' — but confirm it is idiomatic first, since it may be a construction I built rather than one Italians say.
+- ⚑ **QUESTION:** (context: I have drafted ES=frankness against IT=generosity on the strength of the original candidate note plus my own reading, with no dictionary confirmation of either boundary.) does your side carry the other's sense at all? If Italian 'col cuore in mano' can introduce a frank statement, or Spanish 'con el corazón en la mano' can describe a generous person, the divergence is softer than drafted and the false_friend tag is wrong.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -459,7 +459,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Ahora parece imposible, pero el tiempo lo cura todo.
   — *It feels impossible now, but time heals everything.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** should confirm that 'el tiempo cura todo' without the lo genuinely sounds incomplete rather than merely less common.
+- ⚑ **QUESTION:** (context: THE REDUNDANT-LO CLAIM IS THE ENTRY'S HIGH-VALUE CONTENT and I am fairly confident of it as grammar, but) should confirm that 'el tiempo cura todo' without the lo genuinely sounds incomplete rather than merely less common.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -470,7 +470,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** —Yo pedí el pescado. —Ídem.
   — *—I ordered the fish. —Same.*
 - **register:** colloquial · **exam:** neutral · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** this is the deciding question: would you actually say 'ídem' out loud in conversation in MX, or does it belong to writing and to jokes?
+- ⚑ **QUESTION:** (context: I have set BOTH to colloquial/neutral, which assumes they match — if they do not, this becomes a register_differs entry and the bridge needs rewriting around that instead of the accent.) this is the deciding question: would you actually say 'ídem' out loud in conversation in MX, or does it belong to writing and to jokes?
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -481,7 +481,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Se le cayó el vaso otra vez. No hay dos sin tres, ya verás.
   — *He's dropped the glass again. These things come in threes, you'll see.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** does the parallel read as illuminating or as a grammar lecture interrupting a proverb?
+- ⚑ **QUESTION:** (context: VERIFY BEFORE APPROVAL or soften the claim to describe the synchronic structure without the history.) does the parallel read as illuminating or as a grammar lecture interrupting a proverb?
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -515,7 +515,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Ya mandé la solicitud. Que sea lo que Dios quiera.
   — *I've sent the application off. Here goes nothing.*
 - **register:** colloquial · **exam:** neutral · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** these are religious invocations used by secular speakers, which is normal in both languages, but confirm neither reads as devout rather than idiomatic — a subscriber saying this to an actually religious colleague should not land oddly. ALTERNATIVES CONSIDERED: secular options exist on both sides ('a ver qué pasa', 'allá voy' / 'vada come vada', 'speriamo bene') and would make a blander, safer pair with no bridge in it. If the reviewers judge the religious framing too strong, that is the fallback.
+- ⚑ **QUESTION:** these are religious invocations used by secular speakers, which is normal in both languages, but confirm neither reads as devout rather than idiomatic — a subscriber saying this to an actually religious colleague should not land oddly.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -539,7 +539,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
   — *We were sorting it out between ourselves until he stuck his oar in.*
 - **register:** colloquial · **exam:** avoid_in_exam · **regions:** mx, co, ar · **status:** needs_review
 - ⚑ **REGION:** Attested across Latin America; Spain more usually says 'meter baza'. Which form a given speaker reaches for varies by region and by context — reviewer to sharpen if they want it sharpened.
-- ⚑ **QUESTION:** regions set mx/co/ar and deliberately vague about which form dominates where, per the standing regional principle — sharpen it if you want, and your name goes on it.
+- ⚑ **QUESTION:** (context: SOURCES ARE CORPUS-GRADE ON BOTH SIDES AND BOTH NEED BETTER — RAE has 'meter alguien su cucharada' per a secondary source, so check RAE `cuchara`/`cucharada` directly; for Italian check Treccani `becco`.) regions set mx/co/ar and deliberately vague about which form dominates where, per the standing regional principle — sharpen it if you want, and your name goes on it.
 - *(source being replaced on my side — your review still stands)*
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
@@ -562,7 +562,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** El puesto pagaba bien pero no es oro todo lo que reluce: se fue a los tres meses.
   — *The job paid well, but all that glitters isn't gold — he left after three months.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** is 'no es todo oro lo que reluce' actually wrong, or a tolerated variant? If tolerated, this drops to a near-twin freebie with only the luccica/reluce verb difference left, and should be re-sorted accordingly. Both dictionaries may file the proverb nowhere, in which case both citations need replacing with Refranero/corpus sources.
+- ⚑ **QUESTION:** (context: THE WORD-ORDER CLAIM IS THE ENTRY'S ONLY REAL TRAP and it is mine —) is 'no es todo oro lo que reluce' actually wrong, or a tolerated variant? If tolerated, this drops to a near-twin freebie with only the luccica/reluce verb difference left, and should be re-sorted accordingly. Both dictionaries may file the proverb nowhere, in which case both citations need replacing with Refranero/corpus sources.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -573,7 +573,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Pasó dos años enfrentando a los equipos y ahora nadie le contesta: quien siembra vientos recoge tempestades.
   — *He spent two years setting the teams against each other and now nobody answers him — you reap what you sow.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** is the number genuinely fixed on your side, or do variants circulate? If both languages tolerate both numbers, there is no trap here and this is a plain twin. Shared biblical origin (Hosea 8:7) is stated in the bridge as fact and is well known, but is not sourced in the entry. ES citation is another bare Refranero root URL.
+- ⚑ **QUESTION:** (context: THE SINGULAR/PLURAL CONTRAST IS THE ENTRY and it is the kind of claim a corpus would settle quickly —) is the number genuinely fixed on your side, or do variants circulate? If both languages tolerate both numbers, there is no trap here and this is a plain twin. Shared biblical origin (Hosea 8:7) is stated in the bridge as fact and is well known, but is not sourced in the entry. ES citation is another bare Refranero root
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -585,7 +585,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
   — *He spent half an hour explaining that people buy more in December. Stop the press.*
 - **register:** colloquial · **exam:** neutral · **regions:** mx, ar, co · **status:** needs_review
 - ⚑ **REGION:** The water version is the Latin-American one. Elsewhere the image changes entirely — gunpowder, or the discovery of America — and which one a speaker reaches for varies by place and by generation. Reviewer to confirm the list.
-- ⚑ **QUESTION:** sharpen it if you want, and your id carries it. FIFTH acqua/agua entry in the bank (0072, 0092, 0101, 0102 and this) — saturation check before scheduling.
+- ⚑ **QUESTION:** (context: REGIONAL FRAMING kept deliberately non-specific per the standing principle — the note says the image changes elsewhere without mapping a phrase to a country, even though the source does name Spain.) sharpen it if you want, and your id carries it. FIFTH acqua/agua entry in the bank (0072, 0092, 0101, 0102 and this) — saturation check before scheduling.
 - *(source being replaced on my side — your review still stands)*
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
@@ -597,7 +597,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Tarde o temprano se va a saber quién filtró el documento.
   — *Sooner or later it'll come out who leaked the document.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** is it a tolerated variant in MX or does it read as translated? The whole it_to_es note depends on it.
+- ⚑ **QUESTION:** (context: THE CLAIM THAT 'antes o después' IS UNDERSTOOD BUT NOT THE SET PHRASE IS MINE —) is it a tolerated variant in MX or does it read as translated? The whole it_to_es note depends on it.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -621,7 +621,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
   — *He's never once bought a coffee — he's tight-fisted.*
 - **register:** colloquial · **exam:** neutral · **regions:** mx, es, ar, co · **status:** needs_review
 - ⚑ **REGION:** Widely used; MX also has 'codo' for the same idea, which is arguably the better MX anchor — reviewer to decide.
-- ⚑ **QUESTION:** please decide the anchor; if codo wins, this entry should be re-drafted around it and the bridge rewritten. SATURATION: the bank already has 0071 (ser un manirroto / avere le mani bucate) on the OPPOSITE trait, overspending, and it also uses hands. These two are natural opposites and should not be scheduled near each other.
+- ⚑ **QUESTION:** (context: I chose 'ser un agarrado' because it is pan-regional and RAE-listed, but MX's 'ser codo' is at least as common there and would give a THREE-WAY body-part contrast — Italian arm, Spanish hand, Mexican elbow — which is a better entry than the one I have drafted.) please decide the anchor; if codo wins, this entry should be re-drafted around it and the bridge rewritten.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -632,7 +632,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Los niños dejaron sus zapatos listos para los Reyes Magos.
   — *The children left their shoes ready for the Three Kings.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** confirm the capitalization convention and whether MX phrasing diverges from the ES example given.
+- ⚑ **QUESTION:** (context: THE PROVERB IN THE BRIDGE ('Epifania tutte le feste porta via') is sourced directly from inside the Treccani 'epifania' dictionary entry, not a secondary source — genuinely proverb-grade and could earn its own entry someday.) confirm the capitalization convention and whether MX phrasing diverges from the ES example given.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -654,7 +654,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** El barrio se llenó de turistas de la noche a la mañana.
   — *The neighbourhood filled up with tourists overnight.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** that is the decision.
+- ⚑ **QUESTION:** (context: I chose the night version as the anchor because it is the more common and more vivid; 'de un día para otro' is the closer literal match and is the obvious alternate if a reviewer prefers it — note that choosing it would REMOVE the entry's whole bridge, since it crosses days exactly as the Italian does.) that is the decision.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -666,7 +666,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
   — *Water the plants every other day, not daily.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
 - ⚑ **REGION:** Chosen deliberately as the pan-regional form. Other variants exist and are NOT equally clear — see the trap below and the review note.
-- ⚑ **QUESTION:** 'S SIGNATURE. Mexican Spanish has 'cada tercer día' for what other varieties call 'cada dos días' — the Mexican form counts INCLUSIVELY (take it, skip a day, take it again = day 1, 2, 3) while the other counts the interval. Two WordReference threads document native speakers disagreeing about this at length, and a medical interpreter in one of them says they default to 'un día sí, un día no' precisely because the numbered forms get patients' dosing wrong. That is a real-stakes trap and better than anything the surface similarity offers. I have deliberately kept the bridge and the it_to_es note NON-SPECIFIC about which region uses which form, per the standing regional principle — the sources do name Mexico, but pinning a counting convention to a country is exactly the kind of claim that needs a native signature.  if you are willing to name it, the entry gets much sharper and your id carries it. Also confirm 'cada tercer día' really is the MX default, and whether the ambiguity is felt or merely theoretical. ES SOURCE IS A FORUM and must be replaced before approval — check whether RAE carries the locution under `día`. Drafted by Claude 2026-08-14 from a @learnandloveitalian carousel
+- ⚑ **QUESTION:** 'S SIGNATURE. Mexican Spanish has 'cada tercer día' for what other varieties call 'cada dos días' — the Mexican form counts INCLUSIVELY (take it, skip a day, take it again = day 1, 2, 3) while the other counts the interval. Two WordReference threads document native speakers disagreeing about this at length, and a medical interpreter in one of them says they default to 'un día sí, un día no' precisely because the numbered forms get patients' dosing wrong. That is a real-stakes trap and better than anything the surface similarity offers. I have deliberately kept the bridge and the it_to_es note NON-SPECIFIC about which region uses which form, per the standing regional principle — the sources do name Mexico, but pinning a counting convention to a country is exactly the kind of claim that needs a native signature.  (context: I have deliberately kept the bridge and the it_to_es note NON-SPECIFIC about which region uses which form, per the standing regional principle — the sources do name Mexico, but pinning a counting convention to a country is exactly the kind of claim that needs a native signature.) if you are willing to name it, the entry gets much sharper and your id carries it. Also confirm 'cada tercer día' really is the MX default, and whether the ambiguity is felt or merely theoretical. ES SOURCE IS A FORUM and must be replaced before approval — check whether RAE carries the locution under `día`. Drafted by Claude 2026-08-14 from a @learnandloveitalian carousel
 - *(source being replaced on my side — your review still stands)*
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
@@ -678,7 +678,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Se descompuso el coche y ahora empieza a llover. Lo que faltaba.
   — *The car's broken down and now it's starting to rain. That's all I needed.*
 - **register:** colloquial · **exam:** neutral · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** that is the question: IT — is 'mancava solo questa' without the ci genuinely flat, or just less common? ES — does adding the pronoun ('lo que me faltaba') change the register or only the intensity? If the contrast does not hold, this drops to a near-twin with only the solo/nothing difference left.
+- ⚑ **QUESTION:** (context: THE ci/BARE CONTRAST IS THE ENTRY and it is my own reading — I claim Italian's ci makes the sarcasm and Spanish's bare form carries it without one.) that is the question: IT — is 'mancava solo questa' without the ci genuinely flat, or just less common? ES — does adding the pronoun ('lo que me faltaba') change the register or only the intensity? If the contrast does not hold, this drops to a near-twin with only the solo/nothing difference left.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -690,7 +690,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
   — *Ugh — the same meeting again.*
 - **register:** colloquial · **exam:** neutral · **regions:** mx, es, ar, co · **status:** needs_review
 - ⚑ **REGION:** Widely used. Other annoyance interjections are strongly regional and are deliberately not named here — see the review note.
-- ⚑ **QUESTION:** please confirm or correct. REGIONAL RESTRAINT, deliberate: MX has its own annoyance interjections (ash, and others) which would sharpen the entry considerably, but naming one and pinning it to a country is exactly the claim the standing regional principle says needs a native signature. If you are willing to name it, the ES anchor may be better as the regional form than as 'uf'. SOURCE-LADDER NOTE (internal, not for cards): the carousel this came from presents FOUR intensities of the same feeling as a scale. The bank has no format for a register ladder — every entry is one pair at one level. That is an editorial idea worth its own discussion, not something to smuggle into this entry. Drafted by Claude 2026-08-14 from a @learnandloveitalian annoyance-scale carousel
+- ⚑ **QUESTION:** (context: THE ES SIDE'S RELIEF SENSE IS THE ENTRY'S CLAIM AND IS UNVERIFIED — RAE's `uf` should list cansancio, fastidio, repugnancia; whether relief is genuinely part of the range in MX is what the bridge and both interference notes rest on.) please confirm or correct. REGIONAL RESTRAINT, deliberate: MX has its own annoyance interjections (ash, and others) which would sharpen the entry considerably, but naming one and pinning it to a country is exactly the claim the standing regional principle says needs a native signature. If you are willing to name it, the ES anchor may be better as the regional form than as 'uf'. SOURCE-LADDER NOTE (internal, not for cards): the carousel this came from presents FOUR intensities of the same feeling as a scale. The bank has no format for a register ladder — every entry is one pair at one level. That is an editorial idea worth its own discussion, not something to smuggle into this entry. Drafted by Claude 2026-08-14 from a @learnandloveitalian annoyance-scale carousel
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -701,7 +701,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Le cambiaron la batería y ahora el coche va como un tiro.
   — *They put a new battery in and now the car flies.*
 - **register:** colloquial · **exam:** neutral · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** please confirm or correct, and if (b) holds, flag whether the ES form is 'estar como un tren' (Peninsular) and whether it is current in MX at all — the entry may need a different ES anchor for a Mexican audience.
+- ⚑ **QUESTION:** (context: If (b) is right it is a genuine false friend and the entry should probably be rebuilt around it rather than around speed — 'como un tren' meaning attractive in Spanish while 'come un treno' means fast in Italian is a sharper trap than the tiro/treno imagery split.) please confirm or correct, and if (b) holds, flag whether the ES form is 'estar como un tren' (Peninsular) and whether it is current in MX at all — the entry may need a different ES anchor for a Mexican audience.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -734,7 +734,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Después de la discusión cortó los lazos con toda la familia.
   — *After the argument she cut all ties with the family.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** mx, es, ar, co · **status:** needs_review
-- ⚑ **QUESTION:** is the plural 'los lazos' the usual form, or is 'cortar lazos' without the article more common in MX?  the whole bridge rests on a claim I cannot source — that 'tagliare i ponti' carries more finality than 'cortar los lazos'. If a native does not feel that difference, the entry has no bridge and should be retired to Unmatched rather than shipped as a twin.
+- ⚑ **QUESTION:** (context: If a native does not feel that difference, the entry has no bridge and should be retired to Unmatched rather than shipped as a twin.) is the plural 'los lazos' the usual form, or is 'cortar lazos' without the article more common in MX?  the whole bridge rests on a claim I cannot source — that 'tagliare i ponti' carries more finality than 'cortar los lazos'. If a native does not feel that difference, the entry has no bridge and should be retired to Unmatched rather than shipped as a twin.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 

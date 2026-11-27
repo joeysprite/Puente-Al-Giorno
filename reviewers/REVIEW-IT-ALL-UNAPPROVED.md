@@ -56,7 +56,7 @@ Do not edit above the boxes, these files are generated.
 - **example:** Durante la novena di Natale, gli zampognari suonano davanti al presepe.
   — *During the Christmas novena, the bagpipers play in front of the nativity scene.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** confirm register — 'novena' may read slightly more formal/devotional than the colloquial energy of 'pedir posada,' and confirm whether zampognari is still the fairest example to lead with or whether it undersells how the tradition is actually experienced today, especially outside the South. PLACEMENT: pinWindow 12-16 to 12-24, same mechanism as 0077 (no year-boundary crossing, so the 0291 bug does not apply here). Because 0292 already holds a hard pin on 12-24 and 0290 on 12-25, the scheduler will place this somewhere in 12-16..12-23 in practice, not necessarily on the 24th — worth knowing, not a defect.
+- ⚑ **QUESTION:** confirm register — 'novena' may read slightly more formal/devotional than the colloquial energy of 'pedir posada,' and confirm whether zampognari is still the fairest example to lead with or whether it undersells how the tradition is actually experienced today, especially outside the South.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -78,7 +78,7 @@ Do not edit above the boxes, these files are generated.
 - **example:** Chiudiamo fino al 7. Buone feste!
   — *We're closed until the 7th. Happy holidays!*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** confirm that 'buona festa' really does read as a single-occasion wish rather than as a seasonal greeting; the whole es_to_it note rests on it. PINWINDOW crosses the year boundary (12-20 to 01-06) — the scheduler should be checked against that, since a from-date later than the to-date may not be handled. Flagging as a possible tooling issue, not an entry problem. If it breaks, the window may need splitting into 12-20/12-31 and 01-01/01-06. PLACEMENT: drafted first with BOTH a pin and an events link; the validator rejects that combination — one placement mechanism only. Kept the pin/pinWindow and dropped the event link, because Christmas is a fixed annual date and needs no computation, where the events registry earns its keep on computed or irregular dates like Easter and the World Cup. The `navidad_natale` event added to events.json this session therefore has no entry pointing at it yet; it is still worth keeping for the Pascua/Pasqua scope warning recorded in its note, but Joe may prefer to drive these three from the event instead of pins, in which case the pins come out and the event links go back.
+- ⚑ **QUESTION:** confirm that 'buona festa' really does read as a single-occasion wish rather than as a seasonal greeting; the whole es_to_it note rests on it. PINWINDOW crosses the year boundary (12-20 to 01-06) — the scheduler should be checked against that, since a from-date later than the to-date may not be handled. Flagging as a possible tooling issue, not an entry problem. If it breaks, the window may need splitting into 12-20/12-31 and 01-01/01-06.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -89,6 +89,7 @@ Do not edit above the boxes, these files are generated.
 - **example:** La cena della vigilia di Natale è a casa di mia zia.
   — *Christmas Eve dinner is at my aunt's.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
+- ⚑ **QUESTION:** (context: The greeting form would be 'Feliz Nochebuena' / 'Buona vigilia', which I did NOT use because 'buona vigilia' is not a natural Italian greeting as far as I can tell —) confirm.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -159,7 +160,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Non fare lo gnorri, sai benissimo di cosa parlo.
   — *Don't play innocent, you know exactly what I mean.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** is fare lo gnorri current, or does it read as slightly older-generation? Treccani's own magazine piece treats it as living, but it is the one thing I cannot judge.
+- ⚑ **QUESTION:** (context: (3) Register set colloquial + avoid_in_exam — confirm.) is fare lo gnorri current, or does it read as slightly older-generation? Treccani's own magazine piece treats it as living, but it is the one thing I cannot judge.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -170,7 +171,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Ultimamente sono stato molto occupato.
   — *I've been really busy lately.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** does 'ultimamente' carry any register weight relative to 'recentemente' or 'negli ultimi tempi' — is it the neutral everyday choice, or does it skew slightly more casual/spoken?
+- ⚑ **QUESTION:** (context: I could only find one formal/ceremonial-register example.) does 'ultimamente' carry any register weight relative to 'recentemente' or 'negli ultimi tempi' — is it the neutral everyday choice, or does it skew slightly more casual/spoken?
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -181,7 +182,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Quando ha saputo di essere stata presa, era al settimo cielo.
   — *When she heard she'd got in, she was over the moon.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** is 'nel settimo cielo' ever heard, or is 'al' genuinely the only form? The whole bridge rests on that being fixed.
+- ⚑ **QUESTION:** (context: Treccani's `cielo` entry lists 'essere al settimo cielo' under sense 3, the Ptolemaic/Dantean celestial spheres.) is 'nel settimo cielo' ever heard, or is 'al' genuinely the only form? The whole bridge rests on that being fixed.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -203,7 +204,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Passo al volo in farmacia e ti raggiungo.
   — *I'll nip into the pharmacy and catch you up.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** register set colloquial/neutral on the IT side — does 'al volo' carry any informality, or is it neutral enough for an exam?
+- ⚑ **QUESTION:** (context: That single question decides whether this entry survives.) register set colloquial/neutral on the IT side — does 'al volo' carry any informality, or is it neutral enough for an exam?
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -214,7 +215,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Non sta più nella pelle: parte per il Giappone domani.
   — *She can't sit still — she leaves for Japan tomorrow.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** is the 'più' obligatory? I have written the interference note as though it is.
+- ⚑ **QUESTION:** (context: (2) Does 'no caber en sí' need the de + emotion tail to sound complete, or does it stand bare?) is the 'più' obligatory? I have written the interference note as though it is.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -225,7 +226,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** In trattativa è un osso duro: non concede niente.
   — *He's tough in a negotiation — gives away nothing.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** confirm 'osso duro da rodere' really is non-idiomatic — I have asserted it and cannot verify from sources.
+- ⚑ **QUESTION:** (context: (2) Is the teacher/subject sense of 'hueso' current in MX or Peninsular-only?) confirm 'osso duro da rodere' really is non-idiomatic — I have asserted it and cannot verify from sources.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -236,7 +237,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Quando il professore ha letto il suo tema ad alta voce, è diventata rossa come un peperone.
   — *When the teacher read her essay out loud, she went bright red.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** is 'rosso come un pomodoro' ever heard, or is peperone categorical? The whole first interference note depends on peperone being the only fixed form.
+- ⚑ **QUESTION:** (context: That would be a genuine regional split worth recording.) is 'rosso come un pomodoro' ever heard, or is peperone categorical? The whole first interference note depends on peperone being the only fixed form.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -247,7 +248,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Sul molo tirava un vento del diavolo e nessuno riusciva a tenere l'ombrello aperto.
   — *There was a howling wind on the pier and nobody could keep an umbrella up.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** is 'un vento del diavolo' actually idiomatic, or is the more natural form 'un vento della malora' / 'un ventaccio'? This is the one thing that would sink the entry.
+- ⚑ **QUESTION:** (context: Both dictionaries should carry the intensifier frame under `demonio` / `diavolo` respectively, but confirm the specific wind collocation is attested rather than just the general pattern.) is 'un vento del diavolo' actually idiomatic, or is the more natural form 'un vento della malora' / 'un ventaccio'? This is the one thing that would sink the entry.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -258,7 +259,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Sia come sia, lunedì consegniamo.
   — *Be that as it may, we deliver on Monday.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** is 'sia come sia' concessive to your ear, and would it be wrong for 'we're finishing this no matter what'?
+- ⚑ **QUESTION:** (context: I could not confirm it from sources this session.) is 'sia come sia' concessive to your ear, and would it be wrong for 'we're finishing this no matter what'?
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -269,7 +270,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Il ragazzo nuovo è in gamba: in due settimane ha imparato tutto il reparto.
   — *The new lad is sharp — he learned the whole department in a fortnight.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** is the farewell use 'sta' in gamba' still live, or generational? It carries the second interference note.
+- ⚑ **QUESTION:** (context: (2) regions set to mx+es only, pending your call.) is the farewell use 'sta' in gamba' still live, or generational? It carries the second interference note.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -280,7 +281,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** È bravissima, ma ha una puzza sotto il naso che allontana tutti.
   — *She's very good at the job, but she's so stuck-up that people keep their distance.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** does 'puzza sotto il naso' ever describe simple vanity, or is it always directed at others?
+- ⚑ **QUESTION:** (context: (2) Is this current or does it read as dated slang?) does 'puzza sotto il naso' ever describe simple vanity, or is it always directed at others?
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -291,7 +292,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Comunque sia, la decisione è già stata presa.
   — *In any case, the decision has already been made.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** register set standard/ok_in_exam against the Spanish colloquial/neutral — confirm comunque sia really is exam-safe.
+- ⚑ **QUESTION:** (context: The whole first interference note depends on both being current.) register set standard/ok_in_exam against the Spanish colloquial/neutral — confirm comunque sia really is exam-safe.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -324,7 +325,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Hai dato le dimissioni? Sul serio?
   — *You resigned? Seriously?*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** is bare 'sul serio?' as a standalone question as natural as 'davvero?' or does davvero dominate? If davvero is the default reaction word, the ES anchor may be better paired with davvero and this entry rewritten around the adverbial use instead.
+- ⚑ **QUESTION:** (context: The bank caps easy-only entries at 33%, but this one carries preposition_differs (a high-value tag), so it counts toward the floor rather than the ceiling — flagging in case that feels like gaming the metric.) is bare 'sul serio?' as a standalone question as natural as 'davvero?' or does davvero dominate? If davvero is the default reaction word, the ES anchor may be better paired with davvero and this entry rewritten around the adverbial use instead.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -335,7 +336,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** In aula si sarebbe sentito volare una mosca.
   — *You could have heard a pin drop in that lecture hall.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** this is the question that decides the entry. Also confirm the citation form: I have used the bare infinitive phrase as `it.text` since the idiom only ever appears inside a frame; if the entry should instead cite the full conditional, say so. FOURTH mosca/fly entry in the bank or queue (cf. 0084, 0085) — check saturation before scheduling.
+- ⚑ **QUESTION:** (context: If Italian also commonly takes the negative — 'non si sentiva volare una mosca' — then the central contrast collapses and this becomes a near-twin with only the volare/vuelo word-class difference left.) this is the question that decides the entry. Also confirm the citation form: I have used the bare infinitive phrase as `it.text` since the idiom only ever appears inside a frame; if the entry should instead cite the full conditional, say so. FOURTH mosca/fly entry in the bank or queue (cf. 0084, 0085) — check saturation before scheduling.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -357,7 +358,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Scusa, sono di corsa: ne parliamo domani?
   — *Sorry, I'm in a rush — can we talk tomorrow?*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** please confirm or correct; if both are freely interchangeable, that note should be cut and the auxiliary_trap tag removed with it.
+- ⚑ **QUESTION:** (context: THE ESSERE/VADO DISTINCTION IN THE FIRST INTERFERENCE NOTE IS MINE AND UNVERIFIED — I claim 'sono di corsa' is the state and 'vado di corsa' is narrower.) please confirm or correct; if both are freely interchangeable, that note should be cut and the auxiliary_trap tag removed with it.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -368,7 +369,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Esco un attimo a prendere una boccata d'aria.
   — *I'm popping out for a breath of fresh air.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** confirm; the second half of the bridge and the it_to_es note both rest on it.
+- ⚑ **QUESTION:** (context: THE DRIFT CLAIM IS UNVERIFIED — I state that Italian's phrase is about the errand more than the breath.) confirm; the second half of the bridge and the it_to_es note both rest on it.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -390,7 +391,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Gli hanno offerto il posto e vede già il bicchiere mezzo vuoto per via del trasferimento.
   — *They offered him the job and he's already seeing the glass half empty because of the move.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** confirm or cut. See the cluster saturation warning on 0265: three drafted entries now share drinking-glass vocabulary.
+- ⚑ **QUESTION:** (context: THE vuoto/vacuo NOTE IS MINE AND UNVERIFIED — I claim Italian 'vacuo' exists but is abstract-only.) confirm or cut. See the cluster saturation warning on 0265: three drafted entries now share drinking-glass vocabulary.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -412,7 +413,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Hanno riempito il festival di sponsor e ucciso la gallina dalle uova d'oro.
   — *They packed the festival with sponsors and killed the golden goose.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** is 'dalle uova d'oro' the standard form, or is 'dalle uova d'oro' competing with 'dalle uova d'oro' variants such as 'che faceva le uova d'oro'? The preposition claim carries the entry's high-value tag, so it needs to be right.
+- ⚑ **QUESTION:** (context: Candidate row came from spanishexpress.co.uk, a Peninsular-focused tier-C source; the phrase is unremarkable and pan-Hispanic, but ES REVIEWER should confirm MX currency and whether 'matar' or 'sacrificar' is more usual.) is 'dalle uova d'oro' the standard form, or is 'dalle uova d'oro' competing with 'dalle uova d'oro' variants such as 'che faceva le uova d'oro'? The preposition claim carries the entry's high-value tag, so it needs to be right.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -434,7 +435,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Trovare quel file senza la data è come cercare un ago nel pagliaio.
   — *Finding that file without the date is like looking for a needle in a haystack.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** is 'in un pagliaio' genuinely never heard, or is it a tolerated variant? The entry has nothing left if it is tolerated.
+- ⚑ **QUESTION:** (context: If the bank needs to shed easy entries to stay under the 33% easy-only ceiling, this is a candidate to cut before the others.) is 'in un pagliaio' genuinely never heard, or is it a tolerated variant? The entry has nothing left if it is tolerated.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -445,7 +446,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Quella scena comica è il suo cavallo di battaglia da vent'anni.
   — *That comic bit has been his signature routine for twenty years.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** can 'cavallo di battaglia' ever name the contested point in an argument?
+- ⚑ **QUESTION:** (context: VERIFY BOTH DICTIONARY ENTRIES DIRECTLY before approval; if Italian turns out to have the dispute sense too, this is a plain twin and the false_friend tag is wrong.) can 'cavallo di battaglia' ever name the contested point in an argument?
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -456,7 +457,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Con lui bisogna camminare sulle uova: qualsiasi cosa dici la prende male.
   — *You have to tread carefully with him — he takes everything the wrong way.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** can 'camminare sulle uova' ever mean slowly?
+- ⚑ **QUESTION:** (context: I have listed both senses in es.meaning on the assumption of both; if it is slowness only, the entry has no bridge.) can 'camminare sulle uova' ever mean slowly?
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -478,7 +479,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Ha il cuore in mano: se gli chiedi aiuto, arriva prima che tu finisca la frase.
   — *He'd give you the shirt off his back — ask him for help and he's there before you finish the sentence.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** does your side carry the other's sense at all? If Italian 'col cuore in mano' can introduce a frank statement, or Spanish 'con el corazón en la mano' can describe a generous person, the divergence is softer than drafted and the false_friend tag is wrong. NOTE THE ASYMMETRIC CITATION FORMS: es.text is the speaking phrase (hablar con...), it.text is the having phrase (avere il cuore in mano), because that is how each language most naturally uses it. If reviewers prefer symmetric forms, use 'parlare col cuore in mano' — but confirm it is idiomatic first, since it may be a construction I built rather than one Italians say.
+- ⚑ **QUESTION:** (context: I have drafted ES=frankness against IT=generosity on the strength of the original candidate note plus my own reading, with no dictionary confirmation of either boundary.) does your side carry the other's sense at all? If Italian 'col cuore in mano' can introduce a frank statement, or Spanish 'con el corazón en la mano' can describe a generous person, the divergence is softer than drafted and the false_friend tag is wrong.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -489,7 +490,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Adesso sembra impossibile, ma il tempo guarisce tutte le ferite.
   — *It feels impossible now, but time heals all wounds.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** is 'il tempo guarisce tutte le ferite' the standard Italian form, or is it itself a calque of the English 'time heals all wounds'? If it is a recent English import the bridge's framing changes substantially — cf. 0281, where that exact problem is the entry's subject.
+- ⚑ **QUESTION:** (context: THE REDUNDANT-LO CLAIM IS THE ENTRY'S HIGH-VALUE CONTENT and I am fairly confident of it as grammar, but ES REVIEWER should confirm that 'el tiempo cura todo' without the lo genuinely sounds incomplete rather than merely less common.) is 'il tempo guarisce tutte le ferite' the standard Italian form, or is it itself a calque of the English 'time heals all wounds'? If it is a recent English import the bridge's framing changes substantially — cf. 0281, where that exact problem is the entry's subject.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -511,7 +512,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** —Io ho preso il pesce. —Idem.
   — *—I had the fish. —Same.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** same for Italian, and confirm the source card's framing that 'idem' is the natural spoken upgrade over 'anche io'. DIFFICULTY SET TO 1 and the entry's only trap is an accent mark — this is close to the floor of what earns a bank slot, and if the register question resolves as 'they match', consider whether it is worth shipping at all.
+- ⚑ **QUESTION:** (context: ES REVIEWER, this is the deciding question: would you actually say 'ídem' out loud in conversation in MX, or does it belong to writing and to jokes?) same for Italian, and confirm the source card's framing that 'idem' is the natural spoken upgrade over 'anche io'. DIFFICULTY SET TO 1 and the entry's only trap is an accent mark — this is close to the floor of what earns a bank slot, and if the register question resolves as 'they match', consider whether it is worth shipping at all.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -522,7 +523,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Ha fatto cadere il bicchiere un'altra volta. Non c'è due senza tre, vedrai.
   — *He's dropped the glass again. These things come in threes, you'll see.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** does the parallel read as illuminating or as a grammar lecture interrupting a proverb?
+- ⚑ **QUESTION:** (context: VERIFY BEFORE APPROVAL or soften the claim to describe the synchronic structure without the history.) does the parallel read as illuminating or as a grammar lecture interrupting a proverb?
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -533,7 +534,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Non insistere per una risposta; bisogna dare tempo al tempo.
   — *Don't push for an answer — you have to let it take its course.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** please advise which form should be the headword. If you say the infinitive is correct as the citation, this entry probably drops back to trap-free and should be treated like 0282.
+- ⚑ **QUESTION:** (context: Either the citation form should change to the imperative (which is how the phrase is usually heard) or the bridge is teaching something adjacent to the entry.) please advise which form should be the headword. If you say the infinitive is correct as the citation, this entry probably drops back to trap-free and should be treated like 0282.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -555,7 +556,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Ha avuto il posto ed è contento come una Pasqua da una settimana.
   — *He got the position and he's been over the moon for a week.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** is 'contento come una Pasqua' current, or does it read old-fashioned? SCHEMA NOTE: drafted first with both season:'spring' and events:easter; the validator rejects that combination because the event window already places the entry. Season removed, event kept.
+- ⚑ **QUESTION:** (context: Both are attested; I chose the shorter.) is 'contento come una Pasqua' current, or does it read old-fashioned?
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -566,7 +567,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Ho mandato la domanda. Che Dio ce la mandi buona.
   — *I've sent the application off. Here goes nothing.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** these are religious invocations used by secular speakers, which is normal in both languages, but confirm neither reads as devout rather than idiomatic — a subscriber saying this to an actually religious colleague should not land oddly. ALTERNATIVES CONSIDERED: secular options exist on both sides ('a ver qué pasa', 'allá voy' / 'vada come vada', 'speriamo bene') and would make a blander, safer pair with no bridge in it. If the reviewers judge the religious framing too strong, that is the fallback.
+- ⚑ **QUESTION:** these are religious invocations used by secular speakers, which is normal in both languages, but confirm neither reads as devout rather than idiomatic — a subscriber saying this to an actually religious colleague should not land oddly.
 - *(source being replaced on my side — your review still stands)*
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
@@ -590,7 +591,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Smetti di controllare il forno ogni due minuti: la pentola guardata non bolle mai.
   — *Stop checking the oven every two minutes — a watched pot never boils.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** is the Sicilian derivation accepted, or folk etymology? If uncertain, the clause should be cut rather than softened. ALSO  is this proverb actually current in standard Italian, or does it read as a regionalism or as a translation of the English? That is the question that decides the entry. SECOND SEED IN THE SAME REQUEST — 'boil the ocean' — was NOT drafted: see the note added to CANDIDATES.md.
+- ⚑ **QUESTION:** (context: THE SICILIAN ORIGIN IS STATED AS FACT IN THE BRIDGE AND IS SOURCED ONLY TO PROVERB SITES — several independently trace the standard Italian to 'A pignata taliata un vugghi mai', but that is not a dictionary-grade claim.) is the Sicilian derivation accepted, or folk etymology? If uncertain, the clause should be cut rather than softened.  is this proverb actually current in standard Italian, or does it read as a regionalism or as a translation of the English? That is the question that decides the entry. SECOND SEED IN THE SAME REQUEST — 'boil the ocean' — was NOT drafted: see the note added to CANDIDATES.md.
 - *(source being replaced on my side — your review still stands)*
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
@@ -602,7 +603,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** È arrivato in infradito ed era l'investitore principale: l'abito non fa il monaco.
   — *He turned up in flip-flops and he was the lead investor — you can't judge by appearances.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** 'S OWN ACCOUNT, so tier A on the Italian side: he is teaching these himself, which is the strongest non-dictionary evidence of currency. That does NOT extend to the Spanish sides or the bridges below, which are Claude's.  confirm abito really cannot mean a custom in modern Italian (it may survive in literary or archaic use, in which case the note needs softening).
+- ⚑ **QUESTION:** 'S OWN ACCOUNT, so tier A on the Italian side: he is teaching these himself, which is the strongest non-dictionary evidence of currency. That does NOT extend to the Spanish sides or the bridges below, which are Claude's.  (context: The hábito/abito polysemy is the entry's content;) confirm abito really cannot mean a custom in modern Italian (it may survive in literary or archaic use, in which case the note needs softening).
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -646,7 +647,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Ha passato due anni a mettere le squadre una contro l'altra e adesso non gli risponde nessuno: chi semina vento raccoglie tempesta.
   — *He spent two years setting the teams against each other and now nobody answers him — you reap what you sow.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** 'S OWN ACCOUNT, so tier A on the Italian side: he is teaching these himself, which is the strongest non-dictionary evidence of currency. That does NOT extend to the Spanish sides or the bridges below, which are Claude's.  is the number genuinely fixed on your side, or do variants circulate? If both languages tolerate both numbers, there is no trap here and this is a plain twin. Shared biblical origin (Hosea 8:7) is stated in the bridge as fact and is well known, but is not sourced in the entry. ES citation is another bare Refranero root URL.
+- ⚑ **QUESTION:** 'S OWN ACCOUNT, so tier A on the Italian side: he is teaching these himself, which is the strongest non-dictionary evidence of currency. That does NOT extend to the Spanish sides or the bridges below, which are Claude's.  (context: THE SINGULAR/PLURAL CONTRAST IS THE ENTRY and it is the kind of claim a corpus would settle quickly —) is the number genuinely fixed on your side, or do variants circulate? If both languages tolerate both numbers, there is no trap here and this is a plain twin. Shared biblical origin (Hosea 8:7) is stated in the bridge as fact and is well known, but is not sourced in the entry. ES citation is another bare Refranero root
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -668,7 +669,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Sono usciti dal cinema mano nella mano, senza dire niente.
   — *They came out of the cinema hand in hand, saying nothing.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** is 'mano a mano' (without the initial a, and without che) ever used in Italian for a confrontation, under English influence? If so the trap softens and the note needs qualifying. Drafted by Claude 2026-08-01 from a 19-item binomial set by @ines.tutoring  . Carries no reviewer weight.
+- ⚑ **QUESTION:** (context: ES side: 'mano a mano' as a one-on-one contest is well established and the bullfighting origin is widely repeated — VERIFY the origin claim before it ships, since it is stated in the bridge as fact.) is 'mano a mano' (without the initial a, and without che) ever used in Italian for a confrontation, under English influence? If so the trap softens and the note needs qualifying. Drafted by Claude 2026-08-01 from a 19-item binomial set by @ines.tutoring  . Carries no reviewer weight.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -690,7 +691,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Prima o poi si saprà chi ha fatto uscire il documento.
   — *Sooner or later it'll come out who leaked the document.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** is 'prima o poi' genuinely fixed in that order, or does 'poi o prima' ever occur? Drafted by Claude 2026-08-01 from a 19-item binomial set by @ines.tutoring  . Carries no reviewer weight.
+- ⚑ **QUESTION:** (context: The whole it_to_es note depends on it.) is 'prima o poi' genuinely fixed in that order, or does 'poi o prima' ever occur? Drafted by Claude 2026-08-01 from a 19-item binomial set by @ines.tutoring  . Carries no reviewer weight.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -723,7 +724,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Non offre mai niente: ha il braccino corto.
   — *He never gets a round in — his arms don't reach his pockets.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** confirm the diminutive is obligatory — the whole second half of the bridge rests on braccino rather than braccio being the fixed form. Drafted by Claude 2026-08-14 from a @learnandloveitalian basic-vs-idiom carousel
+- ⚑ **QUESTION:** (context: These two are natural opposites and should not be scheduled near each other.) confirm the diminutive is obligatory — the whole second half of the bridge rests on braccino rather than braccio being the fixed form. Drafted by Claude 2026-08-14 from a @learnandloveitalian basic-vs-idiom carousel
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -734,7 +735,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** I bambini aspettano la Befana con la calza appesa al camino.
   — *The children wait for la Befana with their stocking hung by the fireplace.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** confirm 'la Befana' register — Treccani marks it as the standard popular name, not dialectal, but wants a native check — and confirm whether asking about 'i Re Magi' on Jan 6 genuinely reads as a miss in practice; the interference claim is my inference from the dictionary entries, not attested usage. PLACEMENT: pin (month 1, day 6), matching the convention set by 0100/0290/0292 rather than driving it off the 'reyes' key already sitting unused in events.json — same open question left on those three: Joe may prefer moving this whole greetings batch onto events instead of pins.
+- ⚑ **QUESTION:** confirm 'la Befana' register — Treccani marks it as the standard popular name, not dialectal, but wants a native check — and confirm whether asking about 'i Re Magi' on Jan 6 genuinely reads as a miss in practice; the interference claim is my inference from the dictionary entries, not attested usage.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -746,7 +747,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
   — *On January 6th, the procession of the Magi crosses central Milan on its way to Sant'Eustorgio.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
 - ⚑ **REGION:** Specific to Milan. Most Italian cities have no equivalent Epiphany procession — unlike la cabalgata in Spain and Mexico, this is not a nationwide custom.
-- ⚑ **QUESTION:** confirm the Milan-only claim holds — I looked for a comparable event elsewhere in Italy and found none, but this wants a native check, not just a search result. PLACEMENT: pinWindow 01-05..01-06 rather than a hard pin on either date, since the two halves of the pairing actually fall on different days (cabalgata = evening of the 5th, corteo = the 6th itself). Because 0312 already holds a hard pin on 01-06, expect the scheduler to resolve this one to the 5th in practice — deliberate, not a bug.
+- ⚑ **QUESTION:** confirm the Milan-only claim holds — I looked for a comparable event elsewhere in Italy and found none, but this wants a native check, not just a search result.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -757,7 +758,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Si è rotta la macchina e adesso comincia a piovere. Ci mancava solo questa.
   — *The car's broken down and now it's starting to rain. That's all I needed.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** that is the question: IT — is 'mancava solo questa' without the ci genuinely flat, or just less common? ES — does adding the pronoun ('lo que me faltaba') change the register or only the intensity? If the contrast does not hold, this drops to a near-twin with only the solo/nothing difference left.
+- ⚑ **QUESTION:** (context: THE ci/BARE CONTRAST IS THE ENTRY and it is my own reading — I claim Italian's ci makes the sarcasm and Spanish's bare form carries it without one.) that is the question: IT — is 'mancava solo questa' without the ci genuinely flat, or just less common? ES — does adding the pronoun ('lo que me faltaba') change the register or only the intensity? If the contrast does not hold, this drops to a near-twin with only the solo/nothing difference left.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -768,7 +769,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Gli hanno cambiato la batteria e adesso la macchina va come un treno.
   — *They put a new battery in and now the car flies.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** please confirm or correct, and if (b) holds, flag whether the ES form is 'estar como un tren' (Peninsular) and whether it is current in MX at all — the entry may need a different ES anchor for a Mexican audience.
+- ⚑ **QUESTION:** (context: If (b) is right it is a genuine false friend and the entry should probably be rebuilt around it rather than around speed — 'como un tren' meaning attractive in Spanish while 'come un treno' means fast in Italian is a sharper trap than the tiro/treno imagery split.) please confirm or correct, and if (b) holds, flag whether the ES form is 'estar como un tren' (Peninsular) and whether it is current in MX at all — the entry may need a different ES anchor for a Mexican audience.
 - *(source being replaced on my side — your review still stands)*
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
@@ -780,7 +781,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Bastò una telefonata per scoprire gli altarini di tutta la famiglia.
   — *One phone call was enough to bring the whole family's secrets out.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** (a) confirm 'scoprire gli altarini' is still in use and not dated; (b) confirm the gloss 'a hidden habit rather than a hidden plan' is a real distinction and not something I have invented to make the bridge work. ⚑ SATURATION: Spanish has at least three expressions for revealing a secret — 'descubrir el pastel', 'irse de la lengua' and 'tirar de la manta' (both queued). Only one should be banked.
+- ⚑ **QUESTION:** (a) confirm 'scoprire gli altarini' is still in use and not dated; (b) confirm the gloss 'a hidden habit rather than a hidden plan' is a real distinction and not something I have invented to make the bridge work. ⚑
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -791,7 +792,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Quella casa ha un certo non so che che le altre non hanno.
   — *That house has a certain something the others don't.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** if there is a better headword, say which.  (a) is 'un certo non so che' still natural or does it read as mannered? (b) ⚑ I CLAIM IT CAN DESCRIBE OBJECTS AND PLACES AS WELL AS PEOPLE, and my example uses a house — if it is only used of people, the example must change and the ES side may not match, since 'tener ángel' is person-only as far as I know.
+- ⚑ **QUESTION:** (context: SOURCES NOT HUMAN-VERIFIED; the Italian citation points at Treccani's 'sapere' entry, which carries the 'non so che' sub-sense —) if there is a better headword, say which.  (a) is 'un certo non so che' still natural or does it read as mannered? (b) ⚑ I CLAIM IT CAN DESCRIBE OBJECTS AND PLACES AS WELL AS PEOPLE, and my example uses a house — if it is only used of people, the example must change and the ES side may not match, since 'tener ángel' is person-only as far as I know.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -824,7 +825,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Se ne stava zitta da mesi, poi gliene ha dette quattro.
   — *She'd kept quiet for months, then she really let him have it.*
 - **register:** colloquial · **exam:** neutral · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** confirm the clitic placement in my example ('gliene ha dette quattro') and the agreement on 'dette'.  THE BRIDGE RESTS ON ONE CLAIM THAT IS MINE — that the Italian ellipsis (dirne quattro, noun omitted) lands harder than the Spanish naming of 'verdades'. It is a reading, not a fact, and if natives do not feel it the entry needs a different bridge or no entry.
+- ⚑ **QUESTION:** (context: It is a reading, not a fact, and if natives do not feel it the entry needs a different bridge or no entry.) confirm the clitic placement in my example ('gliene ha dette quattro') and the agreement on 'dette'.  THE BRIDGE RESTS ON ONE CLAIM THAT IS MINE — that the Italian ellipsis (dirne quattro, noun omitted) lands harder than the Spanish naming of 'verdades'. It is a reading, not a fact, and if natives do not feel it the entry needs a different bridge or no entry.
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
@@ -835,7 +836,7 @@ Each of these has a QUESTION line. They are the entries where your answer change
 - **example:** Mi manchi, torna presto.
   — *I miss you — come back soon.*
 - **register:** standard · **exam:** ok_in_exam · **regions:** it · **status:** needs_review
-- ⚑ **QUESTION:** (a) confirm 'mi manchi' is neutral enough for ok_in_exam and not only romantic — I have assumed it works for family and friends too; (b) confirm 'ti manco' really is the error a Spanish speaker makes rather than something no one would say. ⚑ NOT PINNED: the source was a Valentine's calendar, but this works year-round and the 02-12/02-14 window is already taken. Left unpinned deliberately.
+- ⚑ **QUESTION:** (a) confirm 'mi manchi' is neutral enough for ok_in_exam and not only romantic — I have assumed it works for family and friends too; (b) confirm 'ti manco' really is the error a Spanish speaker makes rather than something no one would say. ⚑
 
 > reviewer: [ ] expression is natural  [ ] meaning accurate  [ ] example natural  [ ] register/regions right
 
