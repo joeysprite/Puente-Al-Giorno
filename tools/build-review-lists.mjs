@@ -40,6 +40,18 @@ const READY = process.argv.includes("--ready");
 // no unanswered question, so the reviewer needs nothing from the editor first.
 // This is the packet that can go out without a covering question sheet.
 const CLEAN = process.argv.includes("--clean");
+// --ids 0326,0327,…: an explicit cohort, in the order given. For a deadline-
+// driven packet, where what matters is not how clean an entry is but that a
+// dated slot is waiting on it. Overrides the triage bands.
+const IDS = (() => {
+  const i = process.argv.indexOf("--ids");
+  return i === -1 ? null : (process.argv[i + 1] ?? "").split(",").map((x) => x.trim()).filter(Boolean);
+})();
+// --label "…": heading for an --ids packet, so the reviewer knows why these.
+const LABEL = (() => {
+  const i = process.argv.indexOf("--label");
+  return i === -1 ? null : process.argv[i + 1] ?? null;
+})();
 
 const bank = readdirSync(join(ROOT, "bank"))
   .filter((f) => f.endsWith(".json"))
@@ -104,6 +116,30 @@ function fileFor(lang) {
     );
     return lines.join("\n");
   };
+
+  if (IDS) {
+    const byId = new Map(bank.map((e) => [e.id, e]));
+    const picked = IDS.map((id) => byId.get(id)).filter(Boolean);
+    const missing = IDS.filter((id) => !byId.has(id));
+    if (missing.length) console.error(`  WARN --ids: no such entry: ${missing.join(", ")}`);
+    return { count: picked.length, text: `# ${L.name} review — ${LABEL ?? "selected entries"}
+
+**${picked.length} entries, in the order they are needed.** ${L.reviewerHint}
+
+Generated ${new Date().toISOString().slice(0, 10)}.
+
+### How to return this
+
+Tick the four boxes if an entry is fine. If one is not, write a line under it
+saying which part is wrong. Some entries carry a **REGION** line — that is a
+claim I am making, not a question for you to research: say whether it matches
+your experience. Do not edit above the boxes; this file is generated.
+
+---
+
+${picked.map(row).join("\n\n")}
+` };
+  }
 
   if (CLEAN) {
     return { count: clean.length, text: `# ${L.name} review — ${clean.length} entries, no open questions
@@ -171,7 +207,12 @@ ${retired.map((e) => `- ${e.id} — ${e[lang].text} · *${e.retiredReason ?? ""}
 mkdirSync(join(ROOT, "reviewers"), { recursive: true });
 let stale = [];
 for (const lang of ["es", "it"]) {
-  const path = join(ROOT, "reviewers", `REVIEW-${lang.toUpperCase()}${READY ? "-READY" : PENDING ? "-PENDING" : ""}${CLEAN ? "-CLEAN" : ""}${SIMPLE ? "-SIMPLE" : ""}.md`);
+  // An --ids packet is an ad-hoc cohort and must not land on the filename a
+  // standing mode owns, or it silently replaces that mode's output.
+  const slug = IDS
+    ? "-" + (LABEL ?? "ids").replace(/[^A-Za-z0-9]+/g, "-").replace(/^-|-$/g, "").toUpperCase().slice(0, 24)
+    : `${READY ? "-READY" : PENDING ? "-PENDING" : ""}${CLEAN ? "-CLEAN" : ""}${SIMPLE ? "-SIMPLE" : ""}`;
+  const path = join(ROOT, "reviewers", `REVIEW-${lang.toUpperCase()}${slug}.md`);
   const built = fileFor(lang);
   const next = built.text;
   const prev = existsSync(path) ? readFileSync(path, "utf8") : "";
