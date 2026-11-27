@@ -1,0 +1,80 @@
+{
+  "id": "0320",
+  "type": "idiom",
+  "cue": "How do you say a secret finally came out?",
+  "es": {
+    "text": "Descubrir el pastel",
+    "literal": "to uncover the cake",
+    "meaning": "To expose something that was being kept hidden; for a concealed plan or deception to come to light.",
+    "example": "Guardaron el secreto tres meses, hasta que su hermana descubrió el pastel.",
+    "exampleTranslation": "They kept the secret for three months, until his sister blew it open.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/pastel",
+        "headword": "pastel",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Scoprire gli altarini",
+    "literal": "to uncover the little altars",
+    "meaning": "To expose what someone has been keeping private; to bring a hidden habit or arrangement into the open.",
+    "example": "Bastò una telefonata per scoprire gli altarini di tutta la famiglia.",
+    "exampleTranslation": "One phone call was enough to bring the whole family's secrets out.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/altarino/",
+        "headword": "altarino",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages uncover something, and the verbs are cognates — descubrir and scoprire do the same work. What differs is what lies underneath. Spanish lifts a pastel: a thing baked shut, presented whole, with the filling hidden inside by design. The secret is an object someone constructed. Italian lifts the altarini, the small private shrines once kept out of sight in the house. There the secret is not an object but a practice — something a person did regularly and did not want seen. So the Spanish exposes a plan and the Italian exposes a habit.",
+    "tags": [
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The Spanish image does not travel: 'scoprire la torta' and 'scoprire il dolce' are not Italian and will be heard literally. The noun is fixed on the altars, and it is always plural.",
+      "it_to_es": "The Italian image does not travel either, and the trap is subtler: a Spanish speaker hearing 'altares' will reach for religion, since Spanish keeps altar in its church sense and has no domestic diminutive doing this work."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "themes": [
+    "secrecy",
+    "deception"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-11-24 from CANDIDATES.md row 9. ⚑ THE CANDIDATE ROW WAS WRONG AND HAS BEEN CORRECTED: it gave the Spanish as 'descubrir el polvorín', which did not verify in any Spanish source. The attested idiom is 'descubrir el pastel'. The 2026-10-11 audit ranked the polvorín form as its top Tier 1 row, so that ranking was built on an unverified expression. SOURCES NOT HUMAN-VERIFIED. ES REVIEWER: (a) confirm 'descubrir el pastel' is current in MX and not only Peninsular; (b) my example is my own invention — confirm it sounds natural. IT REVIEWER: (a) confirm 'scoprire gli altarini' is still in use and not dated; (b) confirm the gloss 'a hidden habit rather than a hidden plan' is a real distinction and not something I have invented to make the bridge work. ⚑ SATURATION: Spanish has at least three expressions for revealing a secret — 'descubrir el pastel', 'irse de la lengua' and 'tirar de la manta' (both queued). Only one should be banked."
+  },
+  "createdOn": "2026-11-24",
+  "retiredReason": null
+}

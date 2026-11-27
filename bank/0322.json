@@ -1,0 +1,80 @@
+{
+  "id": "0322",
+  "type": "idiom",
+  "cue": "How do you say someone cut a person out of their life for good?",
+  "es": {
+    "text": "Cortar los lazos",
+    "literal": "to cut the ties",
+    "meaning": "To end a relationship or connection deliberately and completely.",
+    "example": "Después de la discusión cortó los lazos con toda la familia.",
+    "exampleTranslation": "After the argument she cut all ties with the family.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/lazo",
+        "headword": "lazo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Tagliare i ponti",
+    "literal": "to cut the bridges",
+    "meaning": "To break off contact with someone completely, leaving no way back.",
+    "example": "Ha tagliato i ponti con i vecchi soci e non li ha più sentiti.",
+    "exampleTranslation": "He cut off contact with his old partners and never heard from them again.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/ponte/",
+        "headword": "ponte",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages cut, and both cut something that joined two people — but they choose objects that fail differently. A lazo is a tie, a knot, a ribbon: it binds two parties to each other, and cutting it releases them. A ponte is infrastructure: it does not bind anyone, it simply makes crossing possible, and cutting it leaves both banks exactly where they were, only unreachable. So the Spanish ends an attachment and the Italian removes the means of contact. That is why the Italian carries a finality the Spanish does not insist on — a tie can be retied, a bridge has to be rebuilt.",
+    "tags": [
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Tagliare i lacci' is not the Italian idiom and will sound like undoing shoelaces. The noun is fixed on the bridges, and it is plural.",
+      "it_to_es": "Spanish does have 'quemar las naves', but it is not the equivalent: burning the ships is about destroying your own retreat before a challenge, not about ending a relationship. An Italian reaching for it to mean 'tagliare i ponti' will be understood as describing commitment, not estrangement."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "themes": [
+    "relationships",
+    "endings"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-11-24 from CANDIDATES.md row 8. SOURCES NOT HUMAN-VERIFIED. ⚑ BOTH REVIEWERS: the whole bridge rests on a claim I cannot source — that 'tagliare i ponti' carries more finality than 'cortar los lazos'. If a native does not feel that difference, the entry has no bridge and should be retired to Unmatched rather than shipped as a twin. ES REVIEWER: is the plural 'los lazos' the usual form, or is 'cortar lazos' without the article more common in MX? IT REVIEWER: confirm 'tagliare i ponti' is neutral enough for ok_in_exam."
+  },
+  "createdOn": "2026-11-24",
+  "retiredReason": null
+}

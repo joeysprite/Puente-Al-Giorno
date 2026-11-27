@@ -1,0 +1,80 @@
+{
+  "id": "0324",
+  "type": "idiom",
+  "cue": "How do you say you gave someone a piece of your mind?",
+  "es": {
+    "text": "Decirle a alguien cuatro verdades",
+    "literal": "to tell someone four truths",
+    "meaning": "To tell someone frankly and angrily what you think of their behaviour.",
+    "example": "Se armó de valor y le dijo cuatro verdades delante de todos.",
+    "exampleTranslation": "She worked up the nerve and told him exactly what she thought, in front of everyone.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/verdad",
+        "headword": "verdad",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Dirne quattro a qualcuno",
+    "literal": "to say four of them to someone",
+    "meaning": "To tell someone off bluntly; to say what you have been holding back.",
+    "example": "Se ne stava zitta da mesi, poi gliene ha dette quattro.",
+    "exampleTranslation": "She'd kept quiet for months, then she really let him have it.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/quattro/",
+        "headword": "quattro",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both languages count to four, and the number means the same thing in each: not four of anything, but enough. The difference is what gets counted. Spanish names it — cuatro verdades, four truths — so the telling-off is framed as honesty, and the speaker is claiming to have been accurate rather than cruel. Italian refuses to name it. In dirne quattro the noun is gone, carried only by the particle ne, 'of them', and the listener fills the gap themselves. What Spanish justifies, Italian leaves to the imagination, which is the harsher of the two.",
+    "tags": [
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The trap is that the Spanish sentence is grammatical in Italian and still wrong: 'dire quattro verità' will be understood, but it is not the idiom and it loses the point, because naming the noun is exactly what the Italian avoids. The idiom needs the clitic ne and nothing after quattro.",
+      "it_to_es": "In reverse the noun has to be supplied: 'decirle cuatro' on its own is not Spanish, and a listener will wait for the rest of the sentence."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "themes": [
+    "confrontation",
+    "numbers"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-11-24 from CANDIDATES.md row 11. SOURCES NOT HUMAN-VERIFIED. ⚑ BOTH REVIEWERS: THE BRIDGE RESTS ON ONE CLAIM THAT IS MINE — that the Italian ellipsis (dirne quattro, noun omitted) lands harder than the Spanish naming of 'verdades'. It is a reading, not a fact, and if natives do not feel it the entry needs a different bridge or no entry. IT REVIEWER: confirm the clitic placement in my example ('gliene ha dette quattro') and the agreement on 'dette'. ES REVIEWER: is 'cuatro verdades' current in MX, and is 'decir las cuatro verdades' with the article also heard?"
+  },
+  "createdOn": "2026-11-24",
+  "retiredReason": null
+}

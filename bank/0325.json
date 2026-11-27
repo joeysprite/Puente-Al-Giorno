@@ -1,0 +1,79 @@
+{
+  "id": "0325",
+  "type": "collocation",
+  "cue": "How do you tell someone you miss them?",
+  "es": {
+    "text": "Te extraño",
+    "literal": "I miss you",
+    "meaning": "To feel the absence of someone; to wish they were here.",
+    "example": "Te extraño más de lo que esperaba.",
+    "exampleTranslation": "I miss you more than I expected to.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "mx",
+      "ar",
+      "co"
+    ],
+    "regionNote": "Spain prefers 'te echo de menos'; 'te extraño' is the Latin American form.",
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/extra%C3%B1ar",
+        "headword": "extrañar",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Mi manchi",
+    "literal": "you are lacking to me",
+    "meaning": "To feel the absence of someone; to wish they were here.",
+    "example": "Mi manchi, torna presto.",
+    "exampleTranslation": "I miss you — come back soon.",
+    "register": "standard",
+    "formality": "ok_in_exam",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/mancare/",
+        "headword": "mancare",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "The two languages put the subject in opposite places. In 'te extraño' the person doing the missing is the subject and the absent one is the object — the sentence is about the speaker's state. In 'mi manchi' it is the other way round: the absent person is the subject, the speaker is a dative, and the sentence reports something the other person is doing by not being there. Italian has only this construction for the idea. Spanish has both, and keeps the dative one in reserve: 'me haces falta' puts the absent person back in the subject slot, exactly as Italian does.",
+    "tags": [
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "The direct trap, and it reverses the meaning. A Spanish speaker mapping 'te extraño' word for word produces 'ti manco' — which is grammatical Italian and means 'you miss me'. The pronoun has to flip: the one who is absent takes the verb ending.",
+      "it_to_es": "Milder, because Spanish accepts the Italian shape: an Italian reaching for 'mi manchi' lands safely on 'me haces falta'. The risk is register rather than grammar — 'me haces falta' is weightier in Spanish than 'mi manchi' is in Italian, closer to needing someone than to missing them, so it can sound heavier than intended."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "themes": [
+    "affection",
+    "absence"
+  ],
+  "cefr": "A2",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-11-24 from the @learnandloveitalian Valentine's calendar (Tier A on the Italian side only). SOURCES NOT HUMAN-VERIFIED. ES REVIEWER: (a) confirm 'te extraño' is the MX default and my regionNote is right about Spain; (b) ⚑ I CLAIM 'me haces falta' IS HEAVIER THAN 'te extraño' — closer to 'I need you'. If that is wrong the it_to_es trap has no basis and should be set to null. IT REVIEWER: (a) confirm 'mi manchi' is neutral enough for ok_in_exam and not only romantic — I have assumed it works for family and friends too; (b) confirm 'ti manco' really is the error a Spanish speaker makes rather than something no one would say. ⚑ NOT PINNED: the source was a Valentine's calendar, but this works year-round and the 02-12/02-14 window is already taken. Left unpinned deliberately."
+  },
+  "createdOn": "2026-11-24",
+  "retiredReason": null
+}

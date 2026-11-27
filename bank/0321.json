@@ -1,0 +1,80 @@
+{
+  "id": "0321",
+  "type": "idiom",
+  "cue": "How do you say someone just has a certain something?",
+  "es": {
+    "text": "Tener ángel",
+    "literal": "to have an angel",
+    "meaning": "To have natural charm — a likeability that does not depend on looks and cannot be worked for.",
+    "example": "No es la más guapa del grupo, pero tiene un ángel que desarma.",
+    "exampleTranslation": "She isn't the best-looking of the group, but she has a charm that disarms you.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/%C3%A1ngel",
+        "headword": "ángel",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere un certo non so che",
+    "literal": "to have a certain I-don't-know-what",
+    "meaning": "To have an appealing quality the speaker cannot name or account for.",
+    "example": "Quella casa ha un certo non so che che le altre non hanno.",
+    "exampleTranslation": "That house has a certain something the others don't.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/sapere/",
+        "headword": "non so che",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Two languages reaching for the same ungraspable quality and taking opposite routes. Spanish names it and gives it a body: you have an ángel, a thing with a shape, which can be possessed and even quantified — un ángel, mucho ángel. Italian does the reverse and makes the not-knowing the whole expression: un certo non so che is a sentence pretending to be a noun, and its content is the speaker's own failure to say. One language supplies a word for the unnameable; the other turns the absence of a word into the compliment.",
+    "tags": [
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "'Avere un angelo' is real Italian but means a guardian angel, not charm — a Spanish speaker using it to praise someone will be heard as saying they are lucky or protected.",
+      "it_to_es": "The Italian frame does exist in Spanish as 'un no sé qué', so the reverse direction is safer. But it is the rarer of the two in Spanish, and 'tener ángel' is what a speaker would actually reach for."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "themes": [
+    "charm",
+    "character"
+  ],
+  "cefr": "B1",
+  "difficulty": 2,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-11-24 from CANDIDATES.md row 10. SOURCES NOT HUMAN-VERIFIED; the Italian citation points at Treccani's 'sapere' entry, which carries the 'non so che' sub-sense — IT REVIEWER: if there is a better headword, say which. ES REVIEWER: (a) is 'tener ángel' current in MX, or does it read Peninsular? (b) can it be quantified ('tiene mucho ángel') as I imply, or is that Spain only? IT REVIEWER: (a) is 'un certo non so che' still natural or does it read as mannered? (b) ⚑ I CLAIM IT CAN DESCRIBE OBJECTS AND PLACES AS WELL AS PEOPLE, and my example uses a house — if it is only used of people, the example must change and the ES side may not match, since 'tener ángel' is person-only as far as I know."
+  },
+  "createdOn": "2026-11-24",
+  "retiredReason": null
+}

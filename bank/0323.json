@@ -1,0 +1,80 @@
+{
+  "id": "0323",
+  "type": "idiom",
+  "cue": "How do you say someone is absolutely furious?",
+  "es": {
+    "text": "Echar chispas",
+    "literal": "to throw off sparks",
+    "meaning": "To be visibly, violently angry.",
+    "example": "Salió de la reunión echando chispas y no habló con nadie.",
+    "exampleTranslation": "He came out of the meeting furious and didn't speak to anyone.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "mx",
+      "es",
+      "ar",
+      "co"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "RAE (DLE)",
+        "url": "https://dle.rae.es/chispa",
+        "headword": "chispa",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "it": {
+    "text": "Avere un diavolo per capello",
+    "literal": "to have a devil per hair",
+    "meaning": "To be in a towering rage.",
+    "example": "Non chiedergli niente adesso: ha un diavolo per capello.",
+    "exampleTranslation": "Don't ask him anything right now — he's in a terrible mood.",
+    "register": "colloquial",
+    "formality": "neutral",
+    "regions": [
+      "it"
+    ],
+    "regionNote": null,
+    "sources": [
+      {
+        "authority": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/diavolo/",
+        "headword": "diavolo",
+        "verifiedOn": null,
+        "verifiedBy": null
+      }
+    ]
+  },
+  "bridge": {
+    "note": "Both describe rage at full strength and measure it in opposite directions. Spanish measures what comes off you: chispas fly outward, so the anger is visible to everyone in the room and the speaker is describing what they can see. Italian measures how thoroughly the anger has taken possession — one devil for every hair on your head, which is a way of saying there is no part of you left over. Spanish reports an emission; Italian reports a saturation. The Italian is also the only one of the two that says nothing about whether anyone else can tell.",
+    "tags": [
+      "interference_risk"
+    ],
+    "interference": {
+      "es_to_it": "Spanish has no per-unit construction for this and 'un diavolo per capello' has to be learned whole — the preposition is per, not a, and capello is singular even though the image is of every hair.",
+      "it_to_es": "'Buttare scintille' is not Spanish-to-Italian safe in reverse either: an Italian reaching for a literal rendering will not land on 'echar chispas', because Spanish fixes the verb on echar and no other verb of throwing works."
+    }
+  },
+  "pin": null,
+  "pinWindow": null,
+  "season": null,
+  "themes": [
+    "anger",
+    "body"
+  ],
+  "cefr": "B2",
+  "difficulty": 3,
+  "review": {
+    "status": "needs_review",
+    "esReviewer": null,
+    "itReviewer": null,
+    "reviewedOn": null,
+    "notes": "Drafted by Claude 2026-11-24 from CANDIDATES.md row 5 (Instagram set). The Italian side is TIER A — it came from the Italian reviewer's own teaching account — which supports its currency but is not a review of this pairing. SOURCES NOT HUMAN-VERIFIED. ES REVIEWER: (a) is 'echar chispas' current in MX? (b) ⚑ I HAVE CLAIMED IT IS ALWAYS VISIBLE ANGER — if it can also describe anger someone is hiding, the bridge's central contrast collapses. IT REVIEWER: (a) confirm the singular 'capello'; (b) confirm 'per' and not another preposition."
+  },
+  "createdOn": "2026-11-24",
+  "retiredReason": null
+}
